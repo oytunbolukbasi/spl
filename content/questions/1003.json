@@ -2,90 +2,2420 @@
   "unit": "1003",
   "_note": "Cevaplar domain (SPL mevzuatı) bilgisiyle doğrulandı; resmi cevap anahtarı çapraz kontrol için kullanıldı. Emin olunmayan (özellikle hesap/eşik) sorular verified:false ile tutuldu. source.page = 1003-notes.pdf PDF sayfası (basılı + 4 ofset).",
   "questions": [
-    { "id": "1003-3", "q": "Bedelli sermaye artırımlarında yeni pay alma hakkının kullanımına izahnamenin ilanından sonra en çok kaç gün içinde başlanması gerekir?",
-      "options": ["15 gün", "10 gün", "7 gün", "5 gün", "3 gün"], "answer": 0, "keyAnswer": "A",
+    {
+      "id": "1003-3",
+      "q": "Bedelli sermaye artırımlarında yeni pay alma hakkının kullanımına izahnamenin ilanından sonra en çok kaç gün içinde başlanması gerekir?",
+      "options": [
+        "15 gün",
+        "10 gün",
+        "7 gün",
+        "5 gün",
+        "3 gün"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Yeni pay alma (rüçhan) hakkının kullanımına izahnamenin ilanından itibaren en çok 15 gün içinde başlanır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 28, "section": "1.2.3 Sermaye Artırımları" }, "verified": true, "flag": null },
-    { "id": "1003-4", "q": "XYZ A.Ş. 120 milyon TL nominal değere sahiptir ve 2023 Ocak ayında sermaye artırımı yapmıştır. Payın birim fiyatı 2 TL'dir. Satışa hazır bekletilen pay miktarı ne kadardır?",
-      "options": ["122.000.000 TL", "120.000.000 TL", "30.000.000 TL", "240.000.000 TL", "60.000.000 TL"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Sermaye Artırımları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-4",
+      "q": "XYZ A.Ş. 120 milyon TL nominal değere sahiptir ve 2023 Ocak ayında sermaye artırımı yapmıştır. Payın birim fiyatı 2 TL'dir. Satışa hazır bekletilen pay miktarı ne kadardır?",
+      "options": [
+        "122.000.000 TL",
+        "120.000.000 TL",
+        "30.000.000 TL",
+        "240.000.000 TL",
+        "60.000.000 TL"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Nominalin %25'i satışa hazır bekletilir: 120.000.000 × %25 = 30.000.000 TL.",
-      "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": true, "flag": null },
-    { "id": "1003-7", "q": "Borsada nominal değerin altında işlem gören ortaklıkların bilanço açığının kapatılması amacıyla yaptıkları işlem nedir?",
-      "options": ["Sermaye azaltımı", "Sermaye arttırımı", "Ek Pay Satışı", "KİS İhracı", "Brüt Pay Satışı"], "answer": 0, "keyAnswer": "A",
-      "explanation": "Bilanço açığının (geçmiş yıl/dönem zararlarının) kapatılması sermaye azaltımı ile yapılır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.4 Sermaye Azaltımı" }, "verified": true, "flag": null },
-    { "id": "1003-10", "q": "Halka açık anonim ortaklıklarda bir ortağın “azınlık pay sahibi” grubunda tanımlanabilmesi için en az ne kadarlık bir paya sahip olması gerekir?",
-      "options": ["%1", "%5", "%10", "%15", "%20"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-10",
+      "q": "Halka açık anonim ortaklıklarda bir ortağın \"azınlık pay sahibi\" grubunda tanımlanabilmesi için en az ne kadarlık bir paya sahip olması gerekir?",
+      "options": [
+        "%1",
+        "%5",
+        "%10",
+        "%15",
+        "%20"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Halka açık ortaklıklarda azınlık pay sahibi için sermayenin en az %5'ine sahip olmak gerekir.",
-      "source": { "pdf": "1003-notes.pdf", "page": 46, "section": "1.2.7 Paylara İlişkin Ortak Hükümler" }, "verified": true, "flag": null },
-    { "id": "1003-13", "q": "Hangi ortaklıklar kurula başvuru esnasında arttırılacak sermayeyi temsil eden paylardan satılmayanlara ilişkin taahhütname vermek zorundadır?",
-      "options": ["Net Sermaye Sistemindeki Ortaklıklar", "Kayıtlı sermaye sistemindeki Ortaklıklar", "Esas sermaye sistemindeki Ortaklıklar", "Ana sermaye sistemindeki Ortaklıklar", "Brüt sermaye sistemindeki Ortaklıklar"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 46,
+        "section": "1.2.7 Paylara İlişkin Ortak Hükümler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-13",
+      "q": "Hangi ortaklıklar kurula başvuru esnasında arttırılacak sermayeyi temsil eden paylardan satılmayanlara ilişkin taahhütname vermek zorundadır?",
+      "options": [
+        "Net Sermaye Sistemindeki Ortaklıklar",
+        "Kayıtlı sermaye sistemindeki Ortaklıklar",
+        "Esas sermaye sistemindeki Ortaklıklar",
+        "Ana sermaye sistemindeki Ortaklıklar",
+        "Brüt sermaye sistemindeki Ortaklıklar"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Kayıtlı sermaye sistemindeki ortaklıklar, satılmayan paylara ilişkin satın alma taahhütnamesi vermek zorundadır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 28, "section": "1.2.3 Sermaye Artırımları" }, "verified": true, "flag": null },
-    { "id": "1003-15", "q": "Sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişiler için kullanılan ifade aşağıdakilerden hangisidir?",
-      "options": ["İhraççı", "İtfacı", "Halka Arz Eden", "Ortaklık", "Halka Açık Ortaklık"], "answer": 0, "keyAnswer": null,
-      "explanation": "Sermaye piyasası araçlarını ihraç eden veya ihraç etmek üzere Kurula başvuran gerçek/tüzel kişi “ihraççı”dır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 20, "section": "2.1.4 Sermaye Piyasası Aracı Olarak Borçlanma Araçları (Tanımlar)" }, "verified": true, "flag": "Not: bankanın cevap anahtarında farklı işaretlenmiş olabilir; doğru tanım İhraççı'dır." },
-    { "id": "1003-17", "q": "“Halka açık olmayan” anonim ortaklıklarda bir ortağın “azınlık pay sahibi” olarak tanımlanabilmesi için en az ne kadarlık bir paya sahip olması gerekir?",
-      "options": ["%1", "%5", "%10", "%15", "%20"], "answer": 2, "keyAnswer": null,
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Sermaye Artırımları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-17",
+      "q": "\"Halka açık olmayan\" anonim ortaklıklarda bir ortağın \"azınlık pay sahibi\" olarak tanımlanabilmesi için en az ne kadarlık bir paya sahip olması gerekir?",
+      "options": [
+        "%1",
+        "%5",
+        "%10",
+        "%15",
+        "%20"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
       "explanation": "Halka açık olmayan (kapalı) anonim ortaklıklarda azınlık, sermayenin en az %10'unu (onda birini) oluşturan paydır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 46, "section": "1.2.7 Paylara İlişkin Ortak Hükümler" }, "verified": true, "flag": null },
-    { "id": "1003-18", "q": "ABC ortaklığının halka arz edilen paylarının nominal değeri 3 TL ve borsadaki son 30 günlük ağırlıklı ortalama fiyatı 2,75 TL ise bu firma aşağıdaki pay değerlerinden hangisinden pay ihracı yapamaz?",
-      "options": ["2,73", "2,75", "2,97", "3,00", "3,25"], "answer": 0, "keyAnswer": null,
-      "explanation": "Borsada işlem gören firma, nominalin altında ancak son 30 günlük ağırlıklı ortalamanın (2,75) altında olmamak kaydıyla ihraç yapabilir. 2,73 bu ortalamanın altında olduğundan bu değerden ihraç yapamaz.",
-      "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": true, "flag": null },
-    { "id": "1003-19", "q": "Fiyat istikrarını sağlayacak işlemler konusunda aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["Fiyat istikrarını sağlayıcı işlemler en fazla 30 gün sürer", "Fiyat istikrarı sağlayıcı işlemlerde alınan payların mülkiyeti hesabına işlem yapılan tarafa aittir.", "Bu işlemler fiyatların düşmeyeceğinin garantisini verir", "İlgili fon ortaklık dışındaki kişiler tarafından sağlanacaksa herhangi bir limit yoktur.", "Kullanılacak olan fon halka arz gelirinden kullanılabilir ama buradan elde edilen gelirin %20'sinden fazla olamaz."], "answer": 2, "keyAnswer": null,
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 46,
+        "section": "1.2.7 Paylara İlişkin Ortak Hükümler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-18",
+      "q": "ABC ortaklığının halka arz edilen paylarının nominal değeri 3 TL ve borsadaki son 30 günlük ağırlıklı ortalama fiyatı 2,75 TL ise bu firma aşağıdaki pay değerlerinden hangisinden pay ihracı yapamaz?",
+      "options": [
+        "2,73",
+        "2,75",
+        "2,97",
+        "3,00",
+        "3,25"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Nominalin altında ancak son 30 günlük ağırlıklı ortalamanın (2,75) altında olmamak kaydıyla ihraç yapılabilir. 2,73 bu ortalamanın altında olduğundan bu değerden ihraç yapamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-19",
+      "q": "Fiyat istikrarını sağlayacak işlemler konusunda aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Fiyat istikrarını sağlayıcı işlemler en fazla 30 gün sürer",
+        "Fiyat istikrarı sağlayıcı işlemlerde alınan payların mülkiyeti hesabına işlem yapılan tarafa aittir.",
+        "Bu işlemler fiyatların düşmeyeceğinin garantisini verir",
+        "İlgili fon ortaklık dışındaki kişiler tarafından sağlanacaksa herhangi bir limit yoktur.",
+        "Kullanılacak olan fon halka arz gelirinden kullanılabilir ama buradan elde edilen gelirin %20'sinden fazla olamaz."
+      ],
+      "answer": 2,
+      "keyAnswer": null,
       "explanation": "Fiyat istikrarı işlemleri fiyatların düşmeyeceğine dair garanti vermez; bu ifade yanlıştır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": true, "flag": null },
-    { "id": "1003-21", "q": "Sahibine kar payı, tasfiye payı, rüçhan hakkı, oy hakkı gibi konularda ekstra bazı haklar tanıyan paylar aşağıdakilerden hangisidir?",
-      "options": ["Primli paylar", "İmtiyazlı paylar", "Rüçhan haklı paylar", "İntifa Payları", "Bedelli Paylar"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-21",
+      "q": "Sahibine kar payı, tasfiye payı, rüçhan hakkı, oy hakkı gibi konularda ekstra bazı haklar tanıyan paylar aşağıdakilerden hangisidir?",
+      "options": [
+        "Primli paylar",
+        "İmtiyazlı paylar",
+        "Rüçhan haklı paylar",
+        "İntifa Payları",
+        "Bedelli Paylar"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Sahibine ek/üstün haklar tanıyan paylar imtiyazlı paylardır.",
-      "source": { "pdf": "1003-notes.pdf", "page": 8, "section": "1.1.3 Pay Türleri" }, "verified": true, "flag": null },
-    { "id": "1003-22", "q": "Borsada işlem gören ortaklıkların halka arz edilecek paylarının satış fiyatının borsa fiyatından farklı veya nominal değerinden yüksek olması durumunda halka arzın başlayacağı tarihten en az üç gün önce KAP'ta ilan edilmesi zorunlu olan rapor aşağıdakilerden hangisidir?",
-      "options": ["Fiyat Tespit Raporu", "Değerlendirme Raporu", "Risk Bildirim Raporu", "Analiz Raporu", "Bilgi Raporu"], "answer": 0, "keyAnswer": "A",
-      "explanation": "Satış fiyatının belirlenmesine ilişkin, halka arzdan en az üç gün önce KAP'ta ilan edilen rapor Fiyat Tespit Raporu'dur.",
-      "source": { "pdf": "1003-notes.pdf", "page": 13, "section": "1.2.2 Halka Açılma" }, "verified": true, "flag": null },
-    { "id": "1003-23", "q": "Aşağıdaki ifadelerden hangisi “sermaye piyasası araçlarını ihraç eden, ihraç etmek için Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişiler” için kullanılır?",
-      "options": ["İhraç", "Halka arz", "İtfa", "İhraççı", "İtfa eden"], "answer": 3, "keyAnswer": "D",
-      "explanation": "Tanım “ihraççı”ya aittir.",
-      "source": { "pdf": "1003-notes.pdf", "page": 20, "section": "2.1.4 Tanımlar" }, "verified": true, "flag": null },
-
-    { "id": "1003-1", "q": "Payları ilk halka arzında fiyat tespit raporunu hazırlayan ve satışa aracılık eden aracı kurum tarafından 1 yılda 2 defa hazırlanması gereken ve halka arz fiyatı ile borsa fiyatı arasındaki farklılıkların nedenleri için yorum yapılan rapor hangisidir?",
-      "options": ["Değerlendirme Raporu", "Analiz raporu", "Risk bildirim raporu", "Fiyat tespit raporu", "KAP Raporu"], "answer": 0, "keyAnswer": "E",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 13, "section": "1.2.2 Halka Açılma" }, "verified": false, "flag": "Banka anahtarı ile domain bilgisi çelişiyor (anahtar E, tanım Değerlendirme Raporu'na işaret ediyor); ders notu ile teyit bekliyor." },
-    { "id": "1003-2", "q": "2021 yılında ilk kez paylarını halka arz yapacak olan bir ortaklığın ek satış hariç halka arz edilecek paylarının halka arz değeri baz alınarak hesaplanan piyasa değeri 80.000.000 TL'dir. Aracı kurumun yüklenim zorunluluğu ne kadardır?",
-      "options": ["40.000.000 TL", "50.000.000 TL", "60.000.000 TL", "70.000.000 TL", "80.000.000 TL"], "answer": 2, "keyAnswer": "C",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": false, "flag": "Hesap/eşik sorusu; ders notu ile teyit bekliyor." },
-    { "id": "1003-5", "q": "Hangisi esas sermaye sisteminde çalışan bir ortaklığın bedelli sermaye artışında yapılması gereken işlemler arasında değildir? I. Yeni pay alma hakkının yöntemi kurulu tarafından tamamen kısıtlanması  II. İzahnamenin onaylanması için başvuru  III. Paylardan satılamayanların satış süresinin bitiminden itibaren 3 iş günü içerisinde satın alınması için taahhütname verilir.",
-      "options": ["I ve II", "Yalnız II", "Yalnız III", "Yalnız I", "II ve III"], "answer": 0, "keyAnswer": "A",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 28, "section": "1.2.3 Sermaye Artırımları" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-6", "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kuruluna başvuru yapmayı gerektiren durumlardan biri değildir?",
-      "options": ["Bedelli sermaye artışı yapılması", "Halka açık olmayan bir ortaklığın paylarının ilk kez halka arzı", "Payları borsada işlem gören halka açık ortaklıkların nominal değerin altında pay ihracı ile sermaye artırımı yapması", "Pay sahibi sayısının 300'ü aşan ortaklıkların halka açık ortaklık statüsüne kavuştuğunun kurulca onaylanması", "Halka açık ortaklıkların paylarının ikincil halka arzı"], "answer": 1, "keyAnswer": "B",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 13, "section": "1.2.2 Halka Açılma" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-8", "q": "KİS'ler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["KİS'lerin toplam ihraç tutarı, ödenmiş ya da çıkarılmış sermayenin %50'sini geçemez", "KİS'lerden satılamayanlara ilişkin olarak satın alma taahhütnamesi verilmesi zorunludur", "KİS sahiplerine verilen kâr paylarının oranının esas sözleşme önceden belirlenmesi zorunludur ve nakden dağıtılır", "Halka açık olmayan ortaklıklar tarafından ihraç edilecek KİS lere sermaye artırımı yoluyla çıkarılacak olan yeni payları alma hakkı tanınabilir.", "Halka açık ortaklıklar tarafından ihraç edilecek KİS'lere sermaye artırımı yoluyla çıkarılacak yeni payları alma hakkı tanınması zorunludur"], "answer": 2, "keyAnswer": "C",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 54, "section": "1.2.9 Katılma İntifa Senetleri" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-9", "q": "Nominal değerin altında pay ihracı ile ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Borsada işlem görmeyen firmalar nominalin altında bir değerle pay ihracı yapamaz", "Borsada işlem gören firmalar borsadaki 30 günlük ağırlıklı ortalama fiyatın altında bir değerle olmak kaydıyla pay ihracı yapabilir.", "Nominal değerin altında ihraç edilen paylar borsada diğer paylarla aynı şekilde işlem görür.", "Payların nominal değeri ile ihraç değeri arasındaki fark, öz kaynaklarda indirim kalemi olarak izlenir.", "Halka arz edilmeksizin gerçekleştirilecek ihraçlarda ortakların yeni pay alma haklarının tamamen kısıtlanması gerekir"], "answer": 1, "keyAnswer": "D",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-11", "q": "Payları ilk defa halka arz edilecek ortaklıkların hangi ortakları sahip oldukları payları, ortaklık paylarının borsada işlem görmeye başlamasından itibaren bir yıl süreyle halka arz fiyatının altındaki bir fiyattan borsada satamazlar?",
-      "options": ["Mevcut sermayede yüzde beş ve üzeri pay sahibi olan ortaklar", "Mevcut sermayede yüzde on ve üzeri pay sahibi olan ortaklar", "Payların %51'ine sahip olan ortaklar", "Halka arza katılmış olan tüm ortaklar", "Payları halka arz edilmiş olan ortaklar"], "answer": 1, "keyAnswer": "B",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-12", "q": "Halka açık olmayan bir ortaklık ilk defa halka açılırken paylarını 10 TL'den halka arz ediyor. Borsada işlem görmeye başladıktan sonra fiyat aşağıdakilerden hangisi olursa satışa hazır bekletilen payların satışına başlanabilir?",
-      "options": ["9", "10", "11", "12", "13"], "answer": 1, "keyAnswer": "B",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": false, "flag": "Eşik sorusu; ders notu ile teyit bekliyor." },
-    { "id": "1003-14", "q": "Ortaklıkların sermaye azaltımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["Payları borsada nominal değerinin altında işlem gören ortaklıklar bilanço açığının kapatılması amacıyla sermaye azaltımı yapar", "Bilanço açığı, finansal tablolardaki geçmiş yıl zararları ile dönem zararlarının toplamını ifade eder", "Finansal tabloların bağımsız denetçi onayından geçmiş olması gerekir", "Sermaye azaltımı yapılabilmesi için ortakların en az %51'nin onayı olması gerekir.", "Öncesinde ortaklara tanınmış olan imtiyazlara son verilmesi şarttır"], "answer": 2, "keyAnswer": "C",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.4 Sermaye Azaltımı" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-16", "q": "Borsada işlem gören ortaklıkların herhangi bir on iki aylık dönemde sermayelerinin %10'unu aşan pay satışlarının imtiyazlı paylara sahip olan ortaklar tarafından borsada satışının gerçekleştirilmesi öncesinde hazırlanan belge aşağıdakilerden hangisidir?",
-      "options": ["Pay satış bilgi formu", "Risk Bildirim Formu", "Analiz Raporu", "Fiyat Tespit Raporu", "Ortaklık Bilgi Formu"], "answer": 0, "keyAnswer": "E",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 46, "section": "1.2.7 Paylara İlişkin Ortak Hükümler" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-20", "q": "Ortaklıklar “sermaye artırımı yoluyla yapılan halka arz”da aşağıdakilerden hangisini yapmakla yükümlü değillerdir?",
-      "options": ["Esas sözleşme değişikliği için kurula başvuru", "İzahnamenin onaylanması için kurula başvuru", "İmtiyazlı ortakların yeni pay alma taahhütnamesi vermesi", "Aracı Kuruluşun satılmayan paylara ilişkin satın alma taahhütnamesi vermesi", "Hepsini yapmakla yükümlüdürler."], "answer": 2, "keyAnswer": "A",
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 28, "section": "1.2.3 Sermaye Artırımları" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1003-24", "q": "Payları ilk defa halka arz edilecek ortaklığın, ek satış hariç halka arz edilecek paylarının halka arz fiyatı baz alınarak hesaplanacak piyasa değerinin 336 milyon TL olması ve bunun 36 milyonluk kısmının satılmış olması durumunda ne kadarının aracı kurum tarafından halka arz fiyatı üstünden satın alınması gerekir?",
-      "options": ["300 milyonluk kısmının", "136 milyonluk kısmının", "115 milyonluk kısmının", "130 milyonluk kısmının", "800.000.000 TL'nin altında olduğu için yüklenim zorunluluğu yoktur"], "answer": 4, "keyAnswer": null,
-      "explanation": "", "source": { "pdf": "1003-notes.pdf", "page": 42, "section": "1.2.5 Halka Arzlarda Özellikli Durumlar" }, "verified": false, "flag": "Hesap/eşik sorusu; ders notu ile teyit bekliyor." }
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 8,
+        "section": "1.1.3 Pay Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-23",
+      "q": "Aşağıdaki ifadelerden hangisi \"sermaye piyasası araçlarını ihraç eden, ihraç etmek için Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişiler\" için kullanılır?",
+      "options": [
+        "İhraç",
+        "Halka arz",
+        "İtfa",
+        "İhraççı",
+        "İtfa eden"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Tanım \"ihraççı\"ya aittir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 20,
+        "section": "2.1.4 Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-7",
+      "q": "Borsada nominal değerin altında işlem gören ortaklıkların bilanço açığının kapatılması amacıyla yaptıkları işlem nedir?",
+      "options": [
+        "Sermaye azaltımı",
+        "Sermaye arttırımı",
+        "Ek Pay Satışı",
+        "KİS İhracı",
+        "Brüt Pay Satışı"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.4 Sermaye Azaltımı"
+      },
+      "verified": false,
+      "flag": "Cevap ders notu ile teyit bekliyor (azaltım/artırım ayrımı)."
+    },
+    {
+      "id": "1003-15",
+      "q": "Sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişiler için kullanılan ifade aşağıdakilerden hangisidir?",
+      "options": [
+        "İhraççı",
+        "İtfacı",
+        "Halka Arz Eden",
+        "Ortaklık",
+        "Halka Açık Ortaklık"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 20,
+        "section": "2.1.4 Tanımlar"
+      },
+      "verified": false,
+      "flag": "Tanım ayrımı (İhraççı/Halka arz eden/Ortaklık) ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-22",
+      "q": "Borsada işlem gören ortaklıkların halka arz edilecek paylarının satış fiyatının borsa fiyatından farklı veya nominal değerinden yüksek olması durumunda halka arzın başlayacağı tarihten en az üç gün önce KAP'ta ilan edilmesi zorunlu olan rapor aşağıdakilerden hangisidir?",
+      "options": [
+        "Fiyat Tespit Raporu",
+        "Değerlendirme Raporu",
+        "Risk Bildirim Raporu",
+        "Analiz Raporu",
+        "Bilgi Raporu"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Halka Açılma"
+      },
+      "verified": false,
+      "flag": "Fiyat Tespit / Değerlendirme Raporu ayrımı ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-1",
+      "q": "Payları ilk halka arzında fiyat tespit raporunu hazırlayan ve satışa aracılık eden aracı kurum tarafından 1 yılda 2 defa hazırlanması gereken ve halka arz fiyatı ile borsa fiyatı arasındaki farklılıkların nedenleri için yorum yapılan rapor hangisidir?",
+      "options": [
+        "Değerlendirme Raporu",
+        "Analiz raporu",
+        "Risk bildirim raporu",
+        "Fiyat tespit raporu",
+        "KAP Raporu"
+      ],
+      "answer": 0,
+      "keyAnswer": "E",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Halka Açılma"
+      },
+      "verified": false,
+      "flag": "Banka anahtarı ile domain bilgisi çelişiyor."
+    },
+    {
+      "id": "1003-2",
+      "q": "2021 yılında ilk kez paylarını halka arz yapacak olan bir ortaklığın ek satış hariç halka arz edilecek paylarının halka arz değeri baz alınarak hesaplanan piyasa değeri 80.000.000 TL'dir. Aracı kurumun yüklenim zorunluluğu ne kadardır?",
+      "options": [
+        "40.000.000 TL",
+        "50.000.000 TL",
+        "60.000.000 TL",
+        "70.000.000 TL",
+        "80.000.000 TL"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": false,
+      "flag": "Hesap/eşik sorusu; ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-5",
+      "q": "Hangisi esas sermaye sisteminde çalışan bir ortaklığın bedelli sermaye artışında yapılması gereken işlemler arasında değildir? I. Yeni pay alma hakkının yöntemi kurulu tarafından tamamen kısıtlanması  II. İzahnamenin onaylanması için başvuru  III. Paylardan satılamayanların satış süresinin bitiminden itibaren 3 iş günü içerisinde satın alınması için taahhütname verilir.",
+      "options": [
+        "I ve II",
+        "Yalnız II",
+        "Yalnız III",
+        "Yalnız I",
+        "II ve III"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Sermaye Artırımları"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-6",
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kuruluna başvuru yapmayı gerektiren durumlardan biri değildir?",
+      "options": [
+        "Bedelli sermaye artışı yapılması",
+        "Halka açık olmayan bir ortaklığın paylarının ilk kez halka arzı",
+        "Payları borsada işlem gören halka açık ortaklıkların nominal değerin altında pay ihracı ile sermaye artırımı yapması",
+        "Pay sahibi sayısının 300'ü aşan ortaklıkların halka açık ortaklık statüsüne kavuştuğunun kurulca onaylanması",
+        "Halka açık ortaklıkların paylarının ikincil halka arzı"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Halka Açılma"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-8",
+      "q": "KİS'ler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "KİS'lerin toplam ihraç tutarı, ödenmiş ya da çıkarılmış sermayenin %50'sini geçemez",
+        "KİS'lerden satılamayanlara ilişkin olarak satın alma taahhütnamesi verilmesi zorunludur",
+        "KİS sahiplerine verilen kâr paylarının oranının esas sözleşme önceden belirlenmesi zorunludur ve nakden dağıtılır",
+        "Halka açık olmayan ortaklıklar tarafından ihraç edilecek KİS lere sermaye artırımı yoluyla çıkarılacak olan yeni payları alma hakkı tanınabilir.",
+        "Halka açık ortaklıklar tarafından ihraç edilecek KİS'lere sermaye artırımı yoluyla çıkarılacak yeni payları alma hakkı tanınması zorunludur"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 54,
+        "section": "1.2.9 Katılma İntifa Senetleri"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-9",
+      "q": "Nominal değerin altında pay ihracı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Borsada işlem görmeyen firmalar nominalin altında bir değerle pay ihracı yapamaz",
+        "Borsada işlem gören firmalar borsadaki 30 günlük ağırlıklı ortalama fiyatın altında bir değerle olmak kaydıyla pay ihracı yapabilir.",
+        "Nominal değerin altında ihraç edilen paylar borsada diğer paylarla aynı şekilde işlem görür.",
+        "Payların nominal değeri ile ihraç değeri arasındaki fark, öz kaynaklarda indirim kalemi olarak izlenir.",
+        "Halka arz edilmeksizin gerçekleştirilecek ihraçlarda ortakların yeni pay alma haklarının tamamen kısıtlanması gerekir"
+      ],
+      "answer": 1,
+      "keyAnswer": "D",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-11",
+      "q": "Payları ilk defa halka arz edilecek ortaklıkların hangi ortakları sahip oldukları payları, ortaklık paylarının borsada işlem görmeye başlamasından itibaren bir yıl süreyle halka arz fiyatının altındaki bir fiyattan borsada satamazlar?",
+      "options": [
+        "Mevcut sermayede yüzde beş ve üzeri pay sahibi olan ortaklar",
+        "Mevcut sermayede yüzde on ve üzeri pay sahibi olan ortaklar",
+        "Payların %51'ine sahip olan ortaklar",
+        "Halka arza katılmış olan tüm ortaklar",
+        "Payları halka arz edilmiş olan ortaklar"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-12",
+      "q": "Halka açık olmayan bir ortaklık ilk defa halka açılırken paylarını 10 TL'den halka arz ediyor. Borsada işlem görmeye başladıktan sonra fiyat aşağıdakilerden hangisi olursa satışa hazır bekletilen payların satışına başlanabilir?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": false,
+      "flag": "Eşik sorusu; ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-14",
+      "q": "Ortaklıkların sermaye azaltımı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Payları borsada nominal değerinin altında işlem gören ortaklıklar bilanço açığının kapatılması amacıyla sermaye azaltımı yapar",
+        "Bilanço açığı, finansal tablolardaki geçmiş yıl zararları ile dönem zararlarının toplamını ifade eder",
+        "Finansal tabloların bağımsız denetçi onayından geçmiş olması gerekir",
+        "Sermaye azaltımı yapılabilmesi için ortakların en az %51'nin onayı olması gerekir.",
+        "Öncesinde ortaklara tanınmış olan imtiyazlara son verilmesi şarttır"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.4 Sermaye Azaltımı"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-16",
+      "q": "Borsada işlem gören ortaklıkların herhangi bir on iki aylık dönemde sermayelerinin %10'unu aşan pay satışlarının imtiyazlı paylara sahip olan ortaklar tarafından borsada satışının gerçekleştirilmesi öncesinde hazırlanan belge aşağıdakilerden hangisidir?",
+      "options": [
+        "Pay satış bilgi formu",
+        "Risk Bildirim Formu",
+        "Analiz Raporu",
+        "Fiyat Tespit Raporu",
+        "Ortaklık Bilgi Formu"
+      ],
+      "answer": 0,
+      "keyAnswer": "E",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 46,
+        "section": "1.2.7 Paylara İlişkin Ortak Hükümler"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-20",
+      "q": "Ortaklıklar \"sermaye artırımı yoluyla yapılan halka arz\"da aşağıdakilerden hangisini yapmakla yükümlü değillerdir?",
+      "options": [
+        "Esas sözleşme değişikliği için kurula başvuru",
+        "İzahnamenin onaylanması için kurula başvuru",
+        "İmtiyazlı ortakların yeni pay alma taahhütnamesi vermesi",
+        "Aracı Kuruluşun satılmayan paylara ilişkin satın alma taahhütnamesi vermesi",
+        "Hepsini yapmakla yükümlüdürler."
+      ],
+      "answer": 2,
+      "keyAnswer": "A",
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Sermaye Artırımları"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-24",
+      "q": "Payları ilk defa halka arz edilecek ortaklığın, ek satış hariç halka arz edilecek paylarının halka arz fiyatı baz alınarak hesaplanacak piyasa değerinin 336 milyon TL olması ve bunun 36 milyonluk kısmının satılmış olması durumunda ne kadarının aracı kurum tarafından halka arz fiyatı üstünden satın alınması gerekir?",
+      "options": [
+        "300 milyonluk kısmının",
+        "136 milyonluk kısmının",
+        "115 milyonluk kısmının",
+        "130 milyonluk kısmının",
+        "800.000.000 TL'nin altında olduğu için yüklenim zorunluluğu yoktur"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": "",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar"
+      },
+      "verified": false,
+      "flag": "Hesap/eşik sorusu; ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1003-g1",
+      "q": "Aşağıdakilerden hangisi pay türlerinden biri değildir?",
+      "options": [
+        "Adi pay",
+        "İmtiyazlı pay",
+        "Nama yazılı pay",
+        "Hamiline yazılı pay",
+        "Vadeli pay"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": "Vadeli pay diye bir pay türü yoktur. Paylar; adi/imtiyazlı, nama/hamiline yazılı, bedelli/bedelsiz vb. olarak sınıflandırılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 8,
+        "section": "1.1.3 Pay Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g2",
+      "q": "Nama yazılı paylar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Pay senedinin üzerinde sahibinin adı yazılıdır ve devri ciro ve teslim ile yapılır",
+        "Payın sahibi taşıyandır",
+        "Pay defterine kayıt gerekmez",
+        "Yalnızca halka açık ortaklıklarda çıkarılabilir",
+        "Nama yazılı paylar borsada işlem göremez"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Nama yazılı paylarda sahibin adı pay senedi üzerinde ve pay defterinde yazılıdır; devri ciro ve teslim ile olur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 8,
+        "section": "1.1.3 Pay Türleri - Nama/Hamiline"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g3",
+      "q": "Hamiline yazılı payların nama yazılı paylardan temel farkı aşağıdakilerden hangisidir?",
+      "options": [
+        "Hamiline yazılı paylar borsada işlem göremez",
+        "Hamiline yazılı payların sahibi, senedi elinde bulunduran kişidir",
+        "Hamiline yazılı paylar daha yüksek nominal değere sahiptir",
+        "Hamiline yazılı paylar yalnızca yabancı yatırımcılara satılabilir",
+        "Hamiline yazılı paylar imtiyaz taşıyamaz"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Hamiline yazılı payların sahibi, senet fiilen kimin elindeyse o kişidir; devri teslim ile olur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 8,
+        "section": "1.1.3 Pay Türleri - Nama/Hamiline"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g4",
+      "q": "İmtiyazlı paylara aşağıdaki konulardan hangisinde imtiyaz tanınabilir?",
+      "options": [
+        "Yalnızca kâr payı",
+        "Yalnızca oy hakkı",
+        "Kâr payı, tasfiye payı, rüçhan hakkı, oy hakkı gibi konularda",
+        "Yalnızca tasfiye payı",
+        "Yalnızca borsada işlem önceliği"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İmtiyazlı paylara kâr payı, tasfiye payı, rüçhan hakkı, oy hakkı gibi konularda imtiyaz tanınabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 9,
+        "section": "1.1.3 İmtiyazlı Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g5",
+      "q": "6362 sayılı Kanun'a göre bir payın nominal değeri en az kaç kuruştur?",
+      "options": [
+        "1 kuruş",
+        "5 kuruş",
+        "10 kuruş",
+        "25 kuruş",
+        "50 kuruş"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun'a göre payların nominal değeri 1 kuruştan aşağı olamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 8,
+        "section": "1.1.2 Payların Nominal Değeri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g6",
+      "q": "Bedelli sermaye artırımı ne anlama gelir?",
+      "options": [
+        "Mevcut ortaklara bedelsiz pay dağıtılması",
+        "Ortaklığın yeni pay çıkararak karşılığında ortaklardan veya dışarıdan nakit veya ayni karşılık alması",
+        "Şirketin kendi paylarını geri satın alması",
+        "Payların nominal değerinin düşürülmesi",
+        "Ortaklığın borçlanma aracı ihraç etmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bedelli sermaye artırımında ortaklık yeni pay ihraç eder ve bu payların karşılığında nakit veya ayni sermaye toplanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 26,
+        "section": "1.2.3 Sermaye Artırımları - Bedelli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g7",
+      "q": "Bedelsiz sermaye artırımında pay karşılığı olarak hangi kaynaklar kullanılır?",
+      "options": [
+        "Ortaklardan nakit toplanır",
+        "İç kaynaklardan (yedek akçeler, geçmiş yıl kârları, sermaye düzeltmesi farkları gibi) karşılanır",
+        "Borçlanma aracı ihracı ile finanse edilir",
+        "Banka kredisi kullanılır",
+        "Devlet teşviği alınır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bedelsiz sermaye artırımında yeni payların karşılığı iç kaynaklardan (yedek akçeler, dağıtılmamış kârlar, sermaye düzeltmesi farkları vb.) karşılanır; ortaklardan ek ödeme istenmez.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 30,
+        "section": "1.2.3 Sermaye Artırımları - Bedelsiz"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g8",
+      "q": "Rüçhan hakkı (yeni pay alma hakkı) nedir?",
+      "options": [
+        "Payların borsada öncelikli işlem görme hakkı",
+        "Mevcut pay sahiplerinin bedelli sermaye artırımında çıkarılacak yeni payları sahip oldukları paylar oranında öncelikli satın alma hakkı",
+        "Temettü alma hakkı",
+        "Şirketin tasfiyesinde öncelikli pay alma hakkı",
+        "Oy hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Rüçhan hakkı: mevcut ortakların bedelli sermaye artırımında çıkarılacak yeni payları, mevcut payları oranında öncelikli olarak satın alma hakkıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Rüçhan Hakkı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g9",
+      "q": "Rüçhan hakkının kullanım süresi en az kaç gündür?",
+      "options": [
+        "7 gün",
+        "10 gün",
+        "15 gün",
+        "20 gün",
+        "30 gün"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yeni pay alma hakkının (rüçhan) kullanım süresi en az 15 gündür.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 28,
+        "section": "1.2.3 Sermaye Artırımları - Rüçhan Hakkı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g10",
+      "q": "Kayıtlı sermaye sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kayıtlı sermaye sisteminde sermaye artırımı için her seferinde genel kurul kararı gerekir",
+        "Yönetim kuruluna esas sözleşmede belirlenen tavan tutara kadar sermaye artırımı yapma yetkisi verilir",
+        "Yalnızca halka kapalı ortaklıklar kullanabilir",
+        "Kayıtlı sermayede sermaye azaltımı yapılamaz",
+        "Kayıtlı sermaye sistemi 6362 sayılı Kanun'da düzenlenmemiştir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kayıtlı sermaye sisteminde yönetim kuruluna, esas sözleşmede belirlenen kayıtlı sermaye tavanına kadar genel kurul kararı olmaksızın sermaye artırımı yapma yetkisi verilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 24,
+        "section": "1.2.2 Kayıtlı Sermaye Sistemi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g11",
+      "q": "Esas sermaye sistemi ile kayıtlı sermaye sistemi arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Esas sermaye sisteminde yönetim kurulu, kayıtlı sermaye sisteminde genel kurul sermaye artırımı kararı alır",
+        "Kayıtlı sermaye sisteminde yönetim kurulu belli bir tavana kadar sermaye artırımı yapabilirken, esas sermaye sisteminde her artırım için genel kurul kararı gerekir",
+        "İkisi arasında hiçbir fark yoktur",
+        "Esas sermaye sistemi yalnızca halka açık ortaklıklarda uygulanır",
+        "Kayıtlı sermaye sisteminde sermaye azaltımı yapılamaz"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Esas sermaye sisteminde her sermaye artırımı için genel kurul kararı gerekir; kayıtlı sermaye sisteminde yönetim kurulu belirlenen tavan dahilinde artırım yapabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 24,
+        "section": "1.2.2 Kayıtlı/Esas Sermaye Sistemi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g12",
+      "q": "Primli pay ihracı ne anlama gelir?",
+      "options": [
+        "Nominal değerin altında pay ihracı",
+        "Payların nominal değerinin üzerinde bir fiyatla ihraç edilmesi",
+        "Payların eşit fiyatla ihracı",
+        "Ücretsiz pay dağıtılması",
+        "Payların kupon ödemeli ihracı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Primli pay ihracı: payların nominal değerinin üzerinde bir fiyatla çıkarılmasıdır. Nominal değer ile ihraç fiyatı arasındaki fark 'emisyon primi' olarak öz kaynaklarda izlenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 Primli ve Primsiz İhraç"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g13",
+      "q": "Oydan yoksun paylar (OYP) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Oy hakkı bulunmayan ancak sahibine kâr payı ve tasfiye payında imtiyaz sağlayan paylardır",
+        "Oy hakkı dahil tüm hakları kısıtlanmış paylardır",
+        "Yalnızca devlet ortaklıklarında çıkarılabilir",
+        "Kâr payı almaz",
+        "Borsada işlem göremez"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Oydan yoksun paylar: oy hakkı bulunmayan ancak sahibine kâr payı ve tasfiye payında imtiyaz tanıyan paylardır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 52,
+        "section": "1.2.8 Oydan Yoksun Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g14",
+      "q": "Oydan yoksun payların toplam nominal değeri, ödenmiş veya çıkarılmış sermayenin en fazla yüzde kaçı kadar olabilir?",
+      "options": [
+        "%25",
+        "%50",
+        "%75",
+        "%100",
+        "Sınırlama yoktur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "OYP'lerin toplam nominal değeri, ödenmiş veya çıkarılmış sermayenin %50'sini aşamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 52,
+        "section": "1.2.8 Oydan Yoksun Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g15",
+      "q": "Katılma İntifa Senedi (KİS) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "KİS sahipliği ortaklık hakkı sağlar",
+        "KİS sahiplerine kâr payı hakkı tanır ancak ortaklık hakkı (oy hakkı) vermez",
+        "KİS yalnızca halka açık ortaklıklar tarafından çıkarılabilir",
+        "KİS vadeli bir borçlanma aracıdır",
+        "KİS borsada işlem göremez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "KİS, sahibine ortaklık hakkı (oy hakkı) vermez ancak kâr payı, tasfiye artığı gibi haklara katılma imkanı tanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 54,
+        "section": "1.2.9 Katılma İntifa Senetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g16",
+      "q": "KİS'lerin toplam ihraç tutarı, ortaklığın ödenmiş/çıkarılmış sermayesinin en fazla yüzde kaçı kadar olabilir?",
+      "options": [
+        "%25",
+        "%50",
+        "%75",
+        "%100",
+        "Sınırlama yoktur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "KİS'lerin toplam ihraç tutarı, ödenmiş veya çıkarılmış sermayenin %50'sini geçemez.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 54,
+        "section": "1.2.9 Katılma İntifa Senetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g17",
+      "q": "Devlet tahvili ile hazine bonosu arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Devlet tahvilinin vadesi 1 yıldan uzun, hazine bonosunun vadesi 1 yıla kadardır",
+        "Devlet tahvili faiz ödemez, hazine bonosu faiz öder",
+        "Devlet tahvilini TCMB ihraç eder, hazine bonosunu Hazine ihraç eder",
+        "İkisi arasında fark yoktur",
+        "Hazine bonosu döviz cinsinden, devlet tahvili TL cinsindendir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Devlet tahvili: vadesi 1 yıldan uzun devlet iç borçlanma senetidir. Hazine bonosu: vadesi 1 yıla kadar (kısa vadeli) devlet iç borçlanma senetidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 62,
+        "section": "2.1 Kamu Borçlanma Araçları - DİBS"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g18",
+      "q": "DİBS (Devlet İç Borçlanma Senetleri) ihraç eden kurum aşağıdakilerden hangisidir?",
+      "options": [
+        "TCMB",
+        "SPK",
+        "Hazine ve Maliye Bakanlığı",
+        "Borsa İstanbul",
+        "BDDK"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "DİBS'ler Hazine ve Maliye Bakanlığı tarafından ihraç edilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 62,
+        "section": "2.1 Kamu Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g19",
+      "q": "Kupon ödemeli (faiz ödemeli) tahviller ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Vadesi boyunca faiz ödemesi yapılmaz, vade sonunda iskontolu olarak ödenir",
+        "Belirli aralıklarla (genellikle 6 ayda bir) kupon faiz ödemesi yapar",
+        "Yalnızca yıllık faiz öder",
+        "Faiz ödemesi yalnızca vade sonunda yapılır",
+        "Kupon ödemeli tahvil yalnızca döviz cinsinden ihraç edilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kupon ödemeli tahvillerde belirli aralıklarla (genellikle 6 ayda bir) faiz ödemesi yapılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 DİBS Türleri - Kupon Ödemeli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g20",
+      "q": "İskontolu (kuponsuz) devlet iç borçlanma senedi nasıl fiyatlandırılır?",
+      "options": [
+        "Nominal değeri üzerinden satılır",
+        "Nominal değerinin üzerinde satılır",
+        "Nominal değerinden düşük bir fiyatla (iskontolu) satılır ve vade sonunda nominal değer üzerinden itfa edilir",
+        "Döviz kuru üzerinden fiyatlandırılır",
+        "Altın fiyatına endeksli fiyatlandırılır"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İskontolu senetler nominal değerinden düşük fiyatla satılır; vade sonunda nominal değer ödenir. Aradaki fark yatırımcının getirisidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 DİBS Türleri - İskontolu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g21",
+      "q": "TÜFE'ye (enflasyona) endeksli devlet tahvili ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Anapara ve kupon ödemeleri TÜFE endeksine göre güncellenir, yatırımcıyı enflasyona karşı korur",
+        "Sabit faizli tahvildir",
+        "TCMB tarafından ihraç edilir",
+        "Yalnızca nitelikli yatırımcılara satılır",
+        "Vadesi en fazla 6 aydır"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "TÜFE'ye endeksli devlet tahvillerinde anapara ve kupon ödemeleri enflasyona (TÜFE) göre güncellenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 64,
+        "section": "2.1.2 DİBS Türleri - Enflasyona Endeksli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g22",
+      "q": "Değişken faizli devlet tahvilinin temel özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Faiz oranı sabit kalır",
+        "Kupon faiz oranı piyasa koşullarına göre (referans faize göre) değişir",
+        "Faiz ödenmez",
+        "Yalnızca döviz cinsinden ihraç edilir",
+        "Vadesi sabit değildir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Değişken faizli tahvillerde kupon faiz oranı belirli bir referans faiz oranına bağlı olarak dönemsel olarak yeniden belirlenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 64,
+        "section": "2.1.2 DİBS Türleri - Değişken Faizli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g23",
+      "q": "Özel sektör tahvili ile devlet tahvili arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Özel sektör tahvilinin vadesi daha kısadır",
+        "Özel sektör tahvili şirketler tarafından ihraç edilir ve temerrüt riski devlet tahviline göre daha yüksektir",
+        "Özel sektör tahvili borsada işlem görmez",
+        "İkisi arasında risk farkı yoktur",
+        "Devlet tahvili faiz ödemez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Özel sektör tahvilleri anonim şirketler tarafından ihraç edilir ve ihraççının kredi riski (temerrüt riski) devlet tahvillerine göre daha yüksektir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 70,
+        "section": "2.2 Özel Sektör Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g24",
+      "q": "Özel sektör tahvillerinin vadesi en az kaç gün olmalıdır?",
+      "options": [
+        "30 gün",
+        "90 gün",
+        "180 gün",
+        "365 gün",
+        "Asgari vade şartı yoktur"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Özel sektör borçlanma araçlarının vadesi 365 günden az olamaz (en az 1 yıl).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 70,
+        "section": "2.2 Özel Sektör Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g25",
+      "q": "Kira sertifikası (sukuk) nedir?",
+      "options": [
+        "Kiracının ödediği kira bedelini temsil eden senet",
+        "Varlık kiralama şirketi tarafından ihraç edilen, faizsiz finans prensiplerine uygun, sahiplerine varlıktan elde edilen gelirlerden pay alma hakkı veren menkul kıymet",
+        "Yalnızca gayrimenkul kira gelirlerini temsil eden belge",
+        "Konut kredisi belgesi",
+        "Faizli borçlanma aracı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kira sertifikası (sukuk): varlık kiralama şirketi tarafından ihraç edilen, faizsiz finans prensiplerine uygun, sahiplerine dayanak varlıktan elde edilen gelirlerden pay alma hakkı veren menkul kıymettir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 76,
+        "section": "2.3 Kira Sertifikaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g26",
+      "q": "Kira sertifikasını ihraç eden kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "İhraççı şirketin kendisi",
+        "Aracı kurum",
+        "Varlık kiralama şirketi",
+        "Borsa İstanbul",
+        "SPK"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Kira sertifikaları, münhasıran bu amaçla kurulan varlık kiralama şirketleri tarafından ihraç edilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 76,
+        "section": "2.3 Kira Sertifikaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g27",
+      "q": "Varant nedir?",
+      "options": [
+        "Sahibine belirli bir dayanak varlığı önceden belirlenmiş bir fiyattan satın alma veya satma hakkı veren sermaye piyasası aracı",
+        "Bir tür hisse senedi",
+        "Devlet borçlanma aracı",
+        "Katılma intifa senedi",
+        "Fon katılma payı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Varant: sahibine belirli bir dayanak varlığı (pay, endeks vb.) belirli bir tarihte veya tarihe kadar önceden belirlenmiş bir fiyattan alma veya satma hakkı veren bir sermaye piyasası aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 80,
+        "section": "2.4 Varantlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g28",
+      "q": "Alım (call) varantı sahibine hangi hakkı tanır?",
+      "options": [
+        "Dayanak varlığı belirli bir fiyattan satma hakkı",
+        "Dayanak varlığı belirli bir fiyattan satın alma hakkı",
+        "Dayanak varlığın faiz gelirini alma hakkı",
+        "Dayanak varlığın oy hakkını kullanma hakkı",
+        "Dayanak varlığı borsadan çıkarma hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Alım (call) varantı sahibine dayanak varlığı önceden belirlenmiş fiyattan (kullanım fiyatı) satın alma hakkı tanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 80,
+        "section": "2.4 Varantlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g29",
+      "q": "Satım (put) varantı sahibine hangi hakkı tanır?",
+      "options": [
+        "Dayanak varlığı belirli bir fiyattan satın alma hakkı",
+        "Dayanak varlığı belirli bir fiyattan satma hakkı",
+        "Temettü alma hakkı",
+        "Ortaklık hakkı",
+        "Oy hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Satım (put) varantı sahibine dayanak varlığı önceden belirlenmiş fiyattan satma hakkı tanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 80,
+        "section": "2.4 Varantlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g30",
+      "q": "Varantları yalnızca kimler ihraç edebilir?",
+      "options": [
+        "Halka açık ortaklıklar",
+        "Bankalar ve aracı kurumlar",
+        "Portföy yönetim şirketleri",
+        "Varlık kiralama şirketleri",
+        "Devlet"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Varantlar yalnızca bankalar ve aracı kurumlar tarafından ihraç edilebilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 80,
+        "section": "2.4 Varantlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g31",
+      "q": "Halka arz sürecinde 'talep toplama' yöntemlerinden hangisi sabit fiyatla satış anlamına gelir?",
+      "options": [
+        "Borsada satış yöntemi",
+        "Sabit fiyatla talep toplama",
+        "Fiyat teklifi alma (book-building) yöntemi",
+        "Açık artırma yöntemi",
+        "Borsada piyasa yapıcılığı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sabit fiyatla talep toplama yönteminde paylar önceden belirlenmiş sabit bir fiyatla satışa sunulur ve bu fiyattan talepler toplanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 14,
+        "section": "1.2.2 Halka Arz Yöntemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g32",
+      "q": "Fiyat teklifi alma (book-building) yöntemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Fiyat sabittir ve değişmez",
+        "Yatırımcılardan fiyat ve miktar teklifleri alınarak talep toplanır, elde edilen bilgiler doğrultusunda satış fiyatı belirlenir",
+        "Yalnızca kurumsal yatırımcılara satış yapılır",
+        "Paylar açık artırma ile satılır",
+        "SPK fiyatı doğrudan belirler"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Book-building yönteminde yatırımcılardan fiyat ve miktar teklifleri alınır; toplanan talepler doğrultusunda nihai satış fiyatı belirlenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 14,
+        "section": "1.2.2 Halka Arz Yöntemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g33",
+      "q": "Halka arzda 'en iyi gayret aracılığı' ile 'aracılık yüklenimi' arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "İkisi arasında fark yoktur",
+        "En iyi gayret aracılığında aracı kurum satılmayan payları satın alma yükümlülüğü taşımaz; aracılık yükleniminde ise satılmayan paylar aracı kurum tarafından satın alınır",
+        "En iyi gayret aracılığında tüm paylar garanti altındadır",
+        "Aracılık yükleniminde aracı kurum hiçbir risk almaz",
+        "En iyi gayret aracılığı yalnızca tahviller için geçerlidir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "En iyi gayret aracılığında aracı kurum satış için en iyi çabayı gösterir ancak satılmayan payları alma taahhüdü yoktur. Yüklenimde ise satılmayan paylar aracı kurum tarafından satın alınır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 16,
+        "section": "1.2.2 Halka Arz - Aracılık Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g34",
+      "q": "İzahnamede yer alması gereken temel bilgiler arasında aşağıdakilerden hangisi bulunmaz?",
+      "options": [
+        "İhraççının finansal durumu",
+        "Halka arz edilecek araçların özellikleri",
+        "Risk faktörleri",
+        "İhraççının çalışan maaş bordroları",
+        "İhraççının yönetim yapısı"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Çalışan maaş bordroları izahnamede yer alması gereken bilgiler arasında değildir. İzahnamede ihraççının finansal durumu, araçların özellikleri, riskler ve yönetim yapısı gibi bilgiler yer alır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 12,
+        "section": "1.2.1 İzahname"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g35",
+      "q": "Halka arzda 'tahsisli satış' ne anlama gelir?",
+      "options": [
+        "Payların borsada herkes tarafından alınıp satılması",
+        "Payların önceden belirlenmiş yatırımcılara doğrudan satılması",
+        "Payların açık artırma ile satılması",
+        "Payların nominal değerinin altında satılması",
+        "Payların bedelsiz dağıtılması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Tahsisli satış: payların önceden belirlenmiş yatırımcılara (genellikle kurumsal) doğrudan satılmasıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 18,
+        "section": "1.2.2 Halka Arz - Tahsisli Satış"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g36",
+      "q": "Sermaye azaltımının amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Şirketin sermayesini artırmak",
+        "Bilanço açığının (geçmiş yıl zararlarının) kapatılması veya fazla sermayenin iade edilmesi",
+        "Yeni pay ihraç etmek",
+        "Borçlanma aracı çıkarmak",
+        "Temettü dağıtmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sermaye azaltımının başlıca amacı bilanço açığının (geçmiş yıl zararlarının) kapatılması veya ihtiyaç duyulmayan fazla sermayenin ortaklara iade edilmesidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 34,
+        "section": "1.2.4 Sermaye Azaltımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g37",
+      "q": "Sermaye azaltımı ile eş zamanlı sermaye artırımı yapılması halinde aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Ortakların onayı gerekmez",
+        "Azaltım tutarı artırım tutarından fazla olmalıdır",
+        "Artırılan sermayeyi temsil eden payların tamamının satıldığının veya satın alınmasının taahhüt edildiğinin tespiti gerekir",
+        "Yalnızca kayıtlı sermaye sistemindeki ortaklıklar yapabilir",
+        "SPK onayı gerekmez"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Eş zamanlı artırım-azaltımda, artırılan sermayeyi temsil eden payların tamamının satıldığının veya satın alınmasının taahhüt edildiğinin tespiti zorunludur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 35,
+        "section": "1.2.4 Sermaye Azaltımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g38",
+      "q": "Aşağıdakilerden hangisi DİBS'lerin yatırımcılara sunduğu avantajlardan biridir?",
+      "options": [
+        "Yüksek getiri garantisi",
+        "Temerrüt riski yoktur (devlet güvencesi)",
+        "Enflasyona karşı tam koruma",
+        "Borsada işlem görmez",
+        "Vergi avantajı her zaman vardır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "DİBS'ler devlet tarafından ihraç edildiğinden temerrüt riski (geri ödenmeme riski) bulunmaz; devlet güvencesi altındadır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 62,
+        "section": "2.1 Kamu Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g39",
+      "q": "DİBS'ler hangi piyasada işlem görür?",
+      "options": [
+        "Yalnızca birincil piyasada",
+        "Borsa İstanbul Borçlanma Araçları Piyasası (BAP) ve Bankalararası Repo/Ters Repo Piyasası'nda",
+        "Yalnızca tezgahüstü piyasada",
+        "Yalnızca vadeli işlem piyasasında",
+        "İşlem görmez, vadeye kadar tutulur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "DİBS'ler birincil piyasada (ihale) satılır ve ikincil piyasada Borsa İstanbul BAP'ta ve bankalararası piyasada işlem görür.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 65,
+        "section": "2.1.3 DİBS Piyasaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g40",
+      "q": "DİBS'lerin ihale yöntemiyle satışında aşağıdakilerden hangisi uygulanmaz?",
+      "options": [
+        "Tek fiyat ihale yöntemi",
+        "Çoklu fiyat ihale yöntemi",
+        "Açık artırma yöntemi",
+        "Doğrudan satış (TAP satış)",
+        "Tüm yöntemler uygulanabilir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "DİBS'ler tek fiyat ve çoklu fiyat ihale yöntemleri ile satılır; açık artırma yöntemi (piyasa fiyatı üzerinden kademelı artış) DİBS ihalelerinde kullanılan yöntem değildir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 65,
+        "section": "2.1.3 DİBS İhale Yöntemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g41",
+      "q": "Tek fiyat ihale yönteminde fiyat nasıl belirlenir?",
+      "options": [
+        "Her teklif sahibi kendi teklif ettiği fiyattan alır",
+        "Kabul edilen en düşük fiyat tüm katılımcılara uygulanır",
+        "SPK fiyatı belirler",
+        "Ortalama fiyat uygulanır",
+        "Vade sonu fiyatı uygulanır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Tek fiyat ihalesinde kabul edilen en düşük fiyat (en yüksek faiz), tüm başarılı teklif sahiplerine uygulanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 65,
+        "section": "2.1.3 DİBS İhale Yöntemleri - Tek Fiyat"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g42",
+      "q": "Çoklu fiyat ihale yönteminde fiyat nasıl belirlenir?",
+      "options": [
+        "Tüm katılımcılar aynı fiyattan alır",
+        "Her katılımcı kendi teklif ettiği fiyattan alır",
+        "SPK fiyatı belirler",
+        "Rastgele fiyat uygulanır",
+        "Piyasa fiyatı uygulanır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Çoklu fiyat ihalesinde her başarılı teklif sahibi kendi teklif ettiği fiyattan satın alır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 65,
+        "section": "2.1.3 DİBS İhale Yöntemleri - Çoklu Fiyat"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g43",
+      "q": "Özel sektör tahvillerini ihraç edebilmek için aşağıdaki şartlardan hangisi gereklidir?",
+      "options": [
+        "Ortaklığın en az 20 yıllık geçmişe sahip olması",
+        "İhraç edilecek tahvillere ilişkin izahnamenin SPK tarafından onaylanması",
+        "Ortaklığın devlet tarafından garanti edilmesi",
+        "Ortaklığın halka açık olması zorunludur",
+        "Yalnızca bankalar ihraç edebilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Özel sektör tahvili ihracı için izahnamenin SPK tarafından onaylanması gerekir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 70,
+        "section": "2.2 Özel Sektör Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g44",
+      "q": "Kira sertifikası türlerinden hangisinde varlık kiralama şirketi, ihraç gelirini kullanarak bir varlık satın alır ve kaynak kuruluşa kiralar?",
+      "options": [
+        "Sahipliğe dayalı kira sertifikası",
+        "Yönetim sözleşmesine dayalı kira sertifikası",
+        "Alım-satıma dayalı kira sertifikası",
+        "Ortaklığa dayalı kira sertifikası",
+        "Eser sözleşmesine dayalı kira sertifikası"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Sahipliğe dayalı kira sertifikasında VKŞ, ihraç gelirini kullanarak varlık satın alır ve kaynak kuruluşa kiralar; kira gelirleri sertifika sahiplerine dağıtılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 77,
+        "section": "2.3 Kira Sertifikası Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g45",
+      "q": "Halka arzda 'ek satış hakkı' (greenshoe opsiyonu) ne anlama gelir?",
+      "options": [
+        "Payların nominal değerin altında satılması",
+        "Halka arz talebinin beklenenden yüksek olması durumunda, belirli bir orana kadar ek pay satışı yapılabilmesi",
+        "Payların geri satın alınması",
+        "Fiyat istikrarı sağlama işlemi",
+        "Ortaklara ek temettü dağıtılması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Ek satış hakkı (greenshoe): halka arz talebinin yüksek olması halinde, belirlenen orana kadar ek pay satışı yapılabilmesine imkan tanıyan opsiyondur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Halka Arzlarda Özellikli Durumlar - Ek Satış"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g46",
+      "q": "Fiyat istikrarını sağlayıcı işlemler en fazla kaç gün sürebilir?",
+      "options": [
+        "15 gün",
+        "20 gün",
+        "30 gün",
+        "45 gün",
+        "60 gün"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Fiyat istikrarını sağlayıcı işlemler payların borsada işlem görmeye başlamasından itibaren en fazla 30 gün sürebilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 44,
+        "section": "1.2.5 Fiyat İstikrarı İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g47",
+      "q": "Aşağıdakilerden hangisi pay sahiplerinin haklarından biri değildir?",
+      "options": [
+        "Kâr payı (temettü) hakkı",
+        "Oy hakkı",
+        "Rüçhan hakkı",
+        "Tasfiye payı hakkı",
+        "Faiz geliri alma hakkı"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": "Faiz geliri alma hakkı borçlanma aracı sahiplerine aittir; pay sahiplerinin hakları kâr payı, oy, rüçhan, tasfiye payı, bilgi alma gibi haklardır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 6,
+        "section": "1.1.1 Pay Sahipliği Hakları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g48",
+      "q": "Adi pay (common stock) sahiplerinin temel hakları arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Oy hakkı",
+        "Kâr payı hakkı",
+        "Tasfiye payı hakkı",
+        "Sabit getiri hakkı",
+        "Bilgi alma hakkı"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Adi pay sahiplerinin sabit getiri hakkı yoktur; kâr payı ortaklığın kârlılığına bağlıdır. Sabit getiri borçlanma araçlarının özelliğidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 6,
+        "section": "1.1.1 Adi Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g49",
+      "q": "Halka açık ortaklıklarda kâr dağıtım politikası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kâr dağıtımı SPK tarafından zorunlu tutulur",
+        "Ortaklıklar kâr dağıtım politikalarını belirleyerek kamuya açıklamak zorundadır",
+        "Kâr dağıtımı yönetim kurulu kararı ile yapılır, genel kurul onayı gerekmez",
+        "Tüm kâr dağıtılmak zorundadır",
+        "Kâr dağıtımı yalnızca nakit olarak yapılabilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıklar kâr dağıtım politikalarını belirleyerek kamuya açıklamak zorundadır (kurumsal yönetim gereği).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 48,
+        "section": "1.2.7 Kâr Dağıtımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g50",
+      "q": "Borçlanma araçlarının pay senetlerinden temel farkı aşağıdakilerden hangisidir?",
+      "options": [
+        "Borçlanma araçları ortaklık hakkı sağlar",
+        "Borçlanma araçları alacaklılık hakkı sağlar ve genellikle sabit veya değişken faiz ödemesi yapar",
+        "Borçlanma araçları oy hakkı verir",
+        "İkisi arasında fark yoktur",
+        "Borçlanma araçları kâr payına katılma hakkı verir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Borçlanma araçları alacaklılık hakkı sağlar (ortaklık hakkı değil) ve genellikle sabit veya değişken faiz ödemesi yapar; vade sonunda anapara iade edilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 60,
+        "section": "2.1 Borçlanma Araçları Genel"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g51",
+      "q": "Tahvilin 'kupon oranı' ne anlama gelir?",
+      "options": [
+        "Tahvilin borsadaki piyasa getirisi",
+        "Tahvilin nominal değeri üzerinden ödenen yıllık faiz oranı",
+        "Tahvilin vade sonu getirisi",
+        "Tahvilin ihraç fiyatı ile nominal değeri arasındaki fark",
+        "Tahvilin enflasyona göre düzeltilmiş getirisi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kupon oranı: tahvilin nominal (yazılı) değeri üzerinden ödenen yıllık faiz oranıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 Tahvil Terimleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g52",
+      "q": "Tahvilin 'itfa tarihi' ne anlama gelir?",
+      "options": [
+        "Tahvilin ilk ihraç edildiği tarih",
+        "Tahvilin borsada işlem görmeye başladığı tarih",
+        "Tahvilin anaparasının (nominal değerinin) yatırımcıya geri ödendiği vade sonu tarihi",
+        "Tahvilin kupon ödeme tarihi",
+        "Tahvilin SPK'ya tescil edildiği tarih"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İtfa tarihi: tahvilin anaparasının (nominal değerinin) yatırımcıya geri ödendiği vade sonu tarihidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 Tahvil Terimleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g53",
+      "q": "Dönüştürülebilir tahvil (convertible bond) sahibine hangi hakkı tanır?",
+      "options": [
+        "Tahvili vadesinden önce nakde çevirme hakkı",
+        "Tahvili belirli koşullarda ihraççının paylarına (hisse senedine) dönüştürme hakkı",
+        "Tahvilin faiz oranını değiştirme hakkı",
+        "Tahvilin vadesini uzatma hakkı",
+        "Tahvili başka bir ihraççının tahvili ile değiştirme hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Dönüştürülebilir tahvil sahibi, belirli koşullarda tahvilini ihraççının paylarına dönüştürme hakkına sahiptir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 72,
+        "section": "2.2 Özel Sektör Borçlanma Araçları - Dönüştürülebilir"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g54",
+      "q": "Aşağıdakilerden hangisi payların borsada işlem görme koşullarından biri değildir?",
+      "options": [
+        "Payların kaydileştirilmiş olması",
+        "İzahnamenin onaylanmış olması",
+        "Şirketin en az 50 yıllık geçmişe sahip olması",
+        "Halka arz koşullarının sağlanmış olması",
+        "Borsa kotasyon şartlarının yerine getirilmiş olması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "50 yıllık geçmiş şartı yoktur. Payların borsada işlem görmesi için kaydileştirme, izahname onayı, halka arz ve kotasyon şartlarının sağlanması gerekir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 12,
+        "section": "1.2.1 Borsada İşlem Görme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g55",
+      "q": "İmtiyazlı paylarda oy hakkı imtiyazı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Halka açık ortaklıklarda oy hakkı imtiyazı sınırlandırılmıştır",
+        "Oy hakkı imtiyazı sınırsızdır",
+        "Oy hakkı imtiyazı yalnızca devlet ortaklıklarında tanınabilir",
+        "Oy hakkı imtiyazı halka açık ortaklıklarda yasaktır",
+        "Oy hakkı imtiyazı otomatik olarak tüm paylara tanınır"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun ve ilgili tebliğler halka açık ortaklıklarda oy hakkı imtiyazını sınırlandırmıştır; bir payın en fazla belirli sayıda oy hakkı tanıyabileceği düzenlenmiştir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 9,
+        "section": "1.1.3 İmtiyazlı Paylar - Oy Hakkı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g56",
+      "q": "Halka açık ortaklıklarda bir payın en fazla kaç oy hakkı tanıyabilir?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "Sınırsız"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıklarda bir paya en fazla 15 oy hakkı tanınabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 9,
+        "section": "1.1.3 İmtiyazlı Paylar - Oy Hakkı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g57",
+      "q": "Halka arz gelirlerinin kullanımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Halka arz gelirleri serbestçe kullanılabilir",
+        "İhraççı, halka arz gelirlerini izahnamede belirtilen şekilde kullanmak zorundadır",
+        "Halka arz gelirleri SPK hesabında tutulur",
+        "Halka arz gelirleri yalnızca yatırım amacıyla kullanılabilir",
+        "Halka arz gelirleri ortaklara dağıtılır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İhraççı, halka arz gelirlerini izahnamede belirtilen amaçlar doğrultusunda kullanmak zorundadır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 18,
+        "section": "1.2.2 Halka Arz Gelirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g58",
+      "q": "Payların 'birincil piyasa'da satışı ne anlama gelir?",
+      "options": [
+        "Payların yatırımcılar arasında el değiştirmesi",
+        "İhraççının payları ilk kez yatırımcılara satması (halka arz)",
+        "Payların borsada işlem görmesi",
+        "Payların geri satın alınması",
+        "Payların tezgahüstü piyasada satılması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Birincil piyasa: ihraççının sermaye piyasası araçlarını ilk kez yatırımcılara sattığı piyasadır (halka arz).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 12,
+        "section": "1.2.1 Birincil ve İkincil Piyasa"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g59",
+      "q": "'İkincil piyasa' ne anlama gelir?",
+      "options": [
+        "İhraççının payları ilk kez sattığı piyasa",
+        "Daha önce ihraç edilmiş sermaye piyasası araçlarının yatırımcılar arasında alınıp satıldığı piyasa",
+        "SPK'nın doğrudan yönettiği piyasa",
+        "Yalnızca kurumsal yatırımcıların işlem yaptığı piyasa",
+        "Kapalı devre satış yapılan piyasa"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İkincil piyasa: daha önce ihraç edilmiş sermaye piyasası araçlarının yatırımcılar arasında alınıp satıldığı piyasadır (borsa).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 12,
+        "section": "1.2.1 Birincil ve İkincil Piyasa"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g60",
+      "q": "Halka arz edilecek payların tahsisinde 'bireysel yatırımcılara' ayrılması gereken pay oranı en az yüzde kaçtır?",
+      "options": [
+        "%10",
+        "%20",
+        "%25",
+        "%50",
+        "%75"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka arzda payların en az %20'sinin bireysel yatırımcılara tahsis edilmesi zorunludur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 15,
+        "section": "1.2.2 Halka Arz - Tahsis"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g61",
+      "q": "Repo işlemi nedir?",
+      "options": [
+        "Menkul kıymetin ödünç verilmesi",
+        "Menkul kıymetin belirli bir tarihte geri satın alma taahhüdüyle satılması (kısa vadeli borçlanma)",
+        "Menkul kıymetin borsadan çıkarılması",
+        "Menkul kıymetin itfa edilmesi",
+        "Menkul kıymetin başka bir araçla değiştirilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Repo (geri satın alma sözleşmesi): menkul kıymetin belirli bir tarihte, belirli bir fiyattan geri satın alma taahhüdüyle satılmasıdır; kısa vadeli borçlanma aracı olarak kullanılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 68,
+        "section": "2.1.4 Repo ve Ters Repo"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g62",
+      "q": "Ters repo işlemi nedir?",
+      "options": [
+        "Menkul kıymetin belirli bir tarihte geri satma taahhüdüyle satın alınması (kısa vadeli yatırım)",
+        "Menkul kıymetin açığa satılması",
+        "Menkul kıymetin borsada satılması",
+        "Menkul kıymetin ödünç alınması",
+        "Menkul kıymetin nominal değerinin düşürülmesi"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Ters repo: menkul kıymetin belirli bir tarihte geri satma taahhüdüyle satın alınmasıdır; kısa vadeli yatırım aracı olarak kullanılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 68,
+        "section": "2.1.4 Repo ve Ters Repo"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g63",
+      "q": "Eurobond nedir?",
+      "options": [
+        "Yalnızca Euro cinsinden ihraç edilen tahvil",
+        "İhraççının kendi ülkesi dışındaki para biriminde ve/veya uluslararası piyasalarda ihraç ettiği borçlanma aracı",
+        "Avrupa Birliği tarafından ihraç edilen tahvil",
+        "Yalnızca Avrupa borsalarında işlem gören tahvil",
+        "TCMB tarafından ihraç edilen döviz cinsli tahvil"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Eurobond: ihraççının kendi ülke piyasası dışındaki uluslararası piyasalarda ve genellikle farklı bir para biriminde ihraç ettiği borçlanma aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 66,
+        "section": "2.1 Uluslararası Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g64",
+      "q": "Varlığa dayalı menkul kıymet (VDMK) nedir?",
+      "options": [
+        "Doğrudan şirket sermayesine dayanan menkul kıymet",
+        "Bir varlık havuzundan (alacaklar, krediler vb.) elde edilen nakit akışlarına dayanan menkul kıymet",
+        "Altına dayalı menkul kıymet",
+        "Devlet garantili tahvil",
+        "Kira sertifikası"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "VDMK: bir varlık havuzundan (tüketici kredileri, alacaklar vb.) elde edilen nakit akışlarına dayanan menkul kıymettir (menkul kıymetleştirme).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 74,
+        "section": "2.2.3 Varlığa Dayalı Menkul Kıymetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g65",
+      "q": "İpoteğe dayalı menkul kıymet (İDMK) ile varlığa dayalı menkul kıymet (VDMK) arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "İDMK'nın dayanak varlığı konut/gayrimenkul ipotekli kredilerdir, VDMK'nın dayanak varlığı daha geniş bir alacak havuzudur",
+        "İkisi arasında fark yoktur",
+        "VDMK yalnızca devlet tarafından ihraç edilir",
+        "İDMK borsada işlem görmez",
+        "İDMK daha kısa vadelidir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "İDMK'nın dayanak varlığı konut veya gayrimenkul ipotekli kredilerdir; VDMK'nın dayanak varlık havuzu daha geniştir (tüketici kredileri, alacaklar vb.).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 74,
+        "section": "2.2.3 VDMK ve İDMK"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g66",
+      "q": "Tahvilin 'vadeye kadar getirisi' (yield to maturity) neyi ifade eder?",
+      "options": [
+        "Yalnızca kupon faiz getirisini",
+        "Tahvilin bugünkü fiyatından satın alınıp vade sonuna kadar tutulması halinde elde edilecek toplam yıllık getiriyi",
+        "Tahvilin nominal değerini",
+        "Tahvilin piyasa fiyatını",
+        "Yalnızca sermaye kazancını"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Vadeye kadar getiri: tahvilin bugünkü piyasa fiyatından alınıp vade sonuna kadar tutulması halinde tüm kupon ödemeleri ve anapara geri ödemesi dahil elde edilecek toplam yıllık getiridir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 Tahvil Getiri Kavramları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g67",
+      "q": "Tahvil fiyatı ile piyasa faiz oranı arasındaki ilişki aşağıdakilerden hangisidir?",
+      "options": [
+        "Faiz oranı arttığında tahvil fiyatı da artar",
+        "Faiz oranı arttığında tahvil fiyatı düşer (ters yönlü ilişki)",
+        "İkisi arasında ilişki yoktur",
+        "Faiz oranı sabitken tahvil fiyatı değişmez",
+        "Faiz artarsa yalnızca kısa vadeli tahvillerin fiyatı düşer"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Tahvil fiyatı ile piyasa faiz oranı arasında ters yönlü bir ilişki vardır: faiz oranları arttığında tahvil fiyatları düşer, faiz oranları düştüğünde tahvil fiyatları yükselir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 64,
+        "section": "2.1.2 Tahvil Fiyatlaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g68",
+      "q": "Nominal değerin altında pay ihracı yapılabilmesi için aşağıdaki şartlardan hangisi gereklidir?",
+      "options": [
+        "Ortaklığın paylarının borsada işlem görmesi gerekir",
+        "Ortaklığın halka kapalı olması gerekir",
+        "SPK onayı gerekmez",
+        "Herhangi bir ortaklık yapabilir",
+        "Yalnızca devlet ortaklıkları yapabilir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Nominal değerin altında pay ihracı ancak payları borsada işlem gören ortaklıklar tarafından yapılabilir; borsada işlem görmeyen ortaklıklar nominalin altında ihraç yapamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 42,
+        "section": "1.2.5 Nominal Değerin Altında İhraç"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g69",
+      "q": "Sertifika (yatırım kuruluşu sertifikası) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Sertifika bir ortaklık hakkı verir",
+        "Sertifika bir borçlanma aracıdır",
+        "Sahibine belirli bir dayanak varlığın performansına katılma hakkı veren, ihraççının geri ödeme yükümlülüğü altında olduğu araçtır",
+        "Sertifika yalnızca pay senetleri için ihraç edilebilir",
+        "Sertifika ve varant aynı şeydir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yatırım kuruluşu sertifikası: sahibine belirli bir dayanak varlığın performansına katılma hakkı veren, ihraççının geri ödeme yükümlülüğü altında olduğu sermaye piyasası aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 82,
+        "section": "2.5 Yatırım Kuruluşu Sertifikaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g70",
+      "q": "Halka açık ortaklıklarda geri alınan paylar (treasury stock) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Geri alınan paylar oy hakkı kullanılarak genel kurulda temsil edilir",
+        "Geri alınan paylara kâr payı ödenir",
+        "Geri alınan payların oy hakkı ve kâr payı hakkı donmuştur (kullanılamaz)",
+        "Geri alınan paylar derhal itfa edilmelidir",
+        "Şirketler kendi paylarını geri alamaz"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Şirketin geri satın aldığı kendi paylarının (treasury stock) oy hakkı ve kâr payı hakkı donmuş durumdadır ve kullanılamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 50,
+        "section": "1.2.7 Geri Alınan Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g71",
+      "q": "Halka açık ortaklıklar kendi paylarını geri satın alırken aşağıdaki sınırlamalardan hangisi geçerlidir?",
+      "options": [
+        "Geri alınan payların toplam nominal değeri ödenmiş sermayenin %10'unu aşamaz",
+        "Geri alım sınırsızdır",
+        "Geri alınan paylar ödenmiş sermayenin %50'sini aşamaz",
+        "Geri alım yalnızca yönetim kurulu kararıyla yapılabilir",
+        "Geri alınan payların toplam nominal değeri ödenmiş sermayenin %25'ini aşamaz"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıkların geri satın aldığı payların toplam nominal değeri, ödenmiş veya çıkarılmış sermayenin %10'unu aşamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 50,
+        "section": "1.2.7 Geri Alınan Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g72",
+      "q": "Halka arz edilecek payların SPK tarafından onaylanan izahname kapsamında satışı en geç kaç iş günü içinde tamamlanmalıdır?",
+      "options": [
+        "2 iş günü",
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü",
+        "30 iş günü"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Halka arz satış süresi 2 iş günüdür (talep toplamada).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 15,
+        "section": "1.2.2 Halka Arz Satış Süresi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g73",
+      "q": "Fiyat Tespit Raporu (FTR) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Payların halka arz fiyatının belirlenmesi amacıyla aracı kurum tarafından hazırlanır ve KAP'ta ilan edilir",
+        "SPK tarafından hazırlanır",
+        "Yalnızca ikincil halka arzlarda düzenlenir",
+        "Sadece tahvil ihraçlarında gereklidir",
+        "KAP'ta ilan zorunluluğu yoktur"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Fiyat Tespit Raporu, halka arz fiyatının belirlenmesi için konsorsiyum lideri aracı kurum tarafından hazırlanır ve halka arzdan en az 3 gün önce KAP'ta ilan edilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Fiyat Tespit Raporu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g74",
+      "q": "Değerlendirme Raporu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Halka arz öncesinde bir kez hazırlanır",
+        "Fiyat tespit raporunu hazırlayan aracı kurum tarafından payların borsada işlem görmeye başlamasından sonra yılda en az 2 kez hazırlanır",
+        "SPK tarafından hazırlanır",
+        "Yalnızca tahvil ihraçlarında gereklidir",
+        "İsteğe bağlıdır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Değerlendirme Raporu: payların borsada işlem görmeye başlamasından sonra, fiyat tespit raporunu hazırlayan aracı kurum tarafından yılda en az 2 kez hazırlanır; halka arz fiyatı ile borsa fiyatı arasındaki fark değerlendirilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Değerlendirme Raporu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g75",
+      "q": "Bedelsiz sermaye artırımında mevcut pay sahiplerinin yeni pay alma (rüçhan) hakkı var mıdır?",
+      "options": [
+        "Evet, payları oranında bedelsiz pay alırlar",
+        "Hayır, rüçhan hakkı yoktur",
+        "Yalnızca imtiyazlı pay sahipleri alabilir",
+        "Yalnızca %5 üzeri ortaklar alabilir",
+        "Yeni pay satışı yapılır"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Bedelsiz sermaye artırımında mevcut pay sahipleri, sahip oldukları paylar oranında yeni çıkarılan payları bedelsiz olarak alır; rüçhan hakkı otomatik olarak kullanılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 30,
+        "section": "1.2.3 Bedelsiz Sermaye Artırımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g76",
+      "q": "Aşağıdakilerden hangisi borçlanma aracı türlerinden biri değildir?",
+      "options": [
+        "Tahvil",
+        "Finansman bonosu",
+        "Banka bonosu",
+        "Katılma intifa senedi",
+        "Kira sertifikası"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "KİS bir borçlanma aracı değildir; ortaklık hakkı vermemekle birlikte kâra katılma hakkı tanıyan özel bir araçtır. Tahvil, finansman bonosu, banka bonosu ve kira sertifikası borçlanma araçlarıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 60,
+        "section": "2. Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g77",
+      "q": "Finansman bonosunun tahvilden temel farkı aşağıdakilerden hangisidir?",
+      "options": [
+        "Finansman bonosu uzun vadelidir",
+        "Finansman bonosu kısa vadeli borçlanma aracıdır (vadesi genellikle 1 yıla kadar)",
+        "Finansman bonosu devlet tarafından ihraç edilir",
+        "İkisi arasında fark yoktur",
+        "Finansman bonosu faiz ödemez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Finansman bonosu kısa vadeli borçlanma aracıdır; tahvil ise uzun vadeli borçlanma aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 71,
+        "section": "2.2 Finansman Bonosu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g78",
+      "q": "Banka bonosu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yalnızca aracı kurumlar tarafından ihraç edilir",
+        "Bankalar tarafından ihraç edilen borçlanma aracıdır",
+        "Devlet tarafından ihraç edilen kısa vadeli araçtır",
+        "Mevduat ile aynı şeydir",
+        "SPK izni gerekmez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Banka bonosu, kalkınma ve yatırım bankaları veya mevduat bankalarının ihraç ettiği borçlanma aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 72,
+        "section": "2.2 Banka Bonosu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g79",
+      "q": "Kira sertifikası türlerinden 'yönetim sözleşmesine dayalı' kira sertifikasında varlık kiralama şirketi ne yapar?",
+      "options": [
+        "Varlık satın alıp kiralar",
+        "İhraç gelirini bir varlığın yönetimi karşılığında kaynak kuruluşa aktarır",
+        "Gayrimenkul inşa eder",
+        "Ortak girişim kurar",
+        "Varlık alıp satar"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yönetim sözleşmesine dayalı kira sertifikasında VKŞ, ihraç gelirini bir varlığın yönetimi karşılığında kaynak kuruluşa aktarır ve yönetimden elde edilen gelir sertifika sahiplerine dağıtılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 77,
+        "section": "2.3 Kira Sertifikası Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g80",
+      "q": "Aşağıdakilerden hangisi 'pay senedinin' sağladığı haklardan biri değildir?",
+      "options": [
+        "Genel kurula katılma hakkı",
+        "Oy kullanma hakkı",
+        "Kâr payı alma hakkı",
+        "Vade sonunda anapara geri alma hakkı",
+        "Bilgi alma ve inceleme hakkı"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Vade sonunda anapara geri alma hakkı borçlanma araçlarının özelliğidir; pay senetleri vade taşımaz ve anapara iade garantisi yoktur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 6,
+        "section": "1.1.1 Pay Sahipliği Hakları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g81",
+      "q": "Halka arz fiyatının tespitinde aşağıdaki yöntemlerden hangisi kullanılmaz?",
+      "options": [
+        "İndirgenmiş nakit akışları yöntemi",
+        "Çarpan (karşılaştırmalı) analizi",
+        "Net aktif değer yöntemi",
+        "Astrolojik analiz yöntemi",
+        "Emsal şirket karşılaştırması"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Astrolojik analiz bir değerleme yöntemi değildir. Halka arz fiyatlamasında indirgenmiş nakit akışları, çarpan analizi, net aktif değer gibi yöntemler kullanılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 13,
+        "section": "1.2.2 Fiyat Tespit Raporu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g82",
+      "q": "İmtiyazlı pay sahiplerinin haklarını kısıtlayan yönetim kurulu kararları için aşağıdakilerden hangisi gereklidir?",
+      "options": [
+        "Yalnızca yönetim kurulu çoğunluğu yeterlidir",
+        "İmtiyazlı pay sahipleri özel kurulunun da onayı gerekir",
+        "SPK'nın doğrudan onayı gerekir",
+        "İmtiyazlı pay sahiplerinin onayı gerekmez",
+        "Mahkeme kararı gerekir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İmtiyazlı pay sahiplerinin haklarını kısıtlayan genel kurul veya yönetim kurulu kararları, imtiyazlı pay sahipleri özel kurulunun onayına tabidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 10,
+        "section": "1.1.3 İmtiyazlı Paylar - Koruma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g83",
+      "q": "Tahvilin 'nominal değeri' (face value / par value) ne anlama gelir?",
+      "options": [
+        "Tahvilin borsadaki piyasa fiyatı",
+        "Tahvil senedinin üzerinde yazılı olan ve vade sonunda yatırımcıya geri ödenecek tutar",
+        "Tahvilin ihraç fiyatı",
+        "Tahvilin kupon ödemesi",
+        "Tahvilin getirisi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Nominal değer (par value): tahvil senedinin üzerinde yazılı olan ve vade sonunda (itfa tarihinde) yatırımcıya geri ödenecek tutardır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 63,
+        "section": "2.1.2 Tahvil Terimleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g84",
+      "q": "Aşağıdakilerden hangisi faiz oranı riski ile ilgili doğru bir ifadedir?",
+      "options": [
+        "Faiz oranı riski yalnızca pay senetlerini etkiler",
+        "Piyasa faiz oranlarındaki değişimlerin tahvil fiyatları üzerindeki etkisidir; vade uzadıkça faiz oranı riski artar",
+        "Faiz oranı riski tahvilleri etkilemez",
+        "Kısa vadeli tahviller daha fazla faiz oranı riskine sahiptir",
+        "Faiz oranı riski devlet tahvillerini etkilemez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Faiz oranı riski: piyasa faiz oranlarındaki değişimlerin tahvil fiyatları üzerindeki etkisidir. Vade uzadıkça faiz oranına duyarlılık (ve dolayısıyla risk) artar.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 64,
+        "section": "2.1.2 Tahvil Riskleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g85",
+      "q": "Oydan yoksun paylara tanınan kâr payı imtiyazı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "OYP sahiplerine adi pay sahiplerinden önce ve daha yüksek oranda kâr payı dağıtılır",
+        "OYP sahipleri kâr payı alamaz",
+        "OYP sahipleri adi pay sahipleri ile aynı oranda kâr payı alır",
+        "OYP sahipleri yalnızca tasfiye halinde kâr payı alır",
+        "OYP sahiplerine kâr payı imtiyazı tanınamaz"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Oydan yoksun pay sahiplerine, oy hakkından vazgeçme karşılığında, adi pay sahiplerinden önce ve daha yüksek oranda kâr payı alma imtiyazı tanınır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 52,
+        "section": "1.2.8 Oydan Yoksun Paylar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g86",
+      "q": "Aşağıdakilerden hangisi kira sertifikasının (sukuk) geleneksel tahvilden temel farkıdır?",
+      "options": [
+        "Kira sertifikası daha kısa vadelidir",
+        "Kira sertifikası faizsiz finans prensiplerine uygundur ve varlığa dayalıdır; tahvil faize dayalı bir borçlanma aracıdır",
+        "Kira sertifikası devlet tarafından ihraç edilir",
+        "İkisi arasında fark yoktur",
+        "Kira sertifikası borsada işlem göremez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kira sertifikası faizsiz finans prensiplerine uygun ve dayanak varlığın getirisine dayalıdır; tahvil ise faize dayalı bir borçlanma aracıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 76,
+        "section": "2.3 Kira Sertifikaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g87",
+      "q": "Pay sahiplerinin şirkete ortak sıfatıyla sahip olduğu 'bilgi alma ve inceleme hakkı' kapsamında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Şirketin tüm ticari sırlarına erişim",
+        "Finansal tabloları, yıllık faaliyet raporlarını ve denetim raporlarını inceleme hakkı",
+        "Yönetim kurulu üyelerinin kişisel hesaplarını inceleme hakkı",
+        "Rakip şirketlerin bilgilerine erişim",
+        "SPK'nın gizli kararlarını görme hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Pay sahiplerinin bilgi alma hakkı kapsamında finansal tablolar, yıllık faaliyet raporları ve bağımsız denetim raporlarını inceleme hakkı bulunur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 Pay Sahipliği Hakları - Bilgi Alma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g88",
+      "q": "'Tasfiye payı' hakkı ne anlama gelir?",
+      "options": [
+        "Şirketin kâr dağıtımından pay alma hakkı",
+        "Şirketin tasfiye edilmesi (sona ermesi) halinde borçlar ödendikten sonra kalan varlıklardan pay alma hakkı",
+        "Borsada öncelikli işlem yapma hakkı",
+        "Oy kullanma hakkı",
+        "Rüçhan hakkı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Tasfiye payı hakkı: şirketin tasfiye edilmesi durumunda, tüm borçlar ödendikten sonra kalan net varlıklardan pay sahiplerinin payları oranında pay alma hakkıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 Pay Sahipliği Hakları - Tasfiye Payı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g89",
+      "q": "Halka açık ortaklıklarda önemli miktarda pay edinimi veya elden çıkarma durumunda aşağıdaki eşiklerden hangisinde kamuya açıklama zorunluluğu doğar?",
+      "options": [
+        "%1",
+        "%5",
+        "%10",
+        "%25",
+        "%51"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıklarda %5, %10, %15, %20, %25, %33, %50, %67 ve %95 eşiklerinde pay edinimi veya elden çıkarma KAP'a bildirilir. İlk eşik %5'tir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 47,
+        "section": "1.2.7 Pay Bildirimi Yükümlülükleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g90",
+      "q": "Varant ve sertifika arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Varant yalnızca alım hakkı verir, sertifika yalnızca satım hakkı verir",
+        "Varant sahibine alma veya satma hakkı verir (opsiyon niteliği); sertifika doğrudan dayanak varlığın getirisine katılma hakkı verir",
+        "İkisi arasında fark yoktur",
+        "Sertifika borsada işlem görmez",
+        "Varant yalnızca endekslere dayalı çıkarılabilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Varant opsiyon niteliğinde bir araçtır (alma/satma hakkı); sertifika ise dayanak varlığın performansına doğrudan katılma imkanı sunar.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 82,
+        "section": "2.4-2.5 Varant ve Sertifika Farkları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g91",
+      "q": "Tahvil temerrüt riski (kredi riski) ne anlama gelir?",
+      "options": [
+        "Tahvilin borsada işlem görmeme riski",
+        "İhraççının anapara veya faiz ödemelerini zamanında ve tam olarak yapamama riski",
+        "Faiz oranlarının artma riski",
+        "Enflasyonun artma riski",
+        "Döviz kurunun değişme riski"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Temerrüt (kredi) riski: ihraççının anapara ve/veya faiz ödemelerini zamanında ve tam olarak yapamama ihtimalidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 64,
+        "section": "2.1.2 Tahvil Riskleri - Kredi Riski"
+      },
+      "verified": true,
+      "flag": null
+    }
   ]
 }

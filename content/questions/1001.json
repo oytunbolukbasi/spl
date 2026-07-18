@@ -4,82 +4,2502 @@
   "questions": [
     {
       "id": "1001-28",
-      "q": "“Sermaye piyasası çalışanı, sermaye piyasasının sürekli değişim ve gelişim içinde olduğunun farkındadır, bilgi ve becerilerini güncel tutmak ve geliştirmek için çaba sarf eder.” Bu hangi sermaye piyasası çalışanı ilkesi gereğidir?",
-      "options": ["Çıkar Çatışması", "Müşteri Menfaati", "Mevzuatı Bilme", "Sürekli Gelişim", "Dürüstlük"],
-      "answer": 3, "keyAnswer": "D",
-      "explanation": "TSPB Etik İlkeleri arasında “Sürekli Gelişim” ilkesi birebir bu ifadeyle tanımlanır.",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.4 Sürekli Gelişim İlkesi" }, "verified": true, "flag": null
+      "q": "\"Sermaye piyasası çalışanı, sermaye piyasasının sürekli değişim ve gelişim içinde olduğunun farkındadır, bilgi ve becerilerini güncel tutmak ve geliştirmek için çaba sarf eder.\" Bu hangi sermaye piyasası çalışanı ilkesi gereğidir?",
+      "options": [
+        "Çıkar Çatışması",
+        "Müşteri Menfaati",
+        "Mevzuatı Bilme",
+        "Sürekli Gelişim",
+        "Dürüstlük"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "TSPB Etik İlkeleri arasında \"Sürekli Gelişim\" ilkesi birebir bu ifadeyle tanımlanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.4 Sürekli Gelişim İlkesi"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1001-etik-sir",
       "q": "Sermaye piyasası çalışanının, çalıştığı kurum ve müşterileri hakkında öğrendiği sırları açıklamaması ve bunları kendisinin veya üçüncü kişilerin menfaatine kullanmaması hangi etik ilke gereğidir?",
-      "options": ["Temel İlke", "Özen ve Titizlik", "Sır Saklama", "Bağımsızlık", "Etik Düşünme"],
-      "answer": 2, "keyAnswer": null,
-      "explanation": "TSPB Etik İlkeleri listesinde “Sır Saklama” ilkesi tam olarak bu şekilde tanımlanır.",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.5 Sır Saklama İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+      "options": [
+        "Temel İlke",
+        "Özen ve Titizlik",
+        "Sır Saklama",
+        "Bağımsızlık",
+        "Etik Düşünme"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "TSPB Etik İlkeleri listesinde \"Sır Saklama\" ilkesi tam olarak bu şekilde tanımlanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.5 Sır Saklama İlkesi"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1001-etik-ozen",
-      "q": "“Sermaye piyasası çalışanı, çalışmalarında ve kararlarında dikkatli ve basiretli bir kişinin aynı koşullar altında ayrıntılara vereceği önemi verir.” Bu tanım hangi etik ilkeye aittir?",
-      "options": ["Sürekli Gelişim", "Özen ve Titizlik", "Temel İlke", "Sır Saklama", "Adillik"],
-      "answer": 1, "keyAnswer": null,
-      "explanation": "Ders notundaki “Özen ve Titizlik” ilkesi bu ifadeyle tanımlanır.",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.3 Özen ve Titizlik İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi."
+      "q": "\"Sermaye piyasası çalışanı, çalışmalarında ve kararlarında dikkatli ve basiretli bir kişinin aynı koşullar altında ayrıntılara vereceği önemi verir.\" Bu tanım hangi etik ilkeye aittir?",
+      "options": [
+        "Sürekli Gelişim",
+        "Özen ve Titizlik",
+        "Temel İlke",
+        "Sır Saklama",
+        "Adillik"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Ders notundaki \"Özen ve Titizlik\" ilkesi bu ifadeyle tanımlanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.3 Özen ve Titizlik İlkesi"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1001-etik-adillik",
       "q": "Sermaye piyasası çalışanının müşteri ayrımı yapmaksızın her müşteriye eşit şekilde davranması, sermaye piyasasının onurunu ve müşterilerinin çıkarlarını kişisel çıkarlarının üstünde tutması hangi ilke kapsamındadır?",
-      "options": ["Bağımsızlık, Dürüstlük ve Adillik", "Sürekli Gelişim", "Sır Saklama", "Etik Düşünme", "Özen ve Titizlik"],
-      "answer": 0, "keyAnswer": null,
-      "explanation": "“Bağımsızlık, Dürüstlük ve Adillik” ilkesi; müşteri çıkarlarını kişisel çıkarın üstünde tutmayı ve müşteri ayrımı yapmadan eşit davranmayı kapsar.",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi."
+      "options": [
+        "Bağımsızlık, Dürüstlük ve Adillik",
+        "Sürekli Gelişim",
+        "Sır Saklama",
+        "Etik Düşünme",
+        "Özen ve Titizlik"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "\"Bağımsızlık, Dürüstlük ve Adillik\" ilkesi; müşteri çıkarlarını kişisel çıkarın üstünde tutmayı ve müşteri ayrımı yapmadan eşit davranmayı kapsar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi"
+      },
+      "verified": true,
+      "flag": null
     },
-
-    { "id": "1001-7", "q": "Fon sepeti şemsiye fonu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["Fon sepeti fonu portföyüne alınan fon katılma paylarının sayısı, yatırım yapılan fonun katılma payı sayısının %25'ini aşamaz.", "Fon sepeti fonunda yer alan serbest fonlara ait katılma paylarının değeri, fon toplam değerinin %10'unu geçemez.", "Borsa yatırım fonlarına yatırım yapabilir.", "Aynı türdeki diğer fon sepeti fonlarına yatırım yapabilir.", "Tek bir fona ait katılma paylarının değeri fon sepeti fonunun toplam değerinin %20'sini aşamaz"], "answer": 3, "keyAnswer": null,
+    {
+      "id": "1001-7",
+      "q": "Fon sepeti şemsiye fonu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Fon sepeti fonu portföyüne alınan fon katılma paylarının sayısı, yatırım yapılan fonun katılma payı sayısının %25'ini aşamaz.",
+        "Fon sepeti fonunda yer alan serbest fonlara ait katılma paylarının değeri, fon toplam değerinin %10'unu geçemez.",
+        "Borsa yatırım fonlarına yatırım yapabilir.",
+        "Aynı türdeki diğer fon sepeti fonlarına yatırım yapabilir.",
+        "Tek bir fona ait katılma paylarının değeri fon sepeti fonunun toplam değerinin %20'sini aşamaz"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
       "explanation": "Fon sepeti fonu, başka bir fon sepeti fonuna yatırım yapamaz; bu ifade yanlıştır.",
-      "source": { "pdf": "1001-notes.pdf", "page": 143, "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği" }, "verified": true, "flag": null },
-    { "id": "1001-10", "q": "Aşağıdakilerden hangisi yapılandırılmış menkul kıymetlerden biri değildir?",
-      "options": ["Kredi riski swapı", "Teminatlandırılmış borç yükümlülükleri", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "İpoteğe dayalı menkul kıymet"], "answer": 3, "keyAnswer": null,
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 143,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-10",
+      "q": "Aşağıdakilerden hangisi yapılandırılmış menkul kıymetlerden biri değildir?",
+      "options": [
+        "Kredi riski swapı",
+        "Teminatlandırılmış borç yükümlülükleri",
+        "Varlığa veya ipoteğe dayalı menkul kıymetler",
+        "Katılma İntifa Senetleri",
+        "İpoteğe dayalı menkul kıymet"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
       "explanation": "Katılma İntifa Senetleri (KİS) yapılandırılmış bir menkul kıymet değildir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" }, "verified": true, "flag": null },
-    { "id": "1001-11", "q": "Aşağıdakilerden hangisi aracı kurumların kuruluşuna kurulca izin verilebilmesi için gerekli şartlarından biri değildir?",
-      "options": ["Anonim ortaklık şeklinde kurulması", "Payların tamamının nama yazılı olması", "Payların nakit karşılığı çıkartılmış olması", "Lider ortakların bankalardan oluşması", "Ortaklık yapısının şeffaf ve açık olması"], "answer": 3, "keyAnswer": null,
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-11",
+      "q": "Aşağıdakilerden hangisi aracı kurumların kuruluşuna kurulca izin verilebilmesi için gerekli şartlarından biri değildir?",
+      "options": [
+        "Anonim ortaklık şeklinde kurulması",
+        "Payların tamamının nama yazılı olması",
+        "Payların nakit karşılığı çıkartılmış olması",
+        "Lider ortakların bankalardan oluşması",
+        "Ortaklık yapısının şeffaf ve açık olması"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
       "explanation": "Lider ortakların bankalardan oluşması aracı kurum kuruluşu için aranan bir şart değildir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": true, "flag": null },
-    { "id": "1001-12", "q": "Aşağıdakilerden hangisi Bilgi Suistimali ve Piyasa Dolandırıcılığı İncelemelerinde SPK'nın alabileceği tedbirler arasında yer almaz?",
-      "options": ["Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması", "Takas yöntemlerinin değiştirilmesi", "Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi", "Teminat yükümlülüğü getirilmesi veya yükümlülüğün değiştirilmesi", "Kurul sorumlu kişilere adli para cezası uygular."], "answer": 4, "keyAnswer": null,
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-12",
+      "q": "Aşağıdakilerden hangisi Bilgi Suistimali ve Piyasa Dolandırıcılığı İncelemelerinde SPK'nın alabileceği tedbirler arasında yer almaz?",
+      "options": [
+        "Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması",
+        "Takas yöntemlerinin değiştirilmesi",
+        "Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi",
+        "Teminat yükümlülüğü getirilmesi veya yükümlülüğün değiştirilmesi",
+        "Kurul sorumlu kişilere adli para cezası uygular."
+      ],
+      "answer": 4,
+      "keyAnswer": null,
       "explanation": "Adli para cezasını SPK değil mahkemeler verir; bu bir SPK tedbiri değildir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" }, "verified": true, "flag": null },
-    { "id": "1001-13", "q": "Fonlar, Kurul'un ilgili düzenlemeleri çerçevesinde yapılacak bir sözleşme ile herhangi bir anda portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla % kaçı tutarında sermaye piyasası araçlarını ödünç verebilir?",
-      "options": ["50", "60", "75", "90", "100"], "answer": 0, "keyAnswer": null,
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn - Tedbirler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-13",
+      "q": "Fonlar, Kurul'un ilgili düzenlemeleri çerçevesinde yapılacak bir sözleşme ile herhangi bir anda portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla % kaçı tutarında sermaye piyasası araçlarını ödünç verebilir?",
+      "options": [
+        "50",
+        "60",
+        "75",
+        "90",
+        "100"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
       "explanation": "Fonlar portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla %50'si tutarında ödünç verebilir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 143, "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği" }, "verified": true, "flag": null },
-    { "id": "1001-30", "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasası Birliği'ne üye olmaz?",
-      "options": ["Aracı kurumlar", "Bankalar", "Gayrimenkul yatırım ortaklıkları", "Portföy yönetim şirketleri", "Varlık kiralama şirketleri"], "answer": 4, "keyAnswer": "E",
-      "explanation": "Varlık kiralama şirketleri TSPB'ye üye olmaz; sermaye piyasasında faaliyet gösteren aracı kurum, banka, portföy yönetim şirketi vb. üye olur.",
-      "source": { "pdf": "1001-notes.pdf", "page": 176, "section": "1.3.1 TSPB Üyelerinin Meslek Kuralları" }, "verified": true, "flag": null },
-    { "id": "1001-31", "q": "Aşağıdakilerden hangisi doğrudan işletme finansmanına dayalı menkul kıymetlerden biri değildir?",
-      "options": ["Borçlanma araçları ile ilgili depo sertifikası", "Paylar", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "Kar zarar ortaklığı belgesi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 143,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-30",
+      "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasası Birliği'ne üye olmaz?",
+      "options": [
+        "Aracı kurumlar",
+        "Bankalar",
+        "Gayrimenkul yatırım ortaklıkları",
+        "Portföy yönetim şirketleri",
+        "Varlık kiralama şirketleri"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Varlık kiralama şirketleri TSPB'ye üye olmaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 176,
+        "section": "1.3.1 TSPB Üyelerinin Meslek Kuralları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-31",
+      "q": "Aşağıdakilerden hangisi doğrudan işletme finansmanına dayalı menkul kıymetlerden biri değildir?",
+      "options": [
+        "Borçlanma araçları ile ilgili depo sertifikası",
+        "Paylar",
+        "Varlığa veya ipoteğe dayalı menkul kıymetler",
+        "Katılma İntifa Senetleri",
+        "Kar zarar ortaklığı belgesi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Varlığa veya ipoteğe dayalı menkul kıymetler bir varlık havuzuna dayanır; doğrudan işletme finansmanına dayalı değildir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" }, "verified": true, "flag": null },
-    { "id": "1001-32", "q": "Sermaye piyasası kurumlarının mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, aşağıdakilerden hangisi Kurul tarafından alınabilecek tedbirlerden biri değildir?",
-      "options": ["Kurumların faaliyetlerini geçici olarak durdurmak", "Yatırımcıları tazmin kararı vermek", "Piyasa verilerinin dağıtım kapsamını sınırlandırmak", "Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemek", "Sorumluluğu tespit edilen yöneticilerin ve çalışanların sahip oldukları lisansları geçici veya sürekli olarak iptal etmek"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-32",
+      "q": "Sermaye piyasası kurumlarının mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, aşağıdakilerden hangisi Kurul tarafından alınabilecek tedbirlerden biri değildir?",
+      "options": [
+        "Kurumların faaliyetlerini geçici olarak durdurmak",
+        "Yatırımcıları tazmin kararı vermek",
+        "Piyasa verilerinin dağıtım kapsamını sınırlandırmak",
+        "Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemek",
+        "Sorumluluğu tespit edilen yöneticilerin ve çalışanların sahip oldukları lisansları geçici veya sürekli olarak iptal etmek"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Piyasa verilerinin dağıtım kapsamını sınırlandırmak bu kapsamda alınacak bir tedbir değildir.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" }, "verified": true, "flag": null },
-    { "id": "1001-33", "q": "“Piyasa İşleticisi”nin tanımı aşağıdaki ifadelerden hangisinde doğru verilmiştir?",
-      "options": ["Sermaye piyasalarının alım satımının yapıldığı piyasadır.", "Borsayı veya borsanın piyasalarını yöneten ve işleten anonim ortaklıklardır.", "Sermaye piyasalarının işleyişini sağlamak amacıyla kurulmuş olan anonim ortaklıktır.", "Sermaye piyasası araçlarının kaydileştirme görevini yerine getiren anonim ortaklıktır.", "Borsanın denetimini üstlenmiş olan kuruluştur."], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn - Tedbirler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-33",
+      "q": "\"Piyasa İşleticisi\"nin tanımı aşağıdaki ifadelerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Sermaye piyasalarının alım satımının yapıldığı piyasadır.",
+        "Borsayı veya borsanın piyasalarını yöneten ve işleten anonim ortaklıklardır.",
+        "Sermaye piyasalarının işleyişini sağlamak amacıyla kurulmuş olan anonim ortaklıktır.",
+        "Sermaye piyasası araçlarının kaydileştirme görevini yerine getiren anonim ortaklıktır.",
+        "Borsanın denetimini üstlenmiş olan kuruluştur."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Piyasa işleticisi, borsayı veya borsanın piyasalarını yöneten ve/veya işleten anonim ortaklıktır.",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tanımlar" }, "verified": true, "flag": "Orijinal bankada şık etiketleri hatalıydı; A-E olarak düzeltildi." },
-
-    { "id": "1001-8", "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu'nun bağımsız denetim isteyeceği durumlardan biri değildir?",
-      "options": ["İhraççı halka arz yapmak istediğinde", "İhraççı paya dayalı kitle fonlaması faaliyeti yaptığında", "İhraççının Borsada işlem görme başvurusunda", "Önemli nitelikli işlemlerde", "Ortaklığın faaliyetlerini ve finansal durumunu önemli derecede etkileyen olay ve gelişmelerde."], "answer": 1, "keyAnswer": "B",
-      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1001-9", "q": "Aşağıdakilerden hangisi kayıtlı sermaye sisteminde yönetim kurulunun karar alabileceği durumlardan biri değildir?",
-      "options": ["Pay sahiplerinin yeni pay alma haklarının sınırlandırılması", "İmtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması", "Müfettiş görevlendirmelerini yapmak", "İmtiyazlı pay çıkarılması", "Nominal değerin üzerinde pay çıkarılması"], "answer": 2, "keyAnswer": "C",
-      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
-    { "id": "1001-29", "q": "Borsada işlem gören HAO ile bunların bağlı ortaklıkların teminat, rehin, ipotek ve kefalet vermeleri ile ilgili hangisi yanlıştır?",
-      "options": ["Payları borsada işlem gören halka açık ortaklıklar kendi tüzel kişilikleri lehine rehin ve ipotek verebilir.", "Payları borsada işlem gören halka açık ortaklıklar finansal tablolarında tam konsolidasyon kapsamına dahil ettikleri ortaklıklar lehine kefalet verebilirler.", "Üçüncü kişiler lehine verilen teminat, rehin, ipotek ve kefaletler ile elde edilen gelir veya menfaatlere olağan genel kurul toplantısı gündeminde ayrı bir madde olarak yer verilir.", "Halka kapalı bağlı ortaklıkların halka açık ana ortaklığı lehine Teminat, Rehin, İpotek ve teminat veremez.", "Paylarını ilk defa halka arz edilmek için Kurul'a başvuran ortaklıkların Kurumsal yönetim düzenlemelerine aykırı mevcut ipotek ve kefaletlerinin mevcut olması halinde Kurul belli bir süre içinde sıfırlanmasını ister."], "answer": 3, "keyAnswer": "D",
-      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 99, "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." }
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-8",
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu'nun bağımsız denetim isteyeceği durumlardan biri değildir?",
+      "options": [
+        "İhraççı halka arz yapmak istediğinde",
+        "İhraççı paya dayalı kitle fonlaması faaliyeti yaptığında",
+        "İhraççının Borsada işlem görme başvurusunda",
+        "Önemli nitelikli işlemlerde",
+        "Ortaklığın faaliyetlerini ve finansal durumunu önemli derecede etkileyen olay ve gelişmelerde."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-9",
+      "q": "Aşağıdakilerden hangisi kayıtlı sermaye sisteminde yönetim kurulunun karar alabileceği durumlardan biri değildir?",
+      "options": [
+        "Pay sahiplerinin yeni pay alma haklarının sınırlandırılması",
+        "İmtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması",
+        "Müfettiş görevlendirmelerini yapmak",
+        "İmtiyazlı pay çıkarılması",
+        "Nominal değerin üzerinde pay çıkarılması"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 10,
+        "section": "1.1.4 6362 sayılı SPKn"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-29",
+      "q": "Borsada işlem gören HAO ile bunların bağlı ortaklıkların teminat, rehin, ipotek ve kefalet vermeleri ile ilgili hangisi yanlıştır?",
+      "options": [
+        "Payları borsada işlem gören halka açık ortaklıklar kendi tüzel kişilikleri lehine rehin ve ipotek verebilir.",
+        "Payları borsada işlem gören halka açık ortaklıklar finansal tablolarında tam konsolidasyon kapsamına dahil ettikleri ortaklıklar lehine kefalet verebilirler.",
+        "Üçüncü kişiler lehine verilen teminat, rehin, ipotek ve kefaletler ile elde edilen gelir veya menfaatlere olağan genel kurul toplantısı gündeminde ayrı bir madde olarak yer verilir.",
+        "Halka kapalı bağlı ortaklıkların halka açık ana ortaklığı lehine Teminat, Rehin, İpotek ve teminat veremez.",
+        "Paylarını ilk defa halka arz edilmek için Kurul'a başvuran ortaklıkların Kurumsal yönetim düzenlemelerine aykırı mevcut ipotek ve kefaletlerinin mevcut olması halinde Kurul belli bir süre içinde sıfırlanmasını ister."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 99,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-g1",
+      "q": "6362 sayılı Sermaye Piyasası Kanunu'na göre 'sermaye piyasası araçları' aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "Menkul kıymetler",
+        "Türev araçlar",
+        "Ticari senetler",
+        "Yatırım sözleşmeleri",
+        "Kurul tarafından belirlenen diğer sermaye piyasası araçları"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Ticari senetler (bono, poliçe, çek) sermaye piyasası aracı değildir. Sermaye piyasası araçları: menkul kıymetler, türev araçlar, yatırım sözleşmeleri ve Kurul'un belirlediği diğerleri.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g2",
+      "q": "6362 sayılı Kanun'a göre menkul kıymetin tanımında aşağıdaki unsurlardan hangisi yer almaz?",
+      "options": [
+        "Ortaklık veya alacaklılık sağlaması",
+        "Belli bir meblağı temsil etmesi",
+        "Yalnızca nama yazılı olması",
+        "Misli nitelikte olması",
+        "Seri halinde çıkarılması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Menkul kıymetler nama veya hamiline yazılı olabilir; yalnızca nama yazılı olması şartı yoktur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g3",
+      "q": "6362 sayılı Kanun'a göre 'halka açık ortaklık' tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Payları borsada işlem gören ortaklıklar",
+        "Sermayesi 1 milyon TL'yi aşan ortaklıklar",
+        "Payları halka arz edilmiş olan veya pay sahibi sayısı 500'ü aşan anonim ortaklıklar",
+        "SPK'ya kayıtlı tüm anonim ortaklıklar",
+        "Pay sahibi sayısı 250'yi aşan ortaklıklar"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun m.16/2: Payları halka arz edilmiş olan veya pay sahibi sayısı 500'ü aşan anonim ortaklıklar halka açık ortaklık sayılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 12,
+        "section": "1.1.2 Halka Açık Ortaklıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g4",
+      "q": "6362 sayılı Kanun'a göre 'halka arz' kavramı nasıl tanımlanmıştır?",
+      "options": [
+        "Borsada işlem görmeye başlama",
+        "Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrı",
+        "SPK onayı ile yapılan her satış işlemi",
+        "Sadece payların birincil piyasada satışı",
+        "Yalnızca aracı kurum aracılığıyla yapılan satışlar"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka arz, sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g5",
+      "q": "6362 sayılı Kanun'a göre 'ihraççı' kimdir?",
+      "options": [
+        "Yalnızca paylarını halka arz eden şirketler",
+        "Sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişiler ve yatırım fonları",
+        "Borsada işlem gören tüm şirketler",
+        "Yalnızca borçlanma aracı çıkaran kuruluşlar",
+        "SPK tarafından yetkilendirilmiş aracı kurumlar"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İhraççı: sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişiler ve yatırım fonlarıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g6",
+      "q": "Sermaye Piyasası Kurulu kaç üyeden oluşur?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "9",
+        "11"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPK, biri başkan, biri ikinci başkan olmak üzere toplam 7 üyeden oluşur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g7",
+      "q": "Sermaye Piyasası Kurulu üyelerini kim atar?",
+      "options": [
+        "TBMM",
+        "Bakanlar Kurulu",
+        "Cumhurbaşkanı",
+        "Maliye Bakanlığı",
+        "Hazine Müsteşarlığı"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun'a göre SPK Başkan ve üyeleri Cumhurbaşkanı tarafından atanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g8",
+      "q": "Sermaye Piyasası Kurulu'nun merkezi hangi ildedir?",
+      "options": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Bursa",
+        "Antalya"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun m.117: Kurulun merkezi İstanbul'dadır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g9",
+      "q": "SPK kararlarına karşı nereye başvurulabilir?",
+      "options": [
+        "Yargıtay",
+        "Anayasa Mahkemesi",
+        "İdari yargı",
+        "Ticaret mahkemesi",
+        "SPK'ya itiraz yolu ile tekrar başvuru yapılır"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPK kararları idari işlem niteliğindedir ve kararlarına karşı idari yargıya (Danıştay) başvurulabilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 20,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g10",
+      "q": "SPK'nın hukuki statüsü aşağıdakilerden hangisidir?",
+      "options": [
+        "Özel hukuk tüzel kişisi",
+        "İdari ve mali özerkliğe sahip kamu tüzel kişisi",
+        "TBMM'ye bağlı denetim organı",
+        "Ticaret Bakanlığı'na bağlı müdürlük",
+        "Borsa İstanbul'un bir birimi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "SPK, idari ve mali özerkliğe sahip, kamu tüzel kişiliğini haiz düzenleyici ve denetleyici bir kurumdur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g11",
+      "q": "Aşağıdakilerden hangisi SPK'nın görevleri arasında yer almaz?",
+      "options": [
+        "Sermaye piyasasının güvenilir, şeffaf, etkin ve istikrarlı bir şekilde işlemesini sağlamak",
+        "Yatırımcıların hak ve menfaatlerini korumak",
+        "Para politikasını belirlemek",
+        "Sermaye piyasasında işlem yapanların faaliyetlerini düzenlemek ve denetlemek",
+        "Piyasanın adil ve düzenli işlemesini sağlamak"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Para politikası TCMB'nin görevidir; SPK'nın görevi değildir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Görev ve Yetkileri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g12",
+      "q": "6362 sayılı Kanun'a göre 'ihraç' kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Yalnızca payların halka satışını",
+        "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp halka arz edilmek veya halka arz edilmeksizin satışını",
+        "Borsada işlem görmeye başlamayı",
+        "Yalnızca borçlanma araçlarının çıkarılmasını",
+        "Sermaye piyasası araçlarının ikincil piyasada el değiştirmesini"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İhraç: sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilmek veya halka arz edilmeksizin satışıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g13",
+      "q": "6362 sayılı Kanun'a göre 'borsa' nasıl tanımlanmıştır?",
+      "options": [
+        "Devlet tarafından işletilen pazar yerleri",
+        "Anonim şirket şeklinde kurulan, sermaye piyasası araçlarının ve diğer sözleşmelerin güvenilir ve şeffaf şekilde alınıp satıldığı organize pazar yerleri",
+        "TCMB bünyesinde faaliyet gösteren piyasa",
+        "Yalnızca pay senetlerinin alınıp satıldığı yerler",
+        "SPK'nın doğrudan yönettiği pazar yerleri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Borsa, anonim şirket şeklinde kurulan, sermaye piyasası araçlarının ve diğer sözleşmelerin alınıp satıldığı, SPK izniyle kurulan organize pazar yerleridir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 22,
+        "section": "1.1.4 Borsalar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g14",
+      "q": "Borsa İstanbul A.Ş.'nin hukuki yapısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kamu iktisadi teşebbüsü",
+        "Anonim şirket",
+        "Limited şirket",
+        "Dernek",
+        "Vakıf"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "BİST (Borsa İstanbul), 6362 sayılı Kanun ile anonim şirket statüsünde kurulmuştur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 22,
+        "section": "1.1.4 Borsalar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g15",
+      "q": "Aşağıdakilerden hangisi 6362 sayılı Kanun'da tanımlanan sermaye piyasası kurumlarından biri değildir?",
+      "options": [
+        "Yatırım kuruluşları",
+        "Portföy yönetim şirketleri",
+        "Ticari bankalar",
+        "Bağımsız denetim kuruluşları",
+        "Derecelendirme kuruluşları"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Ticari bankalar genel anlamda sermaye piyasası kurumu değildir; ancak yatırım hizmeti ve faaliyetinde bulunan bankalar 'yatırım kuruluşu' sıfatıyla faaliyet gösterir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 25,
+        "section": "1.1.5 Sermaye Piyasası Kurumları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g16",
+      "q": "6362 sayılı Kanun'a göre yatırım kuruluşları aşağıdakilerden hangisidir?",
+      "options": [
+        "Yalnızca aracı kurumlar",
+        "Aracı kurumlar ve yatırım hizmetleri ve faaliyetlerinde bulunmak üzere kuruluş izni almış bankalar",
+        "Tüm bankalar",
+        "Portföy yönetim şirketleri ve aracı kurumlar",
+        "BİST ve Takasbank"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım kuruluşları = aracı kurumlar + yatırım hizmeti yapma izni almış bankalar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 25,
+        "section": "1.1.5 Sermaye Piyasası Kurumları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g17",
+      "q": "Merkezi Kayıt Kuruluşu'nun (MKK) temel görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Borsa işlemlerinin takası",
+        "Sermaye piyasası araçlarının kaydileştirilmesi",
+        "Yatırımcı tazmin işlemleri",
+        "SPK kararlarının uygulanması",
+        "Derecelendirme faaliyeti"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "MKK, sermaye piyasası araçlarının kayden izlenmesi (kaydileştirme) görevini üstlenen kuruluştur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 30,
+        "section": "1.1.6 Kaydileştirme ve MKK"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g18",
+      "q": "Kaydileştirme sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Menkul kıymetler fiziken basılarak saklanır",
+        "Sermaye piyasası araçları kayden MKK nezdinde izlenir, fiziki senet basılmaz",
+        "Kaydileştirme isteğe bağlıdır",
+        "Yalnızca devlet tahvilleri kaydileştirilir",
+        "Kaydileştirme Takasbank tarafından yapılır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kaydileştirme ile sermaye piyasası araçları kayden izlenir ve fiziki senet basılmaz; haklar MKK nezdinde elektronik ortamda takip edilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 30,
+        "section": "1.1.6 Kaydileştirme ve MKK"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g19",
+      "q": "6362 sayılı Kanun'a göre 'türev araç' tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Ortaklık hakkı sağlayan kıymetli evrak",
+        "Değeri başka bir finansal varlığa, göstergeye veya mala bağlı olan finansal araçlar; vadeli işlem ve opsiyon sözleşmeleri dahil",
+        "Yalnızca faiz oranına dayalı sözleşmeler",
+        "Borsada işlem gören paylar",
+        "Para piyasası araçları"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Türev araçlar: ekonomik ve finansal göstergelere, sermaye piyasası araçlarına, mala, kıymetli madene ve dövize dayalı vadeli işlem ve opsiyon sözleşmeleri ile bunların türevleridir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g20",
+      "q": "Aşağıdakilerden hangisi 6362 sayılı Kanun'da yer alan bilgi suistimali (insider trading) suçunun unsurlarından biridir?",
+      "options": [
+        "Borsada yüksek hacimli işlem yapmak",
+        "Kamuya açıklanmamış, sermaye piyasası aracının değerini etkileyebilecek nitelikteki bilgiyi kullanarak işlem yapmak",
+        "Halka arz fiyatının altında satış yapmak",
+        "Birden fazla aracı kurumda hesap açmak",
+        "Yabancı borsalarda işlem yapmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bilgi suistimali: içsel bilgiyi (kamuya açıklanmamış, fiyatı etkileyebilecek) kullanarak işlem yapmak veya başkasına ileterek işlem yaptırmaktır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 35,
+        "section": "1.1.7 Sermaye Piyasası Suçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g21",
+      "q": "Piyasa dolandırıcılığı (manipülasyon) suçu kapsamında aşağıdaki fiillerden hangisi yer alır?",
+      "options": [
+        "Normal piyasa koşullarında alım satım yapmak",
+        "Sermaye piyasası araçlarının fiyatlarını yapay olarak etkilemek amacıyla alım veya satım yapmak",
+        "Uzun vadeli yatırım yapmak",
+        "Temettü ödemesi almak",
+        "Portföy çeşitlendirmesi yapmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Piyasa dolandırıcılığı: sermaye piyasası araçlarının fiyatlarında yapay olarak arz, talep veya fiyat oluşturmak amacıyla işlem yapmaktır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 35,
+        "section": "1.1.7 Sermaye Piyasası Suçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g22",
+      "q": "Yatırım fonu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "İnançlı mülkiyet esaslarına göre yönetilir",
+        "Riskin dağıtılması ilkesiyle yönetilir",
+        "Tüzel kişiliğe sahiptir",
+        "Katılma payı karşılığında yatırımcılardan para toplanır",
+        "Portföy yönetim şirketi tarafından kurulur ve yönetilir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonunun tüzel kişiliği yoktur; ayrılmış bir malvarlığıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 130,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g23",
+      "q": "Yatırım fonlarını kurmaya ve yönetmeye yetkili kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "Aracı kurumlar",
+        "Bankalar",
+        "Portföy yönetim şirketleri",
+        "Borsa İstanbul",
+        "SPK"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonları portföy yönetim şirketleri (PYŞ) tarafından kurulur ve yönetilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 130,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g24",
+      "q": "Yatırım fonunun malvarlığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kurucunun malvarlığının bir parçasıdır",
+        "Fon malvarlığı kurucunun ve saklayıcının borçları için teminat teşkil eder",
+        "Fon malvarlığı rehin edilebilir",
+        "Fon malvarlığı ayrılmış bir malvarlığıdır ve kurucunun/saklayıcının borçlarından bağımsızdır",
+        "Fon malvarlığı üzerinde yatırımcıların doğrudan mülkiyet hakkı vardır"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonunun malvarlığı ayrılmış malvarlığıdır; kurucunun veya saklayıcının borçları nedeniyle haczedilemez, rehnedilemez, iflas masasına dahil edilemez.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 130,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g25",
+      "q": "Aşağıdaki yatırım fonu türlerinden hangisinin katılma payları yalnızca nitelikli yatırımcılara satılabilir?",
+      "options": [
+        "Para piyasası fonu",
+        "Değişken fon",
+        "Borsa yatırım fonu",
+        "Serbest fon",
+        "Endeks fon"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Serbest fonların katılma payları yalnızca nitelikli yatırımcılara satılabilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 140,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Serbest Fon"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g26",
+      "q": "Aşağıdaki yatırım fonu türlerinden hangisinin katılma payları borsada işlem görür?",
+      "options": [
+        "Para piyasası fonu",
+        "Değişken fon",
+        "Borsa yatırım fonu (BYF)",
+        "Serbest fon",
+        "Garantili fon"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Borsa yatırım fonlarının (BYF / ETF) katılma payları borsada işlem görür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 142,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - BYF"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g27",
+      "q": "Yatırım fonlarında 'şemsiye fon' yapısı ne anlama gelir?",
+      "options": [
+        "Birden fazla fon türünün tek bir çatı altında birleştirilmesi",
+        "Katılma payları ve içtüzüğü Kurul tarafından onaylanan, bir veya birden fazla alt fondan oluşan yapı",
+        "Yalnızca devlet tahvillerine yatırım yapan fonlar",
+        "Yabancı fonlara yatırım yapan ana fon",
+        "Birden fazla portföy yönetim şirketinin ortak yönettiği fon"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Şemsiye fon: katılma payları ve içtüzüğü Kurul tarafından onaylanan, bir veya birden fazla alt fondan (pay) oluşan yatırım fonu yapısıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 130,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g28",
+      "q": "Aşağıdakilerden hangisi yatırım fonlarının yatırım yapabileceği araçlar arasında yer almaz?",
+      "options": [
+        "Borçlanma araçları",
+        "Paylar",
+        "Kıymetli madenler",
+        "Gayrimenkul",
+        "Türev araçlar"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonları gayrimenkule doğrudan yatırım yapamaz. Gayrimenkul yatırımları GYO veya gayrimenkul yatırım fonu aracılığıyla yapılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 135,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g29",
+      "q": "Garantili fon ile koruma amaçlı fon arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Garantili fonda anapara getiri garantisi üçüncü bir tarafça sağlanırken, koruma amaçlı fonda garanti yoktur, yatırım stratejisi ile koruma hedeflenir",
+        "İkisi arasında fark yoktur",
+        "Koruma amaçlı fonlarda getiri garantisi vardır",
+        "Garantili fonlar borsada işlem görür, koruma amaçlı fonlar görmez",
+        "Garantili fonlar yalnızca nitelikli yatırımcılara satılır"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Garantili fonlarda garanti veren kuruluş (banka vb.) anapara ve/veya getiri garantisi verir; koruma amaçlı fonlarda böyle bir garanti yoktur, yatırım stratejisi ile korunma hedeflenir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 138,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g30",
+      "q": "Para piyasası fonu portföyünün ağırlıklı ortalama vadesinin en fazla kaç gün olması gerekir?",
+      "options": [
+        "25 gün",
+        "45 gün",
+        "90 gün",
+        "180 gün",
+        "365 gün"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Para piyasası fonlarının ağırlıklı ortalama vadesi en fazla 45 gündür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 133,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Para Piyasası Fonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g31",
+      "q": "Katılım fonunun diğer fonlardan temel farkı aşağıdakilerden hangisidir?",
+      "options": [
+        "Yalnızca nitelikli yatırımcılara satılması",
+        "Portföyünde faiz içeren enstrümanlar bulundurmaması ve faizsiz finans prensiplerine uygun yönetilmesi",
+        "Yalnızca dövize yatırım yapması",
+        "Garantili getiri sunması",
+        "Borsada işlem görmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Katılım fonu, faizsiz finans prensiplerine göre yönetilir ve portföyünde faiz içeren enstrümanlar bulundurmaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 136,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Katılım Fonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g32",
+      "q": "Kurumsal yönetim ilkeleri aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "Adillik",
+        "Şeffaflık",
+        "Hesap verebilirlik",
+        "Kârlılık",
+        "Sorumluluk"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Kurumsal yönetimin 4 temel ilkesi: Adillik, Şeffaflık, Hesap Verebilirlik ve Sorumluluk. Kârlılık kurumsal yönetim ilkesi değildir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 95,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g33",
+      "q": "Kurumsal yönetimde 'şeffaflık' ilkesi ne anlama gelir?",
+      "options": [
+        "Ortaklığın tüm kararlarının kamuya açıklanması",
+        "Ticari sır niteliğindeki bilgiler hariç, ortaklık ile ilgili finansal ve finansal olmayan bilgilerin zamanında, doğru ve eksiksiz bir şekilde kamuya duyurulması",
+        "Yalnızca yıllık faaliyet raporunun yayımlanması",
+        "Pay sahiplerinin şirket bilançosuna erişmesi",
+        "Yönetim kurulu toplantılarının halka açık yapılması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Şeffaflık: ticari sır niteliğindeki bilgiler hariç, ortaklıkla ilgili finansal ve finansal olmayan bilgilerin zamanında, doğru, eksiksiz ve anlaşılabilir şekilde kamuya duyurulmasıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 95,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g34",
+      "q": "Kurumsal yönetimde 'adillik' ilkesi aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Tüm pay sahiplerinin eşit muamele görmesi ve azınlık ile yabancı pay sahipleri dahil tüm pay sahiplerinin haklarının korunması",
+        "Yalnızca çoğunluk pay sahiplerinin haklarının korunması",
+        "Kâr dağıtımının eşit yapılması",
+        "Yönetim kurulunun bağımsız olması",
+        "Şirketin rekabet ortamında adil davranması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Adillik: tüm pay sahiplerine (azınlık ve yabancı dahil) eşit muamele yapılması ve haklarının korunmasıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 95,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g35",
+      "q": "Kurumsal yönetimde 'hesap verebilirlik' ilkesi aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Şirketin vergi borcunu zamanında ödemesi",
+        "Yönetim kurulunun performansının bağımsız şekilde izlenmesi ve yönetim kurulu üyelerinin ortaklığa ve pay sahiplerine karşı hesap vermesi",
+        "Muhasebe kayıtlarının düzenli tutulması",
+        "Sadece bağımsız denetim raporunun hazırlanması",
+        "SPK'ya düzenli rapor verilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Hesap verebilirlik: yönetim kurulunun ortaklığa ve pay sahiplerine karşı hesap vermesidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 95,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g36",
+      "q": "Aşağıdakilerden hangisi yönetim kurulu bünyesinde kurulması zorunlu olan komitelerden biri değildir?",
+      "options": [
+        "Denetim Komitesi",
+        "Kurumsal Yönetim Komitesi",
+        "Riskin Erken Saptanması Komitesi",
+        "Pazarlama Komitesi",
+        "Aday Gösterme Komitesi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Pazarlama Komitesi zorunlu bir yönetim kurulu komitesi değildir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 100,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g37",
+      "q": "TSPB (Türkiye Sermaye Piyasaları Birliği) hangi tür bir kuruluştur?",
+      "options": [
+        "Özel sektör derneği",
+        "Kamu kurumu niteliğinde meslek kuruluşu",
+        "SPK'ya bağlı denetim birimi",
+        "Anonim şirket",
+        "Borsa İstanbul'un alt birimi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TSPB, tüzel kişiliği haiz kamu kurumu niteliğinde meslek kuruluşudur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 176,
+        "section": "1.3.1 TSPB"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g38",
+      "q": "TSPB'nin merkezi hangi ildedir?",
+      "options": [
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Bursa",
+        "Eskişehir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TSPB'nin merkezi İstanbul'dadır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 176,
+        "section": "1.3.1 TSPB"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g39",
+      "q": "TSPB meslek kurallarını kim düzenler ve kim onaylar?",
+      "options": [
+        "TSPB düzenler, SPK onaylar",
+        "SPK düzenler, TSPB onaylar",
+        "BİST düzenler, SPK onaylar",
+        "TSPB düzenler, TBMM onaylar",
+        "SPK hem düzenler hem onaylar"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Meslek kuralları TSPB tarafından düzenlenir ve SPK'nın onayı ile yürürlüğe girer.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 178,
+        "section": "1.3.1 TSPB Meslek Kuralları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g40",
+      "q": "Aşağıdakilerden hangisi TSPB üyeleri arasında yer alır?",
+      "options": [
+        "Ticari bankalar",
+        "Portföy yönetim şirketleri",
+        "Sigorta şirketleri",
+        "Bireysel emeklilik şirketleri",
+        "Faktoring şirketleri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "PYŞ'ler TSPB'nin doğal üyelerindendir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 176,
+        "section": "1.3.1 TSPB Üyeleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g41",
+      "q": "Sermaye piyasası çalışanının mevzuatı bilme ve uyma yükümlülüğü hangi etik ilke kapsamındadır?",
+      "options": [
+        "Sürekli Gelişim",
+        "Özen ve Titizlik",
+        "Mevzuata Uygunluk",
+        "Dürüstlük",
+        "Sır Saklama"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Mevzuata Uygunluk ilkesi: sermaye piyasası çalışanı ilgili mevzuatı bilmek ve mevzuata uymakla yükümlüdür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3 Etik İlkeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g42",
+      "q": "Sermaye piyasası çalışanının müşteri ile çıkar çatışması yaşaması durumunda öncelik verilen taraf aşağıdakilerden hangisidir?",
+      "options": [
+        "Çalışanın kişisel çıkarı",
+        "Kurumun çıkarı",
+        "Müşterinin menfaati",
+        "Regülatörün beklentisi",
+        "Piyasanın genel dengesi"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Çıkar çatışması durumunda müşterinin menfaati her zaman önceliklidir; çalışan kendi çıkarını müşteri çıkarının önüne koyamaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3 Etik İlkeler - Çıkar Çatışması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g43",
+      "q": "Aşağıdaki etik ilkelerden hangisi sermaye piyasası çalışanının karar verirken dış baskılara boyun eğmemesini ifade eder?",
+      "options": [
+        "Adillik",
+        "Bağımsızlık",
+        "Özen ve Titizlik",
+        "Müşteri Menfaati",
+        "Piyasa Bütünlüğü"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bağımsızlık ilkesi: çalışan mesleki kararlarında dış baskılara boyun eğmez ve bağımsız hareket eder.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g44",
+      "q": "6362 sayılı Kanun'a göre SPK Kurul üyelerinin görev süresi kaç yıldır?",
+      "options": [
+        "3 yıl",
+        "4 yıl",
+        "5 yıl",
+        "6 yıl",
+        "7 yıl"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "6362 sayılı Kanun'a göre SPK Başkan ve üyelerinin görev süresi 6 yıldır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 18,
+        "section": "1.1.3 SPK Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g45",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın (İstanbul Takas ve Saklama Bankası A.Ş.) görevlerinden biridir?",
+      "options": [
+        "Sermaye piyasası araçlarının kaydileştirilmesi",
+        "Borsa işlemlerinin takasının gerçekleştirilmesi",
+        "Yatırımcılara kredi verilmesi",
+        "SPK düzenlemelerinin hazırlanması",
+        "Şirketlerin halka arz sürecinin yönetilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Takasbank, borsa işlemlerinin takas ve mahsuplaşma işlemlerini gerçekleştiren merkezi takas kuruluşudur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 33,
+        "section": "1.1.6 Takas ve Saklama Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g46",
+      "q": "Yatırımcı Tazmin Merkezi (YTM) aşağıdaki hangi durumda devreye girer?",
+      "options": [
+        "Yatırımcı zarar ettiğinde",
+        "Borsa düştüğünde",
+        "Yatırım kuruluşunun yatırımcılara olan nakit ödeme veya sermaye piyasası araçlarının teslim yükümlülüklerini yerine getirememesi halinde",
+        "Yatırımcının yanlış yatırım kararı vermesi durumunda",
+        "Döviz kurlarının ani değişmesi durumunda"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "YTM, yatırım kuruluşunun mali sıkıntıya düşerek yatırımcılara olan nakit veya sermaye piyasası aracı teslim yükümlülüklerini yerine getirememesi halinde devreye girer.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 36,
+        "section": "1.1.8 Yatırımcı Tazmin Merkezi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g47",
+      "q": "Aşağıdakilerden hangisi YTM tarafından tazmin edilmez?",
+      "options": [
+        "Aracı kurum nezdindeki nakit alacakları",
+        "Aracı kurum nezdindeki sermaye piyasası araçları",
+        "Yatırımcının borsadaki fiyat düşüşünden kaynaklanan zararları",
+        "Yatırım kuruluşunun iflası nedeniyle ulaşılamayan varlıklar",
+        "Aracı kurumun takas yükümlülüklerini yerine getirememesi sonucu oluşan zararlar"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "YTM piyasa riski sonucu oluşan zararları (fiyat düşüşü gibi) tazmin etmez; yalnızca yatırım kuruluşunun yükümlülüklerini yerine getirememesi kaynaklı zararları karşılar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 36,
+        "section": "1.1.8 Yatırımcı Tazmin Merkezi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g48",
+      "q": "Özel durumların kamuya açıklanmasında kullanılan platform aşağıdakilerden hangisidir?",
+      "options": [
+        "SPK internet sitesi",
+        "Resmi Gazete",
+        "Ticaret Sicil Gazetesi",
+        "Kamuyu Aydınlatma Platformu (KAP)",
+        "TCMB Elektronik Veri Dağıtım Sistemi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Özel durumlar (içsel bilgiler, önemli gelişmeler) Kamuyu Aydınlatma Platformu (KAP) aracılığıyla kamuya açıklanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 40,
+        "section": "1.1.9 Kamuyu Aydınlatma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g49",
+      "q": "İzahname nedir?",
+      "options": [
+        "Şirketin yıllık faaliyet raporu",
+        "Sermaye piyasası araçlarının halka arzında veya borsada işlem görmeye başlamasında düzenlenmesi gereken, ihraççı ve araçlar hakkında bilgi veren belge",
+        "SPK'nın yatırımcılara gönderdiği uyarı yazısı",
+        "Borsada işlem gören şirketlerin kar dağıtım planı",
+        "Aracı kurumun müşterileriyle yaptığı sözleşme"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İzahname, sermaye piyasası araçlarının halka arzında düzenlenmesi gereken, ihraççı ve ihraç edilecek araçlar hakkında yatırımcıyı bilgilendiren belgedir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 42,
+        "section": "1.1.10 İzahname ve Halka Arz"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g50",
+      "q": "İzahname onay yetkisi aşağıdaki kurumlardan hangisine aittir?",
+      "options": [
+        "Borsa İstanbul",
+        "Takasbank",
+        "Sermaye Piyasası Kurulu",
+        "MKK",
+        "TSPB"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İzahname SPK tarafından onaylanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 42,
+        "section": "1.1.10 İzahname ve Halka Arz"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g51",
+      "q": "Aracı kurum kuruluş şartları arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Limited şirket olarak kurulması",
+        "Payların hamiline yazılı olması",
+        "Anonim şirket olarak kurulması ve payların tamamının nama yazılı olması",
+        "Asgari 5 ortağa sahip olması",
+        "En az 10 yıllık faaliyet geçmişine sahip olması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Aracı kurumlar A.Ş. olarak kurulmalı ve paylarının tamamı nama yazılı olmalıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 50,
+        "section": "1.1.11 Aracı Kurumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g52",
+      "q": "Aşağıdakilerden hangisi aracı kurumların yapamayacağı faaliyetlerden biridir?",
+      "options": [
+        "Halka arza aracılık",
+        "Mevduat toplama",
+        "Portföy aracılığı",
+        "Yatırım danışmanlığı",
+        "Saklama hizmeti"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Aracı kurumlar mevduat toplayamaz; mevduat toplama yetkisi yalnızca bankalara aittir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 50,
+        "section": "1.1.11 Aracı Kurumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g53",
+      "q": "Portföy yönetim şirketinin temel faaliyet konusu aşağıdakilerden hangisidir?",
+      "options": [
+        "Borsa'da aracılık yapmak",
+        "Portföy yönetimi ve yatırım fonu kurma/yönetme",
+        "Menkul kıymet ihraç etmek",
+        "Derecelendirme yapmak",
+        "Bağımsız denetim yapmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "PYŞ'lerin temel faaliyet konusu portföy yönetimi ve yatırım fonu kurma/yönetmedir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 55,
+        "section": "1.1.12 Portföy Yönetim Şirketleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g54",
+      "q": "Derecelendirme kuruluşlarının temel faaliyeti aşağıdakilerden hangisidir?",
+      "options": [
+        "İhraççıların mali durumlarını denetlemek",
+        "İhraççıların ve sermaye piyasası araçlarının kredi risklerini derecelendirmek",
+        "Şirketlerin gayrimenkullerini değerlemek",
+        "Yatırımcılara danışmanlık vermek",
+        "Borsa İstanbul'da kotasyon kararı vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Derecelendirme kuruluşları ihraççıların ve sermaye piyasası araçlarının kredi risklerini değerlendirerek nota bağlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 60,
+        "section": "1.1.13 Derecelendirme Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g55",
+      "q": "Değerleme kuruluşlarının faaliyet alanı aşağıdakilerden hangisidir?",
+      "options": [
+        "Sermaye piyasası araçlarının derecelendirilmesi",
+        "Gayrimenkullerin, gayrimenkul projelerinin ve gayrimenkullere bağlı hak ve faydaların değerlemesi",
+        "Şirketlerin bağımsız denetimi",
+        "Yatırım fonlarının kurulması",
+        "Borsa işlemlerinin takası"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Değerleme kuruluşları, gayrimenkul ve gayrimenkule bağlı hak ve faydaların değerlemesini yapar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 62,
+        "section": "1.1.14 Değerleme Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g56",
+      "q": "Bağımsız denetim kuruluşlarının sermaye piyasasındaki temel görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "İhraççıların stratejik planlarını hazırlamak",
+        "İhraççıların finansal tablolarının mevzuata uygun ve doğru bir biçimde hazırlanıp hazırlanmadığını denetlemek",
+        "Yatırımcılara yatırım tavsiyesi vermek",
+        "Borsa İstanbul'un işlem kurallarını belirlemek",
+        "Aracı kurumların lisans sınavlarını düzenlemek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bağımsız denetim kuruluşları, ihraççıların finansal tablolarının muhasebe standartlarına uygunluğunu denetler ve görüş bildirir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 65,
+        "section": "1.1.15 Bağımsız Denetim Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g57",
+      "q": "6362 sayılı Kanun'a göre 'kolektif yatırım kuruluşu' aşağıdakilerden hangisidir?",
+      "options": [
+        "Aracı kurumlar",
+        "Yatırım fonları ve yatırım ortaklıkları",
+        "Portföy yönetim şirketleri",
+        "Derecelendirme kuruluşları",
+        "Takasbank"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kolektif yatırım kuruluşları: yatırım fonları ve yatırım ortaklıklarıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 25,
+        "section": "1.1.5 Sermaye Piyasası Kurumları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g58",
+      "q": "Yatırım ortaklığı ile yatırım fonu arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Yatırım ortaklığı tüzel kişiliğe sahiptir ve anonim şirket olarak kurulur; yatırım fonunun tüzel kişiliği yoktur",
+        "İkisi arasında hiçbir fark yoktur",
+        "Yatırım fonu tüzel kişiliğe sahiptir, ortaklık değildir",
+        "Yatırım ortaklığı sadece borçlanma araçlarına yatırım yapar",
+        "Yatırım fonları borsada işlem görmez"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Yatırım ortaklığı A.Ş. statüsünde tüzel kişiliğe sahipken, yatırım fonunun tüzel kişiliği yoktur; fon ayrılmış bir malvarlığıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 125,
+        "section": "1.2.1 Yatırım Ortaklıkları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g59",
+      "q": "Aşağıdakilerden hangisi yatırım ortaklığı türlerinden biridir?",
+      "options": [
+        "Para piyasası yatırım ortaklığı",
+        "Menkul kıymet yatırım ortaklığı",
+        "Katılım yatırım ortaklığı",
+        "Serbest yatırım ortaklığı",
+        "Borsa yatırım ortaklığı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım ortaklığı türleri: Menkul Kıymet Yatırım Ortaklığı, Gayrimenkul Yatırım Ortaklığı (GYO) ve Girişim Sermayesi Yatırım Ortaklığı (GSYO).",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 125,
+        "section": "1.2.1 Yatırım Ortaklıkları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g60",
+      "q": "Gayrimenkul Yatırım Ortaklığı (GYO) portföyünün en az yüzde kaçı gayrimenkul yatırımlarından oluşmalıdır?",
+      "options": [
+        "%25",
+        "%35",
+        "%51",
+        "%75",
+        "%90"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "GYO portföyünün en az %51'i gayrimenkul yatırımlarından oluşmalıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 127,
+        "section": "1.2.1 Yatırım Ortaklıkları - GYO"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g61",
+      "q": "Aşağıdakilerden hangisi 6362 sayılı Kanun'da tanımlanan 'örtülü kazanç aktarımı' yasağının kapsamına girer?",
+      "options": [
+        "Normal piyasa koşullarında ticaret yapmak",
+        "Halka açık ortaklıkların, ilişkili taraflarla emsallere uygunluk ilkesine aykırı koşullarda işlem yaparak kazancın aktarılması",
+        "Temettü ödemesi yapılması",
+        "Bedelsiz sermaye artırımı",
+        "Şirket birleşmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Örtülü kazanç aktarımı: halka açık ortaklıkların ilişkili taraflarla emsallere uygunluk ilkesine aykırı koşullarda işlem yaparak ortaklık kazancını transfer etmesidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 45,
+        "section": "1.1.9 Örtülü Kazanç Aktarımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g62",
+      "q": "İçsel bilgi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kamuya açıklanmış bilgilerdir",
+        "Herkes tarafından bilinebilecek nitelikteki bilgilerdir",
+        "Sermaye piyasası aracının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek nitelikteki henüz kamuya duyurulmamış bilgilerdir",
+        "Yalnızca yönetim kurulu kararlarıdır",
+        "Yalnızca finansal tablolardaki bilgilerdir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İçsel bilgi: sermaye piyasası aracının değerini/fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek nitelikteki, henüz kamuya duyurulmamış bilgilerdir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 35,
+        "section": "1.1.7 Bilgi Suistimali"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g63",
+      "q": "Sermaye piyasasında bağımsız denetim faaliyetini yürütecek kuruluşların yetkilendirilmesi hangi kurum tarafından yapılır?",
+      "options": [
+        "SPK",
+        "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu (KGK)",
+        "Maliye Bakanlığı",
+        "TSPB",
+        "MKK"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Bağımsız denetim kuruluşlarının yetkilendirilmesi KGK (Kamu Gözetimi Kurumu) tarafından yapılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 65,
+        "section": "1.1.15 Bağımsız Denetim"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g64",
+      "q": "'Nitelikli yatırımcı' kavramı aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "Yerli ve yabancı yatırım fonları",
+        "Aracı kurumlar",
+        "Bankalar",
+        "Bireysel tasarruf sahipleri (talep etmedikçe)",
+        "Sigorta şirketleri"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Bireysel tasarruf sahipleri, belirli koşulları sağlayıp talep etmedikçe nitelikli yatırımcı sayılmaz. Kurumsal yatırımcılar (fonlar, bankalar, aracı kurumlar, sigorta şirketleri) doğal nitelikli yatırımcıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 48,
+        "section": "1.1.10 Nitelikli Yatırımcı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g65",
+      "q": "İpotek finansmanı kuruluşunun temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Konut kredisi vermek",
+        "Konut finansmanından kaynaklanan alacakları devralmak veya bu alacaklara dayalı menkul kıymet ihraç etmek",
+        "Gayrimenkul değerlemesi yapmak",
+        "Konut sigortası düzenlemek",
+        "Kira sertifikası ihraç etmek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İpotek finansmanı kuruluşu, konut finansmanından kaynaklanan alacakları devralarak bunlara dayalı menkul kıymet ihracı yapan kuruluştur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 58,
+        "section": "1.1.13 İpotek Finansmanı Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g66",
+      "q": "Varlık kiralama şirketinin temel faaliyeti aşağıdakilerden hangisidir?",
+      "options": [
+        "Gayrimenkul alım satımı",
+        "Kira sertifikası ihracı amacıyla varlık ve hakları devralmak/kiralamak",
+        "Yatırım fonu kurmak",
+        "Borsa'da aracılık yapmak",
+        "Derecelendirme yapmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Varlık kiralama şirketleri, kira sertifikası (sukuk) ihracı amacıyla varlık ve hakları devralan/kiralayan münhasır amaçlı kuruluşlardır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 59,
+        "section": "1.1.13 Varlık Kiralama Şirketleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g67",
+      "q": "Aşağıdakilerden hangisi SPK'nın yaptırım yetkilerinden biri değildir?",
+      "options": [
+        "İdari para cezası vermek",
+        "Faaliyetleri geçici veya sürekli olarak durdurmak",
+        "Lisansları iptal etmek",
+        "Hapis cezası vermek",
+        "İlgili kişileri suç duyurusunda bulunarak savcılığa bildirmek"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Hapis cezası ancak mahkemeler tarafından verilebilir; SPK idari yaptırım (idari para cezası, faaliyet durdurma, lisans iptali vb.) uygulayabilir ve gerektiğinde suç duyurusunda bulunur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 38,
+        "section": "1.1.8 SPK Yaptırımları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g68",
+      "q": "Halka açık ortaklıklarda pay sahibi sayısı 500'ün altına düştüğünde ortaklık statüsü ne olur?",
+      "options": [
+        "Otomatik olarak halka açık ortaklık statüsünü kaybeder",
+        "Halka açık ortaklık statüsü devam eder; SPK kararı olmadan kaybedilmez",
+        "Borsa İstanbul karar verir",
+        "MKK statüyü kaldırır",
+        "Şirket tasfiyeye girer"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Pay sahibi sayısının 500'ün altına düşmesi tek başına halka açık ortaklık statüsünü kaybettirmez; statü değişikliği SPK kararı gerektirir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 14,
+        "section": "1.1.2 Halka Açık Ortaklıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g69",
+      "q": "Aşağıdakilerden hangisi aracı kurumların yatırım hizmet ve faaliyetlerinden biridir?",
+      "options": [
+        "Mevduat toplama",
+        "Emir iletimine aracılık",
+        "Sigorta satışı",
+        "Gayrimenkul değerleme",
+        "Kredi derecelendirmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Emir iletimine aracılık, aracı kurumların yürütebileceği yatırım hizmet ve faaliyetlerinden biridir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 50,
+        "section": "1.1.11 Aracı Kurumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g70",
+      "q": "Aşağıdaki yatırım hizmet ve faaliyetlerinden hangisi yalnızca portföy yönetim şirketleri tarafından yapılabilir?",
+      "options": [
+        "Halka arza aracılık",
+        "Yatırım fonu kurma ve yönetme",
+        "Emir iletimine aracılık",
+        "Saklama hizmeti",
+        "Yatırım danışmanlığı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonu kurma ve yönetme münhasıran portföy yönetim şirketlerine ait bir faaliyettir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 55,
+        "section": "1.1.12 Portföy Yönetim Şirketleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g71",
+      "q": "İzahnamenin geçerlilik süresi SPK onayından itibaren en fazla kaç aydır?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "12 ay",
+        "18 ay",
+        "24 ay"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İzahname, SPK tarafından onaylandığı tarihten itibaren 12 ay süreyle geçerlidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 43,
+        "section": "1.1.10 İzahname"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g72",
+      "q": "Aşağıdakilerden hangisi yatırım danışmanlığı faaliyetini tanımlar?",
+      "options": [
+        "Müşteri adına alım satım emri yürütmek",
+        "Müşteriye sermaye piyasası araçlarıyla ilgili yatırım tavsiyelerinde bulunmak",
+        "Müşteri portföyünü yönetmek",
+        "Halka arza aracılık etmek",
+        "Yatırımcıya kredi vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım danışmanlığı: müşteriye sermaye piyasası araçları ve işlemleri hakkında yatırım tavsiyelerinde bulunma faaliyetidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 52,
+        "section": "1.1.11 Yatırım Hizmet ve Faaliyetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g73",
+      "q": "Portföy yönetimi faaliyetinin tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Müşterinin kendi verdiği emirlerin iletilmesi",
+        "Finansal varlıklardan oluşan portföylerin her bir müşteri adına münhasıran, müşteri ile yapılacak portföy yönetim sözleşmesi çerçevesinde yönetilmesi",
+        "Şirket birleşme ve devralma danışmanlığı",
+        "Yatırım fonlarının denetimi",
+        "Menkul kıymet ihracı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Portföy yönetimi: finansal varlıklardan oluşan portföylerin müşteri adına, portföy yönetim sözleşmesi çerçevesinde yönetilmesidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 55,
+        "section": "1.1.12 Portföy Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g74",
+      "q": "Kurumsal yönetimde 'sorumluluk' ilkesi ne anlama gelir?",
+      "options": [
+        "Şirketin sadece pay sahiplerine karşı sorumlu olması",
+        "Şirket yönetiminin mevzuata, esas sözleşmeye ve şirket içi düzenlemelere uyumu ile paydaşların hak ve çıkarlarının gözetilmesi",
+        "Yalnızca çevresel sorumluluk",
+        "Sadece vergisel yükümlülüklerin yerine getirilmesi",
+        "Şirketin toplumsal faaliyetlere katılması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sorumluluk: şirket yönetiminin mevzuata, esas sözleşmeye ve şirket içi düzenlemelere uyumu ve paydaşların hak ve çıkarlarının gözetilmesidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 96,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g75",
+      "q": "Bağımsız yönetim kurulu üyeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Ortaklıkla veya yönetimle herhangi bir çıkar ilişkisi bulunmamalıdır",
+        "Denetim komitesinin tüm üyeleri bağımsız yönetim kurulu üyelerinden oluşur",
+        "Bağımsız üye sayısı yönetim kurulunun üçte birinden az olamaz",
+        "Bağımsız üyeler yalnızca aday gösterme komitesinde görev alabilir",
+        "Bağımsız üyelerin seçilme kriterleri SPK düzenlemelerinde belirtilmiştir"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Bağımsız üyeler yalnızca aday gösterme komitesinde değil, denetim komitesi dahil birçok komitede görev alır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 100,
+        "section": "1.2.2 Kurumsal Yönetim Tebliği - Bağımsız Üyeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g76",
+      "q": "SPK'nın denetim yetkisi kapsamında aşağıdakilerden hangisini yapabilir?",
+      "options": [
+        "Şirketlerin ticari faaliyetlerini doğrudan yönetmek",
+        "İhraççıların, sermaye piyasası kurumlarının ve borsaların hesap, işlem ve faaliyetlerini denetlemek",
+        "Vergi denetimi yapmak",
+        "Ticaret mahkemelerine müdahale etmek",
+        "Şirketlerin genel kurullarını yönetmek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "SPK; ihraççıların, sermaye piyasası kurumlarının ve borsaların hesap, işlem ve faaliyetlerini denetleme yetkisine sahiptir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 20,
+        "section": "1.1.3 SPK Görev ve Yetkileri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g77",
+      "q": "TSPB'nin görevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Sermaye piyasasının gelişmesini sağlamak",
+        "Üyeleri arasındaki dayanışmayı güçlendirmek",
+        "Meslek ahlak ve ilkelerini belirlemek",
+        "Borsa işlemlerinin takasını yapmak",
+        "Mesleki eğitim ve sınav düzenlemek"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Borsa işlemlerinin takası Takasbank'ın görevidir; TSPB'nin görevi değildir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 177,
+        "section": "1.3.1 TSPB Görevleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g78",
+      "q": "SPL (Sermaye Piyasası Lisanslama) sınavlarını düzenleyen kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "SPK",
+        "TSPB",
+        "Borsa İstanbul",
+        "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "MKK"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "SPL sınavları SPK tarafından düzenlenir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 180,
+        "section": "1.3.2 Lisanslama"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g79",
+      "q": "6362 sayılı Kanun'a göre pay sahibi sayısı 500'ü aşan bir anonim ortaklığın paylarının halka arz edilmemiş olması durumunda bu ortaklık ne yapmakla yükümlüdür?",
+      "options": [
+        "Hemen borsaya kote olmalıdır",
+        "Paylarını derhal halka arz etmelidir",
+        "Bu durumun öğrenildiği tarihten itibaren SPK'ya bildirimde bulunmalıdır",
+        "Ortaklık tasfiye edilmelidir",
+        "Herhangi bir yükümlülüğü yoktur"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Pay sahibi sayısı 500'ü aşan anonim ortaklıklar bu durumu SPK'ya bildirmekle yükümlüdür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 14,
+        "section": "1.1.2 Halka Açık Ortaklıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g80",
+      "q": "Sermaye piyasasında 'aracılık faaliyeti' kavramı aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Yalnızca halka arza aracılık",
+        "Sermaye piyasası araçlarıyla ilgili emirlerin alınıp iletilmesi, işlemlerin yürütülmesi, portföy yönetimi ve yatırım danışmanlığı gibi faaliyetler",
+        "Yalnızca borsada emir iletimi",
+        "Sadece türev işlemler",
+        "Yalnızca tahvil alım satımı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Aracılık faaliyeti geniş kapsamlıdır ve emir iletimi, işlem yürütme, portföy yönetimi, yatırım danışmanlığı gibi birçok faaliyeti içerir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 50,
+        "section": "1.1.11 Yatırım Hizmet ve Faaliyetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g81",
+      "q": "Aşağıdakilerden hangisi 'yatırım sözleşmesi' kavramını doğru tanımlar?",
+      "options": [
+        "Yatırımcı ile aracı kurum arasında imzalanan çerçeve sözleşme",
+        "Kâr payı, faiz gibi getirileri paylaşmak üzere yapılan her türlü sözleşme",
+        "Gayrimenkul alım satım sözleşmesi",
+        "Borsa İstanbul ile üye kuruluşlar arasında yapılan üyelik sözleşmesi",
+        "Fon içtüzüğü"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım sözleşmesi: kâr payı, faiz gibi getirileri paylaşmak üzere yapılan, 6362 sayılı Kanun kapsamında sermaye piyasası aracı sayılan sözleşmelerdir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 8,
+        "section": "1.1.1 6362 sayılı SPKn - Tanımlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g82",
+      "q": "Aşağıdakilerden hangisi yatırım fonlarının katılma paylarının fiyatlamasında kullanılan kavramdır?",
+      "options": [
+        "Piyasa değeri",
+        "Nominal değer",
+        "Birim pay değeri (net aktif değer)",
+        "Defter değeri",
+        "İhraç fiyatı"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonlarında katılma payı fiyatlaması 'birim pay değeri' (net aktif değer / toplam pay sayısı) üzerinden yapılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 132,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g83",
+      "q": "Fon içtüzüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Fon içtüzüğü isteğe bağlı bir belgedir",
+        "Fon içtüzüğü fonun kuruluş belgesiidir ve SPK tarafından onaylanır",
+        "Fon içtüzüğünü yatırımcılar hazırlar",
+        "Fon içtüzüğü yalnızca serbest fonlar için gereklidir",
+        "Fon içtüzüğü Borsa İstanbul tarafından onaylanır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Fon içtüzüğü fonun kuruluş belgesidir; fonun unvanı, türü, yatırım stratejisi, fon kurucusu gibi bilgileri içerir ve SPK tarafından onaylanır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 131,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g84",
+      "q": "Endeks fon ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Portföy yöneticisinin aktif yönetim kararları ile yönetilir",
+        "Belirli bir endeksin performansını taklit etmeyi amaçlar ve endeks kapsamındaki varlıklara endeksteki ağırlıkları oranında yatırım yapar",
+        "Yalnızca altın endeksini takip eden fonlardır",
+        "Borsada işlem görmesi zorunludur",
+        "Yalnızca nitelikli yatırımcılara satılabilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Endeks fon, belirli bir endeksin performansını taklit etmeyi amaçlayan, pasif yönetim stratejisi ile yönetilen fondur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 137,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Endeks Fon"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g85",
+      "q": "Yatırım fonlarında saklama hizmeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Saklama hizmetini portföy yönetim şirketi kendisi verir",
+        "Fon portföyündeki varlıkların saklanması SPK'nın uygun gördüğü saklama kuruluşu tarafından yapılır",
+        "Saklama hizmeti zorunlu değildir",
+        "Saklama hizmetini MKK doğrudan verir",
+        "Saklama hizmetini Borsa İstanbul verir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Fon portföyündeki varlıkların saklanması, SPK tarafından uygun görülen saklama kuruluşu (genellikle Takasbank) tarafından yapılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 132,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g86",
+      "q": "Aşağıdakilerden hangisi TSPB disiplin komitesinin uygulayabileceği yaptırımlardan biri değildir?",
+      "options": [
+        "Uyarı",
+        "Kınama",
+        "Para cezası",
+        "Hapis cezası",
+        "Üyelikten geçici çıkarma"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "TSPB disiplin komitesi idari yaptırım uygular (uyarı, kınama, para cezası, geçici çıkarma vb.); hapis cezası verme yetkisi yoktur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 179,
+        "section": "1.3.1 TSPB Disiplin Hükümleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g87",
+      "q": "Sermaye piyasası çalışanının etik ilkeleri ihlal etmesi halinde disiplin işlemlerini yürüten kuruluş hangisidir?",
+      "options": [
+        "SPK",
+        "TSPB",
+        "Borsa İstanbul",
+        "MKK",
+        "Takasbank"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TSPB, meslek kurallarına ve etik ilkelere aykırı davranan üyeler hakkında disiplin işlemi yürütür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 180,
+        "section": "1.3.2 TSPB Disiplin Hükümleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g88",
+      "q": "Aşağıdakilerden hangisi Girişim Sermayesi Yatırım Ortaklığı'nın (GSYO) yatırım yapabileceği alanlardan biridir?",
+      "options": [
+        "Yalnızca borsada işlem gören paylara",
+        "Girişim şirketlerine (start-up/büyüme aşamasındaki şirketlere) sermaye yatırımı",
+        "Yalnızca devlet tahvillerine",
+        "Gayrimenkul projelerine",
+        "Yalnızca yatırım fonlarına"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "GSYO, girişim sermayesi yatırımları yapar; büyüme potansiyeli taşıyan, genellikle borsada işlem görmeyen şirketlere sermaye sağlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 128,
+        "section": "1.2.1 Yatırım Ortaklıkları - GSYO"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g89",
+      "q": "Aşağıdakilerden hangisi sermaye piyasasında 'kamuyu aydınlatma' ilkesinin temel amacıdır?",
+      "options": [
+        "Şirketlerin reklam yapmasını sağlamak",
+        "Yatırımcıların bilinçli yatırım kararı verebilmeleri için gerekli bilgilere zamanında ve eksiksiz erişimini sağlamak",
+        "Devletin vergi gelirlerini artırmak",
+        "Şirketler arasında rekabeti azaltmak",
+        "Borsa işlem hacmini artırmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kamuyu aydınlatma, yatırımcıların doğru ve zamanında bilgiye ulaşarak bilinçli yatırım kararı verebilmelerini amaçlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 40,
+        "section": "1.1.9 Kamuyu Aydınlatma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g90",
+      "q": "6362 sayılı Kanun'a göre aşağıdakilerden hangisi sermaye piyasası suçları arasında yer almaz?",
+      "options": [
+        "Bilgi suistimali (içerden öğrenenlerin ticareti)",
+        "Piyasa dolandırıcılığı (manipülasyon)",
+        "Güveni kötüye kullanma ve sahtecilik",
+        "Vergi kaçakçılığı",
+        "İzinsiz sermaye piyasası faaliyeti"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Vergi kaçakçılığı Vergi Usul Kanunu kapsamında bir suçtur; 6362 sayılı Kanun'da tanımlanan sermaye piyasası suçları arasında yer almaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 35,
+        "section": "1.1.7 Sermaye Piyasası Suçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g91",
+      "q": "Halka açık ortaklıklarda genel kurul toplantısına katılma hakkı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yalnızca %5 ve üzeri pay sahibi ortaklar katılabilir",
+        "Yalnızca yönetim kurulu üyeleri katılabilir",
+        "Her pay sahibi genel kurula katılma hakkına sahiptir",
+        "Genel kurula katılmak için SPK'dan izin alınmalıdır",
+        "Yalnızca kurumsal yatırımcılar katılabilir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Her pay sahibi, sahip olduğu pay oranına bakılmaksızın genel kurul toplantısına katılma hakkına sahiptir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 15,
+        "section": "1.1.2 Halka Açık Ortaklıklar - Pay Sahipliği Hakları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g92",
+      "q": "Aşağıdakilerden hangisi 6362 sayılı Kanun'un temel amaçlarından biri değildir?",
+      "options": [
+        "Sermaye piyasasının güvenilir, şeffaf, etkin ve istikrarlı bir şekilde işlemesini sağlamak",
+        "Yatırımcıların hak ve menfaatlerini korumak",
+        "Döviz kurlarını belirlemek",
+        "Piyasanın adil, verimli ve rekabetçi bir ortamda işleyişini sağlamak",
+        "Sistematik riskleri izlemek ve önlemek"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Döviz kurlarını belirlemek TCMB'nin görevidir; 6362 sayılı Kanun'un amaçları arasında yer almaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 7,
+        "section": "1.1.1 6362 sayılı SPKn - Amaç"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g93",
+      "q": "Yatırım fonunda 'inançlı mülkiyet' kavramı ne anlama gelir?",
+      "options": [
+        "Yatırımcıların fon varlıkları üzerinde doğrudan mülkiyet hakkı olması",
+        "Fon malvarlığının kurucunun mülkiyetinde olması",
+        "Portföy yönetim şirketinin fon malvarlığını yatırımcılar adına ve yararına yönetmesi",
+        "Fonun devlet güvencesi altında olması",
+        "Fon malvarlığının borsada likit olarak tutulması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İnançlı mülkiyet: PYŞ'nin fon malvarlığını kendi adına ancak yatırımcılar hesabına ve yararına yönetmesidir. Mülkiyet hukuken PYŞ'dedir ancak yatırımcılar lehine kullanılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 130,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g94",
+      "q": "Aşağıdaki fonlardan hangisi portföyünün en az %80'ini hisse senetlerine yatırmak zorundadır?",
+      "options": [
+        "Para piyasası fonu",
+        "Değişken fon",
+        "Hisse senedi fonu",
+        "Karma fon",
+        "Borçlanma araçları fonu"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Hisse senedi fonları, fon portföyünün en az %80'ini ihraççı paylarına (hisse senetlerine) yatırmak zorundadır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 135,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Hisse Senedi Fonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g95",
+      "q": "Değişken fon ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yalnızca dövize yatırım yapar",
+        "Fon portföy sınırlamalarına tabi değildir ve portföy dağılımı yöneticinin takdirine bırakılmıştır",
+        "Garantili getiri sunar",
+        "Yalnızca nitelikli yatırımcılara satılır",
+        "Borsada işlem görmesi zorunludur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Değişken fonlarda belirli bir varlık türüne minimum yatırım zorunluluğu bulunmaz; portföy dağılımı esnek olarak yönetilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 136,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği - Değişken Fon"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g96",
+      "q": "Aşağıdakilerden hangisi fon saklama kuruluşunun görevlerinden biri değildir?",
+      "options": [
+        "Fon portföyündeki varlıkların saklanması",
+        "Fon varlıklarının korunması",
+        "Fon portföy yönetim kararlarının verilmesi",
+        "Katılma payı alım satım işlemlerinin takibi",
+        "Fon varlıklarının kurucunun/saklayıcının borçlarından ayrı tutulması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Portföy yönetim kararlarını PYŞ verir; saklama kuruluşu bu kararları almaz, yalnızca varlıkların saklanması ve korunmasından sorumludur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 132,
+        "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g97",
+      "q": "'Piyasa bütünlüğü' etik ilkesi neyi ifade eder?",
+      "options": [
+        "Tüm borsaların birleştirilmesini",
+        "Sermaye piyasası çalışanının piyasanın dürüst ve düzenli işleyişine katkıda bulunması, piyasa güvenini sarsacak davranışlardan kaçınması",
+        "Yalnızca yurtiçi piyasaları kapsar",
+        "Çalışanın tüm piyasalarda aynı anda işlem yapması",
+        "Piyasaların 7/24 açık olması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Piyasa bütünlüğü: sermaye piyasası çalışanının piyasanın dürüst ve düzenli işleyişini korumaya yönelik hareket etmesidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 186,
+        "section": "1.3.2.3 Etik İlkeler - Piyasa Bütünlüğü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g98",
+      "q": "Halka açık ortaklıklarda 'önemli nitelikteki işlemler' hangi organda onaylanmalıdır?",
+      "options": [
+        "Yönetim Kurulu",
+        "Genel Kurul",
+        "SPK",
+        "TSPB",
+        "Denetim Komitesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıklarda önemli nitelikteki işlemler (birleşme, bölünme, önemli varlık satışı vb.) genel kurul onayına tabidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 16,
+        "section": "1.1.2 Halka Açık Ortaklıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g99",
+      "q": "6362 sayılı Kanun'a göre izinsiz sermaye piyasası faaliyeti yapanlara ne tür bir yaptırım uygulanır?",
+      "options": [
+        "Yalnızca idari para cezası",
+        "İdari para cezası ve/veya hapis cezası",
+        "Yalnızca uyarı",
+        "Yalnızca faaliyet durdurma",
+        "Herhangi bir yaptırım yoktur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İzinsiz sermaye piyasası faaliyeti yürütmek suçtur; 6362 sayılı Kanun kapsamında hem idari para cezası hem de hapis cezası öngörülmüştür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 37,
+        "section": "1.1.7 Sermaye Piyasası Suçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g100",
+      "q": "Aşağıdakilerden hangisi halka açık ortaklıklarda 'zorunlu pay alım teklifi' (çağrıda bulunma yükümlülüğü) doğuran durumlardan biridir?",
+      "options": [
+        "Şirketin kâr elde etmesi",
+        "Yönetim kontrolünün el değiştirmesi",
+        "Şirketin sermaye artırımı yapması",
+        "Temettü dağıtımı",
+        "Yeni yönetim kurulu üyesi seçilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Halka açık ortaklıklarda yönetim kontrolünün el değiştirmesi durumunda, kontrolü ele geçiren taraf diğer pay sahiplerine zorunlu pay alım teklifi yapmak zorundadır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 17,
+        "section": "1.1.2 Pay Alım Teklifi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g101",
+      "q": "6362 sayılı Kanun'a göre Borsa İstanbul'un piyasa gözetim ve denetim işlevi kapsamında hangi tür şüpheli işlemleri SPK'ya bildirmesi gerekir?",
+      "options": [
+        "Yalnızca büyük tutarlı işlemleri",
+        "Piyasa bozucu nitelikteki veya bilgi suistimali şüphesi uyandıran olağandışı işlemleri",
+        "Tüm işlemleri",
+        "Yalnızca yabancı yatırımcı işlemlerini",
+        "Yalnızca kısa vadeli işlemleri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Borsa İstanbul, piyasa bozucu nitelikteki veya bilgi suistimali şüphesi taşıyan olağandışı işlemleri SPK'ya bildirmekle yükümlüdür.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 24,
+        "section": "1.1.4 Borsalar - Gözetim ve Denetim"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g102",
+      "q": "Aşağıdakilerden hangisi 'kaydi pay' (kaydileştirilmiş pay) kavramını doğru tanımlar?",
+      "options": [
+        "Fiziki olarak basılmış hisse senedi",
+        "MKK nezdinde elektronik ortamda kayıt altına alınmış ve izlenen pay",
+        "Borsada işlem görmeyen pay",
+        "Yalnızca hamiline yazılı pay",
+        "SPK'ya tescil edilmemiş pay"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kaydi pay: fiziki senet basılmaksızın MKK nezdinde elektronik ortamda kayıt altına alınan ve izlenen paydır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 30,
+        "section": "1.1.6 Kaydileştirme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g103",
+      "q": "Aşağıdakilerden hangisi etik ilkelerden 'dürüstlük' ilkesinin kapsamına girer?",
+      "options": [
+        "Sermaye piyasası çalışanının tüm faaliyetlerinde doğru, güvenilir ve tutarlı davranması",
+        "Yalnızca müşterilere karşı dürüst olması",
+        "Yalnızca regülatöre doğru bilgi vermesi",
+        "Yalnızca vergi ödemelerinde dürüst olması",
+        "Çalışanın rakip firmalara bilgi sızdırmaması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Dürüstlük ilkesi: sermaye piyasası çalışanının tüm faaliyetlerinde, tüm muhataplarına karşı doğru, güvenilir ve tutarlı davranmasını gerektirir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 185,
+        "section": "1.3.2.3.1 Dürüstlük İlkesi"
+      },
+      "verified": true,
+      "flag": null
+    }
   ]
 }
