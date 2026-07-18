@@ -18,7 +18,7 @@ export default function Home({
     <>
       <div className="hero">
         <span className="hero-mascot">
-          <Squirrel size={104} mood="happy" />
+          <Squirrel size={120} mood="neutral" />
         </span>
         <h1>SPL Düzey 1 Hazırlık</h1>
         <p>Her gün 25 soru çöz, sınava eğlenerek hazırlan!</p>

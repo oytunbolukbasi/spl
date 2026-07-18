@@ -1,28 +1,26 @@
 import { useEffect, useRef, useState } from 'react';
 
-// Fındık — minimal, temiz sincap maskot.
-// Sayfa açılışında intro animasyonu; tıklanınca sincaba özgü mini animasyonlar
-// (fındık yeme, zıplama, kuyruk sallama, göz kırpma).
-// mood: 'neutral' | 'happy' | 'sad'  — quiz sonucu vb. için ifade.
+// Fındık — sevimli, gözlüklü çizgi film sincabı. Sıfırdan özgün SVG.
+// Büyük yeşil gözler + yuvarlak kırmızı gözlük, ponpon kuyruk, kulak püskülleri, kitap.
+// Sayfa açılışında intro; tıklanınca sincaba özgü mini animasyonlar (fındık yeme vb.).
+// mood: 'neutral' | 'happy' | 'sad'
 const CLICK_ANIMS = ['eat', 'hop', 'flick', 'blink', 'eat'];
 
-export default function Squirrel({ mood = 'neutral', size = 120, interactive = true }) {
+export default function Squirrel({ mood = 'neutral', size = 130, interactive = true }) {
   const [intro, setIntro] = useState(true);
   const [anim, setAnim] = useState(null);
   const timer = useRef(null);
 
   useEffect(() => {
-    const t = setTimeout(() => setIntro(false), 900);
+    const t = setTimeout(() => setIntro(false), 1000);
     return () => clearTimeout(t);
   }, []);
-
   useEffect(() => () => clearTimeout(timer.current), []);
 
   function play() {
     if (!interactive) return;
     const pick = CLICK_ANIMS[Math.floor(Math.random() * CLICK_ANIMS.length)];
     setAnim(null);
-    // reflow to allow re-trigger of the same animation
     requestAnimationFrame(() => {
       setAnim(pick);
       clearTimeout(timer.current);
@@ -40,6 +38,9 @@ export default function Squirrel({ mood = 'neutral', size = 120, interactive = t
     .filter(Boolean)
     .join(' ');
 
+  const happy = mood === 'happy';
+  const sad = mood === 'sad';
+
   return (
     <span
       className={cls}
@@ -48,84 +49,169 @@ export default function Squirrel({ mood = 'neutral', size = 120, interactive = t
       role={interactive ? 'button' : 'img'}
       aria-label="Fındık maskot"
     >
-      <svg viewBox="0 0 100 100" width={size} height={size}>
-        {/* Kuyruk — imza kıvrım */}
+      <svg viewBox="0 0 220 230" width={size} height={size}>
+        <defs>
+          <radialGradient id="furG" cx="45%" cy="35%" r="75%">
+            <stop offset="0%" stopColor="#ffb066" />
+            <stop offset="100%" stopColor="#f5893e" />
+          </radialGradient>
+          <linearGradient id="tailG" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stopColor="#ffb268" />
+            <stop offset="100%" stopColor="#ef8236" />
+          </linearGradient>
+          <radialGradient id="eyeG" cx="50%" cy="40%" r="60%">
+            <stop offset="0%" stopColor="#7fe0a6" />
+            <stop offset="60%" stopColor="#39b56b" />
+            <stop offset="100%" stopColor="#1f8f4e" />
+          </radialGradient>
+        </defs>
+
+        {/* ---------- Kuyruk (ponpon, kıvrık) ---------- */}
         <g className="sq-tail">
           <path
-            d="M74 82
-               C96 78 96 44 82 34
-               C74 28 62 30 58 40
-               C66 38 74 42 76 50
-               C79 60 72 72 60 74 Z"
-            fill="#a5673a"
+            d="M150 196
+               C205 200 214 150 205 116
+               C198 88 176 66 150 66
+               C132 66 120 78 120 92
+               C132 78 154 82 162 98
+               C170 114 165 132 150 140
+               C170 132 188 140 186 160
+               C185 176 172 190 150 196 Z"
+            fill="#d9702a"
           />
           <path
-            d="M72 76
-               C88 71 88 46 78 39
-               C82 47 80 58 70 63
-               C74 66 74 72 72 76 Z"
-            fill="#c98a54"
+            d="M152 188
+               C196 190 202 150 194 120
+               C188 96 170 78 150 79
+               C168 88 174 108 166 126
+               C182 120 194 130 191 150
+               C189 168 174 182 152 188 Z"
+            fill="url(#tailG)"
+          />
+          <path
+            d="M158 176 C186 172 190 146 183 126 C178 140 168 148 160 150 C172 150 178 160 174 170 Z"
+            fill="#ffd0a0"
+            opacity="0.7"
           />
         </g>
 
-        {/* Gövde */}
+        {/* ---------- Gövde ---------- */}
         <g className="sq-body">
-          <ellipse cx="46" cy="70" rx="26" ry="25" fill="#b87840" />
-          <ellipse cx="46" cy="74" rx="16" ry="17" fill="#fbe4cc" />
-          {/* patiler */}
-          <ellipse className="sq-paw" cx="37" cy="90" rx="7" ry="5" fill="#a5673a" />
-          <ellipse className="sq-paw" cx="55" cy="90" rx="7" ry="5" fill="#a5673a" />
-        </g>
+          <ellipse cx="100" cy="158" rx="52" ry="55" fill="url(#furG)" stroke="#d9702a" strokeWidth="3" />
+          <ellipse cx="100" cy="168" rx="34" ry="42" fill="#fff6ec" />
+          {/* ayaklar */}
+          <ellipse className="sq-paw" cx="72" cy="205" rx="15" ry="10" fill="#f5893e" stroke="#d9702a" strokeWidth="2.5" />
+          <ellipse className="sq-paw" cx="128" cy="205" rx="15" ry="10" fill="#f5893e" stroke="#d9702a" strokeWidth="2.5" />
 
-        {/* Fındık — yeme animasyonunda görünür */}
-        <g className="sq-nut">
-          <ellipse cx="46" cy="86" rx="6.5" ry="7.5" fill="#c98a54" />
-          <path d="M39.5 84 Q46 78 52.5 84 Q46 88 39.5 84 Z" fill="#7a4a22" />
-          <ellipse cx="46" cy="88" rx="3" ry="3.5" fill="#8a5a2b" opacity="0.35" />
-        </g>
-
-        {/* Baş */}
-        <g className="sq-head">
-          {/* kulaklar */}
-          <g className="sq-ears">
-            <path d="M30 32 Q26 16 38 20 Q40 30 36 36 Z" fill="#b87840" />
-            <path d="M66 32 Q70 16 58 20 Q56 30 60 36 Z" fill="#b87840" />
-            <path d="M32 30 Q30 22 36 23 Z" fill="#c98a54" />
-            <path d="M64 30 Q66 22 60 23 Z" fill="#c98a54" />
+          {/* Kitap (kırmızı) + kucaklayan kollar */}
+          <g className="sq-book">
+            <rect x="66" y="150" width="52" height="66" rx="5" transform="rotate(-8 92 183)" fill="#a12b22" />
+            <rect x="70" y="150" width="48" height="66" rx="5" transform="rotate(-8 94 183)" fill="#c0392b" />
+            <rect x="80" y="165" width="30" height="7" rx="2" transform="rotate(-8 95 168)" fill="#f7dfae" />
+            <rect x="80" y="178" width="30" height="4" rx="2" transform="rotate(-8 95 180)" fill="#f7dfae" opacity="0.8" />
           </g>
-          <circle cx="48" cy="44" r="24" fill="#b87840" />
-          {/* yüz açık ton */}
-          <ellipse cx="48" cy="50" rx="16" ry="15" fill="#fbe4cc" />
-          {/* yanaklar */}
-          <circle cx="33" cy="52" r="4.5" fill="#f6b98f" opacity="0.6" />
-          <circle cx="63" cy="52" r="4.5" fill="#f6b98f" opacity="0.6" />
+          {/* kollar */}
+          <path d="M60 150 q-8 22 14 34" fill="none" stroke="#d9702a" strokeWidth="3" />
+          <ellipse cx="64" cy="150" rx="12" ry="9" fill="#f5893e" stroke="#d9702a" strokeWidth="2.5" transform="rotate(-20 64 150)" />
+          <ellipse cx="126" cy="188" rx="12" ry="9" fill="#f5893e" stroke="#d9702a" strokeWidth="2.5" transform="rotate(30 126 188)" />
+        </g>
+
+        {/* ---------- Baş ---------- */}
+        <g className="sq-head">
+          {/* kulaklar + püsküller */}
+          <g className="sq-ears">
+            <path d="M58 24 q-6 -20 6 -20 q6 8 6 22 z" fill="#d9702a" />
+            <path d="M46 22 q4 -18 12 -20 q-2 10 -6 22 z" fill="#d9702a" />
+            <path d="M162 24 q6 -20 -6 -20 q-6 8 -6 22 z" fill="#d9702a" />
+            <path d="M174 22 q-4 -18 -12 -20 q2 10 6 22 z" fill="#d9702a" />
+            <path d="M50 62 C44 30 58 18 74 24 C86 30 90 52 82 70 Z" fill="url(#furG)" stroke="#d9702a" strokeWidth="3" />
+            <path d="M170 62 C176 30 162 18 146 24 C134 30 130 52 138 70 Z" fill="url(#furG)" stroke="#d9702a" strokeWidth="3" />
+            <path d="M58 56 C54 36 64 28 74 32 C80 40 80 52 74 62 Z" fill="#f6a9a0" />
+            <path d="M162 56 C166 36 156 28 146 32 C140 40 140 52 146 62 Z" fill="#f6a9a0" />
+          </g>
+
+          {/* kafa */}
+          <circle cx="110" cy="88" r="62" fill="url(#furG)" stroke="#d9702a" strokeWidth="3" />
+
+          {/* beyaz yanak/ağız bölgesi */}
+          <path d="M62 100 C62 78 158 78 158 100 C158 132 132 150 110 150 C88 150 62 132 62 100 Z" fill="#fff6ec" />
+          <circle cx="80" cy="120" r="20" fill="#fff6ec" />
+          <circle cx="140" cy="120" r="20" fill="#fff6ec" />
+
+          {/* freckle noktaları */}
+          <g fill="#e58a4e" opacity="0.65">
+            <circle cx="70" cy="118" r="1.7" /><circle cx="76" cy="126" r="1.7" /><circle cx="66" cy="128" r="1.7" />
+            <circle cx="150" cy="118" r="1.7" /><circle cx="144" cy="126" r="1.7" /><circle cx="154" cy="128" r="1.7" />
+          </g>
 
           {/* gözler */}
           <g className="sq-eyes">
-            {mood === 'happy' ? (
+            {sad ? (
               <>
-                <path d="M37 44 q4 -5 8 0" stroke="#3a2a1a" strokeWidth="3" fill="none" strokeLinecap="round" />
-                <path d="M51 44 q4 -5 8 0" stroke="#3a2a1a" strokeWidth="3" fill="none" strokeLinecap="round" />
+                <path d="M74 92 q10 -6 20 0" stroke="#3a2a1a" strokeWidth="3.5" fill="none" strokeLinecap="round" />
+                <path d="M126 92 q10 -6 20 0" stroke="#3a2a1a" strokeWidth="3.5" fill="none" strokeLinecap="round" />
+              </>
+            ) : happy ? (
+              <>
+                <path d="M72 96 q12 -14 24 0" stroke="#2c2018" strokeWidth="4" fill="none" strokeLinecap="round" />
+                <path d="M124 96 q12 -14 24 0" stroke="#2c2018" strokeWidth="4" fill="none" strokeLinecap="round" />
               </>
             ) : (
               <>
-                <circle cx="41" cy="45" r="3.6" fill="#3a2a1a" />
-                <circle cx="55" cy="45" r="3.6" fill="#3a2a1a" />
-                <circle cx="42.2" cy="43.8" r="1.1" fill="#fff" />
-                <circle cx="56.2" cy="43.8" r="1.1" fill="#fff" />
+                {/* sol göz */}
+                <circle cx="84" cy="92" r="20" fill="#fff" />
+                <circle cx="84" cy="92" r="15" fill="url(#eyeG)" />
+                <circle cx="84" cy="93" r="8.5" fill="#20140f" />
+                <circle cx="79" cy="86" r="4" fill="#fff" />
+                <circle cx="89" cy="97" r="2" fill="#fff" opacity="0.8" />
+                {/* sağ göz */}
+                <circle cx="136" cy="92" r="20" fill="#fff" />
+                <circle cx="136" cy="92" r="15" fill="url(#eyeG)" />
+                <circle cx="136" cy="93" r="8.5" fill="#20140f" />
+                <circle cx="131" cy="86" r="4" fill="#fff" />
+                <circle cx="141" cy="97" r="2" fill="#fff" opacity="0.8" />
+                {/* kirpikler */}
+                <path d="M66 82 q-6 -3 -9 -7" stroke="#2c2018" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+                <path d="M154 82 q6 -3 9 -7" stroke="#2c2018" strokeWidth="2.5" fill="none" strokeLinecap="round" />
               </>
             )}
           </g>
 
-          {/* burun + ağız */}
-          <ellipse cx="48" cy="53" rx="2.6" ry="2" fill="#5a3a1e" />
-          {mood === 'sad' ? (
-            <path d="M43 61 q5 -4 10 0" stroke="#5a3a1e" strokeWidth="2" fill="none" strokeLinecap="round" />
-          ) : (
-            <path className="sq-mouth" d="M43 58 q5 5 10 0" stroke="#5a3a1e" strokeWidth="2" fill="none" strokeLinecap="round" />
+          {/* gözlük (yuvarlak kırmızı) */}
+          {!sad && (
+            <g className="sq-glasses" fill="none" stroke="#c0392b" strokeWidth="5">
+              <circle cx="84" cy="92" r="24" />
+              <circle cx="136" cy="92" r="24" />
+              <path d="M108 90 q2 -4 4 0" strokeWidth="4.5" />
+              <path d="M60 90 q-10 -6 -16 -3" strokeLinecap="round" />
+              <path d="M160 90 q10 -6 16 -3" strokeLinecap="round" />
+              <circle cx="84" cy="92" r="24" stroke="#e05a4c" strokeWidth="1.6" opacity="0.6" />
+              <circle cx="136" cy="92" r="24" stroke="#e05a4c" strokeWidth="1.6" opacity="0.6" />
+            </g>
           )}
-          {/* ön dişler */}
-          {mood !== 'sad' && <rect x="46" y="57.5" width="4" height="3.5" rx="1" fill="#fff" />}
+
+          {/* burun */}
+          <ellipse cx="110" cy="116" rx="7" ry="5" fill="#e87d8a" />
+          <ellipse cx="107.5" cy="114" rx="2.2" ry="1.5" fill="#fff" opacity="0.7" />
+
+          {/* ağız + dişler */}
+          {sad ? (
+            <path d="M100 138 q10 -7 20 0" stroke="#7a5038" strokeWidth="3" fill="none" strokeLinecap="round" />
+          ) : (
+            <>
+              <path d="M110 121 v7" stroke="#7a5038" strokeWidth="2.5" strokeLinecap="round" />
+              <path d="M110 128 q-11 12 -20 3" stroke="#7a5038" strokeWidth="3" fill="none" strokeLinecap="round" />
+              <path d="M110 128 q11 12 20 3" stroke="#7a5038" strokeWidth="3" fill="none" strokeLinecap="round" />
+              <rect className="sq-teeth" x="104" y="129" width="12" height="9" rx="2" fill="#fff" stroke="#e5d9c8" strokeWidth="1" />
+              <line x1="110" y1="129" x2="110" y2="138" stroke="#e5d9c8" strokeWidth="1" />
+            </>
+          )}
+        </g>
+
+        {/* Fındık — yeme animasyonunda görünür */}
+        <g className="sq-nut">
+          <ellipse cx="110" cy="150" rx="8" ry="9.5" fill="#c98a54" />
+          <path d="M101 147 Q110 140 119 147 Q110 152 101 147 Z" fill="#7a4a22" />
         </g>
       </svg>
     </span>

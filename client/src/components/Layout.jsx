@@ -58,7 +58,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, children
       {/* Sağ panel (masaüstü) */}
       <aside className="rightrail">
         <div className="rr-card rr-mascot">
-          <Squirrel size={130} mood="happy" />
+          <Squirrel size={150} mood="neutral" />
           <div className="speech">{tip}</div>
         </div>
         <div className="rr-card">
