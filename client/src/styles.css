@@ -984,7 +984,7 @@ a {
 
 /* tail idle sway */
 .sq-tail {
-  transform-origin: 75% 85%;
+  transform-origin: 20% 40%;
   animation: tailSway 3.2s ease-in-out infinite;
 }
 @keyframes tailSway {
@@ -1146,7 +1146,7 @@ a {
   }
 }
 .sq-eyes {
-  transform-origin: 50% 45%;
+  transform-origin: 50% 50%;
 }
 
 @media (prefers-reduced-motion: reduce) {

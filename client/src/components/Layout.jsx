@@ -84,10 +84,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
     <div className="shell">
       {/* Mobil üst bar */}
       <header className="mobile-topbar">
-        <div className="brand">
-          <Squirrel size={30} mood="happy" interactive={false} />
-          Fındık
-        </div>
+        <div className="brand">fındık</div>
         <div className="stats">
           <span className="stat streak"><Flame size={16} /> {progress.streak}</span>
           <span className="stat xp"><Star size={16} /> {progress.xp}</span>
@@ -97,10 +94,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
 
       {/* Sol menü (tablet+) */}
       <aside className="sidebar">
-        <div className="brand">
-          <Squirrel size={34} mood="happy" interactive={false} />
-          Fındık
-        </div>
+        <div className="brand">fındık</div>
         <button
           className={'nav-item' + (active === 'home' ? ' active' : '')}
           onClick={() => onNav('home')}
