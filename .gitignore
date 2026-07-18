@@ -5,6 +5,11 @@ client/dist/
 *.log
 scratchpad/
 
+# Ortam değişkenleri / sırlar (ASLA commit edilmez)
+.env
+.env.*
+!.env.example
+
 # Orijinal PDF kaynak klasörü (pdfs/ altında ascii kopyaları var)
 Ders Notları ve Soru Bankaları/
 scratch_render/

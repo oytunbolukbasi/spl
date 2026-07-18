@@ -46,6 +46,21 @@ scripts/validate_questions.mjs Soru JSON doğrulayıcı
 Yeni soruların nasıl doğrulanıp eklendiği için bkz. **[CONTENT.md](CONTENT.md)**.
 Ekledikten sonra: `node scripts/validate_questions.mjs`
 
+## Hesap ve ilerleme (Neon Postgres)
+Kullanıcılar kayıt olup giriş yapar; ilerleme (XP, seri, hatalar, günlük sayaç)
+sunucuda **Neon Postgres**'te saklanır, böylece farklı cihazlarda aynı hesapla
+devam edilir. Şifreler bcrypt ile hashlenir, oturum JWT ile tutulur.
+
+Gerekli **ortam değişkenleri** (yerelde `.env`, Railway'de servis değişkenleri):
+```
+DATABASE_URL   Neon bağlantı dizesi (postgresql://...?sslmode=require)
+JWT_SECRET     uzun rastgele bir dize (oturum jetonlarını imzalar)
+```
+> `.env` git'e **girmez** (`.gitignore`'da). Şablon için `.env.example`.
+> Tablo (`users`) uygulama açılışında otomatik oluşturulur.
+
 ## Railway deploy
-Bkz. [CONTENT.md](CONTENT.md) sonundaki "Deploy" bölümü ve `railway.json`.
-Özet: repoyu GitHub'a push et → Railway'de "Deploy from GitHub repo" → otomatik `npm install && npm run build` + `npm start`. Ortam değişkeni gerekmez (Railway `PORT`'u otomatik verir).
+1. Kod GitHub'a push edilir.
+2. Railway → **New Project → Deploy from GitHub repo → spl**.
+3. **Variables** sekmesinde `DATABASE_URL` ve `JWT_SECRET` eklenir.
+4. Railway otomatik: `npm install && npm run build` → `npm start` (`PORT` otomatik).

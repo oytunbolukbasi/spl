@@ -7,7 +7,7 @@ const TIPS = [
   'Fındık’a tıkla, bak ne yapıyor 🐿️',
 ];
 
-export default function Layout({ active, onNav, progress, mistakeCount, onReset, children }) {
+export default function Layout({ active, onNav, progress, mistakeCount, username, onReset, onLogout, children }) {
   const tip = TIPS[(progress.xp / 10) % TIPS.length | 0];
   return (
     <div className="shell">
@@ -22,6 +22,9 @@ export default function Layout({ active, onNav, progress, mistakeCount, onReset,
           <span className="stat xp">⭐ {progress.xp}</span>
           <button className="reset-icon" onClick={onReset} aria-label="İlerlemeyi sıfırla" title="İlerlemeyi sıfırla">
             ⟳
+          </button>
+          <button className="reset-icon" onClick={onLogout} aria-label="Çıkış yap" title="Çıkış yap">
+            ⎋
           </button>
         </div>
       </header>
@@ -51,10 +54,13 @@ export default function Layout({ active, onNav, progress, mistakeCount, onReset,
             <span className="stat streak">🔥 {progress.streak}</span>
             <span className="stat xp">⭐ {progress.xp}</span>
           </div>
+          {username && <div className="side-user">👤 @{username}</div>}
           <button className="reset-btn" onClick={onReset}>
             ⟳ İlerlemeyi Sıfırla
           </button>
-          <div className="side-caption">SPL Düzey 1 Hazırlık</div>
+          <button className="reset-btn" onClick={onLogout}>
+            ⎋ Çıkış Yap
+          </button>
         </div>
       </aside>
 

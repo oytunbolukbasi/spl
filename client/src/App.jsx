@@ -3,20 +3,30 @@ import Layout from './components/Layout.jsx';
 import Home from './components/Home.jsx';
 import Session from './components/Session.jsx';
 import MistakesReview from './components/MistakesReview.jsx';
-import { load, ensureToday, save, resetProgress } from './lib/storage.js';
+import Auth from './components/Auth.jsx';
+import { normalize, ensureToday, emptyProgress } from './lib/storage.js';
 import { buildDailySession, buildUnitSession, buildMistakeSession } from './lib/session.js';
+import {
+  getToken,
+  getUsername,
+  clearSession,
+  fetchProgress,
+  saveProgress,
+} from './lib/api.js';
 
 export default function App() {
   const [units, setUnits] = useState([]);
   const [pool, setPool] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [progress, setProgress] = useState(() => ensureToday(load()));
 
-  // nav: 'home' | 'mistakes'  ;  session ayrı tam ekran
+  const [authReady, setAuthReady] = useState(false);
+  const [user, setUser] = useState(null); // username | null
+  const [progress, setProgress] = useState(null);
+
   const [nav, setNav] = useState('home');
-  const [session, setSession] = useState(null); // {questions, title}
+  const [session, setSession] = useState(null);
 
+  // İçerik (herkese açık) her zaman yüklenir
   useEffect(() => {
     Promise.all([
       fetch('/api/units').then((r) => r.json()),
@@ -25,25 +35,52 @@ export default function App() {
       .then(([u, q]) => {
         setUnits(u.units || []);
         setPool(q.questions || []);
-        setLoading(false);
       })
-      .catch((e) => {
-        setError(e.message);
-        setLoading(false);
-      });
+      .catch((e) => setError(e.message));
   }, []);
 
+  // Oturum kontrolü: jeton varsa ilerlemeyi sunucudan çek
+  useEffect(() => {
+    (async () => {
+      if (getToken() && getUsername()) {
+        try {
+          const { progress: p } = await fetchProgress();
+          setUser(getUsername());
+          setProgress(ensureToday(normalize(p)));
+        } catch {
+          clearSession();
+        }
+      }
+      setAuthReady(true);
+    })();
+  }, []);
+
+  function onAuthed(username, serverProgress) {
+    setUser(username);
+    setProgress(ensureToday(normalize(serverProgress)));
+    setNav('home');
+    setSession(null);
+  }
+
   function persist(next) {
-    setProgress({ ...next });
-    save(next);
+    const copy = { ...next };
+    setProgress(copy);
+    saveProgress(copy).catch(() => {}); // ağ hatasında sessiz; bellek güncel kalır
+  }
+
+  function handleLogout() {
+    clearSession();
+    setUser(null);
+    setProgress(null);
+    setNav('home');
+    setSession(null);
   }
 
   function handleReset() {
-    if (!window.confirm('Tüm ilerlemen (XP, seri, hatalar, günlük sayaç) silinecek. Emin misin?')) {
-      return;
-    }
-    resetProgress();
-    setProgress(ensureToday(load()));
+    if (!window.confirm('Tüm ilerlemen (XP, seri, hatalar, günlük sayaç) silinecek. Emin misin?')) return;
+    const fresh = ensureToday(emptyProgress());
+    setProgress(fresh);
+    saveProgress(fresh).catch(() => {});
     setSession(null);
     setNav('home');
   }
@@ -66,7 +103,7 @@ export default function App() {
     return acc;
   }, {});
 
-  if (loading) {
+  if (!authReady) {
     return (
       <div className="shell">
         <main className="main">
@@ -75,6 +112,10 @@ export default function App() {
         </main>
       </div>
     );
+  }
+
+  if (!user) {
+    return <Auth onAuthed={onAuthed} />;
   }
 
   if (session) {
@@ -96,7 +137,9 @@ export default function App() {
       onNav={setNav}
       progress={progress}
       mistakeCount={progress.mistakes.length}
+      username={user}
       onReset={handleReset}
+      onLogout={handleLogout}
     >
       {nav === 'home' ? (
         <Home
