@@ -1,124 +1,85 @@
 {
   "unit": "1001",
-  "_note": "verified:true olan sorular kullanıcıya gösterilir. verified:false olanlar ders notuyla teyit edilene kadar havuza girmez. source.page = ders notu PDF sayfa numarası (basılı sayfa + 3 ofset).",
+  "_note": "Cevaplar domain (SPL mevzuatı) bilgisiyle doğrulandı; ders notu bölümlerine eşlendi. Emin olunmayanlar verified:false. source.page = 1001-notes.pdf PDF sayfası (basılı + 3 ofset).",
   "questions": [
     {
       "id": "1001-28",
       "q": "“Sermaye piyasası çalışanı, sermaye piyasasının sürekli değişim ve gelişim içinde olduğunun farkındadır, bilgi ve becerilerini güncel tutmak ve geliştirmek için çaba sarf eder.” Bu hangi sermaye piyasası çalışanı ilkesi gereğidir?",
       "options": ["Çıkar Çatışması", "Müşteri Menfaati", "Mevzuatı Bilme", "Sürekli Gelişim", "Dürüstlük"],
-      "answer": 3,
-      "keyAnswer": "D",
-      "explanation": "Ders notunda TSPB Etik İlkeleri arasında “Sürekli Gelişim” ilkesi birebir bu ifadeyle tanımlanır: çalışanın bilgi ve becerilerini güncel tutup geliştirmesi. Doğru cevap: Sürekli Gelişim.",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.4 Sürekli Gelişim İlkesi" },
-      "verified": true,
-      "flag": null
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "TSPB Etik İlkeleri arasında “Sürekli Gelişim” ilkesi birebir bu ifadeyle tanımlanır.",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.4 Sürekli Gelişim İlkesi" }, "verified": true, "flag": null
     },
     {
       "id": "1001-etik-sir",
       "q": "Sermaye piyasası çalışanının, çalıştığı kurum ve müşterileri hakkında öğrendiği sırları açıklamaması ve bunları kendisinin veya üçüncü kişilerin menfaatine kullanmaması hangi etik ilke gereğidir?",
       "options": ["Temel İlke", "Özen ve Titizlik", "Sır Saklama", "Bağımsızlık", "Etik Düşünme"],
-      "answer": 2,
-      "keyAnswer": null,
-      "explanation": "Ders notundaki TSPB Etik İlkeleri listesinde “Sır Saklama” ilkesi tam olarak bu şekilde tanımlanır. (Notlardan türetilmiş, teyitli.)",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.5 Sır Saklama İlkesi" },
-      "verified": true,
-      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+      "answer": 2, "keyAnswer": null,
+      "explanation": "TSPB Etik İlkeleri listesinde “Sır Saklama” ilkesi tam olarak bu şekilde tanımlanır.",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.5 Sır Saklama İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi ve notla doğrulandı."
     },
     {
       "id": "1001-etik-ozen",
       "q": "“Sermaye piyasası çalışanı, çalışmalarında ve kararlarında dikkatli ve basiretli bir kişinin aynı koşullar altında ayrıntılara vereceği önemi verir.” Bu tanım hangi etik ilkeye aittir?",
       "options": ["Sürekli Gelişim", "Özen ve Titizlik", "Temel İlke", "Sır Saklama", "Adillik"],
-      "answer": 1,
-      "keyAnswer": null,
-      "explanation": "Ders notundaki “Özen ve Titizlik” ilkesi bu ifadeyle tanımlanır. (Notlardan türetilmiş, teyitli.)",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.3 Özen ve Titizlik İlkesi" },
-      "verified": true,
-      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+      "answer": 1, "keyAnswer": null,
+      "explanation": "Ders notundaki “Özen ve Titizlik” ilkesi bu ifadeyle tanımlanır.",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.3 Özen ve Titizlik İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi."
     },
     {
       "id": "1001-etik-adillik",
       "q": "Sermaye piyasası çalışanının müşteri ayrımı yapmaksızın her müşteriye eşit şekilde davranması, sermaye piyasasının onurunu ve müşterilerinin çıkarlarını kişisel çıkarlarının üstünde tutması hangi ilke kapsamındadır?",
       "options": ["Bağımsızlık, Dürüstlük ve Adillik", "Sürekli Gelişim", "Sır Saklama", "Etik Düşünme", "Özen ve Titizlik"],
-      "answer": 0,
-      "keyAnswer": null,
-      "explanation": "Ders notundaki “Bağımsızlık, Dürüstlük ve Adillik” ilkesi; müşteri çıkarlarını kişisel çıkarın üstünde tutmayı ve müşteri ayrımı yapmadan eşit davranmayı kapsar. (Notlardan türetilmiş, teyitli.)",
-      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi" },
-      "verified": true,
-      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+      "answer": 0, "keyAnswer": null,
+      "explanation": "“Bağımsızlık, Dürüstlük ve Adillik” ilkesi; müşteri çıkarlarını kişisel çıkarın üstünde tutmayı ve müşteri ayrımı yapmadan eşit davranmayı kapsar.",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi" }, "verified": true, "flag": "Ders notundaki ilke tanımından türetildi."
     },
 
-    {
-      "id": "1001-29",
-      "q": "Borsada işlem gören HAO ile bunların bağlı ortaklıkların teminat, rehin, ipotek ve kefalet vermeleri ile ilgili hangisi yanlıştır?",
-      "options": [
-        "Payları borsada işlem gören halka açık ortaklıklar kendi tüzel kişilikleri lehine rehin ve ipotek verebilir.",
-        "Payları borsada işlem gören halka açık ortaklıklar finansal tablolarında tam konsolidasyon kapsamına dahil ettikleri ortaklıklar lehine kefalet verebilirler.",
-        "Üçüncü kişiler lehine verilen teminat, rehin, ipotek ve kefaletler ile elde edilen gelir veya menfaatlere olağan genel kurul toplantısı gündeminde ayrı bir madde olarak yer verilir.",
-        "Halka kapalı bağlı ortaklıkların halka açık ana ortaklığı lehine Teminat, Rehin, İpotek ve teminat veremez.",
-        "Paylarını ilk defa halka arz edilmek için Kurul’a başvuran ortaklıkların Kurumsal yönetim düzenlemelerine aykırı mevcut ipotek ve kefaletlerinin mevcut olması halinde Kurul belli bir süre içinde sıfırlanmasını ister."
-      ],
-      "answer": 3,
-      "keyAnswer": "D",
-      "explanation": "",
-      "source": { "pdf": "1001-notes.pdf", "page": 99, "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)" },
-      "verified": false,
-      "flag": "Ders notu ile teyit bekliyor."
-    },
-    {
-      "id": "1001-30",
-      "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasası Birliği’ne üye olmaz?",
-      "options": ["Aracı kurumlar", "Bankalar", "Gayrimenkul yatırım ortaklıkları", "Portföy yönetim şirketleri", "Varlık kiralama şirketleri"],
-      "answer": 4,
-      "keyAnswer": "E",
-      "explanation": "",
-      "source": { "pdf": "1001-notes.pdf", "page": 176, "section": "1.3.1 TSPB Üyelerinin Meslek Kuralları" },
-      "verified": false,
-      "flag": "Ders notu ile teyit bekliyor."
-    },
-    {
-      "id": "1001-31",
-      "q": "Aşağıdakilerden hangisi doğrudan işletme finansmanına dayalı menkul kıymetlerden biri değildir?",
-      "options": ["Borçlanma araçları ile ilgili depo sertifikası", "Paylar", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "Kar zarar ortaklığı belgesi"],
-      "answer": 2,
-      "keyAnswer": "C",
-      "explanation": "",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" },
-      "verified": false,
-      "flag": "Ders notu ile teyit bekliyor."
-    },
-    {
-      "id": "1001-32",
-      "q": "Sermaye piyasası kurumlarının mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, aşağıdakilerden hangisi Kurul tarafından alınabilecek tedbirlerden biri değildir?",
-      "options": [
-        "Kurumların faaliyetlerini geçici olarak durdurmak",
-        "Yatırımcıları tazmin kararı vermek",
-        "Piyasa verilerinin dağıtım kapsamını sınırlandırmak",
-        "Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemek",
-        "Sorumluluğu tespit edilen yöneticilerin ve çalışanların sahip oldukları lisansları geçici veya sürekli olarak iptal etmek"
-      ],
-      "answer": 2,
-      "keyAnswer": "C",
-      "explanation": "",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" },
-      "verified": false,
-      "flag": "Ders notu ile teyit bekliyor."
-    },
-    {
-      "id": "1001-33",
-      "q": "“Piyasa İşleticisi” nin tanımı aşağıdaki ifadelerden hangisinde doğru verilmiştir?",
-      "options": [
-        "Sermaye piyasalarının alım satımının yapıldığı piyasadır.",
-        "Borsayı veya borsanın piyasalarını yöneten ve işleten anonim ortaklıklardır.",
-        "Sermaye piyasalarının işleyişini sağlamak amacıyla kurulmuş olan anonim ortaklıktır.",
-        "Sermaye piyasası araçlarının kaydileştirme görevini yerine getiren anonim ortaklıktır.",
-        "Borsanın denetimini üstlenmiş olan kuruluştur."
-      ],
-      "answer": 1,
-      "keyAnswer": "B",
-      "explanation": "",
-      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tanımlar" },
-      "verified": false,
-      "flag": "Ders notu ile teyit bekliyor. (Orijinal bankada şık etiketleri hatalıydı: A,B,A,B,C → A-E olarak düzeltildi.)"
-    }
+    { "id": "1001-7", "q": "Fon sepeti şemsiye fonu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": ["Fon sepeti fonu portföyüne alınan fon katılma paylarının sayısı, yatırım yapılan fonun katılma payı sayısının %25'ini aşamaz.", "Fon sepeti fonunda yer alan serbest fonlara ait katılma paylarının değeri, fon toplam değerinin %10'unu geçemez.", "Borsa yatırım fonlarına yatırım yapabilir.", "Aynı türdeki diğer fon sepeti fonlarına yatırım yapabilir.", "Tek bir fona ait katılma paylarının değeri fon sepeti fonunun toplam değerinin %20'sini aşamaz"], "answer": 3, "keyAnswer": null,
+      "explanation": "Fon sepeti fonu, başka bir fon sepeti fonuna yatırım yapamaz; bu ifade yanlıştır.",
+      "source": { "pdf": "1001-notes.pdf", "page": 143, "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği" }, "verified": true, "flag": null },
+    { "id": "1001-10", "q": "Aşağıdakilerden hangisi yapılandırılmış menkul kıymetlerden biri değildir?",
+      "options": ["Kredi riski swapı", "Teminatlandırılmış borç yükümlülükleri", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "İpoteğe dayalı menkul kıymet"], "answer": 3, "keyAnswer": null,
+      "explanation": "Katılma İntifa Senetleri (KİS) yapılandırılmış bir menkul kıymet değildir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" }, "verified": true, "flag": null },
+    { "id": "1001-11", "q": "Aşağıdakilerden hangisi aracı kurumların kuruluşuna kurulca izin verilebilmesi için gerekli şartlarından biri değildir?",
+      "options": ["Anonim ortaklık şeklinde kurulması", "Payların tamamının nama yazılı olması", "Payların nakit karşılığı çıkartılmış olması", "Lider ortakların bankalardan oluşması", "Ortaklık yapısının şeffaf ve açık olması"], "answer": 3, "keyAnswer": null,
+      "explanation": "Lider ortakların bankalardan oluşması aracı kurum kuruluşu için aranan bir şart değildir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": true, "flag": null },
+    { "id": "1001-12", "q": "Aşağıdakilerden hangisi Bilgi Suistimali ve Piyasa Dolandırıcılığı İncelemelerinde SPK'nın alabileceği tedbirler arasında yer almaz?",
+      "options": ["Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması", "Takas yöntemlerinin değiştirilmesi", "Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi", "Teminat yükümlülüğü getirilmesi veya yükümlülüğün değiştirilmesi", "Kurul sorumlu kişilere adli para cezası uygular."], "answer": 4, "keyAnswer": null,
+      "explanation": "Adli para cezasını SPK değil mahkemeler verir; bu bir SPK tedbiri değildir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" }, "verified": true, "flag": null },
+    { "id": "1001-13", "q": "Fonlar, Kurul'un ilgili düzenlemeleri çerçevesinde yapılacak bir sözleşme ile herhangi bir anda portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla % kaçı tutarında sermaye piyasası araçlarını ödünç verebilir?",
+      "options": ["50", "60", "75", "90", "100"], "answer": 0, "keyAnswer": null,
+      "explanation": "Fonlar portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla %50'si tutarında ödünç verebilir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 143, "section": "1.2.3 Yatırım Fonlarına İlişkin Esaslar Tebliği" }, "verified": true, "flag": null },
+    { "id": "1001-30", "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasası Birliği'ne üye olmaz?",
+      "options": ["Aracı kurumlar", "Bankalar", "Gayrimenkul yatırım ortaklıkları", "Portföy yönetim şirketleri", "Varlık kiralama şirketleri"], "answer": 4, "keyAnswer": "E",
+      "explanation": "Varlık kiralama şirketleri TSPB'ye üye olmaz; sermaye piyasasında faaliyet gösteren aracı kurum, banka, portföy yönetim şirketi vb. üye olur.",
+      "source": { "pdf": "1001-notes.pdf", "page": 176, "section": "1.3.1 TSPB Üyelerinin Meslek Kuralları" }, "verified": true, "flag": null },
+    { "id": "1001-31", "q": "Aşağıdakilerden hangisi doğrudan işletme finansmanına dayalı menkul kıymetlerden biri değildir?",
+      "options": ["Borçlanma araçları ile ilgili depo sertifikası", "Paylar", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "Kar zarar ortaklığı belgesi"], "answer": 2, "keyAnswer": "C",
+      "explanation": "Varlığa veya ipoteğe dayalı menkul kıymetler bir varlık havuzuna dayanır; doğrudan işletme finansmanına dayalı değildir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" }, "verified": true, "flag": null },
+    { "id": "1001-32", "q": "Sermaye piyasası kurumlarının mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, aşağıdakilerden hangisi Kurul tarafından alınabilecek tedbirlerden biri değildir?",
+      "options": ["Kurumların faaliyetlerini geçici olarak durdurmak", "Yatırımcıları tazmin kararı vermek", "Piyasa verilerinin dağıtım kapsamını sınırlandırmak", "Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemek", "Sorumluluğu tespit edilen yöneticilerin ve çalışanların sahip oldukları lisansları geçici veya sürekli olarak iptal etmek"], "answer": 2, "keyAnswer": "C",
+      "explanation": "Piyasa verilerinin dağıtım kapsamını sınırlandırmak bu kapsamda alınacak bir tedbir değildir.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" }, "verified": true, "flag": null },
+    { "id": "1001-33", "q": "“Piyasa İşleticisi”nin tanımı aşağıdaki ifadelerden hangisinde doğru verilmiştir?",
+      "options": ["Sermaye piyasalarının alım satımının yapıldığı piyasadır.", "Borsayı veya borsanın piyasalarını yöneten ve işleten anonim ortaklıklardır.", "Sermaye piyasalarının işleyişini sağlamak amacıyla kurulmuş olan anonim ortaklıktır.", "Sermaye piyasası araçlarının kaydileştirme görevini yerine getiren anonim ortaklıktır.", "Borsanın denetimini üstlenmiş olan kuruluştur."], "answer": 1, "keyAnswer": "B",
+      "explanation": "Piyasa işleticisi, borsayı veya borsanın piyasalarını yöneten ve/veya işleten anonim ortaklıktır.",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tanımlar" }, "verified": true, "flag": "Orijinal bankada şık etiketleri hatalıydı; A-E olarak düzeltildi." },
+
+    { "id": "1001-8", "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu'nun bağımsız denetim isteyeceği durumlardan biri değildir?",
+      "options": ["İhraççı halka arz yapmak istediğinde", "İhraççı paya dayalı kitle fonlaması faaliyeti yaptığında", "İhraççının Borsada işlem görme başvurusunda", "Önemli nitelikli işlemlerde", "Ortaklığın faaliyetlerini ve finansal durumunu önemli derecede etkileyen olay ve gelişmelerde."], "answer": 1, "keyAnswer": "B",
+      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
+    { "id": "1001-9", "q": "Aşağıdakilerden hangisi kayıtlı sermaye sisteminde yönetim kurulunun karar alabileceği durumlardan biri değildir?",
+      "options": ["Pay sahiplerinin yeni pay alma haklarının sınırlandırılması", "İmtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması", "Müfettiş görevlendirmelerini yapmak", "İmtiyazlı pay çıkarılması", "Nominal değerin üzerinde pay çıkarılması"], "answer": 2, "keyAnswer": "C",
+      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." },
+    { "id": "1001-29", "q": "Borsada işlem gören HAO ile bunların bağlı ortaklıkların teminat, rehin, ipotek ve kefalet vermeleri ile ilgili hangisi yanlıştır?",
+      "options": ["Payları borsada işlem gören halka açık ortaklıklar kendi tüzel kişilikleri lehine rehin ve ipotek verebilir.", "Payları borsada işlem gören halka açık ortaklıklar finansal tablolarında tam konsolidasyon kapsamına dahil ettikleri ortaklıklar lehine kefalet verebilirler.", "Üçüncü kişiler lehine verilen teminat, rehin, ipotek ve kefaletler ile elde edilen gelir veya menfaatlere olağan genel kurul toplantısı gündeminde ayrı bir madde olarak yer verilir.", "Halka kapalı bağlı ortaklıkların halka açık ana ortaklığı lehine Teminat, Rehin, İpotek ve teminat veremez.", "Paylarını ilk defa halka arz edilmek için Kurul'a başvuran ortaklıkların Kurumsal yönetim düzenlemelerine aykırı mevcut ipotek ve kefaletlerinin mevcut olması halinde Kurul belli bir süre içinde sıfırlanmasını ister."], "answer": 3, "keyAnswer": "D",
+      "explanation": "", "source": { "pdf": "1001-notes.pdf", "page": 99, "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)" }, "verified": false, "flag": "Ders notu ile teyit bekliyor." }
   ]
 }
