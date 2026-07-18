@@ -3,7 +3,7 @@ import Layout from './components/Layout.jsx';
 import Home from './components/Home.jsx';
 import Session from './components/Session.jsx';
 import MistakesReview from './components/MistakesReview.jsx';
-import { load, ensureToday, save } from './lib/storage.js';
+import { load, ensureToday, save, resetProgress } from './lib/storage.js';
 import { buildDailySession, buildUnitSession, buildMistakeSession } from './lib/session.js';
 
 export default function App() {
@@ -36,6 +36,16 @@ export default function App() {
   function persist(next) {
     setProgress({ ...next });
     save(next);
+  }
+
+  function handleReset() {
+    if (!window.confirm('Tüm ilerlemen (XP, seri, hatalar, günlük sayaç) silinecek. Emin misin?')) {
+      return;
+    }
+    resetProgress();
+    setProgress(ensureToday(load()));
+    setSession(null);
+    setNav('home');
   }
 
   function startDaily() {
@@ -86,6 +96,7 @@ export default function App() {
       onNav={setNav}
       progress={progress}
       mistakeCount={progress.mistakes.length}
+      onReset={handleReset}
     >
       {nav === 'home' ? (
         <Home

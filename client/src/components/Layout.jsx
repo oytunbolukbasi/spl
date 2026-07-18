@@ -7,7 +7,7 @@ const TIPS = [
   'Fındık’a tıkla, bak ne yapıyor 🐿️',
 ];
 
-export default function Layout({ active, onNav, progress, mistakeCount, children }) {
+export default function Layout({ active, onNav, progress, mistakeCount, onReset, children }) {
   const tip = TIPS[(progress.xp / 10) % TIPS.length | 0];
   return (
     <div className="shell">
@@ -20,6 +20,9 @@ export default function Layout({ active, onNav, progress, mistakeCount, children
         <div className="stats">
           <span className="stat streak">🔥 {progress.streak}</span>
           <span className="stat xp">⭐ {progress.xp}</span>
+          <button className="reset-icon" onClick={onReset} aria-label="İlerlemeyi sıfırla" title="İlerlemeyi sıfırla">
+            ⟳
+          </button>
         </div>
       </header>
 
@@ -44,11 +47,14 @@ export default function Layout({ active, onNav, progress, mistakeCount, children
         </button>
 
         <div className="sidebar-foot">
-          <div className="side-caption">SPL Düzey 1 Hazırlık</div>
           <div className="mini-stats">
             <span className="stat streak">🔥 {progress.streak}</span>
             <span className="stat xp">⭐ {progress.xp}</span>
           </div>
+          <button className="reset-btn" onClick={onReset}>
+            ⟳ İlerlemeyi Sıfırla
+          </button>
+          <div className="side-caption">SPL Düzey 1 Hazırlık</div>
         </div>
       </aside>
 

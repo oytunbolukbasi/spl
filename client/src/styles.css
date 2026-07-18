@@ -190,6 +190,32 @@ a {
   padding: 6px 10px;
   font-weight: 700;
 }
+.reset-btn {
+  width: 100%;
+  background: none;
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  padding: 8px 10px;
+  margin: 8px 0 4px;
+  font-weight: 800;
+  font-size: 13px;
+  color: var(--muted);
+}
+.reset-btn:hover {
+  border-color: var(--red);
+  color: var(--red);
+}
+.reset-icon {
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: var(--muted);
+  padding: 2px 4px;
+  line-height: 1;
+}
+.reset-icon:active {
+  color: var(--red);
+}
 
 /* Right rail cards */
 .rr-card {
