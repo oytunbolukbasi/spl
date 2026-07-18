@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Check, X, TriangleAlert, BookOpen } from 'lucide-react';
+import { Check, X as XIcon, TriangleAlert, BookOpen } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 import SourceModal from './SourceModal.jsx';
 import { recordAnswer } from '../lib/storage.js';
@@ -126,7 +126,7 @@ export default function Session({ questions, title, units, progress, onAnswer, o
                   </>
                 ) : (
                   <>
-                    <X size={20} /> Yanlış — Doğrusu: {LETTERS[q.answer]}
+                    <XIcon size={20} /> Yanlış — Doğrusu: {LETTERS[q.answer]}
                   </>
                 )}
               </span>

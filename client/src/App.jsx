@@ -4,6 +4,7 @@ import Home from './components/Home.jsx';
 import Session from './components/Session.jsx';
 import MistakesReview from './components/MistakesReview.jsx';
 import Auth from './components/Auth.jsx';
+import Squirrel from './components/Squirrel.jsx';
 import { normalize, ensureToday, emptyProgress } from './lib/storage.js';
 import { buildDailySession, buildUnitSession, buildMistakeSession } from './lib/session.js';
 import {
@@ -105,11 +106,9 @@ export default function App() {
 
   if (!authReady) {
     return (
-      <div className="shell">
-        <main className="main">
-          <div className="spinner" />
-          <p style={{ textAlign: 'center', color: '#777' }}>Yükleniyor…</p>
-        </main>
+      <div className="splash">
+        <Squirrel size={140} mood="neutral" />
+        <div className="splash-text">Yükleniyor…</div>
       </div>
     );
   }
@@ -140,6 +139,7 @@ export default function App() {
       username={user}
       onReset={handleReset}
       onLogout={handleLogout}
+      questionPool={pool}
     >
       {nav === 'home' ? (
         <Home

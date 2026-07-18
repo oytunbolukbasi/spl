@@ -583,10 +583,12 @@ a {
 .session {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
+  height: 100dvh;
   max-width: 760px;
   margin: 0 auto;
   background: var(--bg);
+  overflow: hidden;
 }
 @media (min-width: 800px) {
   .session {
@@ -598,6 +600,9 @@ a {
   align-items: center;
   gap: 12px;
   padding: 16px 18px;
+  flex-shrink: 0;
+  background: var(--bg);
+  z-index: 10;
 }
 .close-x {
   background: none;
@@ -624,6 +629,8 @@ a {
   flex: 1;
   padding: 8px 18px 16px;
   width: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .q-unit-chip {
   display: inline-block;
@@ -712,8 +719,7 @@ a {
   border-top: 2px solid var(--line);
   padding: 16px 18px calc(16px + env(safe-area-inset-bottom));
   background: var(--bg);
-  position: sticky;
-  bottom: 0;
+  flex-shrink: 0;
 }
 .footer-bar.correct {
   background: var(--green-light);
@@ -922,6 +928,30 @@ a {
   align-items: center;
   gap: 4px;
 }
+/* ============ Splash screen ============ */
+.splash {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  gap: 16px;
+  background: linear-gradient(160deg, #f4fbe9 0%, #f7f7f7 60%);
+}
+.splash .squirrel svg {
+  animation: splashBounce 1.2s ease-in-out infinite;
+}
+@keyframes splashBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+.splash-text {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--muted);
+  letter-spacing: 0.3px;
+}
+
 .spinner {
   width: 40px;
   height: 40px;
@@ -1123,7 +1153,140 @@ a {
   .sq-tail,
   .sq-body,
   .squirrel.intro svg,
-  .squirrel.intro .sq-ears {
+  .squirrel.intro .sq-ears,
+  .splash .squirrel svg {
     animation: none !important;
+  }
+}
+
+/* ============ User avatar ============ */
+.user-avatar {
+  border: none;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--green), #7bc74d);
+  color: #fff;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+.user-avatar:active {
+  transform: scale(0.92);
+}
+
+/* Sidebar profile button */
+.sidebar-profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  background: none;
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  padding: 8px 12px;
+  font-weight: 800;
+  font-size: 14px;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color 0.1s;
+}
+.sidebar-profile:hover {
+  border-color: var(--green);
+}
+.sidebar-profile .user-avatar {
+  pointer-events: none;
+}
+
+/* Profile modal */
+.profile-modal {
+  text-align: center;
+}
+.profile-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0 16px;
+}
+.profile-header .user-avatar {
+  pointer-events: none;
+}
+.profile-name {
+  font-weight: 800;
+  font-size: 18px;
+  color: var(--ink);
+}
+
+/* ============ Notes modal ============ */
+.notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 4px 0;
+}
+.note-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  text-decoration: none;
+  color: var(--ink);
+  font-weight: 700;
+  font-size: 15px;
+  transition: border-color 0.1s, background 0.1s;
+}
+.note-item:hover {
+  border-color: #cfcfcf;
+  background: var(--panel);
+}
+.note-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 900;
+  font-size: 12px;
+  flex-shrink: 0;
+}
+.note-title {
+  flex: 1;
+}
+.note-ext {
+  color: var(--muted);
+  flex-shrink: 0;
+}
+
+/* Mobile notes link — hidden on tablet+ where sidebar has it */
+.mobile-notes-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  background: none;
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  padding: 12px;
+  margin: 20px 0 8px;
+  font-weight: 800;
+  font-size: 14px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.mobile-notes-link:active {
+  background: var(--panel);
+}
+@media (min-width: 768px) {
+  .mobile-notes-link {
+    display: none;
   }
 }
