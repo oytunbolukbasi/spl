@@ -77,14 +77,14 @@ a {
   width: 100%;
 }
 
-/* Tablet+ : sidebar appears */
+/* Tablet+ : sidebar appears — tam genişlik (kutu yok) */
 @media (min-width: 768px) {
   .shell {
-    grid-template-columns: 240px minmax(0, 1fr);
-    max-width: 1180px;
-    margin: 0 auto;
+    grid-template-columns: 260px minmax(0, 1fr);
+    width: 100%;
+    max-width: none;
+    margin: 0;
     background: var(--bg);
-    box-shadow: var(--shadow-card);
   }
   .mobile-topbar {
     display: none;
@@ -93,22 +93,23 @@ a {
     display: flex;
     flex-direction: column;
     gap: 6px;
-    padding: 20px 14px;
+    padding: 20px 16px;
     border-right: 2px solid var(--line);
     position: sticky;
     top: 0;
     height: 100vh;
   }
   .main {
-    padding: 28px 32px 60px;
-    max-width: 640px;
+    padding: 28px 40px 60px;
+    max-width: 1100px;
+    margin: 0 auto;
   }
 }
 
 /* Desktop : right rail appears */
 @media (min-width: 1024px) {
   .shell {
-    grid-template-columns: 240px minmax(0, 1fr) 300px;
+    grid-template-columns: 280px minmax(0, 1fr) 340px;
   }
   .rightrail {
     display: flex;
@@ -151,10 +152,11 @@ a {
   text-transform: uppercase;
   letter-spacing: 0.3px;
 }
+.nav-item {
+  gap: 12px;
+}
 .nav-item .ni-ico {
-  font-size: 20px;
-  width: 24px;
-  text-align: center;
+  flex-shrink: 0;
 }
 .nav-item:hover {
   background: var(--panel);
@@ -192,11 +194,15 @@ a {
 }
 .reset-btn {
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
   background: none;
   border: 2px solid var(--line);
   border-radius: 12px;
   padding: 8px 10px;
-  margin: 8px 0 4px;
+  margin: 8px 0 2px;
   font-weight: 800;
   font-size: 13px;
   color: var(--muted);
@@ -217,6 +223,9 @@ a {
   color: var(--red);
 }
 .side-user {
+  display: flex;
+  align-items: center;
+  gap: 6px;
   font-size: 13px;
   font-weight: 800;
   color: var(--ink);
@@ -330,6 +339,10 @@ a {
 .rr-stat .big {
   font-size: 22px;
   font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
 }
 .rr-stat .lbl {
   font-size: 11px;
@@ -493,7 +506,7 @@ a {
 }
 @media (min-width: 900px) {
   .unit-grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   }
 }
 .unit {
@@ -720,6 +733,9 @@ a {
 .fb-title {
   font-weight: 800;
   font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 .fb-title.correct {
   color: var(--green-dark);
@@ -734,6 +750,10 @@ a {
   color: #444;
 }
 .fb-expl .src-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  vertical-align: middle;
   background: none;
   border: none;
   color: var(--blue);
@@ -743,12 +763,19 @@ a {
   font-size: 14px;
 }
 .flag-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
   font-size: 12px;
   color: #b8860b;
   background: #fff7e0;
   border-radius: 8px;
   padding: 6px 10px;
   margin-bottom: 10px;
+}
+.flag-note svg {
+  flex-shrink: 0;
+  margin-top: 1px;
 }
 
 /* ============ Modal ============ */
@@ -780,6 +807,9 @@ a {
 .modal h3 {
   margin: 0 0 12px;
   font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 .kv {
   display: flex;
@@ -867,6 +897,12 @@ a {
 .mistake .ma {
   font-size: 14px;
   padding: 3px 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.mistake .ma svg {
+  flex-shrink: 0;
 }
 .mistake .ma.right {
   color: var(--green-dark);

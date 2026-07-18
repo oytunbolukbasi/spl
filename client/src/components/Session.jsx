@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Check, X, TriangleAlert, BookOpen } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 import SourceModal from './SourceModal.jsx';
 import { recordAnswer } from '../lib/storage.js';
@@ -119,25 +120,28 @@ export default function Session({ questions, title, units, progress, onAnswer, o
           <>
             <div className="fb-head">
               <span className={'fb-title ' + (isCorrect ? 'correct' : 'wrong')}>
-                {isCorrect ? '✅ Doğru!' : '❌ Yanlış — Doğrusu: ' + LETTERS[q.answer]}
+                {isCorrect ? (
+                  <>
+                    <Check size={20} /> Doğru!
+                  </>
+                ) : (
+                  <>
+                    <X size={20} /> Yanlış — Doğrusu: {LETTERS[q.answer]}
+                  </>
+                )}
               </span>
             </div>
-            {q.flag && <div className="flag-note">⚠️ {q.flag}</div>}
-            {q.explanation && (
-              <div className="fb-expl">
-                {q.explanation}{' '}
-                <button className="src-link" onClick={() => setShowSource(true)}>
-                  Kaynağı Gör →
-                </button>
+            {q.flag && (
+              <div className="flag-note">
+                <TriangleAlert size={14} /> {q.flag}
               </div>
             )}
-            {!q.explanation && (
-              <div className="fb-expl">
-                <button className="src-link" onClick={() => setShowSource(true)}>
-                  Kaynağı Gör →
-                </button>
-              </div>
-            )}
+            <div className="fb-expl">
+              {q.explanation ? q.explanation + ' ' : ''}
+              <button className="src-link" onClick={() => setShowSource(true)}>
+                <BookOpen size={14} /> Kaynağı Gör
+              </button>
+            </div>
           </>
         )}
 

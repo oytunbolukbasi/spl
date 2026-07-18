@@ -1,4 +1,6 @@
+import { CircleCheck, ChevronRight } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
+import { unitIcon } from '../lib/icons.js';
 import { DAILY_GOAL } from '../lib/session.js';
 
 export default function Home({
@@ -31,7 +33,10 @@ export default function Home({
       )}
 
       <div className="daily-card">
-        <h2>Günlük Hedef {goalDone ? '✅' : ''}</h2>
+        <h2>
+          Günlük Hedef
+          {goalDone && <CircleCheck size={20} style={{ verticalAlign: '-4px', marginLeft: 6 }} />}
+        </h2>
         <div style={{ fontSize: 14, opacity: 0.95 }}>
           {answered} / {DAILY_GOAL} soru
         </div>
@@ -54,6 +59,7 @@ export default function Home({
         {units.map((u) => {
           const count = verifiedByUnit[u.code] || 0;
           const active = count > 0;
+          const UIcon = unitIcon(u.code);
           return (
             <button
               key={u.code}
@@ -62,7 +68,7 @@ export default function Home({
               onClick={() => active && onStartUnit(u.code)}
             >
               <div className="badge" style={{ background: u.color }}>
-                {u.icon}
+                <UIcon size={26} strokeWidth={2.25} />
               </div>
               <div className="u-meta">
                 <div className="u-code">{u.code}</div>
@@ -72,7 +78,7 @@ export default function Home({
                   {!u.hasBank && active ? ' • notlardan' : ''}
                 </div>
               </div>
-              <span className="chev">›</span>
+              <ChevronRight className="chev" size={22} />
             </button>
           );
         })}

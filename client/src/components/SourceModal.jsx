@@ -1,3 +1,5 @@
+import { BookOpen, FileText, TriangleAlert } from 'lucide-react';
+
 // Bir sorunun kaynağını gösteren modal: ünite, konu/bölüm, sayfa + "Notu Aç"
 export default function SourceModal({ question, units, onClose }) {
   const unit = units.find((u) => u.code === question.unit);
@@ -9,7 +11,7 @@ export default function SourceModal({ question, units, onClose }) {
   return (
     <div className="modal-backdrop" onClick={onClose}>
       <div className="modal" onClick={(e) => e.stopPropagation()}>
-        <h3>📚 Bu soru nereden?</h3>
+        <h3><BookOpen size={18} /> Bu soru nereden?</h3>
 
         <div className="kv">
           <span className="k">Ünite</span>
@@ -31,7 +33,7 @@ export default function SourceModal({ question, units, onClose }) {
         )}
         {question.flag && (
           <div className="flag-note" style={{ marginTop: 12 }}>
-            ⚠️ {question.flag}
+            <TriangleAlert size={14} /> {question.flag}
           </div>
         )}
 
@@ -43,7 +45,7 @@ export default function SourceModal({ question, units, onClose }) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              📄 Notu İlgili Sayfada Aç
+              <FileText size={18} /> Notu İlgili Sayfada Aç
             </a>
           )}
           <button className="btn ghost" onClick={onClose}>
