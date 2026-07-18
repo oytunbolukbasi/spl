@@ -25,8 +25,8 @@
       "title": "Yatırım Kuruluşları",
       "shortTitle": "Yatırım Kuruluşları",
       "notesPdf": "1005-notes.pdf",
-      "bankPdf": null,
-      "hasBank": false,
+      "bankPdf": "1005-test-1.pdf",
+      "hasBank": true,
       "color": "#ce82ff",
       "icon": "🏦"
     },

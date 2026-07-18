@@ -1,0 +1,232 @@
+{
+  "unit": "1005",
+  "_note": "Kaynak: 1005 Genel Deneme Testi - 1 (resmi cevap anahtarı ile). Ders notu (II-37.1, III-39.1, III-45.1 Tebliğleri) ile teyit edildi. source.page = 1005-notes.pdf PDF sayfası (basılı + 4 ofset). Ders notunda yer almayan konular (kitle fonlama) ve watermark ile bozulmuş şıklar verified:false.",
+  "questions": [
+    {
+      "id": "1005-t1-1",
+      "q": "Aracı kurumlar, kredili alım, açığa satış ve ödünç alma ve verme işlemlerine başlayabilmek için, tebliğde yer alan şartları Kurula tevsik etmeleri şartıyla kaç iş günü içerisinde aksi bildirilmedikçe bu işlemleri yapabilirler?",
+      "options": ["15 iş günü", "20 iş günü", "30 iş günü", "45 iş günü", "60 iş günü"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Aracı kurumlar gerekli şartları Kurula tevsik ettikten sonra 30 iş günü içinde aksi bildirilmedikçe bu işlemlere başlayabilir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Yatırım Kuruluşlarının Faaliyet ve İlke Esasları" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-2",
+      "q": "Halka arz sürecinde kamuya açıklanmamış bilgilerin kurum içinde hangi birimlerle paylaşılması engellenmelidir?",
+      "options": ["Hukuk birimi ve iç denetim birimi ile", "Müşteri ilişkileri birimi ve pazarlama birimi ile", "Halka arza aracılık faaliyetini yürüten birim dışındaki diğer birimlerle", "Yönetim kurulu ve genel müdürlük ile", "Araştırma birimi ve portföy yönetimi birimi ile"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Çıkar çatışmasını önlemek için içsel bilgiler, halka arza aracılık eden birim dışındaki diğer birimlerden bilgi bariyeri (Çin Seddi) ile ayrılır.",
+      "source": { "pdf": "1005-notes.pdf", "page": 41, "section": "II-37.1 §8 Halka Arza Aracılık Faaliyeti" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-3",
+      "q": "Yatırım kuruluşları müşterileriyle işlem yapmaya başlamadan önce aşağıdakilerden hangisini yapmak zorunda değildir?",
+      "options": ["Müşteriyi tanıma kuralının gereklerini yerine getirmek", "Sunulacak faaliyet ve hizmete ilişkin sözleşme yapmak", "Müşterinin mali durumunu detaylı olarak analiz etmek", "Müşteriye ayrı bir müşteri numarası tahsis etmek", "Sözleşmenin bir suretini müşteriye vermek"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Müşterinin mali durumunu detaylı analiz etmek (yerindelik testi kapsamı) her işlem türü için zorunlu değildir; diğerleri işlem öncesi zorunludur.",
+      "source": { "pdf": "1005-notes.pdf", "page": 74, "section": "III-39.1 §10 Müşteri, Müşteri Sınıflandırılması" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-4",
+      "q": "Yatırım Kuruluşları Tebliği'nin 5'inci maddesine göre, aracı kurumların kuruluşuna Kurulca izin verilebilmesi için aşağıdakilerden hangisi zorunlu değildir?",
+      "options": ["Anonim ortaklık şeklinde kurulmaları", "Paylarının tamamının nama yazılı olması", "Paylarının nakit karşılığı çıkarılması", "Kurucu ortaklarının tamamının Türkiye Cumhuriyeti vatandaşı olması", "Kuruluş sermayelerinin Kurulca belirlenecek tutardan az olmaması"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Kurucu ortakların tamamının TC vatandaşı olması zorunlu değildir; yabancı ortaklık mümkündür. Diğer şartlar kuruluş için zorunludur.",
+      "source": { "pdf": "1005-notes.pdf", "page": 57, "section": "III-39.1 §1 Aracı Kurumların Kuruluşu" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-6",
+      "q": "Yatırım danışmanlığı faaliyeti sırasında sunulan yorum ve tavsiyelerin objektifliğini etkilemesi muhtemel nitelikteki tüm ilişki ve koşulları müşteriye açıklamak kimin yükümlülüğündedir?",
+      "options": ["Türkiye Sermaye Piyasaları Birliği'nin", "Borsa İstanbul'un", "Takasbank'ın", "Yetkili kuruluşların", "Merkezi Kayıt Kuruluşu'nun"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Yorum ve tavsiyelerin objektifliğini etkileyebilecek ilişkileri müşteriye açıklamak, faaliyeti yürüten yetkili kuruluşların yükümlülüğüdür.",
+      "source": { "pdf": "1005-notes.pdf", "page": 36, "section": "II-37.1 §7 Yatırım Danışmanlığı Faaliyeti" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-7",
+      "q": "Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme Tebliği'nin 5'inci maddesi uyarınca aracı kurumlar, söz konusu işlemlerin yürütülmesi için aşağıdakilerden hangisini sağlamakla yükümlü değildir?",
+      "options": ["Gerekli teknik donanımı sağlamak", "Yeterli teknik ve mesleki bilgiye sahip personel bulundurmak", "Müşterilerin risklerini günlük olarak takip etmek ve raporlamak", "Bağımsız denetim kuruluşlarından düzenli rapor almak", "Özkaynak oranlarının mevzuata ve sözleşmelere uygunluğunu sağlamak"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Bağımsız denetim kuruluşlarından düzenli rapor almak bu işlemler için aranan bir yükümlülük değildir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-8",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi yatırım kuruluşlarının alım satıma aracılık faaliyeti kapsamında genel müşterilere yapması zorunlu tutulan bir testtir?",
+      "options": ["Yerindelik Testi", "Uygunluk Testi", "Stres Testi", "Senaryo Analizi", "Performans Değerlendirmesi"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "Alım satıma aracılık ve halka arza aracılıkta genel müşterilere “Uygunluk Testi” yapılması zorunludur (yerindelik testi ise portföy yöneticiliği/yatırım danışmanlığında).",
+      "source": { "pdf": "1005-notes.pdf", "page": 77, "section": "III-39.1 §11 Uygunluk Testi" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-9",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre, saklamaya yetkili yatırım kuruluşlarının müşterileri ile mutabakat sağlanması her takvim yılında en az kaç defa zorunludur?",
+      "options": ["Ayda bir", "Üç ayda bir", "Altı ayda bir", "Bir defa", "Müşterinin talebine göre"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Saklama hizmetinde müşteri ile mutabakat her takvim yılında en az bir defa sağlanmalıdır.",
+      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-10",
+      "q": "Aşağıdakilerden hangisi aracı kurumun elektronik ortamda sunulan yatırım hizmetlerinde uygulaması gereken güvenlik önlemlerinden biri değildir?",
+      "options": ["Başarısız kimlik doğrulama teşebbüslerinin belirli bir sayıyı aşması halinde erişimi engellemesi", "Hiçbir işlem yapılmayan hareketsiz oturumları sonlandırması", "Müşteriye hatalı şifre girildiğinde detaylı hata mesajı vermesi", "Aynı müşteri için aynı anda birden fazla oturum açılmasını engellemesi", "Oturumu belirli bir süre sonra kilitlemesi"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Güvenlik gereği hatalı girişte detaylı hata mesajı verilmez; hangi bilginin hatalı olduğu belli edilmemelidir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 102, "section": "III-45.1 §3 Kimlik Doğrulama ve İşlem Güvenliği" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-11",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurum genel müdürünün mali piyasalar veya işletmecilik alanında en az kaç yıllık meslekî deneyime sahip olması gerekir?",
+      "options": ["3 yıl", "5 yıl", "7 yıl", "10 yıl", "12 yıl"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Aracı kurum genel müdürünün mali piyasalar veya işletmecilik alanında en az 7 yıllık mesleki deneyimi olmalıdır.",
+      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-13",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre, saklama hizmeti kaç türe ayrılmıştır?",
+      "options": ["Genel saklama hizmeti olarak tek türdür.", "Genel, sınırlı ve portföy saklama hizmeti olarak üç türdür.", "Genel ve sınırlı saklama hizmeti olarak iki türdür.", "Genel, sınırlı, portföy ve yatırımcı saklama hizmeti dört türdür.", "Yatırım kuruluşunun yetkisine göre değişir."],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Saklama hizmeti “genel saklama” ve “sınırlı saklama” olmak üzere iki türe ayrılır.",
+      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-14",
+      "q": "Kredili işlemlerde %35'e kadar düşme imkanı bulunan sürdürme teminatının hangi oranda ve üzerinde uygulanması kaydı ile aracı kurumların bir müşteriye açabilecekleri kredi tutarı iki katına kadar artırılabilir?",
+      "options": ["%40", "%50", "%60", "%70", "%80"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "Sürdürme teminatı %50 ve üzerinde uygulanması kaydıyla bir müşteriye açılabilecek kredi tutarı iki katına kadar artırılabilir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları (Kredili İşlemler)" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-15",
+      "q": "Yatırım Kuruluşları Tebliği uyarınca, aracı kurum genel müdürü hangi durumda icrai nitelikte görev alabilir?",
+      "options": ["Aracı kurumun yönetim veya sermaye ilişkisinde bulunduğu kuruluşlarda", "Aracı kurumun doğrudan ya da dolaylı olarak yönetim veya sermaye kontrolüne sahip olduğu kuruluşlarda", "Borsalar ve teşkilatlanmış piyasalar, takas ve saklama kuruluşlarında", "Kurulca uygun görülecek diğer finansal kuruluşlarda", "Hiçbir durumda icrai nitelikte görev alamaz, sadece yönetim kurulu üyeliği gibi görevler alabilir."],
+      "answer": 4, "keyAnswer": "E",
+      "explanation": "Genel müdür başka kuruluşlarda icrai görev alamaz; ancak istisnai olarak icrai olmayan (yönetim kurulu üyeliği gibi) görevler alabilir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-17",
+      "q": "Aracı kurumlar tarafından oluşturulan kredi komitesinin başkanlığı kim tarafından yürütülür?",
+      "options": ["Genel Müdür", "Genel Müdür Yardımcısı", "İlgili birim yöneticisi", "Sorumlu bir yönetim kurulu üyesi", "İç kontrol müdürü"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Kredi komitesinin başkanlığı, konuyla ilgili sorumlu bir yönetim kurulu üyesi tarafından yürütülür.",
+      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-18",
+      "q": "Portföy aracılığı faaliyetinde bulunacak yatırım kuruluşlarının işlem aracılığına ilişkin aranan şartlara göre aşağıdakilerden hangisini oluşturması gerekmektedir?",
+      "options": ["Hukuk birimi", "Risk yönetim birimi", "İç denetim birimi", "Müşteri ilişkileri birimi", "Pazarlama birimi"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "Portföy aracılığı faaliyeti için yatırım kuruluşunun bir risk yönetim birimi oluşturması gerekir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-20",
+      "q": "Genel müdürlüğe atanan bir kişinin atanması Kurul tarafından yapılan inceleme sonucunda kaç iş günü içinde olumsuz görüş bildirilmemesi durumunda gerçekleşir?",
+      "options": ["3 iş günü", "5 iş günü", "7 iş günü", "10 iş günü", "15 iş günü"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "Genel müdür ataması, Kurula bildirim sonrası 7 iş günü içinde olumsuz görüş bildirilmezse gerçekleşir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-21",
+      "q": "Kaldıraçlı alım satım işlemlerinde müşterilere yapılacak bildirimlerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": ["Bildirimler haftalık yapılmalıdır", "Kar eden işlemler için bildirim yapılması yeterlidir", "Hesap ekstresi gönderimi isteğe bağlıdır", "İşlem sonuç formu en geç işlemin yapıldığı günü izleyen iş günü içerisinde iletilmelidir", "Hesap ekstresinde kapatılan pozisyonları göstermek zorunlu değildir"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "Kaldıraçlı işlemlerde işlem sonuç formu, işlemin yapıldığı günü izleyen iş günü içinde müşteriye iletilmelidir.",
+      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-23",
+      "q": "İşlem sıraları sürekli kapatılmış paylar ile işlem sıraları geçici durdurulmuş olan paylar, kapalılık halinin kaç iş gününden fazla sürmesi durumunda teminat olma niteliklerini kaybederler?",
+      "options": ["1 iş günü", "3 iş günü", "5 iş günü", "7 iş günü", "10 iş günü"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "İşlem sırası kapalı paylar, kapalılık 5 iş gününden fazla sürerse teminat olma niteliğini kaybeder.",
+      "source": { "pdf": "1005-notes.pdf", "page": 74, "section": "III-39.1 §10 Müşteri Limitlendirilmesi / Teminatlar" },
+      "verified": true, "flag": null
+    },
+    {
+      "id": "1005-t1-25",
+      "q": "Türev araç işlemlerinde pozisyon limit aşımı raporu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Her gün sonu itibariyle düzenlenir", "Global hesap müşterileri dahil her müşteri için ayrı hazırlanır", "Hareketsiz olan hesaplar için bildirim yapılmasına gerek yoktur", "Bildirimlere erişim sağlandığına ilişkin ispat yükü yatırım kuruluşuna aittir", "Borsa pozisyon limitleri referans alınır"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "Global hesap müşterileri için ayrı ayrı değil global hesap bazında değerlendirme yapılır; bu ifade yanlıştır.",
+      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §9 Türev Araç İşlemlerinde Bildirimler" },
+      "verified": true, "flag": null
+    },
+
+    {
+      "id": "1005-t1-5",
+      "q": "Kaydileştirme ve dağıtım esaslarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Payların ve borçlanma araçlarının MKK nezdinde kayden oluşturulmalıdır", "Kaydileştirme işlemleri fonların aktarılmasından sonra tamamlanmalıdır", "Hakların hak sahipleri bazında izlenmesi zorunludur", "Kaydileştirme için MKK'ya başvuru yapılması gerekir", "Başvuru fonlanan şirket veya yetkilendirdiği yatırım kuruluşu aracılığıyla yapılır"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 Belge ve Kayıt Düzeni" },
+      "verified": false, "flag": "Konu MKK/kaydileştirme; 1005 ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1005-t1-12",
+      "q": "Paya dayalı kitle fonlaması kampanya sürecine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Kampanya süresi altmış günü geçemez", "Yatırımcılar 48 saat içinde cayma hakkını kullanabilir", "Hedeflenen fon tutarının üzerinde fon toplanması halinde iade yapılır", "Kampanya süresi sonunda toplanan fonlar 15 gün içinde girişimciye aktarılır", "Platformlar her bir kampanya için hedeflenen ve toplanan fon tutarını anlık olarak internet sitesinde gösterir"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
+      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+    },
+    {
+      "id": "1005-t1-16",
+      "q": "Aşağıdakilerden hangisi yatırım kuruluşlarının hesap ekstresi gönderimi ile ilgili yanlıştır?",
+      "options": ["Aylık dönemler itibarıyla gönderilmelidir", "Komisyon, ücret ve vergiler açıkça belirtilmelidir", "(şık bozuk)", "İlgili dönemi izleyen yedi iş günü içinde gönderilmelidir", "Müşterinin talebi üzerine elektronik ortamda erişimine imkan sağlanabilir"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 110, "section": "III-45.1 §7 Hesap Ekstresi Gönderimi" },
+      "verified": false, "flag": "Orijinal bankada (c) şıkkı bir filigran/tanıtım metniyle bozulmuştu; düzeltme sonrası teyit bekliyor."
+    },
+    {
+      "id": "1005-t1-19",
+      "q": "Platforma üyelik işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": ["Kitle fonlaması işlemlerinde bulunabilmek için platforma elektronik ortamda üye olmak zorunludur", "Üyelerle üyelik sözleşmesinin akdedilmesi ve saklanması gerekir", "Üyelerin risk bilgilerinin toplanması için açık rızalarının alınması zorunludur", "Türkiye'de yerleşik olmayan kişiler için MKK nezdinde hesap açılması gerekmez", "Nitelikli yatırımcı statüsünün MKK nezdinde tespiti gerekir"],
+      "answer": 3, "keyAnswer": "D",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
+      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+    },
+    {
+      "id": "1005-t1-22",
+      "q": "Bir kitle fonlama platformunun kurucularında, ortaklarında ve yönetim kurulu üyelerinde aranacak şartlardan biri aşağıdakilerden hangisidir?",
+      "options": ["Başka bir finans kuruluşunda aktif görevinin bulunmaması", "Müflis olmaması", "En az üniversite mezunu olması", "Daha önce bir girişim şirketi kurmuş ve başarılı olmuş olması", "Yabancı dil bilgisinin olması"],
+      "answer": 1, "keyAnswer": "B",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
+      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+    },
+    {
+      "id": "1005-t1-24",
+      "q": "Sermaye Piyasası Kurulu (SPK) tarafından resen listeden çıkarılan bir kitle fonlama platformunun ortakları, listeden çıkarılmaya ilişkin Kurul karar tarihinden itibaren ne kadar süreyle başka bir platformda görev alamaz ve ortak olamaz?",
+      "options": ["6 ay", "9 ay", "1 yıl", "2 yıl", "3 yıl"],
+      "answer": 2, "keyAnswer": "C",
+      "explanation": "",
+      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
+      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+    }
+  ]
+}
