@@ -2500,6 +2500,426 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1001-g104",
+      "q": "Özel Durumlar Tebliği (II-15.1) kapsamında 'içsel bilgi' aşağıdakilerden hangisi ile en doğru tanımlanır?",
+      "options": [
+        "Şirketin genel kurul kararları",
+        "Sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların kararlarını etkileyebilecek henüz kamuya açıklanmamış bilgi",
+        "Şirketin yıllık faaliyet raporu",
+        "Yönetim kurulunun kamuya açıklanmış kararları",
+        "Borsada gerçekleşen tüm işlem bilgileri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Özel Durumlar Tebliği'nde içsel bilgi, sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek nitelikte henüz kamuya açıklanmamış bilgi olarak tanımlanmıştır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 87,
+        "section": "1.2.1.2 İçsel Bilgilerin Açıklanması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g105",
+      "q": "İhraççıların olağan dışı fiyat ve miktar hareketleri durumunda kamuya açıklama yapma yükümlülüğü hangi koşulda doğar?",
+      "options": [
+        "Yönetim kurulunun talebi üzerine",
+        "SPK'nın yazılı bildirimi üzerine",
+        "İlgili borsanın talebi üzerine",
+        "Pay sahiplerinin başvurusu üzerine",
+        "Bağımsız denetçinin raporu üzerine"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İhraççılar, sermaye piyasası araçlarının fiyatları veya işlem hacimlerinde olağan piyasa koşullarıyla açıklanamayan değişimler olduğunda ilgili borsanın talebi üzerine kamuya açıklama yapmak zorundadır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 89,
+        "section": "1.2.1.5 Olağan Dışı Fiyat ve Miktar Hareketleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g106",
+      "q": "Özel Durumlar Tebliği'ne göre, içsel bilgi tanımı dışında kalan tüm bilgi, olay ve gelişmeler ne olarak adlandırılır?",
+      "options": [
+        "Genel bilgi",
+        "Kamusal bilgi",
+        "Sürekli bilgi",
+        "Periyodik bilgi",
+        "Önemli bilgi"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Tebliğde, içsel bilgi tanımı dışında kalan tüm bilgi, olay ve gelişmeler 'sürekli bilgi' kapsamında değerlendirilmektedir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 90,
+        "section": "1.2.1.8 Sürekli Bilgiler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g107",
+      "q": "OECD'nin kurumsal yönetim tanımına göre, aşağıdakilerden hangisi kurumsal yönetimin kapsadığı ilişkilerden biri DEĞİLDİR?",
+      "options": [
+        "Şirketin yönetimi ile yönetim kurulu arasındaki ilişki",
+        "Şirket ile hissedarları arasındaki ilişki",
+        "Şirket ile diğer menfaat sahipleri arasındaki ilişki",
+        "Şirket ile rakip firmalar arasındaki ticari ilişki",
+        "Yönetim kurulu ile hissedarlar arasındaki ilişki"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "OECD tanımına göre kurumsal yönetim; şirketin yönetimi, yönetim kurulu, hissedarları ve diğer menfaat sahipleri arasındaki ilişkileri kapsar. Rakip firmalarla ticari ilişki bu tanımın kapsamında değildir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 101,
+        "section": "1.2.2.1 Kurumsal Yönetim ile İlgili Temel Esaslar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g108",
+      "q": "Halka açık anonim şirketlerde özel denetçi atanması talebi genel kurul tarafından reddedilirse, asliye ticaret mahkemesine başvurabilmek için asgari pay sahipliği oranı nedir?",
+      "options": [
+        "Sermayenin %1'i",
+        "Sermayenin %3'ü",
+        "Sermayenin %5'i (yirmide bir)",
+        "Sermayenin %10'u",
+        "Sermayenin %20'si"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "TTK md. 438'e göre genel kurulun özel denetim istemini reddetmesi hâlinde, halka açık şirketlerde sermayenin en az yirmide birini (%5) oluşturan pay sahipleri üç ay içinde mahkemeden özel denetçi ataması isteyebilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 110,
+        "section": "1.2.2.3 TTK Kurumsal Yönetime İlişkin Hükümler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g109",
+      "q": "TTK md. 369'a göre yönetim kurulu üyelerinin 'özen ve bağlılık yükümlülüğü' kapsamında hangi standart uygulanır?",
+      "options": [
+        "Ortalama bir kişinin özeni",
+        "Tedbirli bir yöneticinin özeni",
+        "İhtiyatlı bir tüccarın özeni",
+        "Profesyonel bir denetçinin özeni",
+        "Makul bir yatırımcının özeni"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TTK md. 369 uyarınca yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler, görevlerini 'tedbirli bir yöneticinin özeniyle' yerine getirmek ve şirketin menfaatlerini dürüstlük kurallarına uyarak gözetmek yükümlülüğü altındadırlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 115,
+        "section": "1.2.2.3 TTK - Özen ve Bağlılık Yükümlülüğü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g110",
+      "q": "Hâkim şirketin, hâkimiyetini bağlı şirketi kayba uğratacak şekilde kullanmasını yasaklayan TTK maddesi hangisidir?",
+      "options": [
+        "TTK md. 195",
+        "TTK md. 202",
+        "TTK md. 369",
+        "TTK md. 399",
+        "TTK md. 530"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TTK md. 202/1'e göre hâkim şirket, hâkimiyetini bağlı şirketi kayba uğratacak şekilde kullanamaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 112,
+        "section": "1.2.2.3 TTK - Hâkimiyetin Hukuka Aykırı Kullanılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g111",
+      "q": "TSPB meslek kurallarına göre 'müşteriyi tanıma kuralı' kapsamında üyeler, müşterilerle iş ilişkisi kurulmadan önce hangi yükümlülüğü yerine getirmelidir?",
+      "options": [
+        "Yalnızca kimlik bilgilerini almak",
+        "Yalnızca mali durum bilgilerini almak",
+        "Kimlik bilgilerini almak ve mesleki faaliyetlerini yazılı sözleşmeler çerçevesinde yürütmek",
+        "Yalnızca yatırım amacı bilgilerini almak",
+        "Yalnızca risk toleransı bilgilerini almak"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "TSPB meslek kurallarına göre üyeler, müşterilerle iş ilişkisi kurulmadan önce kimlik bilgilerini alır ve mesleki faaliyetlerini yazılı sözleşmeler çerçevesinde yürütürler.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 179,
+        "section": "1.3.1.3.1 Müşteriyi Tanıma Kuralı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g112",
+      "q": "TSPB etik ilkelerine göre 'Bağımsızlık ve Tarafsızlık' ilkesi gereği sermaye piyasası çalışanı aşağıdakilerden hangisini yapmamalıdır?",
+      "options": [
+        "Mesleki eğitimlere katılma",
+        "Bağımsızlığına gölge düşürebilecek hediye, menfaat veya maddi çıkar sağlama",
+        "Piyasa araştırma raporları hazırlama",
+        "Müşterilerine yatırım bilgisi sunma",
+        "Sektör toplantılarına katılma"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sermaye piyasası çalışanı mesleki faaliyetleri süresince bağımsız ve tarafsız olmalı, bağımsızlığına ve tarafsızlığına gölge düşürebilecek hiçbir hediye, menfaat veya maddi çıkar sağlamamalıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 189,
+        "section": "1.3.2.4.1.2 Bağımsızlık ve Tarafsızlık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g113",
+      "q": "TSPB etik ilkelerinde 'Gerçekdışı Gösterim' kuralına göre, sermaye piyasası çalışanı aşağıdakilerden hangisini yapmamalıdır?",
+      "options": [
+        "Müşterilere geçmiş performans verilerini sunma",
+        "Sunduğu sermaye piyasası faaliyetleriyle ilgili gerçeğe aykırı beyanda bulunma",
+        "Piyasa analizlerinde varsayım kullanma",
+        "Müşterilerine risk uyarısında bulunma",
+        "Yatırım kararlarını yazılı olarak bildirme"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TSPB etik ilkelerine göre sermaye piyasası çalışanı, sunduğu sermaye piyasası faaliyetleriyle ilgili gerçeğe aykırı beyanda bulunmamalıdır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 191,
+        "section": "1.3.2.4.1.3 Gerçekdışı Gösterim"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g114",
+      "q": "Özel Durumlar Tebliği'ne göre, ihraççıların özel durum açıklamalarını hangi amaçla kullanmaları yasaktır?",
+      "options": [
+        "Yatırımcıları bilgilendirme amacıyla",
+        "Düzenleyici kurumlara raporlama amacıyla",
+        "Faaliyetlerinin pazarlanması ve reklam amacıyla",
+        "Hissedarları koruma amacıyla",
+        "Mali tabloları destekleme amacıyla"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "İhraççılar, özel durum açıklamalarını faaliyetlerinin pazarlanması ve reklam amacıyla kullanamazlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 98,
+        "section": "1.2.1 Özel Durumlar Tebliği - Genel İlkeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g115",
+      "q": "TTK md. 399'a göre, halka açık şirketlerde seçilmiş denetçinin azli için dava açma hakkı en az ne kadarlık sermaye payına sahip pay sahiplerine tanınmıştır?",
+      "options": [
+        "Esas sermayenin %1'i",
+        "Esas sermayenin %3'ü",
+        "Esas sermayenin %5'i",
+        "Esas sermayenin %10'u",
+        "Esas sermayenin %20'si"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "TTK md. 399'a göre, halka açık şirketlerde esas veya çıkarılmış sermayenin yüzde beşini oluşturan pay sahiplerinin istemi üzerine denetçinin azli için dava açılabilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 108,
+        "section": "1.2.2.3 TTK - Denetçinin Azli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g116",
+      "q": "Aşağıdakilerden hangisi Özel Durumlar Tebliği kapsamında sermaye yapısına ilişkin açıklama yükümlülüğünün doğması için gerekli koşullardan biridir?",
+      "options": [
+        "Şirketin kâr dağıtım kararı alması",
+        "Bir gerçek veya tüzel kişinin ya da birlikte hareket edenlerin oy haklarında belirli eşiklere ulaşması",
+        "Şirketin yeni ürün lansmanı yapması",
+        "Yönetim kurulunun toplantı yapması",
+        "Bağımsız denetim raporunun yayımlanması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sermaye yapısı ve yönetim kontrolüne ilişkin değişikliklerde açıklama yükümlülüğü, oy hakları oranlarının belirli eşiklere ulaşması durumunda doğar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 90,
+        "section": "1.2.1.9 Sermaye Yapısına İlişkin Değişiklikler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g117",
+      "q": "TTK md. 421'e göre, şirketin merkezinin yurt dışına taşınmasına ilişkin esas sözleşme değişikliği kararı nasıl alınır?",
+      "options": [
+        "Toplantıdaki oyların salt çoğunluğu ile",
+        "Toplantıdaki oyların üçte ikisi ile",
+        "Esas sermayenin yarısını temsil eden payların çoğunluğu ile",
+        "Sermayenin tümünü oluşturan payların sahiplerinin oybirliği ile",
+        "Yönetim kurulunun kararı ile"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "TTK md. 421'e göre şirketin merkezinin yurt dışına taşınmasına ilişkin kararlar, sermayenin tümünü oluşturan payların sahiplerinin veya temsilcilerinin oybirliğiyle alınır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 109,
+        "section": "1.2.2.3 TTK - Esas Sözleşme Değişiklikleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g118",
+      "q": "TSPB meslek kurallarına göre, üyelerin müşteri menfaatleri kapsamında aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Müşterilere yüksek getiri garantisi vermek",
+        "Tüm müşterilere adil davranmak ve sadakat ile özen borcu yükümlülüklerini gözetmek",
+        "Müşterilerin tüm işlemlerini ücretsiz gerçekleştirmek",
+        "Müşterilerin zararlarını tazmin etmek",
+        "Yalnızca kurumsal müşterilere hizmet vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TSPB meslek kurallarına göre üyeler, müşterileriyle olan ilişkilerinde sadakat ve özen borcu yükümlülüklerini göz önünde bulundurur ve tüm müşterilere adil davranmalıdırlar.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 180,
+        "section": "1.3.1.3.4 Müşteri Menfaatleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g119",
+      "q": "TTK md. 530'a göre, şirketin kanunen gerekli organlarından birinin uzun süredir mevcut olmaması halinde, fesih davası açma yetkisi aşağıdakilerden hangisine ait DEĞİLDİR?",
+      "options": [
+        "Pay sahipleri",
+        "Şirket alacaklıları",
+        "Ticaret Bakanlığı",
+        "Bağımsız denetçi",
+        "Yukarıdakilerin hepsi dava açabilir"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "TTK md. 530'a göre organlar eksikliğinde pay sahipleri, şirket alacaklıları veya Ticaret Bakanlığı'nın istemi üzerine mahkeme karar verir. Bağımsız denetçiye bu yetki tanınmamıştır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 107,
+        "section": "1.2.2.3 TTK - Organların Eksikliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g120",
+      "q": "Özel Durumlar Tebliği'ne göre geleceğe yönelik değerlendirmelerin kamuya açıklanması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Zorunlu tutulmuştur",
+        "Yasaklanmıştır",
+        "Zorunlu tutulmamıştır ancak yapılmak istenirse belirli düzenlemelere uyulmalıdır",
+        "Sadece SPK onayıyla yapılabilir",
+        "Yalnızca yıllık faaliyet raporunda yapılabilir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Özel Durumlar Tebliği'nde geleceğe yönelik değerlendirmelerin açıklanması zorunlu tutulmamıştır. Ancak açıklama yapılmak istenmesi halinde Tebliğ'deki düzenlemelere uyulması gerekir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 86,
+        "section": "1.2.1 Geleceğe Yönelik Değerlendirmeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g121",
+      "q": "TSPB meslek kurallarında 'dayanışma ilkesi' neyi amaçlamaktadır?",
+      "options": [
+        "Üyelerin kârlarını paylaşmasını",
+        "Sermaye piyasasının sağlıklı gelişmesi ve olası finansal suçların önlenmesini",
+        "Üyelerin birbirlerinin müşterilerine hizmet vermesini",
+        "Tüm üyelerin aynı komisyon oranını uygulamasını",
+        "Üyelerin ortak yatırım yapmasını"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Dayanışma ilkesine göre üyeler, sermaye piyasasının sağlıklı bir şekilde gelişmesi ve olası finansal suçların önlenmesi amacıyla dayanışma içinde hareket ederler.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 182,
+        "section": "1.3.1.4.1 Mesleki Sorumluluk ve Dayanışma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g122",
+      "q": "Aşağıdaki fonlardan hangisinin katılma payları Fon Dağıtım Platformu'nda işlem görmez?",
+      "options": [
+        "Hisse senedi fonu",
+        "Borçlanma araçları fonu",
+        "Gayrimenkul yatırım fonu",
+        "Kısa vadeli tahvil ve bono fonu",
+        "Değişken fon"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Gayrimenkul yatırım fonları, girişim sermayesi yatırım fonları, garantili fon ve koruma amaçlı fonların katılma payları Platform'da işlem görmez.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 176,
+        "section": "1.2.3 Yatırım Fonları - Fon Dağıtım Platformu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-g123",
+      "q": "TTK md. 206'ya göre, hâkim şirketin bağlı şirkette oluşan kaybı ne zamana kadar denkleştirmesi gerekir?",
+      "options": [
+        "Zararın oluştuğu anda",
+        "En geç üç ay içinde",
+        "O hesap yılı içinde",
+        "Bir sonraki genel kurul toplantısına kadar",
+        "İki yıl içinde"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "TTK md. 206'ya göre hâkim şirket yöneticilerinin verdikleri talimatlar dolayısıyla bağlı şirkette oluşan kayıp, o hesap yılı içinde denkleştirilmelidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 112,
+        "section": "1.2.2.3 TTK - Kayıp Denkleştirme"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

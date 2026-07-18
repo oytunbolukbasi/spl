@@ -5,447 +5,2081 @@
     {
       "id": "1005-t1-1",
       "q": "Aracı kurumlar, kredili alım, açığa satış ve ödünç alma ve verme işlemlerine başlayabilmek için, tebliğde yer alan şartları Kurula tevsik etmeleri şartıyla kaç iş günü içerisinde aksi bildirilmedikçe bu işlemleri yapabilirler?",
-      "options": ["15 iş günü", "20 iş günü", "30 iş günü", "45 iş günü", "60 iş günü"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "15 iş günü",
+        "20 iş günü",
+        "30 iş günü",
+        "45 iş günü",
+        "60 iş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Aracı kurumlar gerekli şartları Kurula tevsik ettikten sonra 30 iş günü içinde aksi bildirilmedikçe bu işlemlere başlayabilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Yatırım Kuruluşlarının Faaliyet ve İlke Esasları" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Yatırım Kuruluşlarının Faaliyet ve İlke Esasları"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-2",
       "q": "Halka arz sürecinde kamuya açıklanmamış bilgilerin kurum içinde hangi birimlerle paylaşılması engellenmelidir?",
-      "options": ["Hukuk birimi ve iç denetim birimi ile", "Müşteri ilişkileri birimi ve pazarlama birimi ile", "Halka arza aracılık faaliyetini yürüten birim dışındaki diğer birimlerle", "Yönetim kurulu ve genel müdürlük ile", "Araştırma birimi ve portföy yönetimi birimi ile"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "Hukuk birimi ve iç denetim birimi ile",
+        "Müşteri ilişkileri birimi ve pazarlama birimi ile",
+        "Halka arza aracılık faaliyetini yürüten birim dışındaki diğer birimlerle",
+        "Yönetim kurulu ve genel müdürlük ile",
+        "Araştırma birimi ve portföy yönetimi birimi ile"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Çıkar çatışmasını önlemek için içsel bilgiler, halka arza aracılık eden birim dışındaki diğer birimlerden bilgi bariyeri (Çin Seddi) ile ayrılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 41, "section": "II-37.1 §8 Halka Arza Aracılık Faaliyeti" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 41,
+        "section": "II-37.1 §8 Halka Arza Aracılık Faaliyeti"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-3",
       "q": "Yatırım kuruluşları müşterileriyle işlem yapmaya başlamadan önce aşağıdakilerden hangisini yapmak zorunda değildir?",
-      "options": ["Müşteriyi tanıma kuralının gereklerini yerine getirmek", "Sunulacak faaliyet ve hizmete ilişkin sözleşme yapmak", "Müşterinin mali durumunu detaylı olarak analiz etmek", "Müşteriye ayrı bir müşteri numarası tahsis etmek", "Sözleşmenin bir suretini müşteriye vermek"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "Müşteriyi tanıma kuralının gereklerini yerine getirmek",
+        "Sunulacak faaliyet ve hizmete ilişkin sözleşme yapmak",
+        "Müşterinin mali durumunu detaylı olarak analiz etmek",
+        "Müşteriye ayrı bir müşteri numarası tahsis etmek",
+        "Sözleşmenin bir suretini müşteriye vermek"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Müşterinin mali durumunu detaylı analiz etmek (yerindelik testi kapsamı) her işlem türü için zorunlu değildir; diğerleri işlem öncesi zorunludur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 74, "section": "III-39.1 §10 Müşteri, Müşteri Sınıflandırılması" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 74,
+        "section": "III-39.1 §10 Müşteri, Müşteri Sınıflandırılması"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-4",
       "q": "Yatırım Kuruluşları Tebliği'nin 5'inci maddesine göre, aracı kurumların kuruluşuna Kurulca izin verilebilmesi için aşağıdakilerden hangisi zorunlu değildir?",
-      "options": ["Anonim ortaklık şeklinde kurulmaları", "Paylarının tamamının nama yazılı olması", "Paylarının nakit karşılığı çıkarılması", "Kurucu ortaklarının tamamının Türkiye Cumhuriyeti vatandaşı olması", "Kuruluş sermayelerinin Kurulca belirlenecek tutardan az olmaması"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Anonim ortaklık şeklinde kurulmaları",
+        "Paylarının tamamının nama yazılı olması",
+        "Paylarının nakit karşılığı çıkarılması",
+        "Kurucu ortaklarının tamamının Türkiye Cumhuriyeti vatandaşı olması",
+        "Kuruluş sermayelerinin Kurulca belirlenecek tutardan az olmaması"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kurucu ortakların tamamının TC vatandaşı olması zorunlu değildir; yabancı ortaklık mümkündür. Diğer şartlar kuruluş için zorunludur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 57, "section": "III-39.1 §1 Aracı Kurumların Kuruluşu" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 57,
+        "section": "III-39.1 §1 Aracı Kurumların Kuruluşu"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-6",
       "q": "Yatırım danışmanlığı faaliyeti sırasında sunulan yorum ve tavsiyelerin objektifliğini etkilemesi muhtemel nitelikteki tüm ilişki ve koşulları müşteriye açıklamak kimin yükümlülüğündedir?",
-      "options": ["Türkiye Sermaye Piyasaları Birliği'nin", "Borsa İstanbul'un", "Takasbank'ın", "Yetkili kuruluşların", "Merkezi Kayıt Kuruluşu'nun"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Türkiye Sermaye Piyasaları Birliği'nin",
+        "Borsa İstanbul'un",
+        "Takasbank'ın",
+        "Yetkili kuruluşların",
+        "Merkezi Kayıt Kuruluşu'nun"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Yorum ve tavsiyelerin objektifliğini etkileyebilecek ilişkileri müşteriye açıklamak, faaliyeti yürüten yetkili kuruluşların yükümlülüğüdür.",
-      "source": { "pdf": "1005-notes.pdf", "page": 36, "section": "II-37.1 §7 Yatırım Danışmanlığı Faaliyeti" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 36,
+        "section": "II-37.1 §7 Yatırım Danışmanlığı Faaliyeti"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-7",
       "q": "Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme Tebliği'nin 5'inci maddesi uyarınca aracı kurumlar, söz konusu işlemlerin yürütülmesi için aşağıdakilerden hangisini sağlamakla yükümlü değildir?",
-      "options": ["Gerekli teknik donanımı sağlamak", "Yeterli teknik ve mesleki bilgiye sahip personel bulundurmak", "Müşterilerin risklerini günlük olarak takip etmek ve raporlamak", "Bağımsız denetim kuruluşlarından düzenli rapor almak", "Özkaynak oranlarının mevzuata ve sözleşmelere uygunluğunu sağlamak"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Gerekli teknik donanımı sağlamak",
+        "Yeterli teknik ve mesleki bilgiye sahip personel bulundurmak",
+        "Müşterilerin risklerini günlük olarak takip etmek ve raporlamak",
+        "Bağımsız denetim kuruluşlarından düzenli rapor almak",
+        "Özkaynak oranlarının mevzuata ve sözleşmelere uygunluğunu sağlamak"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Bağımsız denetim kuruluşlarından düzenli rapor almak bu işlemler için aranan bir yükümlülük değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-8",
       "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi yatırım kuruluşlarının alım satıma aracılık faaliyeti kapsamında genel müşterilere yapması zorunlu tutulan bir testtir?",
-      "options": ["Yerindelik Testi", "Uygunluk Testi", "Stres Testi", "Senaryo Analizi", "Performans Değerlendirmesi"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "Yerindelik Testi",
+        "Uygunluk Testi",
+        "Stres Testi",
+        "Senaryo Analizi",
+        "Performans Değerlendirmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Alım satıma aracılık ve halka arza aracılıkta genel müşterilere “Uygunluk Testi” yapılması zorunludur (yerindelik testi ise portföy yöneticiliği/yatırım danışmanlığında).",
-      "source": { "pdf": "1005-notes.pdf", "page": 77, "section": "III-39.1 §11 Uygunluk Testi" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 77,
+        "section": "III-39.1 §11 Uygunluk Testi"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-9",
       "q": "Yatırım Hizmetleri Tebliği'ne göre, saklamaya yetkili yatırım kuruluşlarının müşterileri ile mutabakat sağlanması her takvim yılında en az kaç defa zorunludur?",
-      "options": ["Ayda bir", "Üç ayda bir", "Altı ayda bir", "Bir defa", "Müşterinin talebine göre"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Ayda bir",
+        "Üç ayda bir",
+        "Altı ayda bir",
+        "Bir defa",
+        "Müşterinin talebine göre"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Saklama hizmetinde müşteri ile mutabakat her takvim yılında en az bir defa sağlanmalıdır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 44,
+        "section": "II-37.1 §9 Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-10",
       "q": "Aşağıdakilerden hangisi aracı kurumun elektronik ortamda sunulan yatırım hizmetlerinde uygulaması gereken güvenlik önlemlerinden biri değildir?",
-      "options": ["Başarısız kimlik doğrulama teşebbüslerinin belirli bir sayıyı aşması halinde erişimi engellemesi", "Hiçbir işlem yapılmayan hareketsiz oturumları sonlandırması", "Müşteriye hatalı şifre girildiğinde detaylı hata mesajı vermesi", "Aynı müşteri için aynı anda birden fazla oturum açılmasını engellemesi", "Oturumu belirli bir süre sonra kilitlemesi"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "Başarısız kimlik doğrulama teşebbüslerinin belirli bir sayıyı aşması halinde erişimi engellemesi",
+        "Hiçbir işlem yapılmayan hareketsiz oturumları sonlandırması",
+        "Müşteriye hatalı şifre girildiğinde detaylı hata mesajı vermesi",
+        "Aynı müşteri için aynı anda birden fazla oturum açılmasını engellemesi",
+        "Oturumu belirli bir süre sonra kilitlemesi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Güvenlik gereği hatalı girişte detaylı hata mesajı verilmez; hangi bilginin hatalı olduğu belli edilmemelidir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 102, "section": "III-45.1 §3 Kimlik Doğrulama ve İşlem Güvenliği" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 102,
+        "section": "III-45.1 §3 Kimlik Doğrulama ve İşlem Güvenliği"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-11",
       "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurum genel müdürünün mali piyasalar veya işletmecilik alanında en az kaç yıllık meslekî deneyime sahip olması gerekir?",
-      "options": ["3 yıl", "5 yıl", "7 yıl", "10 yıl", "12 yıl"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "3 yıl",
+        "5 yıl",
+        "7 yıl",
+        "10 yıl",
+        "12 yıl"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Aracı kurum genel müdürünün mali piyasalar veya işletmecilik alanında en az 7 yıllık mesleki deneyimi olmalıdır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 64,
+        "section": "III-39.1 §7 Yatırım Kuruluşu Personeli"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-13",
       "q": "Yatırım Hizmetleri Tebliği'ne göre, saklama hizmeti kaç türe ayrılmıştır?",
-      "options": ["Genel saklama hizmeti olarak tek türdür.", "Genel, sınırlı ve portföy saklama hizmeti olarak üç türdür.", "Genel ve sınırlı saklama hizmeti olarak iki türdür.", "Genel, sınırlı, portföy ve yatırımcı saklama hizmeti dört türdür.", "Yatırım kuruluşunun yetkisine göre değişir."],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "Genel saklama hizmeti olarak tek türdür.",
+        "Genel, sınırlı ve portföy saklama hizmeti olarak üç türdür.",
+        "Genel ve sınırlı saklama hizmeti olarak iki türdür.",
+        "Genel, sınırlı, portföy ve yatırımcı saklama hizmeti dört türdür.",
+        "Yatırım kuruluşunun yetkisine göre değişir."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Saklama hizmeti “genel saklama” ve “sınırlı saklama” olmak üzere iki türe ayrılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 44,
+        "section": "II-37.1 §9 Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-14",
       "q": "Kredili işlemlerde %35'e kadar düşme imkanı bulunan sürdürme teminatının hangi oranda ve üzerinde uygulanması kaydı ile aracı kurumların bir müşteriye açabilecekleri kredi tutarı iki katına kadar artırılabilir?",
-      "options": ["%40", "%50", "%60", "%70", "%80"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "%40",
+        "%50",
+        "%60",
+        "%70",
+        "%80"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Sürdürme teminatı %50 ve üzerinde uygulanması kaydıyla bir müşteriye açılabilecek kredi tutarı iki katına kadar artırılabilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları (Kredili İşlemler)" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları (Kredili İşlemler)"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-15",
       "q": "Yatırım Kuruluşları Tebliği uyarınca, aracı kurum genel müdürü hangi durumda icrai nitelikte görev alabilir?",
-      "options": ["Aracı kurumun yönetim veya sermaye ilişkisinde bulunduğu kuruluşlarda", "Aracı kurumun doğrudan ya da dolaylı olarak yönetim veya sermaye kontrolüne sahip olduğu kuruluşlarda", "Borsalar ve teşkilatlanmış piyasalar, takas ve saklama kuruluşlarında", "Kurulca uygun görülecek diğer finansal kuruluşlarda", "Hiçbir durumda icrai nitelikte görev alamaz, sadece yönetim kurulu üyeliği gibi görevler alabilir."],
-      "answer": 4, "keyAnswer": "E",
+      "options": [
+        "Aracı kurumun yönetim veya sermaye ilişkisinde bulunduğu kuruluşlarda",
+        "Aracı kurumun doğrudan ya da dolaylı olarak yönetim veya sermaye kontrolüne sahip olduğu kuruluşlarda",
+        "Borsalar ve teşkilatlanmış piyasalar, takas ve saklama kuruluşlarında",
+        "Kurulca uygun görülecek diğer finansal kuruluşlarda",
+        "Hiçbir durumda icrai nitelikte görev alamaz, sadece yönetim kurulu üyeliği gibi görevler alabilir."
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Genel müdür başka kuruluşlarda icrai görev alamaz; ancak istisnai olarak icrai olmayan (yönetim kurulu üyeliği gibi) görevler alabilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 64,
+        "section": "III-39.1 §7 Yatırım Kuruluşu Personeli"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-17",
       "q": "Aracı kurumlar tarafından oluşturulan kredi komitesinin başkanlığı kim tarafından yürütülür?",
-      "options": ["Genel Müdür", "Genel Müdür Yardımcısı", "İlgili birim yöneticisi", "Sorumlu bir yönetim kurulu üyesi", "İç kontrol müdürü"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Genel Müdür",
+        "Genel Müdür Yardımcısı",
+        "İlgili birim yöneticisi",
+        "Sorumlu bir yönetim kurulu üyesi",
+        "İç kontrol müdürü"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kredi komitesinin başkanlığı, konuyla ilgili sorumlu bir yönetim kurulu üyesi tarafından yürütülür.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-18",
       "q": "Portföy aracılığı faaliyetinde bulunacak yatırım kuruluşlarının işlem aracılığına ilişkin aranan şartlara göre aşağıdakilerden hangisini oluşturması gerekmektedir?",
-      "options": ["Hukuk birimi", "Risk yönetim birimi", "İç denetim birimi", "Müşteri ilişkileri birimi", "Pazarlama birimi"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "Hukuk birimi",
+        "Risk yönetim birimi",
+        "İç denetim birimi",
+        "Müşteri ilişkileri birimi",
+        "Pazarlama birimi"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Portföy aracılığı faaliyeti için yatırım kuruluşunun bir risk yönetim birimi oluşturması gerekir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-20",
       "q": "Genel müdürlüğe atanan bir kişinin atanması Kurul tarafından yapılan inceleme sonucunda kaç iş günü içinde olumsuz görüş bildirilmemesi durumunda gerçekleşir?",
-      "options": ["3 iş günü", "5 iş günü", "7 iş günü", "10 iş günü", "15 iş günü"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "3 iş günü",
+        "5 iş günü",
+        "7 iş günü",
+        "10 iş günü",
+        "15 iş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Genel müdür ataması, Kurula bildirim sonrası 7 iş günü içinde olumsuz görüş bildirilmezse gerçekleşir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 64,
+        "section": "III-39.1 §7 Yatırım Kuruluşu Personeli"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-21",
       "q": "Kaldıraçlı alım satım işlemlerinde müşterilere yapılacak bildirimlerle ilgili aşağıdakilerden hangisi doğrudur?",
-      "options": ["Bildirimler haftalık yapılmalıdır", "Kar eden işlemler için bildirim yapılması yeterlidir", "Hesap ekstresi gönderimi isteğe bağlıdır", "İşlem sonuç formu en geç işlemin yapıldığı günü izleyen iş günü içerisinde iletilmelidir", "Hesap ekstresinde kapatılan pozisyonları göstermek zorunlu değildir"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Bildirimler haftalık yapılmalıdır",
+        "Kar eden işlemler için bildirim yapılması yeterlidir",
+        "Hesap ekstresi gönderimi isteğe bağlıdır",
+        "İşlem sonuç formu en geç işlemin yapıldığı günü izleyen iş günü içerisinde iletilmelidir",
+        "Hesap ekstresinde kapatılan pozisyonları göstermek zorunlu değildir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kaldıraçlı işlemlerde işlem sonuç formu, işlemin yapıldığı günü izleyen iş günü içinde müşteriye iletilmelidir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 111,
+        "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-23",
       "q": "İşlem sıraları sürekli kapatılmış paylar ile işlem sıraları geçici durdurulmuş olan paylar, kapalılık halinin kaç iş gününden fazla sürmesi durumunda teminat olma niteliklerini kaybederler?",
-      "options": ["1 iş günü", "3 iş günü", "5 iş günü", "7 iş günü", "10 iş günü"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "1 iş günü",
+        "3 iş günü",
+        "5 iş günü",
+        "7 iş günü",
+        "10 iş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "İşlem sırası kapalı paylar, kapalılık 5 iş gününden fazla sürerse teminat olma niteliğini kaybeder.",
-      "source": { "pdf": "1005-notes.pdf", "page": 74, "section": "III-39.1 §10 Müşteri Limitlendirilmesi / Teminatlar" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 74,
+        "section": "III-39.1 §10 Müşteri Limitlendirilmesi / Teminatlar"
+      },
+      "verified": true,
+      "flag": null
     },
     {
       "id": "1005-t1-25",
       "q": "Türev araç işlemlerinde pozisyon limit aşımı raporu ile ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Her gün sonu itibariyle düzenlenir", "Global hesap müşterileri dahil her müşteri için ayrı hazırlanır", "Hareketsiz olan hesaplar için bildirim yapılmasına gerek yoktur", "Bildirimlere erişim sağlandığına ilişkin ispat yükü yatırım kuruluşuna aittir", "Borsa pozisyon limitleri referans alınır"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "Her gün sonu itibariyle düzenlenir",
+        "Global hesap müşterileri dahil her müşteri için ayrı hazırlanır",
+        "Hareketsiz olan hesaplar için bildirim yapılmasına gerek yoktur",
+        "Bildirimlere erişim sağlandığına ilişkin ispat yükü yatırım kuruluşuna aittir",
+        "Borsa pozisyon limitleri referans alınır"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Global hesap müşterileri için ayrı ayrı değil global hesap bazında değerlendirme yapılır; bu ifade yanlıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §9 Türev Araç İşlemlerinde Bildirimler" },
-      "verified": true, "flag": null
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 111,
+        "section": "III-45.1 §9 Türev Araç İşlemlerinde Bildirimler"
+      },
+      "verified": true,
+      "flag": null
     },
-
     {
       "id": "1005-t1-5",
       "q": "Kaydileştirme ve dağıtım esaslarına ilişkin aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Payların ve borçlanma araçlarının MKK nezdinde kayden oluşturulmalıdır", "Kaydileştirme işlemleri fonların aktarılmasından sonra tamamlanmalıdır", "Hakların hak sahipleri bazında izlenmesi zorunludur", "Kaydileştirme için MKK'ya başvuru yapılması gerekir", "Başvuru fonlanan şirket veya yetkilendirdiği yatırım kuruluşu aracılığıyla yapılır"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "Payların ve borçlanma araçlarının MKK nezdinde kayden oluşturulmalıdır",
+        "Kaydileştirme işlemleri fonların aktarılmasından sonra tamamlanmalıdır",
+        "Hakların hak sahipleri bazında izlenmesi zorunludur",
+        "Kaydileştirme için MKK'ya başvuru yapılması gerekir",
+        "Başvuru fonlanan şirket veya yetkilendirdiği yatırım kuruluşu aracılığıyla yapılır"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 Belge ve Kayıt Düzeni" },
-      "verified": false, "flag": "Konu MKK/kaydileştirme; 1005 ders notu ile teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 Belge ve Kayıt Düzeni"
+      },
+      "verified": false,
+      "flag": "Konu MKK/kaydileştirme; 1005 ders notu ile teyit bekliyor."
     },
     {
       "id": "1005-t1-12",
       "q": "Paya dayalı kitle fonlaması kampanya sürecine ilişkin aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Kampanya süresi altmış günü geçemez", "Yatırımcılar 48 saat içinde cayma hakkını kullanabilir", "Hedeflenen fon tutarının üzerinde fon toplanması halinde iade yapılır", "Kampanya süresi sonunda toplanan fonlar 15 gün içinde girişimciye aktarılır", "Platformlar her bir kampanya için hedeflenen ve toplanan fon tutarını anlık olarak internet sitesinde gösterir"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Kampanya süresi altmış günü geçemez",
+        "Yatırımcılar 48 saat içinde cayma hakkını kullanabilir",
+        "Hedeflenen fon tutarının üzerinde fon toplanması halinde iade yapılır",
+        "Kampanya süresi sonunda toplanan fonlar 15 gün içinde girişimciye aktarılır",
+        "Platformlar her bir kampanya için hedeflenen ve toplanan fon tutarını anlık olarak internet sitesinde gösterir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
-      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 5,
+        "section": "Kitle Fonlaması (ayrı tebliğ)"
+      },
+      "verified": false,
+      "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
     },
     {
       "id": "1005-t1-16",
       "q": "Aşağıdakilerden hangisi yatırım kuruluşlarının hesap ekstresi gönderimi ile ilgili yanlıştır?",
-      "options": ["Aylık dönemler itibarıyla gönderilmelidir", "Komisyon, ücret ve vergiler açıkça belirtilmelidir", "(şık bozuk)", "İlgili dönemi izleyen yedi iş günü içinde gönderilmelidir", "Müşterinin talebi üzerine elektronik ortamda erişimine imkan sağlanabilir"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Aylık dönemler itibarıyla gönderilmelidir",
+        "Komisyon, ücret ve vergiler açıkça belirtilmelidir",
+        "(şık bozuk)",
+        "İlgili dönemi izleyen yedi iş günü içinde gönderilmelidir",
+        "Müşterinin talebi üzerine elektronik ortamda erişimine imkan sağlanabilir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 110, "section": "III-45.1 §7 Hesap Ekstresi Gönderimi" },
-      "verified": false, "flag": "Orijinal bankada (c) şıkkı bir filigran/tanıtım metniyle bozulmuştu; düzeltme sonrası teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 110,
+        "section": "III-45.1 §7 Hesap Ekstresi Gönderimi"
+      },
+      "verified": false,
+      "flag": "Orijinal bankada (c) şıkkı bir filigran/tanıtım metniyle bozulmuştu; düzeltme sonrası teyit bekliyor."
     },
     {
       "id": "1005-t1-19",
       "q": "Platforma üyelik işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Kitle fonlaması işlemlerinde bulunabilmek için platforma elektronik ortamda üye olmak zorunludur", "Üyelerle üyelik sözleşmesinin akdedilmesi ve saklanması gerekir", "Üyelerin risk bilgilerinin toplanması için açık rızalarının alınması zorunludur", "Türkiye'de yerleşik olmayan kişiler için MKK nezdinde hesap açılması gerekmez", "Nitelikli yatırımcı statüsünün MKK nezdinde tespiti gerekir"],
-      "answer": 3, "keyAnswer": "D",
+      "options": [
+        "Kitle fonlaması işlemlerinde bulunabilmek için platforma elektronik ortamda üye olmak zorunludur",
+        "Üyelerle üyelik sözleşmesinin akdedilmesi ve saklanması gerekir",
+        "Üyelerin risk bilgilerinin toplanması için açık rızalarının alınması zorunludur",
+        "Türkiye'de yerleşik olmayan kişiler için MKK nezdinde hesap açılması gerekmez",
+        "Nitelikli yatırımcı statüsünün MKK nezdinde tespiti gerekir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
-      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 5,
+        "section": "Kitle Fonlaması (ayrı tebliğ)"
+      },
+      "verified": false,
+      "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
     },
     {
       "id": "1005-t1-22",
       "q": "Bir kitle fonlama platformunun kurucularında, ortaklarında ve yönetim kurulu üyelerinde aranacak şartlardan biri aşağıdakilerden hangisidir?",
-      "options": ["Başka bir finans kuruluşunda aktif görevinin bulunmaması", "Müflis olmaması", "En az üniversite mezunu olması", "Daha önce bir girişim şirketi kurmuş ve başarılı olmuş olması", "Yabancı dil bilgisinin olması"],
-      "answer": 1, "keyAnswer": "B",
+      "options": [
+        "Başka bir finans kuruluşunda aktif görevinin bulunmaması",
+        "Müflis olmaması",
+        "En az üniversite mezunu olması",
+        "Daha önce bir girişim şirketi kurmuş ve başarılı olmuş olması",
+        "Yabancı dil bilgisinin olması"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
-      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 5,
+        "section": "Kitle Fonlaması (ayrı tebliğ)"
+      },
+      "verified": false,
+      "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
     },
     {
       "id": "1005-t1-24",
       "q": "Sermaye Piyasası Kurulu (SPK) tarafından resen listeden çıkarılan bir kitle fonlama platformunun ortakları, listeden çıkarılmaya ilişkin Kurul karar tarihinden itibaren ne kadar süreyle başka bir platformda görev alamaz ve ortak olamaz?",
-      "options": ["6 ay", "9 ay", "1 yıl", "2 yıl", "3 yıl"],
-      "answer": 2, "keyAnswer": "C",
+      "options": [
+        "6 ay",
+        "9 ay",
+        "1 yıl",
+        "2 yıl",
+        "3 yıl"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "",
-      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "Kitle Fonlaması (ayrı tebliğ)" },
-      "verified": false, "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 5,
+        "section": "Kitle Fonlaması (ayrı tebliğ)"
+      },
+      "verified": false,
+      "flag": "Kitle fonlaması konusu 1005 ders notunda yer almıyor; teyit bekliyor."
     },
-
-    { "id": "1005-t2-1", "q": "4.500.000 TL özsermayeye sahip olan aracı kurumlar için, bir müşteriye açılabilecek kredi tutarı özsermayenin en fazla yüzde kaçtır?",
-      "options": ["%10", "%20", "%30", "%40", "%50"], "answer": 1, "keyAnswer": "B",
+    {
+      "id": "1005-t2-1",
+      "q": "4.500.000 TL özsermayeye sahip olan aracı kurumlar için, bir müşteriye açılabilecek kredi tutarı özsermayenin en fazla yüzde kaçtır?",
+      "options": [
+        "%10",
+        "%20",
+        "%30",
+        "%40",
+        "%50"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Bir müşteriye açılabilecek kredi tutarı özsermayenin en fazla %20'sidir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları (Kredili İşlemler)" }, "verified": true, "flag": null },
-    { "id": "1005-t2-2", "q": "Genel müşteri ve talebe dayalı profesyonel müşteriler için geçerli olmak üzere, kaldıraçlı işlemlerde yatırılan teminat tutarının ne kadar üzerinde bir kayba uğratacak şekilde işlem yaptırılabilir?",
-      "options": ["Müşterinin onayıyla teminat tutarının %20 üzerinde işlem yaptırılabilir.", "Onay olmadan teminat tutarının %10 üzerinde işlem yaptırılabilir.", "Müşterinin onayıyla teminat tutarının %40 üzerinde işlem yaptırılabilir.", "Teminat tutarının üzerinde işlem yaptırılamaz.", "Onayı olmadan teminat tutarının %20 üzerinde işlem yaptırılabilir."], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları (Kredili İşlemler)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-2",
+      "q": "Genel müşteri ve talebe dayalı profesyonel müşteriler için geçerli olmak üzere, kaldıraçlı işlemlerde yatırılan teminat tutarının ne kadar üzerinde bir kayba uğratacak şekilde işlem yaptırılabilir?",
+      "options": [
+        "Müşterinin onayıyla teminat tutarının %20 üzerinde işlem yaptırılabilir.",
+        "Onay olmadan teminat tutarının %10 üzerinde işlem yaptırılabilir.",
+        "Müşterinin onayıyla teminat tutarının %40 üzerinde işlem yaptırılabilir.",
+        "Teminat tutarının üzerinde işlem yaptırılamaz.",
+        "Onayı olmadan teminat tutarının %20 üzerinde işlem yaptırılabilir."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kaldıraçlı işlemlerde müşteri yatırdığı teminat tutarının üzerinde bir kayba uğratılamaz.",
-      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler" }, "verified": true, "flag": null },
-    { "id": "1005-t2-3", "q": "Çerçeve sözleşmelerin elektronik ortamda değiştirilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Müşterinin elektronik ortamda değişiklik yapılmasına onay vermesi gerekir", "Elektronik imza kullanılabilir", "Müşterinin değişiklikleri okuduğuna dair onay vermesi gerekir", "Müşterinin şifre ile elektronik ortama erişimi sağlanabilir", "Değişiklikler belli bir süre sonra otomatik olarak kabul edilmiş sayılır"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 111,
+        "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-3",
+      "q": "Çerçeve sözleşmelerin elektronik ortamda değiştirilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Müşterinin elektronik ortamda değişiklik yapılmasına onay vermesi gerekir",
+        "Elektronik imza kullanılabilir",
+        "Müşterinin değişiklikleri okuduğuna dair onay vermesi gerekir",
+        "Müşterinin şifre ile elektronik ortama erişimi sağlanabilir",
+        "Değişiklikler belli bir süre sonra otomatik olarak kabul edilmiş sayılır"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Çerçeve sözleşme değişiklikleri süre geçmesiyle otomatik kabul edilmiş sayılmaz; müşterinin açık onayı gerekir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 §2 Çerçeve Sözleşmeler" }, "verified": true, "flag": null },
-    { "id": "1005-t2-4", "q": "Yatırım Kuruluşları Tebliği'ne göre, bankaların mevzuat uyarınca izin verilen yatırım hizmetleri ve faaliyetlerinde bulunabilmeleri için hangi genel şartı sağlamaları gerekmez?",
-      "options": ["Çalışacak personele ilişkin Tebliğ'de aranan şartların sağlanması", "Yönetim kurulu üyelerinin Tebliğ'de aranan şartların sağlanması", "Gerekli organizasyon yapısının kurulmuş olması", "Varsa mevzuatta öngörülen teminatların tesis edilmiş olması", "Faaliyetlerin sağlıklı şekilde yürütülmesini teminen gerekli bilgi işlem altyapısının oluşturulmuş olması"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 §2 Çerçeve Sözleşmeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-4",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, bankaların mevzuat uyarınca izin verilen yatırım hizmetleri ve faaliyetlerinde bulunabilmeleri için hangi genel şartı sağlamaları gerekmez?",
+      "options": [
+        "Çalışacak personele ilişkin Tebliğ'de aranan şartların sağlanması",
+        "Yönetim kurulu üyelerinin Tebliğ'de aranan şartların sağlanması",
+        "Gerekli organizasyon yapısının kurulmuş olması",
+        "Varsa mevzuatta öngörülen teminatların tesis edilmiş olması",
+        "Faaliyetlerin sağlıklı şekilde yürütülmesini teminen gerekli bilgi işlem altyapısının oluşturulmuş olması"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Bankalar için yönetim kurulu üyelerine ilişkin Tebliğ şartlarının sağlanması aranmaz (bankalar ayrı denetime tabidir).",
-      "source": { "pdf": "1005-notes.pdf", "page": 60, "section": "III-39.1 Bankalar İçin Esaslar" }, "verified": true, "flag": null },
-    { "id": "1005-t2-6", "q": "Yatırım Kuruluşları Tebliği'ne göre, yatırım kuruluşu uygunluk testi sonucunda herhangi bir ürün ya da hizmetin müşteriye uygun olmadığı kanaatine ulaşırsa, müşteriye bu durum nasıl bildirmek zorundadır?",
-      "options": ["Sözlü olarak uyarır", "Kısa mesaj (SMS) ile bilgilendirir", "Elektronik posta (e-posta) ile uyarır", "Yazılı olarak uyarır", "Herhangi bir bilgilendirme yapmak zorunda değildir"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 60,
+        "section": "III-39.1 Bankalar İçin Esaslar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-6",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, yatırım kuruluşu uygunluk testi sonucunda herhangi bir ürün ya da hizmetin müşteriye uygun olmadığı kanaatine ulaşırsa, müşteriye bu durum nasıl bildirmek zorundadır?",
+      "options": [
+        "Sözlü olarak uyarır",
+        "Kısa mesaj (SMS) ile bilgilendirir",
+        "Elektronik posta (e-posta) ile uyarır",
+        "Yazılı olarak uyarır",
+        "Herhangi bir bilgilendirme yapmak zorunda değildir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Uygun olmadığı kanaatine varılırsa müşteri yazılı olarak uyarılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 77, "section": "III-39.1 §11 Uygunluk Testi" }, "verified": true, "flag": null },
-    { "id": "1005-t2-7", "q": "Aracı kurumlar kendileriyle kaldıraçlı işlemler yapan müşterilerine, oluşabilecek çıkar çatışmalarını önlemek bakımından, söz konusu işlemler için hangi hizmeti veremezler?",
-      "options": ["Emir iletimine aracılık", "İşlem aracılığı", "Portföy aracılığı", "Bireysel portföy yöneticiliği veya yatırım danışmanlığı", "Saklama hizmeti"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 77,
+        "section": "III-39.1 §11 Uygunluk Testi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-7",
+      "q": "Aracı kurumlar kendileriyle kaldıraçlı işlemler yapan müşterilerine, oluşabilecek çıkar çatışmalarını önlemek bakımından, söz konusu işlemler için hangi hizmeti veremezler?",
+      "options": [
+        "Emir iletimine aracılık",
+        "İşlem aracılığı",
+        "Portföy aracılığı",
+        "Bireysel portföy yöneticiliği veya yatırım danışmanlığı",
+        "Saklama hizmeti"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Çıkar çatışması nedeniyle kaldıraçlı işlem yaptığı müşterilere bireysel portföy yöneticiliği/yatırım danışmanlığı veremezler.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Faaliyet ve İlke Esasları" }, "verified": true, "flag": null },
-    { "id": "1005-t2-8", "q": "Türev araç emir formlarında bulunması gereken bilgilerle ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Sözleşmenin ismi ve/veya işlem kodu", "Hesap tipi", "İşlemin hangi aracı kurum üzerinden gerçekleşeceği", "Emrin alındığı ve iletildiği tarih ve zaman", "İşlem yapılacak para birimi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Faaliyet ve İlke Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-8",
+      "q": "Türev araç emir formlarında bulunması gereken bilgilerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Sözleşmenin ismi ve/veya işlem kodu",
+        "Hesap tipi",
+        "İşlemin hangi aracı kurum üzerinden gerçekleşeceği",
+        "Emrin alındığı ve iletildiği tarih ve zaman",
+        "İşlem yapılacak para birimi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Resmi cevap anahtarına göre yanlış ifade: C.",
-      "source": { "pdf": "1005-notes.pdf", "page": 104, "section": "III-45.1 §6 Müşteri Emirleri" }, "verified": true, "flag": null },
-    { "id": "1005-t2-9", "q": "Aracı kurumların bir müşteriye açacakları kredi tutarı, genel işlem sınırı hesaplamasında kullanılan ortalama özsermaye tutarının en fazla yüzde kaçını aşamaz?",
-      "options": ["%10", "%20", "%30", "%40", "%50"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 104,
+        "section": "III-45.1 §6 Müşteri Emirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-9",
+      "q": "Aracı kurumların bir müşteriye açacakları kredi tutarı, genel işlem sınırı hesaplamasında kullanılan ortalama özsermaye tutarının en fazla yüzde kaçını aşamaz?",
+      "options": [
+        "%10",
+        "%20",
+        "%30",
+        "%40",
+        "%50"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Bir müşteriye açılacak kredi tutarı ortalama özsermayenin %10'unu aşamaz.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t2-11", "q": "Aşağıdakilerden hangisi yatırım danışmanlığı faaliyetinde bulunmak için aranan şartlardan birisidir?",
-      "options": ["Geniş yetkili aracı kurum olma zorunluluğu", "Müşteri portföylerini yönetme yetkisine sahip olma zorunluluğu", "Yeterli sayıda yatırım danışmanını istihdam etmiş olmak", "Halka arza aracılık yetkisine sahip olma zorunluluğu", "Portföy saklama hizmeti verme yetkisine sahip olma zorunluluğu"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-11",
+      "q": "Aşağıdakilerden hangisi yatırım danışmanlığı faaliyetinde bulunmak için aranan şartlardan birisidir?",
+      "options": [
+        "Geniş yetkili aracı kurum olma zorunluluğu",
+        "Müşteri portföylerini yönetme yetkisine sahip olma zorunluluğu",
+        "Yeterli sayıda yatırım danışmanını istihdam etmiş olmak",
+        "Halka arza aracılık yetkisine sahip olma zorunluluğu",
+        "Portföy saklama hizmeti verme yetkisine sahip olma zorunluluğu"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Yatırım danışmanlığı için yeterli sayıda yatırım danışmanı istihdamı gerekir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 36, "section": "II-37.1 §7 Yatırım Danışmanlığı Faaliyeti" }, "verified": true, "flag": null },
-    { "id": "1005-t2-12", "q": "Aşağıdakilerden hangisi müşteri hesap ekstrelerinde bulunması gereken bilgilerden değildir?",
-      "options": ["Alınan sermaye piyasası araçlarının adı", "Hesaba tahakkuk ettirilen komisyonlar", "İşlem yapılamayan dönemlere ait bilgiler", "Yatırım kuruluşu nezdinde tutulan nakit hareketleri", "Hesaba tahakkuk ettirilen vergiler"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 36,
+        "section": "II-37.1 §7 Yatırım Danışmanlığı Faaliyeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-12",
+      "q": "Aşağıdakilerden hangisi müşteri hesap ekstrelerinde bulunması gereken bilgilerden değildir?",
+      "options": [
+        "Alınan sermaye piyasası araçlarının adı",
+        "Hesaba tahakkuk ettirilen komisyonlar",
+        "İşlem yapılamayan dönemlere ait bilgiler",
+        "Yatırım kuruluşu nezdinde tutulan nakit hareketleri",
+        "Hesaba tahakkuk ettirilen vergiler"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "İşlem yapılmayan dönemlere ait bilgiler hesap ekstresinde bulunması gereken bir bilgi değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 110, "section": "III-45.1 §7 Hesap Ekstresi Gönderimi" }, "verified": true, "flag": null },
-    { "id": "1005-t2-14", "q": "Yatırım Hizmetleri Tebliği'ne göre, halka arza aracılık faaliyetinde bulunmak isteyen aracı kurumların sermaye şartına ilave olarak yerine getirmesi gereken şartlardan biri aşağıdakilerden hangisidir?",
-      "options": ["Genel saklama hizmeti vermek üzere faaliyet izni almış olmak", "Portföy yöneticiliği faaliyet iznine sahip olmak", "Yatırım danışmanlığı birimi kurmuş olmak", "Bir birim yöneticisini ve yeterli finansman uzmanını görevlendirmiş olmak", "Emir iletimine aracılık yetkisine sahip olmak"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 110,
+        "section": "III-45.1 §7 Hesap Ekstresi Gönderimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-14",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre, halka arza aracılık faaliyetinde bulunmak isteyen aracı kurumların sermaye şartına ilave olarak yerine getirmesi gereken şartlardan biri aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel saklama hizmeti vermek üzere faaliyet izni almış olmak",
+        "Portföy yöneticiliği faaliyet iznine sahip olmak",
+        "Yatırım danışmanlığı birimi kurmuş olmak",
+        "Bir birim yöneticisini ve yeterli finansman uzmanını görevlendirmiş olmak",
+        "Emir iletimine aracılık yetkisine sahip olmak"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Halka arza aracılık için bir birim yöneticisi ve yeterli finansman uzmanı görevlendirilmiş olmalıdır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 41, "section": "II-37.1 §8 Halka Arza Aracılık" }, "verified": true, "flag": null },
-    { "id": "1005-t2-15", "q": "Sermaye piyasası araçlarının kredili alımı işlemlerinde özkaynak olarak kabul edilebilecek nakit hangi cinslerden olabilir?",
-      "options": ["Sadece Türk Lirası", "Sadece konvertibl döviz", "Türk Lirası ve konvertibl döviz", "Türk Lirası ve altına çevrilebilir döviz", "Sadece kaydi Türk Lirası"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 41,
+        "section": "II-37.1 §8 Halka Arza Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-15",
+      "q": "Sermaye piyasası araçlarının kredili alımı işlemlerinde özkaynak olarak kabul edilebilecek nakit hangi cinslerden olabilir?",
+      "options": [
+        "Sadece Türk Lirası",
+        "Sadece konvertibl döviz",
+        "Türk Lirası ve konvertibl döviz",
+        "Türk Lirası ve altına çevrilebilir döviz",
+        "Sadece kaydi Türk Lirası"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Kredili alımda özkaynak olarak Türk Lirası ve konvertibl döviz kabul edilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t2-16", "q": "Kuruluş için Kuruldan izin almasını takiben kaç ay içinde faaliyet izni almak üzere başvurmayan aracı kurumun faaliyet izni alma hakkı düşer?",
-      "options": ["3 ay", "6 ay", "9 ay", "12 ay", "18 ay"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-16",
+      "q": "Kuruluş için Kuruldan izin almasını takiben kaç ay içinde faaliyet izni almak üzere başvurmayan aracı kurumun faaliyet izni alma hakkı düşer?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "9 ay",
+        "12 ay",
+        "18 ay"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Kuruluş izninden sonra 6 ay içinde faaliyet izni için başvurulmazsa hak düşer.",
-      "source": { "pdf": "1005-notes.pdf", "page": 60, "section": "III-39.1 §4 Aracı Kurumların Kuruluş ve Faaliyet İzni" }, "verified": true, "flag": null },
-    { "id": "1005-t2-17", "q": "Yatırım kuruluşlarının saklama hizmetinde müşteri hesaplarının izlenmesi için aşağıdakilerden hangisi doğrudur?",
-      "options": ["Yurt dışında yerleşik müşterilere saklama hizmeti verilemez", "Varlıkların tutulduğu kuruluşlar ile mutabakat yapılması isteğe bağlıdır", "Türev araçlar için verilen teminatların periyodik izlenmesi gerekir", "Belgelerin tasnifli saklanması zorunlu değildir", "Teminat hareketlerinin izlenmesi yıllık olarak yapılabilir"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 60,
+        "section": "III-39.1 §4 Aracı Kurumların Kuruluş ve Faaliyet İzni"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-17",
+      "q": "Yatırım kuruluşlarının saklama hizmetinde müşteri hesaplarının izlenmesi için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Yurt dışında yerleşik müşterilere saklama hizmeti verilemez",
+        "Varlıkların tutulduğu kuruluşlar ile mutabakat yapılması isteğe bağlıdır",
+        "Türev araçlar için verilen teminatların periyodik izlenmesi gerekir",
+        "Belgelerin tasnifli saklanması zorunlu değildir",
+        "Teminat hareketlerinin izlenmesi yıllık olarak yapılabilir"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Türev araçlar için verilen teminatların periyodik olarak izlenmesi gerekir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1005-t2-18", "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi aracı kurumların kurucu ortaklarında aranan şartlardan biri değildir?",
-      "options": ["Daha önce herhangi bir sermaye piyasası suçundan hüküm giymemiş olması", "Konkordato ilan etmiş olmaması", "Hakkında iflasın ertelenmesi kararı verilmiş olmaması", "Müflis olmaması", "Faaliyet izinlerinden biri Kurulca iptal edilmiş kuruluşlarda, bu müeyyideyi gerektiren olayda sorumluluğu bulunan kişilerden olmaması"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 44,
+        "section": "II-37.1 §9 Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-18",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi aracı kurumların kurucu ortaklarında aranan şartlardan biri değildir?",
+      "options": [
+        "Daha önce herhangi bir sermaye piyasası suçundan hüküm giymemiş olması",
+        "Konkordato ilan etmiş olmaması",
+        "Hakkında iflasın ertelenmesi kararı verilmiş olmaması",
+        "Müflis olmaması",
+        "Faaliyet izinlerinden biri Kurulca iptal edilmiş kuruluşlarda, bu müeyyideyi gerektiren olayda sorumluluğu bulunan kişilerden olmaması"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Resmi cevap anahtarına göre kurucu ortak şartı olmayan ifade: A.",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §2 Kuruculara İlişkin Şartlar" }, "verified": true, "flag": null },
-    { "id": "1005-t2-20", "q": "Borsa İstanbul tarafından belirlenen \"Kredili Menkul Kıymet ve Açığa Satış İşlemlerine Konu Olan Menkul Kıymet Listesi\" uyarınca işlem yapılabilecek pazarlar hangileridir?",
-      "options": ["Yıldız Pazar ve Ana Pazar", "Yıldız Pazar, Ana Pazar ve Alt Pazar", "Yıldız Pazar, Ana Pazar ve Borsa Yatırım Fonları", "Sadece Yıldız Pazar", "Sadece Borsa Yatırım Fonları"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §2 Kuruculara İlişkin Şartlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-20",
+      "q": "Borsa İstanbul tarafından belirlenen \"Kredili Menkul Kıymet ve Açığa Satış İşlemlerine Konu Olan Menkul Kıymet Listesi\" uyarınca işlem yapılabilecek pazarlar hangileridir?",
+      "options": [
+        "Yıldız Pazar ve Ana Pazar",
+        "Yıldız Pazar, Ana Pazar ve Alt Pazar",
+        "Yıldız Pazar, Ana Pazar ve Borsa Yatırım Fonları",
+        "Sadece Yıldız Pazar",
+        "Sadece Borsa Yatırım Fonları"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Kredili/açığa satış işlemleri Yıldız Pazar, Ana Pazar ve Borsa Yatırım Fonlarında yapılabilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t2-22", "q": "Aşağıdakilerden hangisi yatırım kuruluşlarının veri depolama kuruluşlarına bildirmesi gereken bilgilerden değildir?",
-      "options": ["İşlem kayıtları", "Teminat kayıtları", "Pozisyon kayıtları", "Portföy yönetimi kayıtları", "İlgili diğer tüm kayıtlar"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-22",
+      "q": "Aşağıdakilerden hangisi yatırım kuruluşlarının veri depolama kuruluşlarına bildirmesi gereken bilgilerden değildir?",
+      "options": [
+        "İşlem kayıtları",
+        "Teminat kayıtları",
+        "Pozisyon kayıtları",
+        "Portföy yönetimi kayıtları",
+        "İlgili diğer tüm kayıtlar"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Portföy yönetimi kayıtları veri depolama kuruluşlarına bildirilecek bilgiler arasında değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 115, "section": "III-45.1 §12 Veri Depolama Kuruluşuna Bildirim" }, "verified": true, "flag": null },
-    { "id": "1005-t2-24", "q": "Aşağıdakilerden hangisi, aracı kurumların ticaret unvanlarında yer alması zorunlu ibarelerden biridir?",
-      "options": ["\"Yatırım Şirketi\" veya \"Aracı Kurum\"", "\"Limited Şirketi\"", "\"Menkul Değerler\" veya \"Menkul Kıymetler\"", "\"Anonim Şirketi\"", "\"Borsa Aracılık Şirketi\""], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 115,
+        "section": "III-45.1 §12 Veri Depolama Kuruluşuna Bildirim"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t2-24",
+      "q": "Aşağıdakilerden hangisi, aracı kurumların ticaret unvanlarında yer alması zorunlu ibarelerden biridir?",
+      "options": [
+        "\"Yatırım Şirketi\" veya \"Aracı Kurum\"",
+        "\"Limited Şirketi\"",
+        "\"Menkul Değerler\" veya \"Menkul Kıymetler\"",
+        "\"Anonim Şirketi\"",
+        "\"Borsa Aracılık Şirketi\""
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Aracı kurumların ticaret unvanında “Menkul Değerler” veya “Menkul Kıymetler” ibaresi yer almalıdır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §3 Ticaret Unvanı ve İşletme Adı" }, "verified": true, "flag": null },
-
-    { "id": "1005-t3-1", "q": "İşlem talimat formunda bulunması gereken bilgilerle ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Müşteri numarası ve hesap numarası", "İşlemin yapılacağı müşterinin adı ve soyadı ya da unvanı", "Müşterinin portföy büyüklüğü", "İşlemin tarih ve zamanı", "Sermaye piyasası aracının adı/tanımı/tipi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §3 Ticaret Unvanı ve İşletme Adı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-1",
+      "q": "İşlem talimat formunda bulunması gereken bilgilerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Müşteri numarası ve hesap numarası",
+        "İşlemin yapılacağı müşterinin adı ve soyadı ya da unvanı",
+        "Müşterinin portföy büyüklüğü",
+        "İşlemin tarih ve zamanı",
+        "Sermaye piyasası aracının adı/tanımı/tipi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Müşterinin portföy büyüklüğü işlem talimat formunda bulunması gereken bir bilgi değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 104, "section": "III-45.1 §6 Müşteri Emirleri" }, "verified": true, "flag": null },
-    { "id": "1005-t3-2", "q": "Aşağıdakilerden hangisi Yatırım Hizmetleri Tebliği'nde tanımlanan yatırım hizmetleri ve faaliyetleri arasında yer almaz?",
-      "options": ["Sermaye piyasası araçlarıyla ilgili emirlerin alınması ve iletilmesi", "Bireysel portföy yöneticiliği", "Bireysel emeklilik sözleşmelerinin pazarlanması", "Yatırım danışmanlığı", "Sermaye piyasası araçlarının kendi hesabından alım ve satımı"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 104,
+        "section": "III-45.1 §6 Müşteri Emirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-2",
+      "q": "Aşağıdakilerden hangisi Yatırım Hizmetleri Tebliği'nde tanımlanan yatırım hizmetleri ve faaliyetleri arasında yer almaz?",
+      "options": [
+        "Sermaye piyasası araçlarıyla ilgili emirlerin alınması ve iletilmesi",
+        "Bireysel portföy yöneticiliği",
+        "Bireysel emeklilik sözleşmelerinin pazarlanması",
+        "Yatırım danışmanlığı",
+        "Sermaye piyasası araçlarının kendi hesabından alım ve satımı"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Bireysel emeklilik sözleşmelerinin pazarlanması bir yatırım hizmeti/faaliyeti değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 5, "section": "II-37.1 §1 Genel Olarak" }, "verified": true, "flag": null },
-    { "id": "1005-t3-4", "q": "Sermaye piyasası araçlarının ödünç alma ve verme işlemleri ile açığa satış ve kredili sermaye piyasası aracı işlemleri hangi faaliyetin devamı olarak nitelendirilmektedir?",
-      "options": ["Yatırım danışmanlığı faaliyetinin", "Portföy yönetimi faaliyetinin", "Alım satım aracılığı faaliyetinin", "Araştırma ve analiz faaliyetinin", "Halka arz faaliyetinin"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 5,
+        "section": "II-37.1 §1 Genel Olarak"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-4",
+      "q": "Sermaye piyasası araçlarının ödünç alma ve verme işlemleri ile açığa satış ve kredili sermaye piyasası aracı işlemleri hangi faaliyetin devamı olarak nitelendirilmektedir?",
+      "options": [
+        "Yatırım danışmanlığı faaliyetinin",
+        "Portföy yönetimi faaliyetinin",
+        "Alım satım aracılığı faaliyetinin",
+        "Araştırma ve analiz faaliyetinin",
+        "Halka arz faaliyetinin"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Ödünç, açığa satış ve kredili işlemler alım satım aracılığı faaliyetinin devamı niteliğindedir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Alım Satıma Aracılık" }, "verified": true, "flag": null },
-    { "id": "1005-t3-5", "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi genel müşteri olarak kabul edilir?",
-      "options": ["Bankalar", "Aracı kurumlar", "Portföy yönetim şirketleri", "Profesyonel müşteri tanımı kapsamına girmeyen müşteriler", "Emeklilik fonları"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Alım Satıma Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-5",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aşağıdakilerden hangisi genel müşteri olarak kabul edilir?",
+      "options": [
+        "Bankalar",
+        "Aracı kurumlar",
+        "Portföy yönetim şirketleri",
+        "Profesyonel müşteri tanımı kapsamına girmeyen müşteriler",
+        "Emeklilik fonları"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Profesyonel müşteri tanımına girmeyen tüm müşteriler genel müşteri sayılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 74, "section": "III-39.1 §10 Müşteri Sınıflandırması" }, "verified": true, "flag": null },
-    { "id": "1005-t3-6", "q": "Kaldıraçlı alım satım işlemlerinde müşterilere yapılacak aylık hesap ekstresinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
-      "options": ["Açık pozisyonlara ilişkin kar ve zarar tutarları", "Teminat durumları", "Hesaba tahakkuk ettirilen komisyonlar", "Kapatılan pozisyonlara ilişkin kesin kar ve zarar tutarları", "Müşterinin işlem stratejileri"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 74,
+        "section": "III-39.1 §10 Müşteri Sınıflandırması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-6",
+      "q": "Kaldıraçlı alım satım işlemlerinde müşterilere yapılacak aylık hesap ekstresinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+      "options": [
+        "Açık pozisyonlara ilişkin kar ve zarar tutarları",
+        "Teminat durumları",
+        "Hesaba tahakkuk ettirilen komisyonlar",
+        "Kapatılan pozisyonlara ilişkin kesin kar ve zarar tutarları",
+        "Müşterinin işlem stratejileri"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Müşterinin işlem stratejileri hesap ekstresinde bulunması gereken bir bilgi değildir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 111, "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler" }, "verified": true, "flag": null },
-    { "id": "1005-t3-7", "q": "Yatırım Hizmetleri Tebliği'ne göre, sınırlı saklama hizmeti hangi faaliyetlerle ilgili olarak yetkili olunan sermaye piyasası araçlarının saklanması ile sınırlıdır?",
-      "options": ["Sadece işlem aracılığı", "Sadece portföy aracılığı", "İşlem aracılığı ve yatırım danışmanlığı", "İşlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık", "Sadece halka arza aracılık"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 111,
+        "section": "III-45.1 §8 Kaldıraçlı Alım Satımda Bildirimler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-7",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre, sınırlı saklama hizmeti hangi faaliyetlerle ilgili olarak yetkili olunan sermaye piyasası araçlarının saklanması ile sınırlıdır?",
+      "options": [
+        "Sadece işlem aracılığı",
+        "Sadece portföy aracılığı",
+        "İşlem aracılığı ve yatırım danışmanlığı",
+        "İşlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık",
+        "Sadece halka arza aracılık"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Sınırlı saklama; işlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık faaliyetleri kapsamındaki araçların saklanması ile sınırlıdır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 44, "section": "II-37.1 §9 Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1005-t3-9", "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumda çalışan yönetici, ihtisas personeli, müfettiş, iç kontrol elemanı ve risk yönetim elemanının kurucu ortaklardan farklı olarak aranan şartlardan hangisini taşıması zorunlu değildir?",
-      "options": ["Müflis olmama", "Konkordato ilan etmemiş olma", "İflasın ertelenmesi kararı verilmemiş olma", "Gerekli mali güç şartı", "Faaliyet izinlerinden biri Kurulca iptal edilmiş kuruluşlarda sorumluluğu bulunan kişilerden olmama"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 44,
+        "section": "II-37.1 §9 Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-9",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumda çalışan yönetici, ihtisas personeli, müfettiş, iç kontrol elemanı ve risk yönetim elemanının kurucu ortaklardan farklı olarak aranan şartlardan hangisini taşıması zorunlu değildir?",
+      "options": [
+        "Müflis olmama",
+        "Konkordato ilan etmemiş olma",
+        "İflasın ertelenmesi kararı verilmemiş olma",
+        "Gerekli mali güç şartı",
+        "Faaliyet izinlerinden biri Kurulca iptal edilmiş kuruluşlarda sorumluluğu bulunan kişilerden olmama"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Mali güç şartı kurucu ortaklar için aranır; çalışan personel için aranmaz.",
-      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" }, "verified": true, "flag": null },
-    { "id": "1005-t3-11", "q": "Sermaye piyasası aracı ödünç alma ve verme işlemleri, aracı kurumlar ve bankalara ilaveten hangi kuruluş tarafından Kuruldan ayrıca izin alınmaksızın gerçekleştirilebilir?",
-      "options": ["Takasbank", "Türkiye Sermaye Piyasaları Birliği", "Merkezi Kayıt Kuruluşu", "Borsa İstanbul", "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 64,
+        "section": "III-39.1 §7 Yatırım Kuruluşu Personeli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-11",
+      "q": "Sermaye piyasası aracı ödünç alma ve verme işlemleri, aracı kurumlar ve bankalara ilaveten hangi kuruluş tarafından Kuruldan ayrıca izin alınmaksızın gerçekleştirilebilir?",
+      "options": [
+        "Takasbank",
+        "Türkiye Sermaye Piyasaları Birliği",
+        "Merkezi Kayıt Kuruluşu",
+        "Borsa İstanbul",
+        "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Takasbank, ayrıca izin alınmaksızın SPA ödünç alma/verme işlemi gerçekleştirebilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Alım Satıma Aracılık (Ödünç İşlemleri)" }, "verified": true, "flag": null },
-    { "id": "1005-t3-12", "q": "Yönetim kurulu üyeleri hariç olmak üzere, yatırım danışmanı olarak çalışacakların mevzuatta aksi belirtilmedikçe en az hangi düzeyde eğitim veren okullardan mezun olmaları gerekir?",
-      "options": ["Lise", "Ön lisans", "Lisans", "Yüksek lisans", "Doktora"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Alım Satıma Aracılık (Ödünç İşlemleri)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-12",
+      "q": "Yönetim kurulu üyeleri hariç olmak üzere, yatırım danışmanı olarak çalışacakların mevzuatta aksi belirtilmedikçe en az hangi düzeyde eğitim veren okullardan mezun olmaları gerekir?",
+      "options": [
+        "Lise",
+        "Ön lisans",
+        "Lisans",
+        "Yüksek lisans",
+        "Doktora"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Yatırım danışmanı olarak çalışacakların en az lisans düzeyinde eğitim almış olması gerekir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 64, "section": "III-39.1 §7 Yatırım Kuruluşu Personeli" }, "verified": true, "flag": null },
-    { "id": "1005-t3-13", "q": "Kaldıraçlı işlemlerde bir birim teminat ile alınabilecek azami pozisyon tutarını gösteren kaldıraç oranı, kaçı geçemeyecek şekilde belirlenmiştir?",
-      "options": ["5:1", "8:1", "10:1", "15:1", "20:1"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 64,
+        "section": "III-39.1 §7 Yatırım Kuruluşu Personeli"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-13",
+      "q": "Kaldıraçlı işlemlerde bir birim teminat ile alınabilecek azami pozisyon tutarını gösteren kaldıraç oranı, kaçı geçemeyecek şekilde belirlenmiştir?",
+      "options": [
+        "5:1",
+        "8:1",
+        "10:1",
+        "15:1",
+        "20:1"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Kaldıraçlı işlemlerde kaldıraç oranı 10:1'i geçemez.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kaldıraçlı İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t3-15", "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumlar çerçeve sözleşme imzalanan müşterilerine bir müşteri numarası vermekte ve müşteri adına verilen emir gönderilmeden önce hangi kuruluş nezdinde bir müşteri saklama alt hesabı açmakta ya da açtırılmasını sağlamaktadır?",
-      "options": ["Türkiye Cumhuriyet Merkez Bankası", "Sermaye Piyasası Kurulu", "Borsa İstanbul", "Takasbank ve/veya MKK", "Hazine ve Maliye Bakanlığı"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kaldıraçlı İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-15",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumlar çerçeve sözleşme imzalanan müşterilerine bir müşteri numarası vermekte ve müşteri adına verilen emir gönderilmeden önce hangi kuruluş nezdinde bir müşteri saklama alt hesabı açmakta ya da açtırılmasını sağlamaktadır?",
+      "options": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Sermaye Piyasası Kurulu",
+        "Borsa İstanbul",
+        "Takasbank ve/veya MKK",
+        "Hazine ve Maliye Bakanlığı"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Müşteri saklama alt hesabı Takasbank ve/veya MKK nezdinde açılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 Belge ve Kayıt Düzeni" }, "verified": true, "flag": null },
-    { "id": "1005-t3-16", "q": "Yatırım kuruluşlarının belge saklama yükümlülüğü ile ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Belgeler 10 yıl süre ile saklanmalıdır", "İhtilaflı belgeler ihtilaf sonuçlanıncaya kadar saklanmalıdır", "Gerçekleşmeyen müşteri emirlerine ait bilgilerin saklanması zorunlu değildir", "Bilgi işlem altyapısındaki değişiklikler kayıt altına alınmalıdır", "Belgelerin her zaman kolaylıkla okunabilir olması gerekir"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 Belge ve Kayıt Düzeni"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-16",
+      "q": "Yatırım kuruluşlarının belge saklama yükümlülüğü ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Belgeler 10 yıl süre ile saklanmalıdır",
+        "İhtilaflı belgeler ihtilaf sonuçlanıncaya kadar saklanmalıdır",
+        "Gerçekleşmeyen müşteri emirlerine ait bilgilerin saklanması zorunlu değildir",
+        "Bilgi işlem altyapısındaki değişiklikler kayıt altına alınmalıdır",
+        "Belgelerin her zaman kolaylıkla okunabilir olması gerekir"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Gerçekleşmeyen müşteri emirlerine ait bilgiler de saklanmalıdır; bu ifade yanlıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 Belge ve Kayıt Düzeni" }, "verified": true, "flag": null },
-    { "id": "1005-t3-17", "q": "Emir iletimine aracılık faaliyetinin yurt dışında yerleşik kuruluşlarla yürütülmesi durumunda işlemlere başlamadan önce aşağıdakilerden hangisi zorunludur?",
-      "options": ["Müşterilerden yazılı onay alınması", "Türkiye Sermaye Piyasaları Birliği'ne bildirimde bulunulması", "Sermaye Piyasası Kurulu'na bildirimde bulunulması", "İlgili ülkenin yetkili otoritesinden onay alınması", "Her iki ülkenin mevzuatının karşılaştırılması"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 Belge ve Kayıt Düzeni"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-17",
+      "q": "Emir iletimine aracılık faaliyetinin yurt dışında yerleşik kuruluşlarla yürütülmesi durumunda işlemlere başlamadan önce aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Müşterilerden yazılı onay alınması",
+        "Türkiye Sermaye Piyasaları Birliği'ne bildirimde bulunulması",
+        "Sermaye Piyasası Kurulu'na bildirimde bulunulması",
+        "İlgili ülkenin yetkili otoritesinden onay alınması",
+        "Her iki ülkenin mevzuatının karşılaştırılması"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Yurt dışı kuruluşlarla emir iletimine aracılıkta işlemlere başlamadan önce SPK'ya bildirim yapılması zorunludur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Emir İletimine Aracılık" }, "verified": true, "flag": null },
-    { "id": "1005-t3-18", "q": "Yurt dışında yerleşik bir kuruluşun Türkçe internet sitesi oluşturması durumu, faaliyetlerinin hangi yöne yönelik olduğunun kabul edilmesine neden olur?",
-      "options": ["Sadece Türkiye'de yerleşik tüzel kişilere", "Yurt dışında yerleşik kişilere", "Türkiye'de yerleşik kişilere", "Hem yurt içi hem de yurt dışı yerleşik kişilere", "Kuruluşun tercihine bağlı olarak belirlenir"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Emir İletimine Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-18",
+      "q": "Yurt dışında yerleşik bir kuruluşun Türkçe internet sitesi oluşturması durumu, faaliyetlerinin hangi yöne yönelik olduğunun kabul edilmesine neden olur?",
+      "options": [
+        "Sadece Türkiye'de yerleşik tüzel kişilere",
+        "Yurt dışında yerleşik kişilere",
+        "Türkiye'de yerleşik kişilere",
+        "Hem yurt içi hem de yurt dışı yerleşik kişilere",
+        "Kuruluşun tercihine bağlı olarak belirlenir"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Türkçe internet sitesi oluşturulması, faaliyetin Türkiye'de yerleşik kişilere yönelik olduğunun kabulüne yol açar.",
-      "source": { "pdf": "1005-notes.pdf", "page": 57, "section": "III-39.1 Sınır Ötesi Faaliyetler" }, "verified": true, "flag": null },
-    { "id": "1005-t3-19", "q": "Elektronik ortamda kurulan çerçeve sözleşmeler için aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Kaşe ve imza ihtiva eden bir suretin müşteriye verilmesi gerekli değildir", "Sözleşmenin bir suretinin müşteriye verilmesi zorunludur", "Sözleşmenin elektronik ortamda erişilebilir olması yeterlidir", "Sözleşme müşterinin e-posta adresine gönderilebilir", "Sözleşmenin fiziki kopyasının müşteriye teslim edilmesi zorunludur"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 57,
+        "section": "III-39.1 Sınır Ötesi Faaliyetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-19",
+      "q": "Elektronik ortamda kurulan çerçeve sözleşmeler için aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Kaşe ve imza ihtiva eden bir suretin müşteriye verilmesi gerekli değildir",
+        "Sözleşmenin bir suretinin müşteriye verilmesi zorunludur",
+        "Sözleşmenin elektronik ortamda erişilebilir olması yeterlidir",
+        "Sözleşme müşterinin e-posta adresine gönderilebilir",
+        "Sözleşmenin fiziki kopyasının müşteriye teslim edilmesi zorunludur"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Elektronik ortamda kurulan sözleşmede fiziki kopya teslimi zorunlu değildir; bu ifade yanlıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 §2 Çerçeve Sözleşmeler" }, "verified": true, "flag": null },
-    { "id": "1005-t3-20", "q": "Sermaye piyasası araçlarının kredili alım ve açığa satış işlemlerine konu olacaklar, ilgili borsanın yetkili organları tarafından hangi hususlar dikkate alınarak listelere alınır?",
-      "options": ["Sektörel analiz, karlılık oranları, büyüme potansiyeli", "Piyasa kapitalizasyonu, likidite, dolaşımda bulunan pay sayısı, işlem sıklığı", "Piyasa kapitalizasyonu, likidite, dolaşımda bulunmayan pay sayısı, işlem sıklığı", "Ülke ekonomisi, enflasyon oranları, döviz kuru hareketleri", "Piyasa kapitalizasyonu, likidite, hacim, işlem sıklığı"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 §2 Çerçeve Sözleşmeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-20",
+      "q": "Sermaye piyasası araçlarının kredili alım ve açığa satış işlemlerine konu olacaklar, ilgili borsanın yetkili organları tarafından hangi hususlar dikkate alınarak listelere alınır?",
+      "options": [
+        "Sektörel analiz, karlılık oranları, büyüme potansiyeli",
+        "Piyasa kapitalizasyonu, likidite, dolaşımda bulunan pay sayısı, işlem sıklığı",
+        "Piyasa kapitalizasyonu, likidite, dolaşımda bulunmayan pay sayısı, işlem sıklığı",
+        "Ülke ekonomisi, enflasyon oranları, döviz kuru hareketleri",
+        "Piyasa kapitalizasyonu, likidite, hacim, işlem sıklığı"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Listeye alınırken piyasa kapitalizasyonu, likidite, dolaşımda bulunan pay sayısı ve işlem sıklığı dikkate alınır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t3-22", "q": "Yatırım Hizmetleri Tebliği'ne göre, portföy aracılığı faaliyeti esas olarak neyi ifade etmektedir?",
-      "options": ["Müşterinin emirlerinin borsaya iletilmesine aracılık edilmesi", "Yatırım kuruluşunun müşterilerinin alım veya satım emirlerini karşı taraf olarak kendi portföylerinden gerçekleştirmesi", "Müşterinin emirlerinin başka bir yatırım kuruluşuna iletilmesine aracılık edilmesi", "Müşteriye yatırım tavsiyesi verilmesi", "Müşterinin portföyünün yönetilmesi"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-22",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre, portföy aracılığı faaliyeti esas olarak neyi ifade etmektedir?",
+      "options": [
+        "Müşterinin emirlerinin borsaya iletilmesine aracılık edilmesi",
+        "Yatırım kuruluşunun müşterilerinin alım veya satım emirlerini karşı taraf olarak kendi portföylerinden gerçekleştirmesi",
+        "Müşterinin emirlerinin başka bir yatırım kuruluşuna iletilmesine aracılık edilmesi",
+        "Müşteriye yatırım tavsiyesi verilmesi",
+        "Müşterinin portföyünün yönetilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Portföy aracılığı, müşteri emirlerinin karşı taraf olarak yatırım kuruluşunun kendi portföyünden gerçekleştirilmesidir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Alım Satıma Aracılık" }, "verified": true, "flag": null },
-    { "id": "1005-t3-23", "q": "Sermaye piyasası araçlarının kredili alımı ve açığa satış işlemlerinde bulunacak kişiler adına aracı kurumlar hangi hesabı açmak zorundadırlar?",
-      "options": ["Yatırım hesabı", "Kredi hesabı", "Takas hesabı", "Vadesiz hesap", "Vadeli hesap"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Alım Satıma Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t3-23",
+      "q": "Sermaye piyasası araçlarının kredili alımı ve açığa satış işlemlerinde bulunacak kişiler adına aracı kurumlar hangi hesabı açmak zorundadırlar?",
+      "options": [
+        "Yatırım hesabı",
+        "Kredi hesabı",
+        "Takas hesabı",
+        "Vadesiz hesap",
+        "Vadeli hesap"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Kredili alım ve açığa satış işlemleri için müşteri adına ayrı bir “kredi hesabı” açılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-
-    { "id": "1005-t4-1", "q": "Yatırım kuruluşlarının risk bildirimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Genel risk bildirim formu elektronik ortamda iletilebilir", "Genel müşteri sınıflandırması elektronik ortamda bildirilebilir", "Risk bildirimi elektronik ortamda yapılabilir", "Değişiklikler elektronik ortamda bildirilebilir", "Profesyonel müşteri sınıflandırması yazılı ortamda bildirilebilir"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-1",
+      "q": "Yatırım kuruluşlarının risk bildirimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Genel risk bildirim formu elektronik ortamda iletilebilir",
+        "Genel müşteri sınıflandırması elektronik ortamda bildirilebilir",
+        "Risk bildirimi elektronik ortamda yapılabilir",
+        "Değişiklikler elektronik ortamda bildirilebilir",
+        "Profesyonel müşteri sınıflandırması yazılı ortamda bildirilebilir"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Resmi cevap anahtarına göre yanlış ifade: E.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 §2 Bilgilendirme ve Risk Bildirimi" }, "verified": true, "flag": null },
-    { "id": "1005-t4-2", "q": "Emir iletimine aracılık ve yatırım danışmanlığı faaliyetlerinden herhangi birini veya tamamını yürütecek olan aracı kurumlar Yatırım Hizmetleri Tebliği'ne göre nasıl adlandırılır?",
-      "options": ["Kısmi yetkili aracı kurum", "Genel yetkili aracı kurum", "Dar yetkili aracı kurum", "Sınırlı yetkili aracı kurum", "Tam yetkili aracı kurum"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 §2 Bilgilendirme ve Risk Bildirimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-2",
+      "q": "Emir iletimine aracılık ve yatırım danışmanlığı faaliyetlerinden herhangi birini veya tamamını yürütecek olan aracı kurumlar Yatırım Hizmetleri Tebliği'ne göre nasıl adlandırılır?",
+      "options": [
+        "Kısmi yetkili aracı kurum",
+        "Genel yetkili aracı kurum",
+        "Dar yetkili aracı kurum",
+        "Sınırlı yetkili aracı kurum",
+        "Tam yetkili aracı kurum"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Emir iletimine aracılık ve/veya yatırım danışmanlığı yürüten aracı kurumlar dar yetkili aracı kurumdur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması" }, "verified": true, "flag": null },
-    { "id": "1005-t4-4", "q": "6362 sayılı Sermaye Piyasası Kanunu'nun 38'inci maddesinde yatırım hizmetleri ve faaliyetleri ile sınırlı olarak kredi ya da ödünç verilmesi ve döviz hizmetleri sunulması nasıl tanımlanmıştır?",
-      "options": ["Ana faaliyet", "Temel hizmet", "Zorunlu faaliyet", "Yan hizmet", "Destekleyici hizmet"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-4",
+      "q": "6362 sayılı Sermaye Piyasası Kanunu'nun 38'inci maddesinde yatırım hizmetleri ve faaliyetleri ile sınırlı olarak kredi ya da ödünç verilmesi ve döviz hizmetleri sunulması nasıl tanımlanmıştır?",
+      "options": [
+        "Ana faaliyet",
+        "Temel hizmet",
+        "Zorunlu faaliyet",
+        "Yan hizmet",
+        "Destekleyici hizmet"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kredi/ödünç verme ve döviz hizmetleri “yan hizmetler” kapsamında tanımlanmıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 52, "section": "II-37.1 §10 Yan Hizmetler" }, "verified": true, "flag": null },
-    { "id": "1005-t4-5", "q": "Yatırım kuruluşlarının müşterileriyle işlem yapmaya başlamadan önce yapmak zorunda oldukları yazılı sözleşme ne olarak adlandırılır?",
-      "options": ["Hesap açılış sözleşmesi", "Portföy yönetim sözleşmesi", "Çerçeve sözleşme", "Aracılık sözleşmesi", "Saklama sözleşmesi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 52,
+        "section": "II-37.1 §10 Yan Hizmetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-5",
+      "q": "Yatırım kuruluşlarının müşterileriyle işlem yapmaya başlamadan önce yapmak zorunda oldukları yazılı sözleşme ne olarak adlandırılır?",
+      "options": [
+        "Hesap açılış sözleşmesi",
+        "Portföy yönetim sözleşmesi",
+        "Çerçeve sözleşme",
+        "Aracılık sözleşmesi",
+        "Saklama sözleşmesi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Müşteriyle işlem öncesi yapılan yazılı sözleşme “çerçeve sözleşme”dir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 101, "section": "III-45.1 §2 Çerçeve Sözleşmeler" }, "verified": true, "flag": null },
-    { "id": "1005-t4-6", "q": "Emir iletimine aracılık faaliyetinin yurt dışında yerleşik kuruluşlarla yürütülmesi durumunda işlemlere başlamadan önce hangi kuruma bildirimde bulunulması zorunludur?",
-      "options": ["Türkiye Cumhuriyet Merkez Bankası", "Hazine ve Maliye Bakanlığı", "Takasbank", "Borsa İstanbul", "Sermaye Piyasası Kurulu"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 101,
+        "section": "III-45.1 §2 Çerçeve Sözleşmeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-6",
+      "q": "Emir iletimine aracılık faaliyetinin yurt dışında yerleşik kuruluşlarla yürütülmesi durumunda işlemlere başlamadan önce hangi kuruma bildirimde bulunulması zorunludur?",
+      "options": [
+        "Türkiye Cumhuriyet Merkez Bankası",
+        "Hazine ve Maliye Bakanlığı",
+        "Takasbank",
+        "Borsa İstanbul",
+        "Sermaye Piyasası Kurulu"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Yurt dışı kuruluşlarla emir iletimine aracılıkta işlemlere başlamadan önce SPK'ya bildirim zorunludur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Emir İletimine Aracılık" }, "verified": true, "flag": null },
-    { "id": "1005-t4-8", "q": "Aşağıdakilerden hangisi ya da hangileri aracı kurumlardan istenebilecek teminatlar arasındadır? I. Kamu Borçlanma Araçları  II. Yatırım Fonları  III. Kira Sertifikaları",
-      "options": ["II-III", "I-III", "I-II", "I-II-III", "Sadece II"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Emir İletimine Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-8",
+      "q": "Aşağıdakilerden hangisi ya da hangileri aracı kurumlardan istenebilecek teminatlar arasındadır? I. Kamu Borçlanma Araçları  II. Yatırım Fonları  III. Kira Sertifikaları",
+      "options": [
+        "II-III",
+        "I-III",
+        "I-II",
+        "I-II-III",
+        "Sadece II"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kamu borçlanma araçları, yatırım fonları ve kira sertifikalarının tamamı teminat olarak kabul edilebilir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 99, "section": "III-39.1 §19 Teminatlar" }, "verified": true, "flag": null },
-    { "id": "1005-t4-9", "q": "Tezgahüstü işlemlerde aşağıdaki belgelerden hangisi düzenlenmez?",
-      "options": ["İşlem talimat formu", "Hesap ekstresi", "Nakit alındı belgesi", "Müşteri emir formu", "İşlem sonuç formu"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 99,
+        "section": "III-39.1 §19 Teminatlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-9",
+      "q": "Tezgahüstü işlemlerde aşağıdaki belgelerden hangisi düzenlenmez?",
+      "options": [
+        "İşlem talimat formu",
+        "Hesap ekstresi",
+        "Nakit alındı belgesi",
+        "Müşteri emir formu",
+        "İşlem sonuç formu"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Tezgahüstü işlemlerde müşteri emir formu düzenlenmez (işlem talimat formu düzenlenir).",
-      "source": { "pdf": "1005-notes.pdf", "page": 104, "section": "III-45.1 §6 Müşteri Emirleri" }, "verified": true, "flag": null },
-    { "id": "1005-t4-12", "q": "Aşağıda belirtilen sermaye piyasası araçlarından hangisinde genel olarak kredili alım ve açığa satış işlemi yapılamaz?",
-      "options": ["Yıldız Pazar'da işlem gören paylar", "Borsa yatırım fonları (BYF)", "Ana Pazar'da işlem gören paylar", "Gayrimenkul sertifikaları (sadece açığa satış)", "Varantlar"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 104,
+        "section": "III-45.1 §6 Müşteri Emirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-12",
+      "q": "Aşağıda belirtilen sermaye piyasası araçlarından hangisinde genel olarak kredili alım ve açığa satış işlemi yapılamaz?",
+      "options": [
+        "Yıldız Pazar'da işlem gören paylar",
+        "Borsa yatırım fonları (BYF)",
+        "Ana Pazar'da işlem gören paylar",
+        "Gayrimenkul sertifikaları (sadece açığa satış)",
+        "Varantlar"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Varantlarda genel olarak kredili alım ve açığa satış işlemi yapılamaz.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t4-13", "q": "Yeniden değerlenen aracı kurumlar için gerekli asgari kuruluş özsermayesi tutarı kaç Türk Lirası olarak belirlenmiştir?",
-      "options": ["300.000.000 TL", "370.000.000 TL", "440.000.000 TL", "510.000.000 TL", "600.000.000 TL"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-13",
+      "q": "Yeniden değerlenen aracı kurumlar için gerekli asgari kuruluş özsermayesi tutarı kaç Türk Lirası olarak belirlenmiştir?",
+      "options": [
+        "300.000.000 TL",
+        "370.000.000 TL",
+        "440.000.000 TL",
+        "510.000.000 TL",
+        "600.000.000 TL"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Yeniden değerleme sonrası aracı kurumlar için asgari kuruluş özsermayesi 440.000.000 TL'dir (ilgili yıl için).",
-      "source": { "pdf": "1005-notes.pdf", "page": 57, "section": "III-39.1 §1 Aracı Kurumların Kuruluşu" }, "verified": true, "flag": null },
-    { "id": "1005-t4-15", "q": "Yatırım Hizmetleri Tebliği'nin 8'inci maddesiyle aracı kurumlar hangi temel kritere göre sınıflandırılmıştır?",
-      "options": ["Aracı kurumların müşteri sayısına göre", "Aracı kurumların çalışan sayısına göre", "Aracı kurumların mali yapısına olan etkisi ve taşıdığı riske göre", "Aracı kurumların şube sayısına göre", "Aracı kurumların işlem hacmine göre"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 57,
+        "section": "III-39.1 §1 Aracı Kurumların Kuruluşu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-15",
+      "q": "Yatırım Hizmetleri Tebliği'nin 8'inci maddesiyle aracı kurumlar hangi temel kritere göre sınıflandırılmıştır?",
+      "options": [
+        "Aracı kurumların müşteri sayısına göre",
+        "Aracı kurumların çalışan sayısına göre",
+        "Aracı kurumların mali yapısına olan etkisi ve taşıdığı riske göre",
+        "Aracı kurumların şube sayısına göre",
+        "Aracı kurumların işlem hacmine göre"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Aracı kurumlar; yürüttükleri faaliyetlerin mali yapıya etkisi ve taşıdıkları riske göre (dar/kısmi/geniş yetkili) sınıflandırılır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması" }, "verified": true, "flag": null },
-    { "id": "1005-t4-16", "q": "Türev araç emir formlarında aşağıdakilerden hangisinin bulunması zorunludur?",
-      "options": ["Müşterinin mesleği", "Müşterinin risk profili", "Sözleşmenin ismi ve işlem kodu", "Müşterinin finansal durumu", "Müşterinin yatırım stratejisi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-16",
+      "q": "Türev araç emir formlarında aşağıdakilerden hangisinin bulunması zorunludur?",
+      "options": [
+        "Müşterinin mesleği",
+        "Müşterinin risk profili",
+        "Sözleşmenin ismi ve işlem kodu",
+        "Müşterinin finansal durumu",
+        "Müşterinin yatırım stratejisi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Türev araç emir formunda sözleşmenin ismi ve/veya işlem kodunun bulunması zorunludur.",
-      "source": { "pdf": "1005-notes.pdf", "page": 104, "section": "III-45.1 §6 Müşteri Emirleri" }, "verified": true, "flag": null },
-    { "id": "1005-t4-17", "q": "Sermaye piyasası araçlarının kredili alımı, açığa satış ve ödünç alma ve verme işlemlerinde özkaynak olarak kabul edilebilecek kıymetlerin değerlemesinde borsa yatırım fonu katılma payları için hangi oran uygulanır?",
-      "options": ["%75", "%80", "%85", "%95", "%90"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 104,
+        "section": "III-45.1 §6 Müşteri Emirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-17",
+      "q": "Sermaye piyasası araçlarının kredili alımı, açığa satış ve ödünç alma ve verme işlemlerinde özkaynak olarak kabul edilebilecek kıymetlerin değerlemesinde borsa yatırım fonu katılma payları için hangi oran uygulanır?",
+      "options": [
+        "%75",
+        "%80",
+        "%85",
+        "%95",
+        "%90"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Özkaynak değerlemesinde borsa yatırım fonu katılma payları için %90 oranı uygulanır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t4-19", "q": "Yatırım Hizmetleri Tebliği'ne göre kısmi yetkili aracı kurumların sahip olması gereken asgari özsermaye tutarı ne kadardır?",
-      "options": ["45.000.000 TL", "75.000.000 TL", "100.000.000 TL", "190.000.000 TL", "380.000.000 TL"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-19",
+      "q": "Yatırım Hizmetleri Tebliği'ne göre kısmi yetkili aracı kurumların sahip olması gereken asgari özsermaye tutarı ne kadardır?",
+      "options": [
+        "45.000.000 TL",
+        "75.000.000 TL",
+        "100.000.000 TL",
+        "190.000.000 TL",
+        "380.000.000 TL"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Kısmi yetkili aracı kurumlar için asgari özsermaye 190.000.000 TL'dir (ilgili yıl için).",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması" }, "verified": true, "flag": null },
-    { "id": "1005-t4-20", "q": "Aşağıdakilerden hangisi işlem sonuç formlarının bildirimi ile ilgili yanlıştır?",
-      "options": ["En geç gün sonunda bildirilmelidir", "Elektronik ortamda gönderilebilir", "Posta ile gönderilebilir", "İspat yükü her zaman yatırım kuruluşuna aittir", "Formların müteselsil numara taşımasına gerek yoktur"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §3 Aracı Kurumların Sınıflandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-20",
+      "q": "Aşağıdakilerden hangisi işlem sonuç formlarının bildirimi ile ilgili yanlıştır?",
+      "options": [
+        "En geç gün sonunda bildirilmelidir",
+        "Elektronik ortamda gönderilebilir",
+        "Posta ile gönderilebilir",
+        "İspat yükü her zaman yatırım kuruluşuna aittir",
+        "Formların müteselsil numara taşımasına gerek yoktur"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "İşlem sonuç formları müteselsil (sıra) numarası taşımalıdır; bu ifade yanlıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 104, "section": "III-45.1 §6 Müşteri Emirleri" }, "verified": true, "flag": null },
-    { "id": "1005-t4-21", "q": "Kredili sermaye piyasası aracı işlemlerinin devamı süresince, müşterinin hesabındaki özkaynak oranının yasal olarak sürdürülmesi gereken asgari seviye yüzde kaçtır?",
-      "options": ["%25", "%35", "%40", "%50", "%60"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 104,
+        "section": "III-45.1 §6 Müşteri Emirleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-21",
+      "q": "Kredili sermaye piyasası aracı işlemlerinin devamı süresince, müşterinin hesabındaki özkaynak oranının yasal olarak sürdürülmesi gereken asgari seviye yüzde kaçtır?",
+      "options": [
+        "%25",
+        "%35",
+        "%40",
+        "%50",
+        "%60"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Kredili işlemlerde sürdürülmesi gereken asgari özkaynak (sürdürme teminatı) oranı %35'tir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 69, "section": "III-39.1 §9 Kredili İşlemler" }, "verified": true, "flag": null },
-    { "id": "1005-t4-23", "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumların kurucu ortaklarında aranan şartlardan biri olan \"müflis olmama\" durumu, aşağıdakilerden hangisini kapsamaz?",
-      "options": ["Konkordato ilan etmiş olmamayı", "Hakkında iflasın ertelenmesi kararı verilmiş olmamayı", "Daha önce bir kooperatifin iflas etmiş olması durumunu", "Gerekli mali gücünün bulunmasını", "Eğer tasfiye iflas sonucu değilse hakkında tasfiye kararı alınmış olmamayı"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 69,
+        "section": "III-39.1 §9 Kredili İşlemler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-23",
+      "q": "Yatırım Kuruluşları Tebliği'ne göre, aracı kurumların kurucu ortaklarında aranan şartlardan biri olan \"müflis olmama\" durumu, aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "Konkordato ilan etmiş olmamayı",
+        "Hakkında iflasın ertelenmesi kararı verilmiş olmamayı",
+        "Daha önce bir kooperatifin iflas etmiş olması durumunu",
+        "Gerekli mali gücünün bulunmasını",
+        "Eğer tasfiye iflas sonucu değilse hakkında tasfiye kararı alınmış olmamayı"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Resmi cevap anahtarına göre “müflis olmama” şartının kapsamadığı durum: C.",
-      "source": { "pdf": "1005-notes.pdf", "page": 59, "section": "III-39.1 §2 Kuruculara İlişkin Şartlar" }, "verified": true, "flag": null },
-    { "id": "1005-t4-24", "q": "Sahip olunmayan sermaye piyasası araçlarının satılması, satış emrinin verilmesi veya satışa ilişkin takas yükümlülüğünün ödünç alınan sermaye piyasası araçları ile yerine getirilmesi işlemi sermaye piyasasında nasıl adlandırılır?",
-      "options": ["Kredili alım işlemi", "Repo işlemi", "Açığa satış işlemi", "Ters repo işlemi", "Ödünç verme işlemi"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 59,
+        "section": "III-39.1 §2 Kuruculara İlişkin Şartlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-24",
+      "q": "Sahip olunmayan sermaye piyasası araçlarının satılması, satış emrinin verilmesi veya satışa ilişkin takas yükümlülüğünün ödünç alınan sermaye piyasası araçları ile yerine getirilmesi işlemi sermaye piyasasında nasıl adlandırılır?",
+      "options": [
+        "Kredili alım işlemi",
+        "Repo işlemi",
+        "Açığa satış işlemi",
+        "Ters repo işlemi",
+        "Ödünç verme işlemi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Sahip olunmayan araçların satışı ve takasın ödünç ile karşılanması “açığa satış” işlemidir.",
-      "source": { "pdf": "1005-notes.pdf", "page": 8, "section": "II-37.1 §5 Açığa Satış" }, "verified": true, "flag": null },
-    { "id": "1005-t4-25", "q": "Uygunluk testi sonucunda bir ürünün müşteriye uygun olmadığı kanaatine varılmasıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Müşteriye yazılı uyarı yapılmalı.", "Müşterinin talep etmesi halinde söz konusu ürüne ilişkin işlem yapabilir.", "Söz konusu ürüne yönelik olarak müşteriye bire bir genel yatırım tavsiyesinde verilebilir.", "Müşteriye farklı yatırım ürünleri önerebilir.", "Müşterinin uygun olmadığının ispat yükümlülüğü yatırım kuruluşundadır."], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 8,
+        "section": "II-37.1 §5 Açığa Satış"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-25",
+      "q": "Uygunluk testi sonucunda bir ürünün müşteriye uygun olmadığı kanaatine varılmasıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Müşteriye yazılı uyarı yapılmalı.",
+        "Müşterinin talep etmesi halinde söz konusu ürüne ilişkin işlem yapabilir.",
+        "Söz konusu ürüne yönelik olarak müşteriye bire bir genel yatırım tavsiyesinde verilebilir.",
+        "Müşteriye farklı yatırım ürünleri önerebilir.",
+        "Müşterinin uygun olmadığının ispat yükümlülüğü yatırım kuruluşundadır."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Uygun olmadığı belirlenen üründe müşteriye bire bir yatırım tavsiyesi verilmesi doğru değildir; bu ifade yanlıştır.",
-      "source": { "pdf": "1005-notes.pdf", "page": 77, "section": "III-39.1 §11 Uygunluk Testi" }, "verified": true, "flag": null }
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 77,
+        "section": "III-39.1 §11 Uygunluk Testi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-26",
+      "q": "Yatırım hizmetleri ve faaliyetleri Tebliği'ne göre, 'emir iletimine aracılık' faaliyeti aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Müşteri emirlerinin doğrudan piyasada gerçekleştirilmesi",
+        "Müşteri emirlerinin başka bir yatırım kuruluşuna iletilmesi",
+        "Portföy yönetimi yapılması",
+        "Yatırım danışmanlığı verilmesi",
+        "Halka arz işlemlerinin yürütülmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Emir iletimine aracılık, müşterilerden alınan emirlerin gerçekleştirilmek üzere başka bir yatırım kuruluşuna iletilmesi faaliyetidir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 12,
+        "section": "3.1.1 Emir İletimine Aracılık"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-27",
+      "q": "Aracı kurumların gruplandırılmasında, 'dar yetkili aracı kurum' aşağıdaki faaliyetlerden hangisini yapabilir?",
+      "options": [
+        "Portföy yönetimi",
+        "Halka arza aracılık",
+        "Yalnızca emir iletimine aracılık ve yatırım danışmanlığı",
+        "Kendi hesabına alım-satım",
+        "Saklama hizmeti"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Dar yetkili aracı kurumlar yalnızca emir iletimine aracılık ve yatırım danışmanlığı faaliyetlerini yürütebilirler.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 25,
+        "section": "3.1.3 Aracı Kurum Gruplandırması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-28",
+      "q": "Geniş yetkili aracı kurumlar, dar yetkili aracı kurumlara kıyasla ek olarak aşağıdaki faaliyetlerden hangisini yürütebilir?",
+      "options": [
+        "Yalnızca yatırım danışmanlığı",
+        "Kendi nam ve hesabına işlem (proprietary trading)",
+        "Yalnızca emir iletimi",
+        "Yalnızca genel yatırım tavsiyesi",
+        "Hiçbir ek faaliyet yürütemez"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Geniş yetkili aracı kurumlar, dar yetkili kurumlara ek olarak işlem aracılığı, portföy aracılığı, kendi nam ve hesabına işlem gibi daha kapsamlı faaliyetler yürütebilir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 26,
+        "section": "3.1.3 Aracı Kurum Gruplandırması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-29",
+      "q": "Yatırım kuruluşlarının 'en iyi uygulama' (best execution) yükümlülüğü neyi ifade eder?",
+      "options": [
+        "Her zaman en düşük komisyonla işlem yapma",
+        "Müşteri emirlerini mümkün olan en iyi koşullarda gerçekleştirme",
+        "Yalnızca büyük miktarlı emirlerde öncelik verme",
+        "Müşteriye garantili getiri sağlama",
+        "Borsadaki en yüksek fiyattan satış yapma"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "En iyi uygulama yükümlülüğü, yatırım kuruluşlarının müşteri emirlerini fiyat, maliyet, hız ve gerçekleşme olasılığı açısından mümkün olan en iyi koşullarda gerçekleştirmesini ifade eder.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 42,
+        "section": "3.2.1 En İyi Uygulama Yükümlülüğü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-30",
+      "q": "Yatırım danışmanlığı faaliyetinde, verilen tavsiyenin 'kişiye özel' olması ne anlama gelir?",
+      "options": [
+        "Tavsiyenin yalnızca kurumsal yatırımcılara yönelik olması",
+        "Müşterinin kişisel durumu, yatırım amaçları ve risk profili dikkate alınarak özelleştirilmesi",
+        "Tavsiyenin yazılı olarak verilmesi",
+        "Tavsiyenin kamuya açıklanmaması",
+        "Tavsiyenin yalnızca yüz yüze verilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım danışmanlığında verilen tavsiye, müşterinin bireysel durumu, mali kapasitesi, yatırım amaçları ve risk toleransı dikkate alınarak kişiselleştirilmelidir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 95,
+        "section": "3.3.1 Yatırım Danışmanlığı Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-31",
+      "q": "Genel yatırım tavsiyesi ile yatırım danışmanlığı arasındaki temel fark nedir?",
+      "options": [
+        "Genel tavsiye yazılıdır, danışmanlık sözlüdür",
+        "Genel tavsiye kişiye özel değildir, danışmanlık kişiye özeldir",
+        "Genel tavsiye ücretlidir, danışmanlık ücretsizdir",
+        "Aralarında fark yoktur",
+        "Genel tavsiye SPK onayı gerektirir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Genel yatırım tavsiyesi belirli bir kişiye yönelik olmayıp kamuya veya geniş kitlelere hitap eder. Yatırım danışmanlığı ise müşterinin kişisel durumuna göre özelleştirilmiş tavsiye içerir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 93,
+        "section": "3.3.1 Genel Yatırım Tavsiyesi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-32",
+      "q": "Yatırım kuruluşlarının yan hizmetleri arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Portföy yönetimi",
+        "Halka arza aracılık",
+        "Sermaye piyasası araçlarının saklanması ve yönetimi",
+        "Emir iletimine aracılık",
+        "Kendi nam ve hesabına alım-satım"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Sermaye piyasası araçlarının saklanması ve yönetimi yan hizmetler arasında yer alır. Portföy yönetimi, halka arza aracılık, emir iletimi ve kendi hesabına işlem ise yatırım hizmetleri ve faaliyetleridir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 15,
+        "section": "3.1.1 Yan Hizmetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-33",
+      "q": "Servet yönetimi hizmeti aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "Finansal planlama",
+        "Yatırım danışmanlığı",
+        "Vergi planlaması ve danışmanlığı",
+        "Müşteri adına doğrudan vergi beyannamesi verme",
+        "Varlık dağılımı optimizasyonu"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Servet yönetimi; finansal planlama, yatırım danışmanlığı, vergi planlaması ve varlık dağılımı gibi bütünleşik hizmetleri kapsar. Ancak müşteri adına doğrudan vergi beyannamesi verme, yatırım kuruluşunun faaliyet alanı dışındadır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 100,
+        "section": "3.3.2 Servet Yönetimi ve Finansal Planlama"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-34",
+      "q": "Müşteri sınıflandırmasında 'profesyonel müşteri' statüsü için aşağıdakilerden hangisi yeterlidir?",
+      "options": [
+        "Son bir yılda en az 10 işlem yapmış olmak",
+        "Yatırım kuruluşları, bankalar, sigorta şirketleri gibi kurumsal yatırımcı olmak",
+        "En az 100.000 TL yatırımı olmak",
+        "SPK sınavını geçmiş olmak",
+        "En az 5 yıllık yatırım deneyimi olmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım kuruluşları, bankalar, sigorta şirketleri, emeklilik fonları gibi kurumsal yatırımcılar doğrudan profesyonel müşteri sayılır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 50,
+        "section": "3.2.2 Müşteri Sınıflandırması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-35",
+      "q": "Yatırım kuruluşlarının sermaye yeterliliği düzenlemesinin temel amacı nedir?",
+      "options": [
+        "Kuruluşların kârlılığını artırmak",
+        "Kuruluşların faaliyetlerinden kaynaklanan riskleri karşılayacak yeterli sermayeye sahip olmalarını sağlamak",
+        "Vergi gelirlerini artırmak",
+        "Piyasadaki rekabeti azaltmak",
+        "Yatırımcılara getiri garantisi vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sermaye yeterliliği düzenlemesi, yatırım kuruluşlarının piyasa riski, kredi riski ve operasyonel risk gibi faaliyetlerinden kaynaklanan riskleri karşılayacak yeterli özkaynaklara sahip olmalarını sağlamayı amaçlar.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 60,
+        "section": "3.2.3 Sermaye Yeterliliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-36",
+      "q": "Yatırım kuruluşlarının 'çıkar çatışması politikası' oluşturmasının amacı nedir?",
+      "options": [
+        "Çalışanların kişisel yatırım yapmasını tamamen yasaklamak",
+        "Kuruluş ile müşterileri veya müşterilerin kendi aralarındaki potansiyel çıkar çatışmalarını tespit etmek ve yönetmek",
+        "Rakip firmalarla rekabeti önlemek",
+        "Piyasa manipülasyonunu engellemek",
+        "Yalnızca kurumsal müşterilere hizmet vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Çıkar çatışması politikası, yatırım kuruluşu ile müşterileri arasında veya farklı müşteriler arasında ortaya çıkabilecek potansiyel çıkar çatışmalarını tespit etmeyi, önlemeyi ve yönetmeyi amaçlar.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 55,
+        "section": "3.2.2 Çıkar Çatışması Politikası"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-37",
+      "q": "Portföy yönetim şirketlerinin (PYŞ) kurulabilmesi için gerekli asgari özsermaye tutarını belirleyen kurum hangisidir?",
+      "options": [
+        "BDDK",
+        "Borsa İstanbul",
+        "SPK",
+        "Hazine ve Maliye Bakanlığı",
+        "TSPB"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Portföy yönetim şirketlerinin kuruluş ve faaliyet şartları SPK tarafından belirlenir; asgari özsermaye tutarı da SPK düzenlemelerinde yer alır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 75,
+        "section": "3.2.4 Portföy Yönetim Şirketleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-38",
+      "q": "Yatırım kuruluşlarında 'uyum görevlisi'nin temel görevi nedir?",
+      "options": [
+        "Müşteri portföylerini yönetmek",
+        "Kuruluşun mevzuata ve iç düzenlemelere uyumunu izlemek ve raporlamak",
+        "Pazarlama faaliyetlerini yürütmek",
+        "İnsan kaynakları süreçlerini yönetmek",
+        "Bilgi teknolojileri altyapısını kurmak"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Uyum görevlisi, yatırım kuruluşunun sermaye piyasası mevzuatına, iç düzenlemelere ve etik kurallara uyumunu izlemek, değerlendirmek ve yönetime raporlamakla görevlidir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 65,
+        "section": "3.2.3 İç Kontrol ve Uyum"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-39",
+      "q": "Yatırım kuruluşlarının 'müşteri varlıklarının korunması' ilkesi kapsamında aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Müşteri varlıklarının kuruluşun kendi varlıklarından ayrı tutulması",
+        "Müşteri varlıklarının yalnızca devlet tahviline yatırılması",
+        "Tüm müşteri varlıklarının sigortalanması",
+        "Müşteri varlıklarının yurt dışında saklanması",
+        "Müşteri varlıklarının günlük olarak nakde çevrilmesi"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Yatırım kuruluşları, müşteri varlıklarını kendi öz varlıklarından ayrı tutmak zorundadır. Bu ilke, kuruluşun iflası halinde müşteri varlıklarının korunmasını sağlar.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 58,
+        "section": "3.2.2 Müşteri Varlıklarının Korunması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-40",
+      "q": "Kısıtlı yetkili aracı kurumlar hangi piyasada faaliyet gösterebilir?",
+      "options": [
+        "Tüm piyasalarda",
+        "Yalnızca pay piyasasında",
+        "Yalnızca kaldıraçlı işlemler ve türev araçlar piyasasında",
+        "Yalnızca tahvil piyasasında",
+        "Yalnızca yabancı piyasalarda"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Kısıtlı yetkili aracı kurumlar, yalnızca kaldıraçlı alım satım işlemleri (foreks) ve Kurul'ca belirlenmiş türev araçlar konusunda faaliyet gösterebilirler.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 27,
+        "section": "3.1.3 Kısıtlı Yetkili Aracı Kurumlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-41",
+      "q": "Portföy yönetimi faaliyetinde 'ihtiyari portföy yönetimi' ne anlama gelir?",
+      "options": [
+        "Müşterinin her işlem için onay vermesi gereken yönetim",
+        "Portföy yöneticisinin müşteri adına işlem kararlarını bağımsız olarak alması",
+        "Yalnızca sabit getirili araçlara yatırım yapılması",
+        "Müşterinin portföyünü bizzat yönetmesi",
+        "Portföyün yalnızca yılda bir kez gözden geçirilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İhtiyari (discretionary) portföy yönetiminde, portföy yöneticisi müşteri ile yapılan sözleşme çerçevesinde ve yatırım politikasına uygun olarak müşteri adına bağımsız yatırım kararları alır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 80,
+        "section": "3.2.4 Portföy Yönetimi Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-42",
+      "q": "Yatırım kuruluşlarının 'işlem aracılığı' faaliyeti ile 'emir iletimine aracılık' arasındaki temel fark nedir?",
+      "options": [
+        "İşlem aracılığında kuruluş emri bizzat piyasada gerçekleştirir, emir iletiminde başka kuruluşa aktarır",
+        "Aralarında fark yoktur",
+        "Emir iletimi daha pahalıdır",
+        "İşlem aracılığı yalnızca kurumsal müşterilere yapılır",
+        "Emir iletimi yalnızca yurt dışı piyasalarda geçerlidir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "İşlem aracılığında yatırım kuruluşu müşteri emirlerini bizzat ilgili piyasada gerçekleştirir. Emir iletiminde ise emirleri gerçekleştirilmek üzere başka bir yetkili yatırım kuruluşuna iletir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 13,
+        "section": "3.1.1 Yatırım Hizmetleri - İşlem Aracılığı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-43",
+      "q": "Aracı kurumların kuruluş izni alabilmesi için başvuru yapılan merci hangisidir?",
+      "options": [
+        "Borsa İstanbul",
+        "BDDK",
+        "SPK (Sermaye Piyasası Kurulu)",
+        "TSPB",
+        "Hazine ve Maliye Bakanlığı"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Aracı kurumların kuruluş ve faaliyet izinleri SPK tarafından verilir. SPK, sermaye piyasası aracı kurumlarının kuruluş, faaliyet izni ve denetimine ilişkin tek yetkili kurumdur.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 20,
+        "section": "3.1.2 Aracı Kurumların Kuruluş Şartları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-44",
+      "q": "Yatırım kuruluşlarında 'uygunluk testi' hangi hizmette zorunludur?",
+      "options": [
+        "Saklama hizmetinde",
+        "Yatırım danışmanlığı ve portföy yönetiminde",
+        "Emir iletimine aracılıkta",
+        "Genel yatırım tavsiyesinde",
+        "Kurumsal finansman danışmanlığında"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Uygunluk testi, yatırım danışmanlığı ve portföy yönetimi hizmetlerinde zorunludur. Bu test ile müşterinin bilgi düzeyi, yatırım deneyimi, mali durumu ve yatırım amaçları değerlendirilir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 52,
+        "section": "3.2.2 Uygunluk ve Yerindelik Testleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-t4-45",
+      "q": "Yatırım kuruluşlarında 'yerindelik testi' aşağıdaki hizmetlerden hangisinde uygulanır?",
+      "options": [
+        "Yalnızca portföy yönetiminde",
+        "Yalnızca yatırım danışmanlığında",
+        "İşlem aracılığı ve emir iletiminde (karmaşık ürünler için)",
+        "Saklama hizmetinde",
+        "Genel yatırım tavsiyesinde"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yerindelik testi, alım-satım aracılığı hizmetlerinde karmaşık ürünler (türev araçlar, yapılandırılmış ürünler vb.) için uygulanır ve müşterinin ürünü anlayıp anlamadığını değerlendirir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 53,
+        "section": "3.2.2 Yerindelik Testi"
+      },
+      "verified": true,
+      "flag": null
+    }
   ]
 }

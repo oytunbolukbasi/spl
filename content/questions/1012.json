@@ -2,206 +2,1475 @@
   "unit": "1012",
   "_note": "Kaynak: 1012 Örnek Soru Bankası - Deneme I (resmi cevap anahtarı ile). Cevaplar resmi anahtardan; konular 1012 ders notu bölümlerine eşlendi. source.page = 1012-notes.pdf PDF sayfası (basılı + ~3 ofset, yaklaşık). Derinlemesine satır bazlı not teyidi sürüyor.",
   "questions": [
-    { "id": "1012-d1-1", "q": "Merkezi karşı taraf hizmeti verilen piyasa veya sermaye piyasası araçları ile ilgili takas yükümlülüklerinin yerine getirilmemesi durumunda kullanılmak amacıyla Takasbank nezdinde tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşturulan fona ne ad verilir?",
-      "options": ["Saklama Fonu", "Tazmin Fonu", "Garanti Fonu", "Şemsiye Fon", "Sigorta Fonu"], "answer": 2, "keyAnswer": "C",
+    {
+      "id": "1012-d1-1",
+      "q": "Merkezi karşı taraf hizmeti verilen piyasa veya sermaye piyasası araçları ile ilgili takas yükümlülüklerinin yerine getirilmemesi durumunda kullanılmak amacıyla Takasbank nezdinde tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşturulan fona ne ad verilir?",
+      "options": [
+        "Saklama Fonu",
+        "Tazmin Fonu",
+        "Garanti Fonu",
+        "Şemsiye Fon",
+        "Sigorta Fonu"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "MKT üyelerinin katkı paylarıyla oluşturulan, teminatlar dışında kalan fon “Garanti Fonu”dur.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Takas ile Merkezi Karşı Taraf Uygulaması" }, "verified": true, "flag": null },
-    { "id": "1012-d1-2", "q": "Aşağıdakilerden hangisi MKK AŞ'nin görevlerinden biri değildir?",
-      "options": ["Payların halka arzına izin vermek", "Kaydileştirme işlemlerini gerçekleştirmek", "Kayıtlarının gizliliğini sağlamak", "Elektronik bir veri bankası oluşturmak", "Kayıtların tutarlılığını izlemek"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Takas ile Merkezi Karşı Taraf Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-2",
+      "q": "Aşağıdakilerden hangisi MKK AŞ'nin görevlerinden biri değildir?",
+      "options": [
+        "Payların halka arzına izin vermek",
+        "Kaydileştirme işlemlerini gerçekleştirmek",
+        "Kayıtlarının gizliliğini sağlamak",
+        "Elektronik bir veri bankası oluşturmak",
+        "Kayıtların tutarlılığını izlemek"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Payların halka arzına izin vermek MKK'nın değil SPK'nın görevidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 12, "section": "2.1 MKK Kuruluş, Faaliyet, Çalışma ve Denetim Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d1-3", "q": "Altın vadeli işlem ve opsiyon sözleşmeleri için sicil bazında pozisyon limiti kaç adet olarak uygulanmaktadır?",
-      "options": ["5.000", "10.000", "50.000", "100.000", "1.000.000"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "2.1 MKK Kuruluş, Faaliyet, Çalışma ve Denetim Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-3",
+      "q": "Altın vadeli işlem ve opsiyon sözleşmeleri için sicil bazında pozisyon limiti kaç adet olarak uygulanmaktadır?",
+      "options": [
+        "5.000",
+        "10.000",
+        "50.000",
+        "100.000",
+        "1.000.000"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Altın vadeli işlem ve opsiyon sözleşmelerinde sicil bazında pozisyon limiti 50.000 adettir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 134, "section": "5. Türev Araçlarda Takas / VİOP" }, "verified": true, "flag": null },
-    { "id": "1012-d1-4", "q": "Aşağıdakilerden hangisi Takasbank'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank sermayesinden tahsis edilen bölüm ile korunan riskleri ifade eder?",
-      "options": ["Portföy teminatlandırma", "Finansal Risk", "Sicil bazında pozisyon limiti", "Karşılanmış Riskler", "Tekil pozisyon"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 134,
+        "section": "5. Türev Araçlarda Takas / VİOP"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-4",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank sermayesinden tahsis edilen bölüm ile korunan riskleri ifade eder?",
+      "options": [
+        "Portföy teminatlandırma",
+        "Finansal Risk",
+        "Sicil bazında pozisyon limiti",
+        "Karşılanmış Riskler",
+        "Tekil pozisyon"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Teminatlar, garanti fonu ve Takasbank sermayesiyle karşılanan riskler “karşılanmış riskler” olarak adlandırılır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Karşı Taraf Uygulaması" }, "verified": true, "flag": null },
-    { "id": "1012-d1-5", "q": "Aşağıdakilerden hangisi Takasbank'ın merkezi karşı taraf olduğu piyasalardan biri değildir?",
-      "options": ["Takasbank Tezgahüstü Türev İşlemler Piyasası", "BİST Kıymetli Taşlar Piyasası", "VİOP", "Borsa İstanbul Para Piyasası", "ÖPP"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Karşı Taraf Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-5",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın merkezi karşı taraf olduğu piyasalardan biri değildir?",
+      "options": [
+        "Takasbank Tezgahüstü Türev İşlemler Piyasası",
+        "BİST Kıymetli Taşlar Piyasası",
+        "VİOP",
+        "Borsa İstanbul Para Piyasası",
+        "ÖPP"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Takasbank, Borsa İstanbul Para Piyasası'nda merkezi karşı taraf değildir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Karşı Taraf Uygulaması" }, "verified": true, "flag": null },
-    { "id": "1012-d1-6", "q": "Aşağıdakilerden hangisi MKK nezdinde açılan ihraççı hesaplarından biridir?",
-      "options": ["Yatırımcı Hsp", "YSGH", "Ortak Hsp", "Yatırımcı Havuz Hsp", "DİBS Depo Hsp"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Karşı Taraf Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-6",
+      "q": "Aşağıdakilerden hangisi MKK nezdinde açılan ihraççı hesaplarından biridir?",
+      "options": [
+        "Yatırımcı Hsp",
+        "YSGH",
+        "Ortak Hsp",
+        "Yatırımcı Havuz Hsp",
+        "DİBS Depo Hsp"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "İhraççı hesapları arasında “Ortak Hesabı” yer alır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 19, "section": "2.2 Kaydileştirilen SPA Kayıtlarının Tutulması" }, "verified": true, "flag": null },
-    { "id": "1012-d1-7", "q": "Borsa İstanbul A.Ş. Pay piyasasında temerrüde düşen üyeden tahsil edilen temerrüt cezasının kaçta kaçı temerrüt nedeniyle alacağını gecikmeli olarak alan üyeye mağduriyet ödemesi olarak verilir?",
-      "options": ["1/5'i", "1/4'ü", "1/2'si", "3/5'i", "2/3'ü"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 19,
+        "section": "2.2 Kaydileştirilen SPA Kayıtlarının Tutulması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-7",
+      "q": "Borsa İstanbul A.Ş. Pay piyasasında temerrüde düşen üyeden tahsil edilen temerrüt cezasının kaçta kaçı temerrüt nedeniyle alacağını gecikmeli olarak alan üyeye mağduriyet ödemesi olarak verilir?",
+      "options": [
+        "1/5'i",
+        "1/4'ü",
+        "1/2'si",
+        "3/5'i",
+        "2/3'ü"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Temerrüt cezasının 2/3'ü, alacağını gecikmeli alan mağdur üyeye ödenir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 101, "section": "4.8 Temerrüt İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-8", "q": "I- Kuruluş izni ilgili Bakan tarafından verilir. II- Faaliyet izni SPK tarafından verilir. III- Gözetim ve denetim mercii TSPB'dir. IV- Yapacakları alt düzenlemeler SPK'nın onayına tabidir. Merkezi takas kuruluşlarıyla ilgili yukarıdaki ifadelerden hangileri yanlıştır?",
-      "options": ["Yalnız I", "Yalnız II", "Yalnız III", "Yalnız IV", "I, II, III, IV"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 101,
+        "section": "4.8 Temerrüt İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-8",
+      "q": "I- Kuruluş izni ilgili Bakan tarafından verilir. II- Faaliyet izni SPK tarafından verilir. III- Gözetim ve denetim mercii TSPB'dir. IV- Yapacakları alt düzenlemeler SPK'nın onayına tabidir. Merkezi takas kuruluşlarıyla ilgili yukarıdaki ifadelerden hangileri yanlıştır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "Yalnız IV",
+        "I, II, III, IV"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Merkezi takas kuruluşlarının gözetim ve denetim mercii TSPB değil SPK'dır; bu yüzden yalnız III yanlıştır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Takas Kuruluşları" }, "verified": true, "flag": null },
-    { "id": "1012-d1-9", "q": "Borsa İstanbul AŞ borçlanma araçları piyasasında işlemlerin takasında netleştirmeye ilişkin olarak (I) Taahhütlü işlemler pazarı ve uluslararası tahvil pazarı arasında netleştirme yapılabilir; (II) MKT hizmeti verilen ve verilmeyen kıymetler ayrı ayrı netleştirmeye tabidir; (III) Repo-ters repo pazarında zincirleme hariç ters repo ile satın alınan kıymetler netleştirmeye dahil edilmez; (IV) Temerrüt hali dışında günler arasında yükümlülük ve alacaklar netleştirilmez. Hangileri doğrudur?",
-      "options": ["Yalnız I", "Yalnız II", "II ve III", "I, II, III", "II, III ve IV"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Takas Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-9",
+      "q": "Borsa İstanbul AŞ borçlanma araçları piyasasında işlemlerin takasında netleştirmeye ilişkin olarak (I) Taahhütlü işlemler pazarı ve uluslararası tahvil pazarı arasında netleştirme yapılabilir; (II) MKT hizmeti verilen ve verilmeyen kıymetler ayrı ayrı netleştirmeye tabidir; (III) Repo-ters repo pazarında zincirleme hariç ters repo ile satın alınan kıymetler netleştirmeye dahil edilmez; (IV) Temerrüt hali dışında günler arasında yükümlülük ve alacaklar netleştirilmez. Hangileri doğrudur?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "II ve III",
+        "I, II, III",
+        "II, III ve IV"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "II, III ve IV doğrudur.",
-      "source": { "pdf": "1012-notes.pdf", "page": 94, "section": "4.5 Borçlanma Araçları Piyasası Takas Prensipleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-10", "q": "Borsa İstanbul AŞ pay piyasası takas işlemlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-      "options": ["Teslim karşılığı ödeme", "Çok taraflı netleştirme", "Kaydi takas", "Ertesi gün valörlü ödeme", "Merkezi takas"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 94,
+        "section": "4.5 Borçlanma Araçları Piyasası Takas Prensipleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-10",
+      "q": "Borsa İstanbul AŞ pay piyasası takas işlemlerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Teslim karşılığı ödeme",
+        "Çok taraflı netleştirme",
+        "Kaydi takas",
+        "Ertesi gün valörlü ödeme",
+        "Merkezi takas"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Pay piyasası takası T+2 valörlüdür; “ertesi gün (T+1) valörlü ödeme” ifadesi yanlıştır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 71, "section": "3.1 Pay Piyasası Takas İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-11", "q": "Borsa İstanbul AŞ borçlanma araçları piyasasında T gününde gerçekleşen bir işlemde yabancı para ödemeli kıymetlerin takası hangi gün gerçekleştirilir?",
-      "options": ["T+0", "T+1", "T+2", "T+3", "T+5"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 71,
+        "section": "3.1 Pay Piyasası Takas İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-11",
+      "q": "Borsa İstanbul AŞ borçlanma araçları piyasasında T gününde gerçekleşen bir işlemde yabancı para ödemeli kıymetlerin takası hangi gün gerçekleştirilir?",
+      "options": [
+        "T+0",
+        "T+1",
+        "T+2",
+        "T+3",
+        "T+5"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Yabancı para ödemeli kıymetlerin takası T+1 gününde gerçekleştirilir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 95, "section": "4.6 Takas İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-12", "q": "Aşağıdakilerden hangisi Takasbank'ın takas hizmeti sunmak üzere yetkilendirildiği piyasalarda yapılan işlemlerin takasının sadece kendi nezdinde yapılması zorunluluğunu ifade eder?",
-      "options": ["Takasın zorunluluğu", "Merkezi takas", "Merkezi karşı taraf", "Kaydi takas", "Takas kesinliği"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 95,
+        "section": "4.6 Takas İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-12",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın takas hizmeti sunmak üzere yetkilendirildiği piyasalarda yapılan işlemlerin takasının sadece kendi nezdinde yapılması zorunluluğunu ifade eder?",
+      "options": [
+        "Takasın zorunluluğu",
+        "Merkezi takas",
+        "Merkezi karşı taraf",
+        "Kaydi takas",
+        "Takas kesinliği"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Takasın tek bir merkezde (Takasbank) yapılması zorunluluğu “merkezi takas” kavramıdır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 4, "section": "1. Takas ve Saklamaya İlişkin Temel Kavramlar" }, "verified": true, "flag": null },
-    { "id": "1012-d1-13", "q": "Aşağıdakilerden hangisi merkezi karşı taraf hizmeti verilen piyasalarda işlem teminatı olarak kabul edilebilen varlıklardan biri değildir?",
-      "options": ["Borçlanma araçları şemsiye fonu", "DİBS", "Borsa İstanbul'da işlem gören tüm paylar", "TL", "VDMK"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 4,
+        "section": "1. Takas ve Saklamaya İlişkin Temel Kavramlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-13",
+      "q": "Aşağıdakilerden hangisi merkezi karşı taraf hizmeti verilen piyasalarda işlem teminatı olarak kabul edilebilen varlıklardan biri değildir?",
+      "options": [
+        "Borçlanma araçları şemsiye fonu",
+        "DİBS",
+        "Borsa İstanbul'da işlem gören tüm paylar",
+        "TL",
+        "VDMK"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "İşlem teminatı olarak tüm paylar değil, yalnızca belirlenen endeks/nitelikteki paylar kabul edilir; “tüm paylar” ifadesi yanlıştır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 171, "section": "6.3 Teminata Kabul Edilen Varlıklar" }, "verified": true, "flag": null },
-    { "id": "1012-d1-14", "q": "Aşağıdakilerden hangisi MKK'nın üyelik şartlarından biri değildir?",
-      "options": ["Teknik donanıma sahip olmak", "Yatırım danışmanlığı faaliyet iznine sahip olmak", "Sorumluluk sigortası yaptırmak", "Yeterli sayı ve nitelikte personel", "Üyeliğe giriş ücretini yatırmak"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 171,
+        "section": "6.3 Teminata Kabul Edilen Varlıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-14",
+      "q": "Aşağıdakilerden hangisi MKK'nın üyelik şartlarından biri değildir?",
+      "options": [
+        "Teknik donanıma sahip olmak",
+        "Yatırım danışmanlığı faaliyet iznine sahip olmak",
+        "Sorumluluk sigortası yaptırmak",
+        "Yeterli sayı ve nitelikte personel",
+        "Üyeliğe giriş ücretini yatırmak"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Yatırım danışmanlığı faaliyet izni MKK üyeliği için aranan bir şart değildir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 12, "section": "2.1 MKK Üyelik Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d1-15", "q": "I- Kurul tarafından kaydileştirilmesine karar verilen ve teslim edilen sermaye piyasası araçları kendiliğinden hükümsüz hale gelir. II- Kaydileşmiş sermaye piyasası araçları toplu hesaplarda izlenmesi zorunludur. III- Kurul tarafından kaydileştirilmesine karar verilen ve teslim edilmeyen SPA kaydileştirme kararından sonra da borsada işlem görmeye devam eder. Kaydileştirmeye ilişkin hangileri doğrudur?",
-      "options": ["Yalnız I", "Yalnız II", "Yalnız III", "I ve III", "II ve III"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "2.1 MKK Üyelik Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-15",
+      "q": "I- Kurul tarafından kaydileştirilmesine karar verilen ve teslim edilen sermaye piyasası araçları kendiliğinden hükümsüz hale gelir. II- Kaydileşmiş sermaye piyasası araçları toplu hesaplarda izlenmesi zorunludur. III- Kurul tarafından kaydileştirilmesine karar verilen ve teslim edilmeyen SPA kaydileştirme kararından sonra da borsada işlem görmeye devam eder. Kaydileştirmeye ilişkin hangileri doğrudur?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve III",
+        "II ve III"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Yalnız I doğrudur; kaydileşmiş araçlar hak sahibi bazında izlenir (II yanlış), teslim edilmeyenler işlem göremez (III yanlış).",
-      "source": { "pdf": "1012-notes.pdf", "page": 19, "section": "2.2 Kaydileştirme Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d1-16", "q": "Aşağıdakilerden hangisi pay piyasasında işlem teminatına kabul edilen varlıklardan biri değildir?",
-      "options": ["Borsa İstanbul payları", "Eurotahvil", "Teminat mektubu", "TL", "DİBS"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 19,
+        "section": "2.2 Kaydileştirme Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-16",
+      "q": "Aşağıdakilerden hangisi pay piyasasında işlem teminatına kabul edilen varlıklardan biri değildir?",
+      "options": [
+        "Borsa İstanbul payları",
+        "Eurotahvil",
+        "Teminat mektubu",
+        "TL",
+        "DİBS"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Teminat mektubu pay piyasası işlem teminatı olarak kabul edilmez.",
-      "source": { "pdf": "1012-notes.pdf", "page": 76, "section": "3.2 Pay Piyasası Risk ve Teminat Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d1-17", "q": "Portföy saklayıcıları aşağıdakilerden hangisini KYK gelirlerinin mevzuat, fon içtüzüğü, izahname ve esas sözleşme hükümlerine uygun olarak kullanılmasını sağlama yükümlülüğü kapsamında yerine getirir?",
-      "options": ["Nakit akımlarına ilişkin mutabakat", "İhraç ve itfa işlemlerinin mevzuat ve fon iç tüzüğüne uygunluğunu sağlamak", "KYK'nın edinimlerine ilişkin bedellerin uygun sürede aktarılması için altyapı sağlamak", "MKK ve KYK kayıtlarının uyumunu gözetmek", "Kolektif yatırım kuruluşlarının kar payı ödemelerinin içtüzüğe, izahnameye, esas sözleşmeye ve mevzuata uygun ve açıklanan kar dağıtım politikası çerçevesinde yapılıp yapılmadığını kontrol etmek"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 76,
+        "section": "3.2 Pay Piyasası Risk ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-17",
+      "q": "Portföy saklayıcıları aşağıdakilerden hangisini KYK gelirlerinin mevzuat, fon içtüzüğü, izahname ve esas sözleşme hükümlerine uygun olarak kullanılmasını sağlama yükümlülüğü kapsamında yerine getirir?",
+      "options": [
+        "Nakit akımlarına ilişkin mutabakat",
+        "İhraç ve itfa işlemlerinin mevzuat ve fon iç tüzüğüne uygunluğunu sağlamak",
+        "KYK'nın edinimlerine ilişkin bedellerin uygun sürede aktarılması için altyapı sağlamak",
+        "MKK ve KYK kayıtlarının uyumunu gözetmek",
+        "Kolektif yatırım kuruluşlarının kar payı ödemelerinin içtüzüğe, izahnameye, esas sözleşmeye ve mevzuata uygun ve açıklanan kar dağıtım politikası çerçevesinde yapılıp yapılmadığını kontrol etmek"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "KYK gelirlerinin (kar payı) uygun kullanımının kontrolü portföy saklayıcısının bu kapsamdaki yükümlülüğüdür.",
-      "source": { "pdf": "1012-notes.pdf", "page": 60, "section": "2.4 Portföy Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1012-d1-18", "q": "MKK üyeliği aşağıdaki hallerden hangisinde iptal edilir?",
-      "options": ["Yatırım kuruluşu üyenin saklama izninin iptali", "Üyenin yönetim kurulunun hakkında SPK suçu bulunması", "Üyenin borç yükümlülüğünü yerine getirememesi", "Üyelik aidatlarının ödenmemesi", "İç kontrol biriminin bulunmaması"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 60,
+        "section": "2.4 Portföy Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-18",
+      "q": "MKK üyeliği aşağıdaki hallerden hangisinde iptal edilir?",
+      "options": [
+        "Yatırım kuruluşu üyenin saklama izninin iptali",
+        "Üyenin yönetim kurulunun hakkında SPK suçu bulunması",
+        "Üyenin borç yükümlülüğünü yerine getirememesi",
+        "Üyelik aidatlarının ödenmemesi",
+        "İç kontrol biriminin bulunmaması"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Yatırım kuruluşu üyenin saklama izninin iptali MKK üyeliğinin iptal sebebidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 12, "section": "2.1 MKK Üyelik Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d1-19", "q": "VİOP'ta hesaplanan toplam teminat gereksiniminin en az yüzde kaçının TL teminattan oluşması gerekir?",
-      "options": ["%100", "%90", "%50", "%30", "%15"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "2.1 MKK Üyelik Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-19",
+      "q": "VİOP'ta hesaplanan toplam teminat gereksiniminin en az yüzde kaçının TL teminattan oluşması gerekir?",
+      "options": [
+        "%100",
+        "%90",
+        "%50",
+        "%30",
+        "%15"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "VİOP'ta toplam teminat gereksiniminin en az %50'si TL teminattan oluşmalıdır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 145, "section": "5.4 VİOP Teminatlara İlişkin Esaslar" }, "verified": true, "flag": null },
-    { "id": "1012-d1-20", "q": "MKT düzenlemelerine göre Üyenin belirli bir kıymette hem alış hem de satış yapması durumunda satış toplamı alış toplamına mahsup edilerek çıkan net bakiyeye göre kıymet yükümlülüğü belirlenmesi yöntemine ne denir?",
-      "options": ["Teslim karşılığı ödeme", "Çok taraflı netleştirme", "Kaydi takas", "Ertesi gün valörlü ödeme", "Merkezi takas"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 145,
+        "section": "5.4 VİOP Teminatlara İlişkin Esaslar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-20",
+      "q": "MKT düzenlemelerine göre Üyenin belirli bir kıymette hem alış hem de satış yapması durumunda satış toplamı alış toplamına mahsup edilerek çıkan net bakiyeye göre kıymet yükümlülüğü belirlenmesi yöntemine ne denir?",
+      "options": [
+        "Teslim karşılığı ödeme",
+        "Çok taraflı netleştirme",
+        "Kaydi takas",
+        "Ertesi gün valörlü ödeme",
+        "Merkezi takas"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Alış ve satışların mahsup edilerek net bakiye üzerinden yükümlülük belirlenmesi “çok taraflı netleştirme”dir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Takas ve Netleştirme" }, "verified": true, "flag": null },
-    { "id": "1012-d1-21", "q": "Finansal kurumun piyasalarda derinliğin olmaması veya aşırı dalgalanma nedeniyle finansal kurumun herhangi bir pozisyonunu, piyasa fiyatlarından kapatamaması veya dengeleyememesi sonucu maruz kalabileceği risk aşağıdakilerden hangisidir?",
-      "options": ["Kredi Riski", "Teminat Riski", "Likidite riski", "Piyasa Riski", "Döviz kuru riski"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Takas ve Netleştirme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-21",
+      "q": "Finansal kurumun piyasalarda derinliğin olmaması veya aşırı dalgalanma nedeniyle finansal kurumun herhangi bir pozisyonunu, piyasa fiyatlarından kapatamaması veya dengeleyememesi sonucu maruz kalabileceği risk aşağıdakilerden hangisidir?",
+      "options": [
+        "Kredi Riski",
+        "Teminat Riski",
+        "Likidite riski",
+        "Piyasa Riski",
+        "Döviz kuru riski"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Pozisyonun piyasa fiyatından kapatılamaması/dengelenememesi likidite riskidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 76, "section": "3.2 Risk ve Teminat Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d1-22", "q": "Mevcut pozisyonların piyasa fiyatları ile değerlenmesi sonucunda ortaya çıkan farklar neticesinde ihtiyaç duyulan teminat aşağıdakilerden hangisidir?",
-      "options": ["Değişim teminatı", "Brüt teminat", "Portföy bazında teminat", "Net teminat", "Başlangıç teminatı"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 76,
+        "section": "3.2 Risk ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-22",
+      "q": "Mevcut pozisyonların piyasa fiyatları ile değerlenmesi sonucunda ortaya çıkan farklar neticesinde ihtiyaç duyulan teminat aşağıdakilerden hangisidir?",
+      "options": [
+        "Değişim teminatı",
+        "Brüt teminat",
+        "Portföy bazında teminat",
+        "Net teminat",
+        "Başlangıç teminatı"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Piyasa fiyatıyla değerleme farkı için istenen teminat “değişim (varyasyon) teminatı”dır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 168, "section": "6.1 Teminat Yönetimi Teminat Tipleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-23", "q": "Portföy saklayıcısının risk yönetim sisteminin oluşturulmasından ve uygulanmasından sorumlu personelin asgari olarak hangi lisansa sahip olması gerekir?",
-      "options": ["Türev lisansı", "Düzey 1 Lisansı", "Düzey 2 Lisansı", "Düzey 3 Lisansı", "Kredi Derecelendirme Lisansı"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 168,
+        "section": "6.1 Teminat Yönetimi Teminat Tipleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-23",
+      "q": "Portföy saklayıcısının risk yönetim sisteminin oluşturulmasından ve uygulanmasından sorumlu personelin asgari olarak hangi lisansa sahip olması gerekir?",
+      "options": [
+        "Türev lisansı",
+        "Düzey 1 Lisansı",
+        "Düzey 2 Lisansı",
+        "Düzey 3 Lisansı",
+        "Kredi Derecelendirme Lisansı"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Risk yönetim sisteminden sorumlu personelin asgari Düzey 3 Lisansına sahip olması gerekir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 60, "section": "2.4 Portföy Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1012-d1-24", "q": "Borçlanma araçları piyasası takas işlemlerinde nakit borçlarını ödemek için pay piyasasında olan alacaklarının mahsubu yolunu seçen bir üyenin mahsup talimatının elektronik ortamda kaça kadar vermesi gerekir?",
-      "options": ["13:00", "14:00", "14:30", "15:00", "15:30"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 60,
+        "section": "2.4 Portföy Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-24",
+      "q": "Borçlanma araçları piyasası takas işlemlerinde nakit borçlarını ödemek için pay piyasasında olan alacaklarının mahsubu yolunu seçen bir üyenin mahsup talimatının elektronik ortamda kaça kadar vermesi gerekir?",
+      "options": [
+        "13:00",
+        "14:00",
+        "14:30",
+        "15:00",
+        "15:30"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Mahsup talimatı elektronik ortamda en geç saat 14:30'a kadar verilmelidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 95, "section": "4.6 Takas İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d1-25", "q": "MTK üyeleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
-      "options": ["Doğrudan takas üyesi müşteri adına işlem yapabilir", "Genel takas üyeleri müşterileri adına işlem yapabilir", "Doğrudan takas üyeleri kendileri adına işlem yapabilir", "Genel takas üyeleri kendileri adına işlem yapabilir", "Genel takas üyeleri, diğer piyasa üyelerinin takas işlemlerini gerçekleştiremez"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 95,
+        "section": "4.6 Takas İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d1-25",
+      "q": "MTK üyeleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Doğrudan takas üyesi müşteri adına işlem yapabilir",
+        "Genel takas üyeleri müşterileri adına işlem yapabilir",
+        "Doğrudan takas üyeleri kendileri adına işlem yapabilir",
+        "Genel takas üyeleri kendileri adına işlem yapabilir",
+        "Genel takas üyeleri, diğer piyasa üyelerinin takas işlemlerini gerçekleştiremez"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Genel takas üyeleri, diğer piyasa üyelerinin takas işlemlerini de gerçekleştirebilir; bu ifade yanlıştır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Takas Üyeleri" }, "verified": true, "flag": null },
-
-    { "id": "1012-d2-1", "q": "Aşağıdakilerden hangisi MKK üyelik iptalini gerektiren durumlar arasında yer almaz?",
-      "options": ["MKK nezdinde kayden izlenen tüm sermaye piyasası araçlarının vadesinin dolması", "İhraççı kuruluşların Borsa pazarlarından çıkmasını takip eden üç yıl içinde tekrar Borsa pazarlarında işlem görme başvurularının bulunmaması", "Yatırım kuruluşlarının yetki belgelerinin tümünün iptali veya devri", "Üyenin birleşme yoluyla başka bir tüzel kişiliğe devrolması", "İhraççının bilançosunda özsermayenin karşılıksız kalması"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Takas Üyeleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-1",
+      "q": "Aşağıdakilerden hangisi MKK üyelik iptalini gerektiren durumlar arasında yer almaz?",
+      "options": [
+        "MKK nezdinde kayden izlenen tüm sermaye piyasası araçlarının vadesinin dolması",
+        "İhraççı kuruluşların Borsa pazarlarından çıkmasını takip eden üç yıl içinde tekrar Borsa pazarlarında işlem görme başvurularının bulunmaması",
+        "Yatırım kuruluşlarının yetki belgelerinin tümünün iptali veya devri",
+        "Üyenin birleşme yoluyla başka bir tüzel kişiliğe devrolması",
+        "İhraççının bilançosunda özsermayenin karşılıksız kalması"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "İhraççının bilançosunda özsermayenin karşılıksız kalması MKK üyeliğinin iptal sebebi değildir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 12, "section": "2.1 MKK Üyelik Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-2", "q": "I- Elektronik Ürün Senedi (ELÜS)  II- BİST 100 Payları  III- Hazine tarafından ihraç edilen Eurobond. Yukarıdakilerden hangisi MKK'da kaydı tutulan menkul kıymetler arasında yer almaz?",
-      "options": ["Yalnız I", "Yalnız II", "Yalnız III", "I ve II", "II ve III"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "2.1 MKK Üyelik Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-2",
+      "q": "I- Elektronik Ürün Senedi (ELÜS)  II- BİST 100 Payları  III- Hazine tarafından ihraç edilen Eurobond. Yukarıdakilerden hangisi MKK'da kaydı tutulan menkul kıymetler arasında yer almaz?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "ELÜS, MKK'da değil ilgili elektronik kayıt sisteminde tutulur.",
-      "source": { "pdf": "1012-notes.pdf", "page": 19, "section": "2.2 Kaydileştirme Kayıtları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-3", "q": "Aşağıdakilerden hangisi portföy saklama izni alınması için gerekli koşullar arasında yer almaz?",
-      "options": ["Gerekli teknik donanım, yazılım ve yeterli sayıda personele sahip olması", "İş akış prosedürlerinin ve organizasyon yapısının oluşturulması", "Alt Saklayıcı belirlenmesi", "Asgari ödenmiş sermayeye sahip olması", "Risk yönetim sistemini oluşturmuş olması"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 19,
+        "section": "2.2 Kaydileştirme Kayıtları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-3",
+      "q": "Aşağıdakilerden hangisi portföy saklama izni alınması için gerekli koşullar arasında yer almaz?",
+      "options": [
+        "Gerekli teknik donanım, yazılım ve yeterli sayıda personele sahip olması",
+        "İş akış prosedürlerinin ve organizasyon yapısının oluşturulması",
+        "Alt Saklayıcı belirlenmesi",
+        "Asgari ödenmiş sermayeye sahip olması",
+        "Risk yönetim sistemini oluşturmuş olması"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Alt saklayıcı belirlenmesi portföy saklama izni için gerekli bir koşul değildir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 60, "section": "2.4 Portföy Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1012-d2-4", "q": "VİOP'da teminat çekme en son saati aşağıdakilerden hangisidir?",
-      "options": ["15:00", "15:40", "16:45", "18:10", "19:00"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 60,
+        "section": "2.4 Portföy Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-4",
+      "q": "VİOP'da teminat çekme en son saati aşağıdakilerden hangisidir?",
+      "options": [
+        "15:00",
+        "15:40",
+        "16:45",
+        "18:10",
+        "19:00"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "VİOP'ta teminat çekme işlemleri için son saat 15:40'tır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 145, "section": "5.4 VİOP Teminatlara İlişkin Esaslar" }, "verified": true, "flag": null },
-    { "id": "1012-d2-5", "q": "MKT üyelerinin, müşteri pozisyonları için müşterileri adına yatırmaları gereken teminat tutarının, müşteri pozisyonlarının birbirleriyle netleştirilmeksizin her bir müşteri için ayrı ayrı hesaplanan teminat yükümlülüklerinin toplamı kadar olmasına ne ad verilir?",
-      "options": ["Tekil pozisyon", "Çoklu Pozisyon", "Mahsuplaştırma", "Brüt Teminatlandırma", "Net teminatlandırma"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 145,
+        "section": "5.4 VİOP Teminatlara İlişkin Esaslar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-5",
+      "q": "MKT üyelerinin, müşteri pozisyonları için müşterileri adına yatırmaları gereken teminat tutarının, müşteri pozisyonlarının birbirleriyle netleştirilmeksizin her bir müşteri için ayrı ayrı hesaplanan teminat yükümlülüklerinin toplamı kadar olmasına ne ad verilir?",
+      "options": [
+        "Tekil pozisyon",
+        "Çoklu Pozisyon",
+        "Mahsuplaştırma",
+        "Brüt Teminatlandırma",
+        "Net teminatlandırma"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Müşteri pozisyonları netleştirilmeden ayrı ayrı toplanarak teminat hesaplanması brüt teminatlandırmadır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 168, "section": "6.1 Teminat Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d2-6", "q": "Aşağıdakilerden hangisi portföy saklayıcısının organizasyon yapısı ile ilgili yanlış bir bilgidir?",
-      "options": ["Saklama hizmet birimi, portföy saklayıcısının diğer tüm birimlerinden ayrılmalıdır", "İş akış prosedürleri yazılı hale getirilir", "Görev tanımları yönetim kurulunca karara bağlanarak ilgili personele imza karşılığında teslim edilir.", "Personel veya sistemden kaynaklanan suistimal ve dolandırıcılığın önleyici tedbirleri alınmalıdır", "Saklama hizmet birimi yöneticisinin sermaye piyasası ve/veya bankacılık alanında en az 3 yıl tecrübeye ve Düzey 1 Lisans Belgesine sahip olması gerekir."], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 168,
+        "section": "6.1 Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-6",
+      "q": "Aşağıdakilerden hangisi portföy saklayıcısının organizasyon yapısı ile ilgili yanlış bir bilgidir?",
+      "options": [
+        "Saklama hizmet birimi, portföy saklayıcısının diğer tüm birimlerinden ayrılmalıdır",
+        "İş akış prosedürleri yazılı hale getirilir",
+        "Görev tanımları yönetim kurulunca karara bağlanarak ilgili personele imza karşılığında teslim edilir.",
+        "Personel veya sistemden kaynaklanan suistimal ve dolandırıcılığın önleyici tedbirleri alınmalıdır",
+        "Saklama hizmet birimi yöneticisinin sermaye piyasası ve/veya bankacılık alanında en az 3 yıl tecrübeye ve Düzey 1 Lisans Belgesine sahip olması gerekir."
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Saklama hizmet birimi yöneticisi için Düzey 1 değil daha üst düzey (Düzey 3) lisans gerekir; bu ifade yanlıştır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 60, "section": "2.4 Portföy Saklama Hizmeti" }, "verified": true, "flag": null },
-    { "id": "1012-d2-7", "q": "Borçlanma araçları piyasasında üyelik teminatının ne kadarı Borsa İstanbul A.Ş. paylarından oluşabilir?",
-      "options": ["Teminata alınmaz", "%10", "%30", "%50", "%100"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 60,
+        "section": "2.4 Portföy Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-7",
+      "q": "Borçlanma araçları piyasasında üyelik teminatının ne kadarı Borsa İstanbul A.Ş. paylarından oluşabilir?",
+      "options": [
+        "Teminata alınmaz",
+        "%10",
+        "%30",
+        "%50",
+        "%100"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Borçlanma araçları piyasasında üyelik teminatı olarak paylar kabul edilmez (teminata alınmaz).",
-      "source": { "pdf": "1012-notes.pdf", "page": 106, "section": "4.9 BAP Risk ve Teminat Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d2-8", "q": "I. Yatırım kuruluşları  II. Yetkili Sınıflandırıcılar  III. Depolar. Yukarıdakilerden hangisi MKK üyesi olabilir?",
-      "options": ["Yalnız I", "Yalnız II", "Yalnız III", "I ve II", "II ve III"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 106,
+        "section": "4.9 BAP Risk ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-8",
+      "q": "I. Yatırım kuruluşları  II. Yetkili Sınıflandırıcılar  III. Depolar. Yukarıdakilerden hangisi MKK üyesi olabilir?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "MKK üyesi olabilecekler arasında yatırım kuruluşları yer alır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 12, "section": "2.1 MKK Üyelik Esasları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-9", "q": "Aşağıdakilerden hangisi teminat ve garanti fonu olarak kabul edilen varlıklar arasında yer almaz?",
-      "options": ["Nakit", "Konvertbl Döviz", "Bankalarca ihraç edilen kira sertifikaları", "DİBS", "Borsada İşlem Gören Standartta Altın"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "2.1 MKK Üyelik Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-9",
+      "q": "Aşağıdakilerden hangisi teminat ve garanti fonu olarak kabul edilen varlıklar arasında yer almaz?",
+      "options": [
+        "Nakit",
+        "Konvertbl Döviz",
+        "Bankalarca ihraç edilen kira sertifikaları",
+        "DİBS",
+        "Borsada İşlem Gören Standartta Altın"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Bankalarca ihraç edilen kira sertifikaları teminat/garanti fonu olarak kabul edilmez.",
-      "source": { "pdf": "1012-notes.pdf", "page": 171, "section": "6.3 Teminata Kabul Edilen Varlıklar" }, "verified": true, "flag": null },
-    { "id": "1012-d2-10", "q": "Sermaye piyasası araçlarının takas talimat ve işlemleri ile ödeme işlemleri, merkezî takas kuruluşlarının üyelerinin faaliyetlerinin geçici ya da sürekli olarak durdurulması, idari ve adli merciler nezdinde tasfiye işlemlerine başlanması durumu da dâhil olmak üzere, geri alınamaması ve iptal edilememesi ne olarak adlandırılır?",
-      "options": ["Şartlı Virman", "Serbest Virman", "Valör kuralı", "Takas kesinliği", "Emir iptal esasları"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 171,
+        "section": "6.3 Teminata Kabul Edilen Varlıklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-10",
+      "q": "Sermaye piyasası araçlarının takas talimat ve işlemleri ile ödeme işlemleri, merkezî takas kuruluşlarının üyelerinin faaliyetlerinin geçici ya da sürekli olarak durdurulması, idari ve adli merciler nezdinde tasfiye işlemlerine başlanması durumu da dâhil olmak üzere, geri alınamaması ve iptal edilememesi ne olarak adlandırılır?",
+      "options": [
+        "Şartlı Virman",
+        "Serbest Virman",
+        "Valör kuralı",
+        "Takas kesinliği",
+        "Emir iptal esasları"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Takas işlemlerinin geri alınamaması ve iptal edilememesi “takas kesinliği” ilkesidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 101, "section": "4.7 Takas Kesinliği" }, "verified": true, "flag": null },
-    { "id": "1012-d2-11", "q": "Aşağıdakilerden hangisinin Borsa İstanbul A.Ş. pay piyasasında İşlem teminatı değerleme katsayısı %100'dür?",
-      "options": ["USD", "Nakit TL", "Borsa İstanbul A.Ş. Payları", "DİBS", "Eurotahvil"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 101,
+        "section": "4.7 Takas Kesinliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-11",
+      "q": "Aşağıdakilerden hangisinin Borsa İstanbul A.Ş. pay piyasasında İşlem teminatı değerleme katsayısı %100'dür?",
+      "options": [
+        "USD",
+        "Nakit TL",
+        "Borsa İstanbul A.Ş. Payları",
+        "DİBS",
+        "Eurotahvil"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Nakit TL teminatının değerleme katsayısı %100'dür.",
-      "source": { "pdf": "1012-notes.pdf", "page": 176, "section": "6.4 Teminat Değerlemesi ve Değerleme Katsayıları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-12", "q": "Merkezi takas kuruluşlarının, alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri uygulamaya ne ad verilir?",
-      "options": ["Takas kesinliği", "Merkezi Karşı Taraf", "Merkezi takas", "Netleştirme", "Piyasa yapıcılığı"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 176,
+        "section": "6.4 Teminat Değerlemesi ve Değerleme Katsayıları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-12",
+      "q": "Merkezi takas kuruluşlarının, alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri uygulamaya ne ad verilir?",
+      "options": [
+        "Takas kesinliği",
+        "Merkezi Karşı Taraf",
+        "Merkezi takas",
+        "Netleştirme",
+        "Piyasa yapıcılığı"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenme merkezi karşı taraf (MKT) uygulamasıdır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Karşı Taraf Uygulaması" }, "verified": true, "flag": null },
-    { "id": "1012-d2-13", "q": "Borsa Para Piyasasında işlem günü T günü kabul edilirse takas hangi gün gerçekleşir?",
-      "options": ["T+0", "T+1", "T+2", "T+3", "T+5"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Karşı Taraf Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-13",
+      "q": "Borsa Para Piyasasında işlem günü T günü kabul edilirse takas hangi gün gerçekleşir?",
+      "options": [
+        "T+0",
+        "T+1",
+        "T+2",
+        "T+3",
+        "T+5"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Borsa Para Piyasası işlemlerinin takası aynı gün (T+0) gerçekleşir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 114, "section": "4.10 Borsa İstanbul Para Piyasası" }, "verified": true, "flag": null },
-    { "id": "1012-d2-14", "q": "Teminata kabul edilen Borsada İşlem Gören Altınların değerleme katsayısı nedir?",
-      "options": ["1", "0,96", "0,88", "0,50", "0,30"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 114,
+        "section": "4.10 Borsa İstanbul Para Piyasası"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-14",
+      "q": "Teminata kabul edilen Borsada İşlem Gören Altınların değerleme katsayısı nedir?",
+      "options": [
+        "1",
+        "0,96",
+        "0,88",
+        "0,50",
+        "0,30"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Borsada işlem gören altın teminatının değerleme katsayısı 0,88'dir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 176, "section": "6.4 Değerleme Katsayıları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-15", "q": "Borçlanma araçları piyasasında gün içi teminat tamamlama süresi aşağıdakilerden hangisidir?",
-      "options": ["Derhal", "30 dk", "2 saat", "Ertesi iş günü", "3 İş günü"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 176,
+        "section": "6.4 Değerleme Katsayıları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-15",
+      "q": "Borçlanma araçları piyasasında gün içi teminat tamamlama süresi aşağıdakilerden hangisidir?",
+      "options": [
+        "Derhal",
+        "30 dk",
+        "2 saat",
+        "Ertesi iş günü",
+        "3 İş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Borçlanma araçları piyasasında gün içi teminat tamamlama süresi 2 saattir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 106, "section": "4.9 BAP Risk ve Teminat Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d2-16", "q": "MTK'lara faaliyet izni kim tarafından verilir?",
-      "options": ["Cumhurbaşkanı", "Bakanlar kurulu", "BDDK", "SPK", "Borsa İstanbul A.Ş."], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 106,
+        "section": "4.9 BAP Risk ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-16",
+      "q": "MTK'lara faaliyet izni kim tarafından verilir?",
+      "options": [
+        "Cumhurbaşkanı",
+        "Bakanlar kurulu",
+        "BDDK",
+        "SPK",
+        "Borsa İstanbul A.Ş."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Merkezi takas kuruluşlarına faaliyet izni SPK tarafından verilir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Takas Kuruluşları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-17", "q": "Aşağıdakilerden hangisi MKT üyeliği için aranan şartlar arasında yer almaz?",
-      "options": ["Takasbank tarafından işlem yapma yetkisinin kaldırılmamış olması", "İlgili taahhütnamelerin imzalanarak ibraz edilmiş olması", "Teknik alt yapının oluşturulması ve işlerliğinin sağlanması", "Takasbank tarafından istenen bilgi ve belgelerin sağlanmış olması", "Son 3 yıl bilançolarında karlılık"], "answer": 4, "keyAnswer": "E",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Takas Kuruluşları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-17",
+      "q": "Aşağıdakilerden hangisi MKT üyeliği için aranan şartlar arasında yer almaz?",
+      "options": [
+        "Takasbank tarafından işlem yapma yetkisinin kaldırılmamış olması",
+        "İlgili taahhütnamelerin imzalanarak ibraz edilmiş olması",
+        "Teknik alt yapının oluşturulması ve işlerliğinin sağlanması",
+        "Takasbank tarafından istenen bilgi ve belgelerin sağlanmış olması",
+        "Son 3 yıl bilançolarında karlılık"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
       "explanation": "Son 3 yıl bilançolarında karlılık MKT üyeliği için aranan bir şart değildir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 MKT Üyelik Şartları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-18", "q": "Aynı dayanak varlığa bağlı tüm sözleşmeler için bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısına ne ad verilir?",
-      "options": ["Yasal pozisyon limiti", "Sözleşme bazında pozisyon limiti", "Sicil bazında pozisyon limiti", "Üye bazında pozisyon limiti", "Piyasa bazında pozisyon limiti"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 MKT Üyelik Şartları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-18",
+      "q": "Aynı dayanak varlığa bağlı tüm sözleşmeler için bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısına ne ad verilir?",
+      "options": [
+        "Yasal pozisyon limiti",
+        "Sözleşme bazında pozisyon limiti",
+        "Sicil bazında pozisyon limiti",
+        "Üye bazında pozisyon limiti",
+        "Piyasa bazında pozisyon limiti"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Sicile bağlı tüm hesaplarda azami dayanak varlık sayısı sicil bazında pozisyon limitidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 145, "section": "5.4 VİOP Pozisyon Limitleri" }, "verified": true, "flag": null },
-    { "id": "1012-d2-19", "q": "MKT temerrüt süreci halinde ilk başvurulacak kaynak aşağıdakilerden hangisidir?",
-      "options": ["Temerrüde düşen üyenin kendi portföyüne veya kendisine bağlı teminat açığı bulunan müşteri hesaplarındaki teminatlar", "Temerrüde düşen üyenin yatırılmış Garanti Fonu katkı payı", "Takasbank'ın karşılanmış riskler için tahsis ettiği kendi sermayesi", "Üyelerden talep edilecek ilave Garanti Fonu katkı payları", "Takasbank'ın kalan sermayesinden ilgili piyasa için yapılan sermaye taahhüdü"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 145,
+        "section": "5.4 VİOP Pozisyon Limitleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-19",
+      "q": "MKT temerrüt süreci halinde ilk başvurulacak kaynak aşağıdakilerden hangisidir?",
+      "options": [
+        "Temerrüde düşen üyenin kendi portföyüne veya kendisine bağlı teminat açığı bulunan müşteri hesaplarındaki teminatlar",
+        "Temerrüde düşen üyenin yatırılmış Garanti Fonu katkı payı",
+        "Takasbank'ın karşılanmış riskler için tahsis ettiği kendi sermayesi",
+        "Üyelerden talep edilecek ilave Garanti Fonu katkı payları",
+        "Takasbank'ın kalan sermayesinden ilgili piyasa için yapılan sermaye taahhüdü"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Temerrüt şelalesinde ilk başvurulan kaynak, temerrüde düşen üyenin kendi teminatlarıdır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 101, "section": "4.8 Temerrüt İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d2-20", "q": "Şartlı virman transferine ilişkin hangisi yanlıştır?",
-      "options": ["Normal gerçekleşebilir.", "İleri valörlü şartlı virman işlemlerinin sözleşme bilgileri işlem gününde MKS'ye iletilir.", "Üyeler şartlı virman alacak ve yükümlülüklerini zincir oluşturabilir.", "İleri valörlü talimat girilebilir.", "Parçalı olarak gerçekleşebilir"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 101,
+        "section": "4.8 Temerrüt İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-20",
+      "q": "Şartlı virman transferine ilişkin hangisi yanlıştır?",
+      "options": [
+        "Normal gerçekleşebilir.",
+        "İleri valörlü şartlı virman işlemlerinin sözleşme bilgileri işlem gününde MKS'ye iletilir.",
+        "Üyeler şartlı virman alacak ve yükümlülüklerini zincir oluşturabilir.",
+        "İleri valörlü talimat girilebilir.",
+        "Parçalı olarak gerçekleşebilir"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Resmi cevap anahtarına göre yanlış ifade: B.",
-      "source": { "pdf": "1012-notes.pdf", "page": 84, "section": "3.3 Payların Transfer İşlemleri" }, "verified": true, "flag": null },
-    { "id": "1012-d2-21", "q": "Üyenin belirli bir kıymette hem alış hem de satış yapması durumunda satış toplamı alış toplamına mahsup edilerek çıkan net bakiyeye göre kıymet yükümlülüğü belirlenmesine ne ad verilir?",
-      "options": ["Mahsuplaştırma", "Aynı gün valör", "Brüt Takas", "Netleştirme", "Teslim karşılığı ödeme"], "answer": 3, "keyAnswer": "D",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 84,
+        "section": "3.3 Payların Transfer İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-21",
+      "q": "Üyenin belirli bir kıymette hem alış hem de satış yapması durumunda satış toplamı alış toplamına mahsup edilerek çıkan net bakiyeye göre kıymet yükümlülüğü belirlenmesine ne ad verilir?",
+      "options": [
+        "Mahsuplaştırma",
+        "Aynı gün valör",
+        "Brüt Takas",
+        "Netleştirme",
+        "Teslim karşılığı ödeme"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
       "explanation": "Alış ve satışların mahsup edilip net bakiye üzerinden yükümlülük belirlenmesi netleştirmedir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Netleştirme" }, "verified": true, "flag": null },
-    { "id": "1012-d2-22", "q": "Aşağıdakilerden hangisi İhraççılar tarafından açılacak hesaplar arasındadır?",
-      "options": ["Ortak hesabı", "DİBS Depo Hesabı", "Takas Havuz hesapları", "Yatırımcı hesabı", "Yabancı saklama global hesabı"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Netleştirme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-22",
+      "q": "Aşağıdakilerden hangisi İhraççılar tarafından açılacak hesaplar arasındadır?",
+      "options": [
+        "Ortak hesabı",
+        "DİBS Depo Hesabı",
+        "Takas Havuz hesapları",
+        "Yatırımcı hesabı",
+        "Yabancı saklama global hesabı"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "İhraççılar tarafından açılan hesaplar arasında ortak hesabı yer alır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 19, "section": "2.2 Kaydileştirme Hesap Türleri" }, "verified": true, "flag": null },
-    { "id": "1012-d2-23", "q": "I. VDMK  II. GOS  III. Geçici Makbuzlar  IV. Rüçhan Hakkı Kuponları. Yukarıdakilerden hangisi/hangileri MKK'da kaydı tutulmayan menkul kıymetler arasında yer alır?",
-      "options": ["Yalnız I", "Yalnız II", "Yalnız III", "Yalnız IV", "I, II, III ve IV"], "answer": 1, "keyAnswer": "B",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 19,
+        "section": "2.2 Kaydileştirme Hesap Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-23",
+      "q": "I. VDMK  II. GOS  III. Geçici Makbuzlar  IV. Rüçhan Hakkı Kuponları. Yukarıdakilerden hangisi/hangileri MKK'da kaydı tutulmayan menkul kıymetler arasında yer alır?",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "Yalnız IV",
+        "I, II, III ve IV"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
       "explanation": "Resmi cevap anahtarına göre doğru cevap: Yalnız II.",
-      "source": { "pdf": "1012-notes.pdf", "page": 19, "section": "2.2 Kaydileştirme Kayıtları" }, "verified": true, "flag": null },
-    { "id": "1012-d2-24", "q": "İki tarafa da yükümlülük getiren bir işlemin muhatabı olan karşı tarafın, bu işlemin nakit akışında yer alan son ödemeden önce temerrüde düşme riskine ne verilir?",
-      "options": ["Piyasa riski", "Likidite riski", "Karşı taraf kredi riski", "Kur riski", "Volatilite riski"], "answer": 2, "keyAnswer": "C",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 19,
+        "section": "2.2 Kaydileştirme Kayıtları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-24",
+      "q": "İki tarafa da yükümlülük getiren bir işlemin muhatabı olan karşı tarafın, bu işlemin nakit akışında yer alan son ödemeden önce temerrüde düşme riskine ne verilir?",
+      "options": [
+        "Piyasa riski",
+        "Likidite riski",
+        "Karşı taraf kredi riski",
+        "Kur riski",
+        "Volatilite riski"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
       "explanation": "Karşı tarafın son ödemeden önce temerrüde düşme riski karşı taraf kredi riskidir.",
-      "source": { "pdf": "1012-notes.pdf", "page": 76, "section": "3.2 Risk Yönetimi" }, "verified": true, "flag": null },
-    { "id": "1012-d2-25", "q": "Aşağıdakilerden hangisi Takasbank'ın MKT olduğu piyasalar arasındadır?",
-      "options": ["Borsa Swap Piyasası", "Kıy. Madenler ve Kıymetli Taşlar Piyasası", "Elektrik Piyasası", "Takasbank Para Piyasası", "TEFAS"], "answer": 0, "keyAnswer": "A",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 76,
+        "section": "3.2 Risk Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-25",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın MKT olduğu piyasalar arasındadır?",
+      "options": [
+        "Borsa Swap Piyasası",
+        "Kıy. Madenler ve Kıymetli Taşlar Piyasası",
+        "Elektrik Piyasası",
+        "Takasbank Para Piyasası",
+        "TEFAS"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
       "explanation": "Takasbank, Borsa İstanbul Swap Piyasası'nda merkezi karşı taraftır.",
-      "source": { "pdf": "1012-notes.pdf", "page": 31, "section": "2.3 Merkezi Karşı Taraf Uygulaması" }, "verified": true, "flag": null }
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 31,
+        "section": "2.3 Merkezi Karşı Taraf Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-26",
+      "q": "Merkezi Kayıt Kuruluşu (MKK) hangi kanun ile kurulmuştur?",
+      "options": [
+        "Türk Ticaret Kanunu",
+        "Bankacılık Kanunu",
+        "6362 sayılı Sermaye Piyasası Kanunu",
+        "2499 sayılı eski Sermaye Piyasası Kanunu",
+        "4721 sayılı Türk Medeni Kanunu"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "MKK, 6362 sayılı Sermaye Piyasası Kanunu'nun 81. maddesi çerçevesinde sermaye piyasası araçlarının kaydileştirilmesi amacıyla kurulmuştur.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 10,
+        "section": "4.1.1 MKK Kuruluş ve Görevleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-27",
+      "q": "Kaydileştirme sistemi ile sağlanan temel fayda aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem maliyetlerinin artması",
+        "Fiziki sertifika basım zorunluluğunun ortadan kalkması ve hak sahipliğinin elektronik kayıtla ispatlanması",
+        "Yalnızca kurumsal yatırımcıların işlem yapabilmesi",
+        "Takas süresinin uzaması",
+        "Yabancı yatırımcıların piyasaya girişinin engellenmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kaydileştirme ile fiziki sertifika basımı ortadan kalkmış, hak sahipliği MKK nezdindeki elektronik kayıtlarla ispatlanır hale gelmiştir. Bu sayede sahtecilik riski azalmış, işlemler hızlanmıştır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 12,
+        "section": "4.1.1 Kaydileştirmenin Faydaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-28",
+      "q": "MKK'da tutulan kayıtlarda 'ihraççı hesabı' ne anlama gelir?",
+      "options": [
+        "Yatırımcıların alım-satım hesabı",
+        "İhraç edilen sermaye piyasası araçlarının toplam miktarını gösteren hesap",
+        "Aracı kurumların komisyon hesabı",
+        "Takasbank'ın garanti fonu hesabı",
+        "Borsa İstanbul'un işlem hesabı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "İhraççı hesabı, bir ihraççının çıkarmış olduğu sermaye piyasası araçlarının toplam miktarını ve bunların yatırımcılar arasındaki dağılımını takip eden hesaptır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 15,
+        "section": "4.1.2 MKK Hesap Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-29",
+      "q": "Takasbank'ın 'merkezi karşı taraf' (MKT) fonksiyonu ne anlama gelir?",
+      "options": [
+        "Yatırımcılara kredi vermesi",
+        "Her işlemde alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçerek takas garantisi sağlaması",
+        "Borsa İstanbul'un yerine işlem yapması",
+        "Yalnızca nakit takasını gerçekleştirmesi",
+        "Yabancı borsalarla aracılık yapması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Merkezi karşı taraf (MKT/CCP) olarak Takasbank, her işlemde alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçerek işlemin tamamlanmasını garanti eder ve karşı taraf riskini üstlenir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 85,
+        "section": "4.3.1 Takasbank MKT Fonksiyonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-30",
+      "q": "Pay piyasasında standart takas süresi (valör) kaç iş günüdür?",
+      "options": [
+        "T+0 (aynı gün)",
+        "T+1",
+        "T+2",
+        "T+3",
+        "T+5"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Pay piyasasında standart takas süresi T+2'dir, yani işlem gününden itibaren 2 iş günü sonra takas tamamlanır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 90,
+        "section": "4.3.2 Takas Süreleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-31",
+      "q": "Takasbank garanti fonunun amacı nedir?",
+      "options": [
+        "Yatırımcılara kâr garantisi vermek",
+        "Borsa üyelerinin takas yükümlülüklerini yerine getirememesi halinde sistemik riski önlemek",
+        "Devlet borçlarını karşılamak",
+        "Aracı kurumların sermaye artırımını finanse etmek",
+        "Yabancı yatırımcılara döviz garantisi vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Garanti fonu, takas üyelerinin yükümlülüklerini zamanında yerine getirememesi durumunda kullanılarak, takas sisteminin kesintisiz işlemesini ve sistemik riskin yayılmasının önlenmesini sağlar.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 95,
+        "section": "4.3.3 Garanti Fonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-32",
+      "q": "Borçlanma araçları piyasasında takas süresi kaç iş günüdür?",
+      "options": [
+        "T+0",
+        "T+1",
+        "T+2",
+        "T+3",
+        "T+5"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Borçlanma araçları piyasasında (tahvil, bono) takas genellikle T+0 (aynı gün valör) olarak gerçekleştirilir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 92,
+        "section": "4.3.2 Borçlanma Araçları Takas Süresi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-33",
+      "q": "Takasbank'ın ödünç pay senedi piyasasındaki rolü nedir?",
+      "options": [
+        "Ödünç verenlere faiz ödemek",
+        "Ödünç alan ve veren arasında aracılık yaparak karşı taraf riskini üstlenmek",
+        "Ödünç işlemlerini yasaklamak",
+        "Yalnızca kurumsal yatırımcılara ödünç vermek",
+        "Ödünç pay senetlerinin fiyatını belirlemek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Takasbank, ödünç pay senedi piyasasında merkezi karşı taraf olarak ödünç alan ve veren arasında aracılık yapar, teminat yönetimini sağlar ve karşı taraf riskini üstlenir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 100,
+        "section": "4.3.4 Ödünç Pay Senedi Piyasası"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-34",
+      "q": "MKK'da 'yatırımcı hesabı' açılabilmesi için aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Yatırımcının banka hesabı olması",
+        "Yatırımcının bir yatırım kuruluşu aracılığıyla MKK'ya kaydolması",
+        "Yatırımcının en az 18 yaşında olması",
+        "Yatırımcının SPK sınavını geçmesi",
+        "Yatırımcının Türk vatandaşı olması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "MKK'da yatırımcı hesabı, bir yatırım kuruluşu (aracı kurum veya banka) aracılığıyla açılır. Yatırımcılar doğrudan MKK'ya başvuramazlar.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 18,
+        "section": "4.1.2 Yatırımcı Hesaplarının Açılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-35",
+      "q": "Temerrüt (takas yükümlülüğünün yerine getirilmemesi) durumunda Takasbank'ın uyguladığı ilk yaptırım nedir?",
+      "options": [
+        "Doğrudan garanti fonunun kullanılması",
+        "Temerrüt faizi uygulanması ve ek teminat talebi",
+        "Üyeliğin derhal iptali",
+        "SPK'ya suç duyurusu",
+        "İşlemin tamamen iptal edilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Temerrüt durumunda öncelikle temerrüt faizi uygulanır ve ek teminat talep edilir. Garanti fonu kullanımı son çare olarak devreye girer.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 97,
+        "section": "4.3.3 Temerrüt Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-36",
+      "q": "DVP (Delivery versus Payment) prensibi takas sisteminde neyi ifade eder?",
+      "options": [
+        "Ödemenin teslimatdan önce yapılmasını",
+        "Teslimat ve ödemenin eşzamanlı olarak gerçekleşmesini",
+        "Teslimatın ödeme olmadan yapılmasını",
+        "Yalnızca nakit takasın yapılmasını",
+        "Vadeli ödeme yapılmasını"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "DVP (Ödeme Karşılığı Teslimat) prensibi, sermaye piyasası aracının teslimatı ile nakit ödemenin eşzamanlı olarak gerçekleşmesini sağlayarak anapara riskini ortadan kaldırır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 88,
+        "section": "4.3.1 DVP Prensibi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-37",
+      "q": "MKK'nın 'e-YATIRIMCI' platformu yatırımcılara hangi hizmeti sunar?",
+      "options": [
+        "Online alım-satım imkânı",
+        "Yatırımcıların MKK nezdindeki tüm varlıklarını görüntüleyebilmeleri",
+        "Kredi başvurusu yapabilme",
+        "Yatırım danışmanlığı alma",
+        "Otomatik portföy yönetimi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "e-YATIRIMCI platformu, yatırımcıların MKK nezdinde kayıtlı tüm sermaye piyasası araçlarını, bakiyelerini ve hesap hareketlerini görüntüleyebilecekleri bir bilgilendirme sistemidir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 25,
+        "section": "4.1.3 e-YATIRIMCI Platformu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-38",
+      "q": "Takasbank'ın 'nakit kredi' hizmeti hangi amaca yöneliktir?",
+      "options": [
+        "Bireysel yatırımcılara tüketici kredisi vermek",
+        "Takas üyelerine kısa vadeli likidite sağlayarak takas yükümlülüklerini zamanında yerine getirmelerine yardımcı olmak",
+        "Devlete borç vermek",
+        "İhraççılara sermaye sağlamak",
+        "Yabancı yatırımcılara döviz kredisi vermek"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Takasbank, takas üyelerine gün içi veya kısa vadeli nakit kredi sağlayarak takas yükümlülüklerini zamanında yerine getirmelerine olanak tanır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 105,
+        "section": "4.3.5 Takasbank Kredi ve Bankacılık Hizmetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-39",
+      "q": "Kaydileştirme kapsamında, fiziki pay senetlerinin MKK'ya teslim edilmemesi halinde yatırımcının hakları ne olur?",
+      "options": [
+        "Hakları tamamen sona erer",
+        "Pay sahipliği hakları (kâr payı, oy hakkı vb.) kullanılamaz hale gelir",
+        "Hiçbir değişiklik olmaz",
+        "Yalnızca oy hakkı düşer",
+        "Pay senetleri otomatik olarak satılır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kaydileştirme zorunluluğu kapsamında fiziki pay senetlerini MKK'ya teslim etmeyen yatırımcılar, pay sahipliğinden kaynaklanan haklarını (kâr payı, yeni pay alma, oy kullanma) kullanamazlar.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 14,
+        "section": "4.1.1 Kaydileştirme Zorunluluğu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-40",
+      "q": "Türev araçlar piyasasında teminat yönetimi hangi kuruluş tarafından yapılır?",
+      "options": [
+        "Borsa İstanbul",
+        "SPK",
+        "Takasbank",
+        "MKK",
+        "BDDK"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Türev araçlar piyasasında başlangıç ve sürdürme teminatlarının yönetimi, pozisyon bazlı teminat hesaplaması ve teminat tamamlama çağrıları (margin call) Takasbank tarafından yapılır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 110,
+        "section": "4.3.6 Türev Piyasa Takas ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-41",
+      "q": "Netleştirme (netting) takas sürecinde hangi amaca hizmet eder?",
+      "options": [
+        "İşlem sayısını artırmak",
+        "Aynı gün içindeki alış ve satış yükümlülüklerinin mahsuplaşarak net tutarın takas edilmesi",
+        "Tüm işlemlerin iptal edilmesi",
+        "Yalnızca büyük tutarlı işlemlerin takaslanması",
+        "Komisyon oranlarının düşürülmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Netleştirme, bir takas üyesinin aynı takas günündeki alış ve satış yükümlülüklerinin karşılıklı mahsup edilerek yalnızca net bakiyenin takas edilmesi işlemidir. Bu, nakit ve kıymet transferi hacmini azaltır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 86,
+        "section": "4.3.1 Netleştirme (Netting)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-42",
+      "q": "MKK'nın kurumsal yönetim hizmetleri kapsamında sunduğu 'e-GKS' sistemi ne işe yarar?",
+      "options": [
+        "Elektronik genel kurul toplantılarının yapılmasını sağlar",
+        "Şirketlerin mali tablolarını yayımlar",
+        "Hisse senedi fiyatlarını belirler",
+        "Aracı kurumların denetimini yapar",
+        "Yatırımcılara kredi verir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "e-GKS (Elektronik Genel Kurul Sistemi), halka açık şirketlerin genel kurul toplantılarının elektronik ortamda yapılmasını sağlayan MKK tarafından işletilen bir sistemdir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 28,
+        "section": "4.1.3 MKK Kurumsal Yönetim Hizmetleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-43",
+      "q": "Yatırımcı Tazmin Merkezi (YTM) hangi durumda yatırımcılara tazminat öder?",
+      "options": [
+        "Yatırımcının zarar etmesi durumunda",
+        "Yatırım kuruluşunun yatırımcı varlıklarını iade edememesi (iflas, yetki iptali vb.) durumunda",
+        "Borsa endeksinin düşmesi durumunda",
+        "Döviz kuru değişimlerinde",
+        "Yatırımcının şikâyet etmesi durumunda"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "YTM, bir yatırım kuruluşunun hakkında tasfiye kararı verilmesi, yetki belgesinin iptali veya iflası halinde yatırımcılara ait nakdi ve sermaye piyasası araçlarını iade edememesi durumunda devreye girer.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 120,
+        "section": "4.4.1 Yatırımcı Tazmin Merkezi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-44",
+      "q": "Takasbank'ın 'para piyasası' hizmeti kapsamında aşağıdakilerden hangisi yapılır?",
+      "options": [
+        "Hisse senedi alım-satımı",
+        "Kısa vadeli fon alış-verişi (borç alma ve verme) işlemlerine aracılık",
+        "Uzun vadeli devlet tahvili ihracı",
+        "Gayrimenkul finansmanı",
+        "Döviz alım-satımı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Takasbank para piyasası, takas üyeleri arasında kısa vadeli (genellikle gecelik veya haftalık) fon alış-verişi işlemlerine aracılık eden organize bir piyasadır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 108,
+        "section": "4.3.5 Takasbank Para Piyasası"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-d2-45",
+      "q": "MKK'da tutulan haklar arasında aşağıdakilerden hangisi yer ALMAZ?",
+      "options": [
+        "Pay sahipliği hakları",
+        "Borçlanma aracı sahipliği hakları",
+        "Yatırım fonu katılma payları",
+        "Gayrimenkul mülkiyet hakları",
+        "Varant ve sertifika hakları"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "MKK'da pay senetleri, borçlanma araçları, yatırım fonu katılma payları, varant ve sertifikalar kayden izlenir. Gayrimenkul mülkiyet hakları ise Tapu ve Kadastro Genel Müdürlüğü nezdinde izlenir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 11,
+        "section": "4.1.1 MKK'da Kayden İzlenen Haklar"
+      },
+      "verified": true,
+      "flag": null
+    }
   ]
 }

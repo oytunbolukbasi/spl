@@ -2416,6 +2416,426 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1003-g92",
+      "q": "Borçlanma Araçları Tebliği'ne göre, ihraç belgesinin onaylanması için SPK'ya başvurunun en geç ne kadar sürede sonuçlandırılması gerekir?",
+      "options": [
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü",
+        "20 iş günü",
+        "30 iş günü"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Borçlanma Araçları Tebliği'ne göre ihraç belgesinin onaylanması talebi en geç 5 iş günü içinde sonuçlandırılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 52,
+        "section": "2.3.1 Borçlanma Araçları İhraç Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g93",
+      "q": "Borçlanma araçlarının ihracında yetkili organ kararı alınması zorunludur. Anonim şirketlerde bu yetkili organ hangisidir?",
+      "options": [
+        "Genel kurul veya yetki devredilmişse yönetim kurulu",
+        "Yalnızca genel kurul",
+        "Yalnızca yönetim kurulu",
+        "Denetim kurulu",
+        "SPK"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Anonim şirketlerde borçlanma aracı ihracı için genel kurul kararı gerekir; ancak esas sözleşmede hüküm bulunması halinde yönetim kuruluna yetki devri yapılabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 50,
+        "section": "2.3.1 Borçlanma Araçları - Yetkili Organ Kararı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g94",
+      "q": "Tahvillerin vadesi en az kaç gün olmalıdır?",
+      "options": [
+        "30 gün",
+        "90 gün",
+        "180 gün",
+        "365 gün (bir yıl)",
+        "730 gün (iki yıl)"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Tahvil, vadesi 365 günden (bir yıldan) az olmamak üzere ihraç edilen borçlanma aracıdır. 365 günden kısa vadeli olanlar finansman bonosu olarak adlandırılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 48,
+        "section": "2.3.1 Tahvil Tanımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g95",
+      "q": "Finansman bonosunun vadesi en fazla kaç gündür?",
+      "options": [
+        "90 gün",
+        "180 gün",
+        "270 gün",
+        "365 günden az",
+        "730 gün"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Finansman bonosu, vadesi 365 günden az olan borçlanma aracıdır. 365 gün ve üzeri vadeli ihraçlar tahvil olarak sınıflandırılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 48,
+        "section": "2.3.1 Finansman Bonosu Tanımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g96",
+      "q": "Yatırım fonlarında toplam gider oranı (TGO) hangi değer üzerinden hesaplanır?",
+      "options": [
+        "Fonun kuruluş sermayesi",
+        "Fonun net varlık değeri",
+        "Fonun brüt getirisi",
+        "Yatırımcı sayısı",
+        "Fonun nominal değeri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Toplam gider oranı, fona ilişkin giderlerin fonun ortalama net varlık değerine oranı olarak hesaplanır ve yatırımcılara açıklanır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 130,
+        "section": "2.4.3 Fon Giderleri ve Toplam Gider Oranı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g97",
+      "q": "Yatırım fonlarının tasfiye edilebilmesi için aşağıdaki koşullardan hangisi gereklidir?",
+      "options": [
+        "Yatırımcıların salt çoğunluğunun onayı",
+        "Fonun net varlık değerinin belirli bir tutarın altına düşmesi veya SPK kararı",
+        "Yönetim kurulunun tek taraflı kararı",
+        "Borsadan çıkarılma",
+        "Fon kurucusunun iflası"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonları, net varlık değerinin Kurul'ca belirlenen tutarın altına düşmesi, fon süresinin dolması veya SPK kararı gibi nedenlerle tasfiye edilebilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 135,
+        "section": "2.4.4 Fonun Sona Ermesi ve Tasfiyesi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g98",
+      "q": "Şemsiye fon yapısında, alt fonlar arasında varlık aktarımı hangi koşulda mümkündür?",
+      "options": [
+        "Her zaman serbestçe yapılabilir",
+        "Yönetim kurulu kararıyla",
+        "Hiçbir koşulda yapılamaz",
+        "SPK onayıyla",
+        "Yatırımcı onayıyla"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Şemsiye fon yapısında alt fonlar birbirinden bağımsız portföylere sahiptir ve fonlar arasında varlık aktarımı yapılamaz. Her bir alt fon kendi içinde ayrı bir portföy olarak yönetilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 120,
+        "section": "2.4.2 Şemsiye Fon Yapısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g99",
+      "q": "Borsa yatırım fonu (BYF) ile klasik yatırım fonu arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "BYF'ler yalnızca hisse senedine yatırım yapabilir",
+        "BYF katılma payları borsada işlem görür",
+        "BYF'lerin gider oranı daha yüksektir",
+        "BYF'lerde minimum yatırım tutarı daha yüksektir",
+        "BYF'ler sadece kurumsal yatırımcılara açıktır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Borsa yatırım fonlarının klasik yatırım fonlarından temel farkı, katılma paylarının bir endeksi baz alarak borsada sürekli işlem görmesidir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 125,
+        "section": "2.4.2 Borsa Yatırım Fonları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g100",
+      "q": "Yatırım fonlarında 'nitelikli yatırımcıya satış' koşulu hangi fon türü için geçerlidir?",
+      "options": [
+        "Kısa vadeli tahvil ve bono fonu",
+        "Serbest yatırım fonu (hedge fon)",
+        "Para piyasası fonu",
+        "Hisse senedi fonu",
+        "Değişken fon"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Serbest yatırım fonları (hedge fonlar) yalnızca nitelikli yatırımcılara satılabilir. Bu fonlar portföy sınırlamalarından muaftır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 123,
+        "section": "2.4.2 Serbest Yatırım Fonları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g101",
+      "q": "TTK'ya göre, anonim şirketlerin birleşmesinde devrolunan şirketin ortaklarına verilecek değişim oranına ek olarak ödenebilecek denkleştirme tutarı, devralan şirket paylarının gerçek değerinin yüzde kaçını aşamaz?",
+      "options": [
+        "%5",
+        "%10",
+        "%15",
+        "%20",
+        "%25"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "TTK md. 140'a göre birleşmede, devrolunan şirketin ortaklarına devralan şirketin payları ve gerekirse payların gerçek değerinin onda birini (%10) aşmayan bir denkleştirme ödenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 20,
+        "section": "2.1.3 TTK - Birleşme ve Denkleştirme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g102",
+      "q": "TTK'ya göre bölünme türlerinden 'tam bölünme' ne anlama gelir?",
+      "options": [
+        "Şirketin bir bölümünün ayrılarak yeni şirket kurması",
+        "Şirketin tüm mal varlığının bölümlere ayrılarak mevcut veya yeni şirketlere devredilmesi",
+        "Şirketin borçlarının bölünerek dağıtılması",
+        "Şirketin hisselerinin eşit bölümlere ayrılması",
+        "Şirketin faaliyetlerinin coğrafi olarak bölünmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Tam bölünmede, şirketin tüm mal varlığı bölümlere ayrılarak mevcut veya yeni kurulacak şirketlere devredilir ve bölünen şirket sona erer.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 22,
+        "section": "2.1.3 TTK - Bölünme Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g103",
+      "q": "Katılma paylarının yatırımcılar arasında fon dışında devri (aktarım) mümkün müdür?",
+      "options": [
+        "Hayır, katılma payları devredilemez",
+        "Evet, tüm fon türlerinde serbestçe devredilebilir",
+        "Evet, ancak fon içtüzüğünde hüküm varsa ve kurucuya bildirilmek kaydıyla",
+        "Sadece borsa yatırım fonlarında mümkündür",
+        "Sadece nitelikli yatırımcılar arasında mümkündür"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Katılma paylarının yatırımcılar arasında devri, fon içtüzüğünde hüküm bulunması ve kurucuya bildirilmesi kaydıyla mümkündür.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 132,
+        "section": "2.4.3 Katılma Paylarının Devri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g104",
+      "q": "Varlığa dayalı menkul kıymet (VDMK) ihracında, dayanak varlıklar arasında aşağıdakilerden hangisi yer alabilir?",
+      "options": [
+        "Yalnızca devlet tahvilleri",
+        "Yalnızca gayrimenkul",
+        "Tüketici kredileri, konut kredileri ve alacaklar",
+        "Yalnızca hisse senetleri",
+        "Yalnızca döviz varlıkları"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "VDMK ihracında dayanak varlıklar; tüketici kredileri, konut kredileri (ipotekli), ihracat alacakları, finansal kiralama alacakları gibi alacak ve varlıklardan oluşabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 75,
+        "section": "2.3.4 Varlığa Dayalı Menkul Kıymetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g105",
+      "q": "Yapılandırılmış borçlanma araçlarının temel özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "Sabit faizli olmaları",
+        "Getirisi bir dayanak varlığa veya göstergeye endeksli olması",
+        "Yalnızca devlet tarafından ihraç edilmesi",
+        "Vadelerinin bir yıldan kısa olması",
+        "Sadece döviz cinsinden ihraç edilmesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yapılandırılmış borçlanma araçları, getirisi döviz kurları, emtia fiyatları, faiz oranları veya endeksler gibi dayanak göstergelere bağlı olan borçlanma araçlarıdır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 68,
+        "section": "2.3.3 Yapılandırılmış Borçlanma Araçları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g106",
+      "q": "Kira sertifikası (sukuk) ihracında 'varlık kiralama şirketi' (VKŞ) hangi amaçla kurulur?",
+      "options": [
+        "Kira gelirlerini vergilendirmek için",
+        "İhraç edilen sertifikaların dayandığı varlıkları devralmak ve yönetmek için",
+        "Kiracılara kredi vermek için",
+        "Gayrimenkul değerlemesi yapmak için",
+        "Yatırımcıların haklarını denetlemek için"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Varlık kiralama şirketi (VKŞ), kira sertifikası ihracına dayanak oluşturan varlıkların mülkiyetini devralarak sertifika sahipleri adına yönetmek üzere kurulan özel amaçlı kuruluştur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 70,
+        "section": "2.3.3 Kira Sertifikaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g107",
+      "q": "Halka açık şirketlerde kâr payı dağıtımına ilişkin olarak, SPK düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Kâr dağıtmak zorunludur",
+        "Kâr dağıtımı tamamen şirketin inisiyatifindedir, herhangi bir kural yoktur",
+        "Kâr dağıtım politikası kamuya açıklanmalıdır",
+        "Kâr dağıtımı yalnızca nakit olarak yapılabilir",
+        "Kâr dağıtımı yılda en az iki kez yapılmalıdır"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPK düzenlemelerine göre halka açık şirketlerin kâr dağıtım politikalarını belirleyerek kamuya açıklamaları gerekmektedir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 35,
+        "section": "2.2 Pay İşlemleri - Kâr Dağıtımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g108",
+      "q": "Garantili fonlarda, yatırımcıya sağlanan garanti aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Her koşulda pozitif getiri garantisi",
+        "Anapara koruması ve/veya belirli bir getiri garantisi, üçüncü taraf garantisiyle",
+        "Devlet güvencesi altında sınırsız getiri",
+        "Yalnızca enflasyonun üzerinde getiri garantisi",
+        "Yatırım tutarının iki katı garanti"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Garantili fonlarda, yatırımcının anaparasının tamamı veya belirli bir kısmı ile belirli bir getiri, banka veya sigorta şirketi gibi üçüncü taraflarca garanti altına alınır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 124,
+        "section": "2.4.2 Garantili ve Koruma Amaçlı Fonlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g109",
+      "q": "Yatırım fonu portföyünde bulunan varlıkların saklaması aşağıdakilerden hangisi tarafından yapılır?",
+      "options": [
+        "Fon kurucusu",
+        "Portföy yönetim şirketi",
+        "Takasbank veya MKK",
+        "SPK",
+        "Borsa İstanbul"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Yatırım fonu portföyündeki varlıkların saklaması Takasbank veya MKK (Merkezi Kayıt Kuruluşu) nezdinde yapılır; kurucu veya yönetici nezdinde saklama yapılamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 128,
+        "section": "2.4.3 Fon Varlıklarının Saklanması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g110",
+      "q": "Şemsiye fon kurucusunun değiştirilmesi durumunda aşağıdakilerden hangisi gereklidir?",
+      "options": [
+        "Yatırımcıların oybirliği",
+        "SPK onayı",
+        "Borsa İstanbul onayı",
+        "Hiçbir onay gerekmez, kurucu kendi kararıyla değişebilir",
+        "BDDK onayı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Şemsiye fon kurucusunun değiştirilmesi SPK onayına tabidir. Kurucu değişikliği, fonun içtüzük değişikliği gerektiren önemli bir işlemdir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 118,
+        "section": "2.4.1 Fon Kurucusu ve Değişikliği"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-g111",
+      "q": "Pay alım teklifi zorunluluğu (mandatory tender offer) hangi durumda ortaya çıkar?",
+      "options": [
+        "Şirket borsadan çıkarıldığında",
+        "Bir kişinin oy haklarının belirli bir oranını aşması halinde",
+        "Şirket sermaye artırımı yaptığında",
+        "Yönetim kurulu değiştiğinde",
+        "Şirketin kâr dağıtmaması halinde"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Zorunlu pay alım teklifi, bir gerçek veya tüzel kişinin, doğrudan ya da dolaylı olarak bir şirketin oy haklarının belirli bir oranını (%50 gibi) aşması durumunda diğer pay sahiplerine teklif yapma zorunluluğudur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 38,
+        "section": "2.2.3 Önemli Nitelikteki İşlemler ve Pay Alım Teklifi"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }
