@@ -1,0 +1,44 @@
+{
+  "units": [
+    {
+      "code": "1001",
+      "title": "Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları",
+      "shortTitle": "Dar Kapsamlı Mevzuat",
+      "notesPdf": "1001-notes.pdf",
+      "bankPdf": "1001-bank.pdf",
+      "hasBank": true,
+      "color": "#58a700",
+      "icon": "⚖️"
+    },
+    {
+      "code": "1003",
+      "title": "Sermaye Piyasası Araçları 1",
+      "shortTitle": "Sermaye Piyasası Araçları",
+      "notesPdf": "1003-notes.pdf",
+      "bankPdf": "1003-bank.pdf",
+      "hasBank": true,
+      "color": "#1cb0f6",
+      "icon": "📈"
+    },
+    {
+      "code": "1005",
+      "title": "Yatırım Kuruluşları",
+      "shortTitle": "Yatırım Kuruluşları",
+      "notesPdf": "1005-notes.pdf",
+      "bankPdf": null,
+      "hasBank": false,
+      "color": "#ce82ff",
+      "icon": "🏦"
+    },
+    {
+      "code": "1012",
+      "title": "Takas, Saklama ve Operasyon İşlemleri",
+      "shortTitle": "Takas ve Operasyon",
+      "notesPdf": "1012-notes.pdf",
+      "bankPdf": "1012-bank.pdf",
+      "hasBank": true,
+      "color": "#ff9600",
+      "icon": "🔄"
+    }
+  ]
+}

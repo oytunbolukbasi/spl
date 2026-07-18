@@ -1,0 +1,9 @@
+node_modules/
+client/node_modules/
+client/dist/
+.DS_Store
+*.log
+scratchpad/
+
+# Orijinal PDF kaynak klasörü (pdfs/ altında ascii kopyaları var)
+Ders Notları ve Soru Bankaları/

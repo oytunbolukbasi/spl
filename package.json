@@ -1,0 +1,19 @@
+{
+  "name": "spl-duzey1",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SPL Düzey 1 - Duolingo tarzı sınav hazırlık uygulaması",
+  "scripts": {
+    "postinstall": "npm --prefix client install",
+    "build": "npm --prefix client run build",
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:client": "npm --prefix client run dev"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

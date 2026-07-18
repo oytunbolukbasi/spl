@@ -1,0 +1,124 @@
+{
+  "unit": "1001",
+  "_note": "verified:true olan sorular kullanıcıya gösterilir. verified:false olanlar ders notuyla teyit edilene kadar havuza girmez. source.page = ders notu PDF sayfa numarası (basılı sayfa + 3 ofset).",
+  "questions": [
+    {
+      "id": "1001-28",
+      "q": "“Sermaye piyasası çalışanı, sermaye piyasasının sürekli değişim ve gelişim içinde olduğunun farkındadır, bilgi ve becerilerini güncel tutmak ve geliştirmek için çaba sarf eder.” Bu hangi sermaye piyasası çalışanı ilkesi gereğidir?",
+      "options": ["Çıkar Çatışması", "Müşteri Menfaati", "Mevzuatı Bilme", "Sürekli Gelişim", "Dürüstlük"],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Ders notunda TSPB Etik İlkeleri arasında “Sürekli Gelişim” ilkesi birebir bu ifadeyle tanımlanır: çalışanın bilgi ve becerilerini güncel tutup geliştirmesi. Doğru cevap: Sürekli Gelişim.",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.4 Sürekli Gelişim İlkesi" },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-etik-sir",
+      "q": "Sermaye piyasası çalışanının, çalıştığı kurum ve müşterileri hakkında öğrendiği sırları açıklamaması ve bunları kendisinin veya üçüncü kişilerin menfaatine kullanmaması hangi etik ilke gereğidir?",
+      "options": ["Temel İlke", "Özen ve Titizlik", "Sır Saklama", "Bağımsızlık", "Etik Düşünme"],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Ders notundaki TSPB Etik İlkeleri listesinde “Sır Saklama” ilkesi tam olarak bu şekilde tanımlanır. (Notlardan türetilmiş, teyitli.)",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.5 Sır Saklama İlkesi" },
+      "verified": true,
+      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+    },
+    {
+      "id": "1001-etik-ozen",
+      "q": "“Sermaye piyasası çalışanı, çalışmalarında ve kararlarında dikkatli ve basiretli bir kişinin aynı koşullar altında ayrıntılara vereceği önemi verir.” Bu tanım hangi etik ilkeye aittir?",
+      "options": ["Sürekli Gelişim", "Özen ve Titizlik", "Temel İlke", "Sır Saklama", "Adillik"],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Ders notundaki “Özen ve Titizlik” ilkesi bu ifadeyle tanımlanır. (Notlardan türetilmiş, teyitli.)",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.3 Özen ve Titizlik İlkesi" },
+      "verified": true,
+      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+    },
+    {
+      "id": "1001-etik-adillik",
+      "q": "Sermaye piyasası çalışanının müşteri ayrımı yapmaksızın her müşteriye eşit şekilde davranması, sermaye piyasasının onurunu ve müşterilerinin çıkarlarını kişisel çıkarlarının üstünde tutması hangi ilke kapsamındadır?",
+      "options": ["Bağımsızlık, Dürüstlük ve Adillik", "Sürekli Gelişim", "Sır Saklama", "Etik Düşünme", "Özen ve Titizlik"],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": "Ders notundaki “Bağımsızlık, Dürüstlük ve Adillik” ilkesi; müşteri çıkarlarını kişisel çıkarın üstünde tutmayı ve müşteri ayrımı yapmadan eşit davranmayı kapsar. (Notlardan türetilmiş, teyitli.)",
+      "source": { "pdf": "1001-notes.pdf", "page": 185, "section": "1.3.2.3.2 Bağımsızlık, Dürüstlük ve Adillik İlkesi" },
+      "verified": true,
+      "flag": "Bu soru ders notundaki ilke tanımından türetildi ve notla doğrulandı."
+    },
+
+    {
+      "id": "1001-29",
+      "q": "Borsada işlem gören HAO ile bunların bağlı ortaklıkların teminat, rehin, ipotek ve kefalet vermeleri ile ilgili hangisi yanlıştır?",
+      "options": [
+        "Payları borsada işlem gören halka açık ortaklıklar kendi tüzel kişilikleri lehine rehin ve ipotek verebilir.",
+        "Payları borsada işlem gören halka açık ortaklıklar finansal tablolarında tam konsolidasyon kapsamına dahil ettikleri ortaklıklar lehine kefalet verebilirler.",
+        "Üçüncü kişiler lehine verilen teminat, rehin, ipotek ve kefaletler ile elde edilen gelir veya menfaatlere olağan genel kurul toplantısı gündeminde ayrı bir madde olarak yer verilir.",
+        "Halka kapalı bağlı ortaklıkların halka açık ana ortaklığı lehine Teminat, Rehin, İpotek ve teminat veremez.",
+        "Paylarını ilk defa halka arz edilmek için Kurul’a başvuran ortaklıkların Kurumsal yönetim düzenlemelerine aykırı mevcut ipotek ve kefaletlerinin mevcut olması halinde Kurul belli bir süre içinde sıfırlanmasını ister."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "",
+      "source": { "pdf": "1001-notes.pdf", "page": 99, "section": "1.2.2 Kurumsal Yönetim Tebliği (II-17.1)" },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-30",
+      "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasası Birliği’ne üye olmaz?",
+      "options": ["Aracı kurumlar", "Bankalar", "Gayrimenkul yatırım ortaklıkları", "Portföy yönetim şirketleri", "Varlık kiralama şirketleri"],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "",
+      "source": { "pdf": "1001-notes.pdf", "page": 176, "section": "1.3.1 TSPB Üyelerinin Meslek Kuralları" },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-31",
+      "q": "Aşağıdakilerden hangisi doğrudan işletme finansmanına dayalı menkul kıymetlerden biri değildir?",
+      "options": ["Borçlanma araçları ile ilgili depo sertifikası", "Paylar", "Varlığa veya ipoteğe dayalı menkul kıymetler", "Katılma İntifa Senetleri", "Kar zarar ortaklığı belgesi"],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Sermaye Piyasası Araçları" },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-32",
+      "q": "Sermaye piyasası kurumlarının mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, aşağıdakilerden hangisi Kurul tarafından alınabilecek tedbirlerden biri değildir?",
+      "options": [
+        "Kurumların faaliyetlerini geçici olarak durdurmak",
+        "Yatırımcıları tazmin kararı vermek",
+        "Piyasa verilerinin dağıtım kapsamını sınırlandırmak",
+        "Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemek",
+        "Sorumluluğu tespit edilen yöneticilerin ve çalışanların sahip oldukları lisansları geçici veya sürekli olarak iptal etmek"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tedbirler" },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor."
+    },
+    {
+      "id": "1001-33",
+      "q": "“Piyasa İşleticisi” nin tanımı aşağıdaki ifadelerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Sermaye piyasalarının alım satımının yapıldığı piyasadır.",
+        "Borsayı veya borsanın piyasalarını yöneten ve işleten anonim ortaklıklardır.",
+        "Sermaye piyasalarının işleyişini sağlamak amacıyla kurulmuş olan anonim ortaklıktır.",
+        "Sermaye piyasası araçlarının kaydileştirme görevini yerine getiren anonim ortaklıktır.",
+        "Borsanın denetimini üstlenmiş olan kuruluştur."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "",
+      "source": { "pdf": "1001-notes.pdf", "page": 10, "section": "1.1.4 6362 sayılı SPKn - Tanımlar" },
+      "verified": false,
+      "flag": "Ders notu ile teyit bekliyor. (Orijinal bankada şık etiketleri hatalıydı: A,B,A,B,C → A-E olarak düzeltildi.)"
+    }
+  ]
+}
