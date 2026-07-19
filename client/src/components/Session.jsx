@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Check, X as XIcon, TriangleAlert, BookOpen } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
+import ConfettiOverlay from './ConfettiOverlay.jsx';
 import SourceModal from './SourceModal.jsx';
 import { recordAnswer } from '../lib/storage.js';
 
@@ -47,7 +48,10 @@ export default function Session({ questions, title, units, progress, onAnswer, o
     return (
       <div className="session">
         <div className="result">
-          <Squirrel size={130} mood={acc >= 60 ? 'happy' : 'sad'} />
+          <div className="result-mascot">
+            <ConfettiOverlay />
+            <Squirrel size={130} mood={acc >= 60 ? 'happy' : 'sad'} />
+          </div>
           <h1>{acc >= 60 ? 'Harika iş!' : 'Devam et!'}</h1>
           <p style={{ color: '#777' }}>{title} oturumu tamamlandı</p>
           <div className="result-stats">
