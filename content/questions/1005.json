@@ -3100,6 +3100,156 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1005-n1",
+      "q": "Aracı kurumların kuruluşuna izin verilmesi, faaliyet izni anlamına gelmemekte olup, kuruluş iznini takiben kaç ay içinde faaliyete geçmek üzere Kurula başvuru yapılması gerekmektedir?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "9 ay",
+        "12 ay"
+      ],
+      "answer": 1,
+      "explanation": "Kuruluş iznini takiben 6 ay içinde faaliyete geçmek üzere başvuru yapmayan aracı kurumun faaliyet izni alma hakkı düşer.",
+      "source": "1005 s.56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n2",
+      "q": "Faaliyet iznine ilişkin Kurula yapılan başvurularda tüm eksik bilgi ve belgelerin tamamlanmasını takiben azami kaç ay içerisinde sonuçlandırılmak zorundadır?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "9 ay",
+        "12 ay"
+      ],
+      "answer": 1,
+      "explanation": "Faaliyet iznine ilişkin Kurula yapılan başvurular tüm eksik bilgi ve belgelerin tamamlanmasını takiben azami 6 ay içerisinde sonuçlandırılmak zorundadır.",
+      "source": "1005 s.56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n3",
+      "q": "Aşağıdakilerden hangisi aracı kurumların faaliyete geçmesi için Kuruldan izin alabilmesinde aranan genel şartlardan biri değildir?",
+      "options": [
+        "Asgari kuruluş sermayesinin nakden ve tamamen ödenmiş olması",
+        "Aracı kurum nezdinde bulunan varlıklara ilişkin sigorta dahil güvenlik önlemlerinin alınmış olması",
+        "Halka açık ortaklık statüsünde olunması",
+        "Faaliyetlerin sağlıklı şekilde yürütülmesini teminen gerekli bilgi işlem altyapısının oluşturulmuş olması"
+      ],
+      "answer": 2,
+      "explanation": "Faaliyete geçme şartları arasında kuruluş şartlarının kaybedilmemiş olması, sermaye, sermaye yeterliliği, organizasyon, personel, yöneticiler, bilgi işlem, güvenlik ve teminat yer alır. Halka açık ortaklık statüsü şartlar arasında değildir.",
+      "source": "1005 s.56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n4",
+      "q": "Dışarıdan hizmet alımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Dışarıdan hizmet alımı, aracı kurumun sermaye piyasası mevzuatından kaynaklanan sorumluluklarını ortadan kaldırır",
+        "Hizmet sağlayıcı kuruluş tarafından sağlanan hizmetlerle ilgili hukuki sorumluluk hizmet sağlayıcıya aittir",
+        "Dışarıdan hizmet alımı, aracı kurumun mevzuattan kaynaklanan sorumluluklarını ortadan kaldırmaz ve hukuki sorumluluk aracı kuruma aittir",
+        "Dışarıdan hizmet alımı halinde belge saklama yükümlülüğü hizmet sağlayıcıya geçer"
+      ],
+      "answer": 2,
+      "explanation": "Dışarıdan hizmet alımı, aracı kurumun sermaye piyasası mevzuatından kaynaklanan sorumluluklarını ortadan kaldırmaz. Hizmet sağlayıcı kuruluş tarafından sağlanan hizmetlerle ilgili olarak müşteriyle kurulan ilişkilerden doğan hukuki sorumluluk aracı kuruma aittir.",
+      "source": "1005 s.86",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n5",
+      "q": "Bilgi Sistemleri Yönetimine İlişkin Usul ve Esaslar Tebliği hükümlerine göre, aracı kurumlarda sızma testi yılda en az kaç kez yaptırılması zorunludur?",
+      "options": [
+        "Yılda en az bir kez",
+        "Yılda en az iki kez",
+        "Altı ayda bir kez",
+        "Üç ayda bir kez"
+      ],
+      "answer": 0,
+      "explanation": "Tebliğe göre yılda en az bir kez Sızma Testi yaptırılması zorunludur. Siber bir olay gerçekleşmesi durumunda derhal Kurul, müşteriler ve ilgili diğer kurumlar bilgilendirilir.",
+      "source": "1005 s.86",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n6",
+      "q": "Kredili alım ve açığa satış işlemlerinde özkaynak oranının hesaplanmasında, borsa yatırım fonu katılma paylarının yüzde kaçı özkaynak olarak kabul edilir?",
+      "options": [
+        "%75",
+        "%90",
+        "%100",
+        "%50"
+      ],
+      "answer": 1,
+      "explanation": "Borsa yatırım fonu katılma paylarının %90'ı özkaynak olarak kabul edilebilir. Nakit, DİBS ve hazine bonosu gibi kıymetler %100 oranında kabul edilirken, hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma payları %75 oranında kabul edilir.",
+      "source": "1005 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n7",
+      "q": "Kredili alım ve açığa satış işlemlerinde, hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının yüzde kaçı özkaynak olarak kabul edilir?",
+      "options": [
+        "%50",
+        "%75",
+        "%90",
+        "%100"
+      ],
+      "answer": 1,
+      "explanation": "Hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının %75'i özkaynak olarak kabul edilir.",
+      "source": "1005 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n8",
+      "q": "Çerçeve sözleşmelerde aşağıdaki hükümlerden hangisine yer verilemez?",
+      "options": [
+        "Müşterinin haklarını açıklayan hükümler",
+        "Risk bildirim formunun bir eki olarak dahil edilmesi",
+        "Aracı kurumlar lehine tek taraflı olağanüstü haklar sağlayan ve emirlerin ispatının müşteriye yüklenmesine ilişkin hükümler",
+        "Sözleşmede hüküm bulunmayan hallerde genel hükümlerin uygulanacağına dair hükümler"
+      ],
+      "answer": 2,
+      "explanation": "Çerçeve sözleşmelerde sermaye piyasası mevzuatına aykırı hükümler ile müşterilerin haklarını ciddi şekilde zedeleyici ve aracı kurumlar lehine tek taraflı olağanüstü haklar sağlayan hükümlere ve emirlerin ispatının müşteriye yüklenmesine ilişkin hükümlere yer verilemez.",
+      "source": "1005 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n9",
+      "q": "Borçlanmaya dayalı kitle fonlamasına aracılık eden platformların temerrüt ve faiz oranları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Temerrüt oranları yalnızca yıllık raporlarda açıklanır",
+        "Temerrüt oranları ve borçlanmalarda uygulanan faiz ve benzeri getiri oranları internet sitesinde sürekli olarak duyurulmak zorundadır",
+        "Temerrüt oranları yalnızca talep eden yatırımcılara bildirilir",
+        "Faiz oranları KAP'ta açıklanır, internet sitesinde yayınlanması zorunlu değildir"
+      ],
+      "answer": 1,
+      "explanation": "Borçlanmaya dayalı kitle fonlamasına aracılık eden platformlar, temerrüt oranlarını ve borçlanmalarda uygulanan faiz ve benzeri getiri oranlarını sürekli olarak internet sitesinde duyurmakla yükümlüdür. Duyuru 'Temerrüt ve Faiz/Getiri Oranları' şeklinde isimlendirilmesi zorunludur.",
+      "source": "1005 s.146",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-n10",
+      "q": "Elektronik ortamda emir kabul edecek yatırım kuruluşlarının bilgi işlem altyapısında aşağıdakilerden hangisinin sağlanması zorunlu değildir?",
+      "options": [
+        "Tüm emirlerin alınış zamanına göre sıralanmasına imkân verecek nitelikte olması",
+        "Müşterilerin teminatlarını, alacak ve borçlarını anlık olarak takip etmesine elverişli olması",
+        "Yurt dışı borsalara doğrudan emir iletimi yapabilmesi",
+        "İşlemlerin farklı bir yerde depolandığı kurulu alandan farklı sunucuların yer aldığı bir yedekleme sistemi kurması"
+      ],
+      "answer": 2,
+      "explanation": "Elektronik ortamda emir kabul edecek yatırım kuruluşlarının altyapısı; emirlerin zamansal sıralanması, tüm işlem ve hesap hareketlerinin kaydedilmesi, müşteri teminat/alacak/borç takibi, yedekleme sistemi gibi yükümlülükleri karşılamalıdır. Yurt dışı borsalara doğrudan emir iletimi bu yükümlülükler arasında sayılmamıştır.",
+      "source": "1005 s.26",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
