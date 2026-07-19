@@ -37,18 +37,19 @@ export function ensureToday(state) {
   return state;
 }
 
-// Bir soru cevaplandığında çağrılır (durumu mutasyona uğratır ve döndürür; kaydı çağıran yapar)
+const DAILY_GOAL = 25;
+
 export function recordAnswer(state, question, chosenIndex, isCorrect) {
   ensureToday(state);
   const t = todayStr();
 
-  if (state.lastActiveDay !== t) {
+  state.daily.answered += 1;
+
+  if (state.lastActiveDay !== t && state.daily.answered >= DAILY_GOAL) {
     const y = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
     state.streak = state.lastActiveDay === y ? state.streak + 1 : 1;
     state.lastActiveDay = t;
   }
-
-  state.daily.answered += 1;
   if (isCorrect) {
     state.daily.correct += 1;
     state.xp += 10;

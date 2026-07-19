@@ -1,15 +1,7 @@
-import { useState } from 'react';
-import { CircleCheck, ChevronRight, FileText, ExternalLink } from 'lucide-react';
+import { CircleCheck, ChevronRight } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 import { unitIcon } from '../lib/icons.js';
 import { DAILY_GOAL } from '../lib/session.js';
-
-const NOTES = [
-  { code: '1001', title: 'Dar Kapsamlı Mevzuat', pdf: '/pdfs/1001-notes.pdf', color: '#58a700' },
-  { code: '1003', title: 'Sermaye Piyasası Araçları', pdf: '/pdfs/1003-notes.pdf', color: '#1cb0f6' },
-  { code: '1005', title: 'Yatırım Kuruluşları', pdf: '/pdfs/1005-notes.pdf', color: '#ce82ff' },
-  { code: '1012', title: 'Takas ve Operasyon', pdf: '/pdfs/1012-notes.pdf', color: '#ff9600' },
-];
 
 export default function Home({
   units,
@@ -20,7 +12,6 @@ export default function Home({
   onStartDaily,
   onStartUnit,
 }) {
-  const [showNotes, setShowNotes] = useState(false);
   const answered = progress.daily.answered || 0;
   const pct = Math.min(100, Math.round((answered / DAILY_GOAL) * 100));
   const goalDone = answered >= DAILY_GOAL;
@@ -93,29 +84,6 @@ export default function Home({
         })}
       </div>
 
-      <button className="mobile-notes-link" onClick={() => setShowNotes(true)}>
-        <FileText size={18} /> Ders Notları
-      </button>
-
-      {showNotes && (
-        <div className="modal-backdrop" onClick={(e) => e.target === e.currentTarget && setShowNotes(false)}>
-          <div className="modal">
-            <h3><FileText size={20} /> Ders Notları</h3>
-            <div className="notes-list">
-              {NOTES.map((n) => (
-                <a key={n.code} className="note-item" href={n.pdf} target="_blank" rel="noopener noreferrer">
-                  <span className="note-badge" style={{ background: n.color }}>{n.code}</span>
-                  <span className="note-title">{n.title}</span>
-                  <ExternalLink size={16} className="note-ext" />
-                </a>
-              ))}
-            </div>
-            <div className="modal-actions">
-              <button className="btn ghost" onClick={() => setShowNotes(false)}>Kapat</button>
-            </div>
-          </div>
-        </div>
-      )}
     </>
   );
 }

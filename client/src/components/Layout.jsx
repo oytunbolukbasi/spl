@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink, CircleCheck, CircleX } from 'lucide-react';
+import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink, CircleCheck, CircleX, Menu } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 
 const STATIC_TIPS = [
@@ -24,13 +24,21 @@ function UserAvatar({ username, size = 34, onClick, as: Tag = 'button' }) {
   );
 }
 
-function ProfileModal({ username, onReset, onLogout, onClose }) {
+function ProfileModal({ username, progress, onReset, onLogout, onClose }) {
+  const correct = Object.values(progress.seen).filter(v => v === 'correct').length;
+  const wrong = Object.values(progress.seen).filter(v => v === 'wrong').length;
   return (
     <div className="modal-backdrop" onClick={(e) => e.target === e.currentTarget && onClose()}>
       <div className="modal profile-modal">
         <div className="profile-header">
           <UserAvatar username={username} size={56} as="span" />
           <div className="profile-name">@{username}</div>
+        </div>
+        <div className="profile-stats">
+          <span className="stat streak"><Flame size={16} /> {progress.streak}</span>
+          <span className="stat xp"><Star size={16} /> {progress.xp}</span>
+          <span className="stat correct"><CircleCheck size={16} /> {correct}</span>
+          <span className="stat wrong"><CircleX size={16} /> {wrong}</span>
         </div>
         <div className="modal-actions">
           <button className="btn ghost" onClick={() => { onReset(); onClose(); }}>
@@ -77,20 +85,58 @@ function NotesModal({ onClose }) {
 export default function Layout({ active, onNav, progress, mistakeCount, username, onReset, onLogout, questionPool, children }) {
   const [showProfile, setShowProfile] = useState(false);
   const [showNotes, setShowNotes] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   const tip = useMemo(() => pickRandomTip(questionPool || []), []);
-
   return (
     <div className="shell">
       {/* Mobil üst bar */}
       <header className="mobile-topbar">
-        <div className="brand">fındık</div>
+        <div className="brand-row">
+          <button className="hamburger-btn" onClick={() => setMenuOpen(true)} aria-label="Menü">
+            <Menu size={22} />
+          </button>
+          <div className="brand">fındık</div>
+        </div>
         <div className="stats">
           <span className="stat streak"><Flame size={16} /> {progress.streak}</span>
           <span className="stat xp"><Star size={16} /> {progress.xp}</span>
           <UserAvatar username={username} size={30} onClick={() => setShowProfile(true)} />
         </div>
       </header>
+
+      {/* Hamburger menü (mobil) */}
+      {menuOpen && (
+        <div className="mobile-menu-backdrop" onClick={() => setMenuOpen(false)}>
+          <nav className="mobile-menu" onClick={(e) => e.stopPropagation()}>
+            <div className="mobile-menu-header">
+              <div className="brand">fındık</div>
+              <button className="close-menu" onClick={() => setMenuOpen(false)} aria-label="Kapat">
+                <X size={22} />
+              </button>
+            </div>
+            <button
+              className={'nav-item' + (active === 'home' ? ' active' : '')}
+              onClick={() => { onNav('home'); setMenuOpen(false); }}
+            >
+              <Home size={20} className="ni-ico" /> Ana Sayfa
+            </button>
+            <button
+              className={'nav-item' + (active === 'mistakes' ? ' active' : '')}
+              onClick={() => { onNav('mistakes'); setMenuOpen(false); }}
+            >
+              <Bandage size={20} className="ni-ico" /> Hatalarım
+              {mistakeCount > 0 && <span className="nav-badge">{mistakeCount}</span>}
+            </button>
+            <button
+              className="nav-item"
+              onClick={() => { setShowNotes(true); setMenuOpen(false); }}
+            >
+              <FileText size={20} className="ni-ico" /> Ders Notları
+            </button>
+          </nav>
+        </div>
+      )}
 
       {/* Sol menü (tablet+) */}
       <aside className="sidebar">
@@ -169,6 +215,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
       {showProfile && (
         <ProfileModal
           username={username}
+          progress={progress}
           onReset={onReset}
           onLogout={onLogout}
           onClose={() => setShowProfile(false)}
