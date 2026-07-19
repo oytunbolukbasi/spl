@@ -2743,6 +2743,216 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-z1",
+      "q": "MKK üyeliği için başvuran kuruluşların, gerekli göründüğü hallerde kayıtların yanlış tutulmasından doğacak zararların tazmini için ne yapmaları gerekmektedir?",
+      "options": [
+        "Garanti fonu oluşturmaları",
+        "Sorumluluk sigortası yaptırmaları",
+        "Teminat mektubu sunmaları",
+        "Karşılık ayırmaları",
+        "TCMB'ye güvence vermeleri"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "MKK üyelik şartları arasında, gerekli görüldüğü hallerde kayıtların yanlış tutulmasından doğacak zararların tazmini için sorumluluk sigortası yaptırmaları yer almaktadır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 15,
+        "section": "2.1.2.3 MKK ve EKK Üyelik Şartları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z2",
+      "q": "Garanti fonunun yetersizliği durumunda talep edilebilecek ilave katkı payı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İlave katkı payının herhangi bir üst sınırı yoktur",
+        "İlave katkı payı, normal katkı payının iki katını aşamaz",
+        "İlave katkı payı, normal katkı payını aşamaz",
+        "İlave katkı payı, garanti fonu toplam büyüklüğünün %10'unu aşamaz",
+        "İlave katkı payı sadece temerrüde düşen üyeden talep edilir"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Garanti fonunun yetersizliği durumunda ilave katkı payı talep edilebilir. Talep edilebilecek ilave katkı payı, normal katkı payını aşamaz.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 45,
+        "section": "2.3.8.2 Garanti fonu katkı payları ve tamamlama çağrısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z3",
+      "q": "Borsa İstanbul Pay Piyasası'nda gerçekleştirdikleri işlemlerin sonucunda doğan menkul kıymet ve nakit yükümlülüklerini takas tarihinde saat kaça kadar yerine getirmeyen üyeler temerrüde düşmüş sayılırlar?",
+      "options": [
+        "15:00",
+        "16:00",
+        "16:45",
+        "17:15",
+        "17:30"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Borsa İstanbul Pay Piyasası'nda gerçekleştirdikleri işlemlerin sonucunda doğan menkul kıymet ve nakit yükümlülüklerini takas tarihinde 16:45'e kadar yerine getirmeyen üyeler herhangi bir bildirim yapılmaksızın temerrüde düşmüş sayılırlar.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 75,
+        "section": "3.1.5 Pay Piyasası Temerrüt İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z4",
+      "q": "Pay Piyasası temerrüt faizi hesaplama formülünde, yükümlülüğün takas gününde takas son saatinden sonra 17:30'a kadar (17:30 dahil) yerine getirilmesi halinde katsayı kaçtır?",
+      "options": [
+        "0,50",
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Pay Piyasası temerrüt hesaplamasında katsayı uygulaması: yükümlülüğün takas gününde takas son saatinden sonra 17:30'a kadar (17:30 dahil) yerine getirilmesi halinde katsayı 1 (bir), 17:31 ve daha sonra ya da izleyen günlerde yerine getirilmesi halinde ise katsayı 3 (üç) olarak uygulanır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 75,
+        "section": "3.1.5 Pay Piyasası Temerrüt İşlemleri - Katsayı Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z5",
+      "q": "Kesin Alım Satım Pazarı'nda devlet iç borçlanma senetlerinde en fazla kaç güne kadar ileri valörlü işlem yapılması mümkündür?",
+      "options": [
+        "7 gün",
+        "15 gün",
+        "30 gün",
+        "60 gün",
+        "90 gün"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": "Kesin Alım Satım Pazarı'nda devlet iç borçlanma senetlerinde 90 güne, diğer sermaye piyasası araçlarında ise 30 güne kadar ileri valörlü işlem yapılması mümkündür.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 90,
+        "section": "4.4.1 Kesin Alım Satım Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z6",
+      "q": "Repo - Ters Repo Pazarı'nda repo bitiş valörü en fazla ne kadardır?",
+      "options": [
+        "30 gün",
+        "90 gün",
+        "6 ay",
+        "1 yıl",
+        "2 yıl"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Repo - Ters Repo Pazarında 7 güne kadar ileri valörlü (Valör 1) işlemler yapılabilmesi mümkündür. Repo bitiş valörü en fazla 1 yıl olabilir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 90,
+        "section": "4.4.3 Repo-Ters Repo Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z7",
+      "q": "Zincirleme repo işleminde, ikinci repo işleminin vadesi birinci işlemin vadesinden en az kaç gün önce olmalıdır?",
+      "options": [
+        "Aynı gün olabilir",
+        "En az 1 gün önce",
+        "En az 3 gün önce",
+        "En az 5 gün önce",
+        "En az 7 gün önce"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Zincirleme repoda, Borçlanma Araçları Piyasası Repo - Ters Repo Pazarı'ndan ters repo işlemi ile alınarak vade sonuna kadar hesapta bloke olarak tutulan kıymetler, ters repo yapan üye tarafından başka bir repo işlemi karşılığında kullanılabilir. Ancak ikinci repo işleminin vadesi birinci işlemin vadesinden en az bir gün önce olmalıdır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 90,
+        "section": "4.4.3 Repo-Ters Repo Pazarı - Zincirleme Repo"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z8",
+      "q": "Repo işlemi karşılığında teslim edilecek menkul kıymetler ile ilgili aşağıdaki kurallardan hangisi doğrudur?",
+      "options": [
+        "Menkul kıymet yükümlülüğü yalnızca tek bir kıymet ile yerine getirilmelidir",
+        "Menkul kıymet yükümlülüğü en çok 3 farklı menkul kıymet ile yerine getirilebilir",
+        "Menkul kıymet yükümlülüğü, işlem tutarı ile orantılı olarak en çok 5 farklı menkul kıymet ile yerine getirilebilir",
+        "Menkul kıymet yükümlülüğü en çok 10 farklı menkul kıymet ile yerine getirilebilir",
+        "Menkul kıymet sayısında herhangi bir sınırlama yoktur"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Repo işlemi karşılığında teslim edilecek menkul kıymetlerin itfa ve kupon ödeme tarihlerinin işlemin bitiş valöründen sonra gelmesi gerekmektedir. Menkul kıymet yükümlülüğü, işlem tutarı ile orantılı olarak en çok beş farklı menkul kıymet ile yerine getirilebilir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 90,
+        "section": "4.4.3 Repo-Ters Repo Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z9",
+      "q": "Portföy Saklama Hizmeti Tebliği kapsamında aşağıdaki kuruluşlardan hangisinin portföylerinde yer alan varlıkların saklanması zorunluluğu bulunmamaktadır?",
+      "options": [
+        "Yatırım fonları",
+        "Menkul kıymet yatırım ortaklıkları",
+        "Gayrimenkul yatırım ortaklıkları",
+        "Değişken fonlar",
+        "Hisse senedi fonları"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Gayrimenkul yatırım ortaklıkları, altyapı gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım ortaklıkları ile emeklilik yatırım fonlarının portföylerinde yer alan varlıkların Tebliğ hükümleri çerçevesinde saklama zorunluluğu bulunmamaktadır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 60,
+        "section": "2.4.1 Portföy Saklama Hizmeti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-z10",
+      "q": "Borçlanma Araçları Piyasası takas işlemlerinde TL borç kapatma son saati ve USD/EUR borç kapatma son saati sırasıyla kaçtır?",
+      "options": [
+        "16:45 ve 19:00",
+        "17:00 ve 20:00",
+        "17:15 ve 21:00",
+        "17:30 ve 21:00",
+        "18:00 ve 22:00"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Borçlanma Araçları Piyasası takas işlem saatlerinde; takas başlangıç saati 14:00, TL borç kapatma son saati 17:15, kıymetli maden 17:00, USD ve EUR borç kapatma son saati ise 21:00'dir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 120,
+        "section": "4.11.2 Takas İşlemleri - Takas İşlem Saatleri"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

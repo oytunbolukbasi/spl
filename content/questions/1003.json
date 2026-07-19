@@ -2836,6 +2836,216 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1003-z1",
+      "q": "Payları borsada işlem gören halka açık ortaklıklarda yeni pay alma hakkının kullanım süresi en az kaç günden az ve en fazla kaç günden fazla olamaz?",
+      "options": [
+        "10 günden az, 30 günden fazla",
+        "15 günden az, 60 günden fazla",
+        "15 günden az, 120 günden fazla",
+        "20 günden az, 90 günden fazla",
+        "10 günden az, 60 günden fazla"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Payları borsada işlem gören ortaklıklarda yeni pay alma hakkı kullanım süresi 15 günden az, 60 günden fazla olamaz. Borsada işlem görmeyen ortaklıklarda ise 15 günden az, 120 günden fazla olamaz.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 30,
+        "section": "d) Halka Açık Ortaklıkların Yeni Pay Alma Haklarının Kullandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z2",
+      "q": "SPKn'nun 3-1/o maddesine göre menkul kıymetler hangi iki ana sınıfa ayrılmaktadır?",
+      "options": [
+        "Hisse senetleri ve tahviller",
+        "Ortaklık hakkı veren ve alacak hakkı veren kıymetler",
+        "Kamu ve özel sektör menkul kıymetleri",
+        "Sabit getirili ve değişken getirili araçlar",
+        "Birincil piyasa ve ikincil piyasa araçları"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "SPKn'nun 3-1/o maddesinde menkul kıymetler iki alt bentte sınıflandırılır: (1) Paylar, pay benzeri diğer kıymetler ile paylara ilişkin depo sertifikaları (ortaklık hakkı); (2) Borçlanma araçları, menkul kıymetleştirilmiş varlık ve gelirlere dayalı borçlanma araçları ile bunlara ilişkin depo sertifikaları (alacak hakkı).",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 60,
+        "section": "Menkul Kıymet Tanımı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z3",
+      "q": "Borçlanma araçları fonlarının unvanında vade yapısına yer verilmek istenmesi durumunda, fon portföyünün aylık ağırlıklı ortalama vadesinin 91-730 gün olması halinde fon unvanında hangi ibare kullanılır?",
+      "options": [
+        "Kısa vadeli",
+        "Orta vadeli",
+        "Uzun vadeli",
+        "Değişken vadeli",
+        "Karma vadeli"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Borçlanma araçları fonlarında vade yapısı sınıflandırması: 25-90 gün 'kısa vadeli', 91-730 gün 'orta vadeli', 730 günden fazla 'uzun vadeli' ibaresi kullanılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 120,
+        "section": "3.2.9.5 Fon Portföyüne Dâhil Edilecek Varlıkların Vade Yapısına İlişkin Sınırlamalar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z4",
+      "q": "Fon portföylerinde yer alan repo işlemine konu olabilecek varlıkların rayiç değerinin en fazla yüzde kaçı oranında borsada veya borsa dışında repo yapılabilir?",
+      "options": [
+        "%5",
+        "%10",
+        "%15",
+        "%20",
+        "%25"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Fon portföylerinde yer alan repo işlemine konu olabilecek varlıkların rayiç değerinin %10'una kadar borsada veya borsa dışında repo yapılabilir. Ayrıca fon toplam değerinin %10'unu geçmemek üzere fon hesabına kredi alınabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 120,
+        "section": "3.2.9.6 Fonun Kredi İşlemleri, Repo ve Ters Repo İşlemleri ile Vaad Sözleşmelerine İlişkin Sınırlamalar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z5",
+      "q": "Unvanında 'Para Piyasası' ve 'Kısa Vadeli' ifadesi yer alan fonlar, fon toplam değerinin en fazla yüzde kaçını geçmemek üzere Borsa İstanbul Pay Senedi Repo Pazarı'nda ters repo sözleşmelerine taraf olabilirler?",
+      "options": [
+        "%10",
+        "%15",
+        "%20",
+        "%25",
+        "%30"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Unvanında 'Para Piyasası' ve 'Kısa Vadeli' ifadesi yer alan fonlar fon toplam değerinin %25'ini geçmemek üzere Borsa İstanbul A.Ş. Pay Senedi Repo Pazarı'nda ters repo sözleşmelerine taraf olabilirler. Diğer fonlarda borsa dışı ters repo sınırı %10'dur.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 120,
+        "section": "3.2.9.6 Ters Repo Sözleşmelerine İlişkin Olarak"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z6",
+      "q": "Aşağıdaki fonlardan hangisinin katılma paylarının Türkiye Elektronik Fon Alım Satım Platformu'nda (TEFAS) işlem görmesi zorunlu değildir?",
+      "options": [
+        "Hisse senedi fonu",
+        "Borçlanma araçları fonu",
+        "Serbest fon",
+        "Değişken fon",
+        "Katılım fonu"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Özel fon, serbest fon, gayrimenkul yatırım fonları, girişim sermayesi yatırım fonları, garantili fon ve koruma amaçlı fonlar dışındaki fonların Platform'a üye olması ve katılma payı alım satım işlemlerinin Platform üzerinde gerçekleştirilmesi zorunludur. Serbest fonlar Platform kapsamında da sadece nitelikli yatırımcılara satılabilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 135,
+        "section": "3.2.12.6 Türkiye Elektronik Fon Alım Satım Platformu - Platform'a Üyelik Zorunluluğu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z7",
+      "q": "Teşkilatlanmış piyasalarda işlem gören türev araçların tezgah üstü türev araçlardan en temel farkı aşağıdakilerden hangisidir?",
+      "options": [
+        "Daha yüksek getiri sunmaları",
+        "Sözleşme unsurlarının standart olması",
+        "Sadece kurumsal yatırımcılara açık olması",
+        "Vergi avantajı sağlaması",
+        "Daha uzun vadeye sahip olması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Teşkilatlanmış piyasalarda işlem gören türev araçların en önemli özelliği sözleşme unsurlarının standart olmasıdır. Bu sayede likidite artmakta ve fiyat oluşumu daha sağlıklı olmaktadır. Tezgah üstü türev araçlarda ise sözleşme şartları taraflarca serbestçe belirlenir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 150,
+        "section": "4.1.4.1 Teşkilatlanmış Piyasalarda İşlem Gören Türev Araçlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z8",
+      "q": "VİOP'ta ELÜS'e (Elektronik Ürün Senetleri) dayalı fiziki teslimata konu vadeli işlem sözleşmelerinde kıymet borcunu tamamlayan üyenin nakit alacağı hangi hesaba aktarılır?",
+      "options": [
+        "Borsa İstanbul teminat hesabına",
+        "Takasbank nezdindeki serbest hesabına",
+        "MKK nezdindeki saklama hesabına",
+        "Yatırımcının banka hesabına",
+        "VİOP garanti fonuna"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "ELÜS'e dayalı fiziki teslimata konu vadeli işlem sözleşmelerinde vade sonunda kıymet borcunu tamamlayan üye ilgili borcunu MKK sisteminde yerine getirir. Kıymet borcunu tamamlayan üye nakit alacağı Takasbank nezdindeki serbest hesabına aktarılır.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 165,
+        "section": "VİOP İşlemlerinin Takası - ELÜS Fiziki Teslimat"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z9",
+      "q": "Bankalar hariç olmak üzere, sermayelerinin yüzde doksan beşi veya daha fazlası doğrudan Hazineye ait olan halka açık olmayan ortaklıkların borçlanma aracı ihracında Kurula yapacakları başvurularda ne tür bir kolaylık sağlanır?",
+      "options": [
+        "İzahname düzenlenmesi gerekmez",
+        "Kurul ücreti alınmaz",
+        "Tebliğde öngörülen yükümlülüklerden kısmen veya tamamen muafiyet verilebilir",
+        "Borsada işlem görme zorunluluğu kaldırılır",
+        "Bağımsız denetim raporu istenmez"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Bankalar hariç olmak üzere, sermayelerinin %95 veya daha fazlası doğrudan Hazineye ait olan halka açık olmayan ortaklıkların borçlanma aracı ihracı talebiyle Kurula yapacakları başvurularda, ihraççının talebi halinde Tebliğde öngörülen yükümlülüklerden kısmen veya tamamen muafiyet verilebilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 75,
+        "section": "e) Borçlanma Aracı İhracında Muafiyetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1003-z10",
+      "q": "Para piyasası fonları ile kısa vadeli borçlanma araçları fonlarında portföye dâhil edilecek varlıklar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Vadeye kalan gün sayısı hesaplanamayan varlıklar portföye dahil edilebilir",
+        "Vadeye kalan gün sayısı hesaplanamayan varlıklar fon toplam değerinin %20'si oranında dahil edilebilir",
+        "Vadeye kalan gün sayısı hesaplanamayan varlıklar fon portföyüne dahil edilemez",
+        "Vadeye kalan gün sayısı hesaplanamayan varlıklar sadece teminat olarak kullanılabilir",
+        "Bu konuda herhangi bir sınırlama bulunmamaktadır"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Para piyasası fonları ile kısa vadeli borçlanma araçları fonlarında vadeye kalan gün sayısı hesaplanamayan varlıklar fon portföyüne dâhil edilemez. Ancak orta ve uzun vadeli borçlanma araçları fonlarında fon toplam değerinin en fazla %20'si oranında dahil edilebilir.",
+      "source": {
+        "pdf": "1003-notes.pdf",
+        "page": 120,
+        "section": "3.2.9.5 Fon Portföyüne Dâhil Edilecek Varlıkların Vade Yapısına İlişkin Sınırlamalar"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

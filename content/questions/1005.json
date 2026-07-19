@@ -2890,6 +2890,216 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1005-z1",
+      "q": "Kuruluş izni alan aracı kurumun faaliyete geçmek üzere Kurula başvuru yapması için tanınan süre ne kadardır ve bu süre içinde başvuru yapılmazsa ne olur?",
+      "options": [
+        "3 ay içinde başvuru yapılmalıdır, aksi halde kuruluş izni iptal edilir",
+        "6 ay içinde başvuru yapılmalıdır, aksi halde faaliyet izni alma hakkı düşer",
+        "1 yıl içinde başvuru yapılmalıdır, aksi halde kuruluş izni geçersiz sayılır",
+        "9 ay içinde başvuru yapılmalıdır, aksi halde tüm izinler iptal edilir",
+        "12 ay içinde başvuru yapılmalıdır, aksi halde yeniden kuruluş izni alınır"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Aracı kurumların kuruluşuna izin verilmesi faaliyet izni anlamına gelmemekte olup, ayrıca faaliyete geçmek üzere Kurula başvuru yapmaları gerekmektedir. Kuruluş iznini takiben 6 ay içinde faaliyete geçmek üzere başvuru yapmayan aracı kurumun faaliyet izni alma hakkı düşer.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 60,
+        "section": "4. Aracı Kurumların Kuruluş ve Faaliyet İzni - Faaliyet İzni Başvurusu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z2",
+      "q": "Faaliyet iznine ilişkin Kurula yapılan başvurularda tüm eksik bilgi ve belgelerin tamamlanmasını takiben azami kaç ay içerisinde sonuçlandırılmak zorundadır?",
+      "options": [
+        "2 ay",
+        "3 ay",
+        "6 ay",
+        "9 ay",
+        "12 ay"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Faaliyet iznine ilişkin Kurula yapılan başvurular tüm eksik bilgi ve belgelerin tamamlanmasını takiben azami 6 ay içerisinde sonuçlandırılmak zorundadır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 60,
+        "section": "4. Aracı Kurumların Kuruluş ve Faaliyet İzni - Başvurunun Sonuçlandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z3",
+      "q": "Profesyonel müşteri olarak dikkate alınabilecek kuruluşlar için aranan aktif toplamı, yıllık net hasılatı ve öz sermaye kıstaslarından en az kaç tanesinin sağlanması gerekir?",
+      "options": [
+        "Üçünün de sağlanması gerekir",
+        "En az ikisinin sağlanması gerekir",
+        "En az birinin sağlanması yeterlidir",
+        "Sadece aktif toplamının sağlanması yeterlidir",
+        "Sadece öz sermayenin sağlanması yeterlidir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Profesyonel müşteri olarak dikkate alınabilmek için aktif toplamının 50.000.000 TL, yıllık net hasılatının 90.000.000 TL, öz sermayesinin 5.000.000 TL'nin üzerinde olması kıstaslarından en az ikisini taşıyan kuruluşlar profesyonel müşteri sayılır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 75,
+        "section": "10.1 Profesyonel Müşteri ve Genel Müşteri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z4",
+      "q": "Saklama hizmeti sınırlı saklama ve genel saklama olmak üzere ikiye ayrılmaktadır. Genel saklama hizmeti izni ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Genel saklama hizmeti izni sınırlı saklama hizmeti iznini de kapsar",
+        "Genel saklama hizmeti izni sınırlı saklama hizmeti iznini kapsamaz, her iki hizmet için ayrı ayrı izin alınması gerekir",
+        "Genel saklama hizmeti sadece bankalar tarafından verilebilir",
+        "Genel saklama hizmeti sadece aracı kurumlar tarafından verilebilir",
+        "Genel ve sınırlı saklama hizmeti tek bir izinle verilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Genel saklama hizmeti izni, sınırlı saklama hizmeti iznini kapsamamaktadır. Dolayısıyla her iki hizmet için ayrı ayrı Kurul'dan izin alınması gerekmektedir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 45,
+        "section": "Saklama Hizmeti Türleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z5",
+      "q": "Yatırım ve kalkınma bankalarının kaldıraçlı işlemler hariç olmak üzere tüm sermaye piyasası araçları üzerinde portföy aracılığı faaliyetinde bulunabilmeleri için hangi koşulun sağlanması gerekir?",
+      "options": [
+        "Kuruldan özel faaliyet izni alınması",
+        "Halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptali için talepte bulunarak yatırım hizmet ve faaliyetlerinden çekilmesi",
+        "En az 100 milyon TL öz sermayeye sahip olması",
+        "BDDK'dan ek izin alınması",
+        "Borsa İstanbul'a üye olunması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Yatırım ve kalkınma bankalarının kaldıraçlı işlemler hariç olmak üzere tüm sermaye piyasası araçları üzerinde portföy aracılığı faaliyetinde bulunabilmeleri ancak halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptali için talepte bulunarak yatırım hizmet ve faaliyetlerinden çekilmesi halinde mümkün olabilmektedir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 15,
+        "section": "5.3.1 Portföy Aracılığı Faaliyetinde Bulunabilecek Kuruluşlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z6",
+      "q": "Kitle fonlamasına aracılık eden platformların kuruluşuna Kurulca izin verilebilmesi için asgari sermaye tutarı ne kadar olmalıdır?",
+      "options": [
+        "5.000.000 TL",
+        "10.000.000 TL",
+        "15.000.000 TL",
+        "20.000.000 TL",
+        "25.000.000 TL"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Kitle fonlamasına aracılık eden platformların kuruluşuna Kurulca izin verilebilmesi için sermayesinin asgari 15.000.000 TL tutarında ve tamamının nakden ödenmiş olması, sermayesinin ve özsermayesinin bu tutardan az olmaması gerekir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 135,
+        "section": "1. Platformlara İlişkin Esaslar ve Listeye Alınma"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z7",
+      "q": "Kredili sermaye piyasası araçlarının alımı ve açığa satış işlemlerinde özkaynak oranının hesaplanmasında, nakit ve devlet tahvili gibi kıymetlerin kabul edilmesi halinde bu kıymetlerin özkaynak oranı yüzde kaçtır?",
+      "options": [
+        "%50",
+        "%75",
+        "%90",
+        "%100",
+        "%110"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "Nakit, devlet tahvili, hazine bonosu, Borsa İstanbul A.Ş.'de işlem görmekte olan ve Hazine ve Maliye Bakanlığının belirlediği standartlardaki altın ve diğer kıymetli madenler ve/veya Kurulca uygun görülecek diğer sermaye piyasası araçlarının kabul edilmesi halinde bu kıymetlerin özkaynak oranı %100'dür.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 120,
+        "section": "8. Özkaynak Olarak Kabul Edilebilecek Kıymetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z8",
+      "q": "Sözlü alım satım emirlerine dayanılarak yapılan işlemlerde, sözlü emrin varlığını ispat yükü kime aittir?",
+      "options": [
+        "Müşteriye",
+        "Yatırım kuruluşuna",
+        "SPK'ya",
+        "Borsaya",
+        "Takas kuruluşuna"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Sözlü alım satım emirlerine dayanılarak yapılan işlemlerde, sözlü emrin varlığını ispat yükü yatırım kuruluşuna aittir. (Yatırım Hizmetleri Belge ve Kayıt Tebliği md.8/3)",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 105,
+        "section": "6. Müşteri Emirleri - Sözlü Emir İspat Yükü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z9",
+      "q": "Hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının açığa satış işlemlerinde özkaynak oranı yüzde kaçtır?",
+      "options": [
+        "%50",
+        "%65",
+        "%75",
+        "%90",
+        "%100"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının özkaynak oranı %75'tir. Borsa yatırım fonu katılma paylarının oranı %90, (ç) bendi dışında kalan yatırım fonu katılma paylarının oranı ise %90'dır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 120,
+        "section": "8. Özkaynak Olarak Kabul Edilebilecek Kıymetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-z10",
+      "q": "Kitle fonlama platformunun yönetim kurulunun asgari kaç kişiden oluşması zorunludur?",
+      "options": [
+        "2 kişi",
+        "3 kişi",
+        "5 kişi",
+        "7 kişi",
+        "9 kişi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": "Kitle fonlamasına aracılık eden platformların kuruluşuna Kurulca izin verilebilmesi için yönetim kurulunun asgari olarak 3 kişiden oluşması zorunludur.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 135,
+        "section": "1. Platformlara İlişkin Esaslar ve Listeye Alınma"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

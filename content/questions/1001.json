@@ -2920,6 +2920,216 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1001-z1",
+      "q": "Kamuyu aydınlatma belgelerindeki yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan tazminat taleplerinde illiyet bağının kurulması için aşağıdaki şartlardan hangisi aranmaz?",
+      "options": [
+        "Yanlış/yanıltıcı/eksik bilgi içeren belgenin yayımlanması",
+        "Sermaye piyasası aracının alımı veya satımı",
+        "Yatırımcının malvarlığında zarar oluşması",
+        "Yatırımcının zararı ile belge arasındaki illiyet bağını ispat etmesi",
+        "Gerçeğe uygun bilginin ortaya çıkması"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "SPKn'ye göre illiyet bağı şartları: (1) yanlış belge yayımlanması, (2) aracın alımı/satımı, (3) gerçeğe uygun bilginin ortaya çıkması, (4) zarar oluşması. Bu şartlar tam olarak yerine geldiğinde illiyet bağı kurulmuş sayılır; yatırımcının ayrıca ispat yükümlülüğü aranmaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 25,
+        "section": "1.1.4.4.2 İlliyet Bağının Kurulmasına İlişkin Şartlar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z2",
+      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları, ilişkili taraf işlemlerinin emsallerine uygun şartlarda gerçekleştirildiğini tevsik edici bilgi ve belgeleri en az kaç yıl süreyle saklamak zorundadır?",
+      "options": [
+        "3 yıl",
+        "5 yıl",
+        "8 yıl",
+        "10 yıl",
+        "12 yıl"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Örtülü kazanç aktarımı düzenlemeleri kapsamında, ilişkili taraf işlemlerinin emsallerine uygunluğunu belgeleyen tevsik edici bilgi ve belgelerin en az 8 yıl süreyle saklanması zorunludur.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 35,
+        "section": "1.1.4.4.5 Örtülü Kazanç Aktarımı - Belgeleme Yükümlülüğü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z3",
+      "q": "Aşağıdakilerden hangisi SPKn kapsamında önemli nitelikteki işlemlerden biri değildir?",
+      "options": [
+        "Birleşme işlemlerine taraf olma",
+        "Bölünme işlemlerine taraf olma",
+        "Tür değiştirme",
+        "Sermaye azaltımı kararı",
+        "İmtiyaz öngörme veya mevcut imtiyazların kapsam/konusunu değiştirme"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "SPKn uygulamasında önemli nitelikteki işlemler: birleşme, bölünme işlemlerine taraf olma; tür değiştirme; imtiyaz öngörme veya mevcut imtiyazların kapsam/konusunu değiştirme; mevcut sermayeyi aşan nakit sermaye artırımı (ilişkili taraf borçları için). Sermaye azaltımı bu listede yer almaz.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 40,
+        "section": "1.1.4.4.6 Önemli Nitelikteki İşlemler ve Ayrılma Hakkı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z4",
+      "q": "6362 sayılı SPKn'ye göre aşağıdakilerden hangisi yan hizmetler kapsamında yer almaz?",
+      "options": [
+        "Sermaye piyasaları ile ilgili danışmanlık hizmetleri sunulması",
+        "Servet yönetimi ve finansal planlama yapılması",
+        "Portföy yönetim hizmeti sunulması",
+        "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
+        "Aracılık yükleniminin yürütülmesi ile ilgili hizmetlerin sunulması"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPKn md.38'e göre yan hizmetler: (1) danışmanlık, (2) proje finansmanı dahil Kurulca belirlenecek hizmetler/kambiyo/kredi/ödünç/döviz, (3) yatırım araştırması/analiz/genel tavsiye, (4) aracılık yüklenimi, (5) borçlanma/finansman aracılığı, (6) servet yönetimi/finansal planlama, (7) Kurulca belirlenecek diğer hizmetler. Portföy yönetimi ise yan hizmet değil, yatırım hizmet ve faaliyetidir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 45,
+        "section": "1.1.4.4.4.3 Yan Hizmetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z5",
+      "q": "SPKn'de düzenlenen sermaye piyasasına özgü suç tiplerinden hangisi Türk Ceza Kanunu'ndaki suç tiplerine atıf yoluyla cezalandırılır?",
+      "options": [
+        "Bilgi suistimali",
+        "Piyasa dolandırıcılığı",
+        "Güveni kötüye kullanma ve sahtecilik",
+        "Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "Kripto varlık hizmet sağlayıcıda zimmet"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPKn içerisindeki suç tiplerinin bazıları sadece SPKn'de düzenlenmiş iken, bazıları Türk Ceza Kanunu'nda yer alan suç tiplerine girdiği ifade edilmek suretiyle düzenlenmiştir. Güveni kötüye kullanma ve sahtecilik, TCK hükümlerine atıf yoluyla cezalandırılan suç tipleridir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 75,
+        "section": "1.1.4.4.8.2 Sermaye Piyasasına Özgü Temel Suç Tipleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z6",
+      "q": "Kanunen tutmakla yükümlü oldukları defter ve kayıtları usulüne uygun tutmayanlar ile saklamakla yükümlü oldukları defter ve belgeleri kanuni süresince saklamayanlar hakkında uygulanacak yaptırım nedir?",
+      "options": [
+        "2 yıldan 5 yıla kadar hapis ve 5.000 güne kadar adli para cezası",
+        "1 yıldan 3 yıla kadar hapis ve 2.000 güne kadar adli para cezası",
+        "6 aydan 2 yıla kadar hapis ve 5.000 güne kadar adli para cezası",
+        "3 yıldan 5 yıla kadar hapis ve 10.000 güne kadar adli para cezası",
+        "İdari para cezası ile yetinilir, hapis cezası uygulanmaz"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "SPKn md.112/1'e göre yasal defterlerde, muhasebe kayıtlarında ve finansal tablo ve raporlarda usulsüzlük suçunda; kanunen tutmakla yükümlü oldukları defterleri usulüne uygun tutmayanlar ve saklamakla yükümlü oldukları belgeleri kanuni süresince saklamayanlar, 6 aydan 2 yıla kadar hapis ve 5.000 güne kadar adli para cezası ile cezalandırılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 80,
+        "section": "h. Yasal Defterlerde, Muhasebe Kayıtlarında ve Finansal Tablo ve Raporlarda Usulsüzlük"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z7",
+      "q": "Geleceğe yönelik değerlendirmelerin kamuya açıklanması ile ilgili olarak yılda en fazla kaç defa açıklama yapılabilir?",
+      "options": [
+        "2 defa",
+        "3 defa",
+        "4 defa",
+        "6 defa",
+        "Herhangi bir sınır yoktur"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Geleceğe yönelik değerlendirmelerin kamuya açıklanması zorunlu tutulmamıştır ancak açıklama yapılmak istenmesi halinde yılda en fazla 4 defa açıklama yapılabilmesi, yönetim kurulu kararı veya yetki verilen kişinin yazılı onayı gibi koşullar aranır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 85,
+        "section": "1.2.1 Geleceğe Yönelik Değerlendirmeler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z8",
+      "q": "Sermaye yapısına ve yönetim kontrolüne ilişkin değişikliklerde, ihraççının sermayesindeki payının veya toplam oy haklarının hangi oranlara ulaşması veya altına düşmesi halinde kamuya açıklama yapılması zorunludur?",
+      "options": [
+        "%5, %10, %20 ve %50",
+        "%10, %25, %50 ve %67",
+        "%25, %50 ve %67",
+        "%5, %25, %33 ve %50",
+        "%10, %20, %50 ve %75"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Özel Durumlar Tebliği'ne göre, bir gerçek veya tüzel kişinin ihraççının sermayesindeki payının veya toplam oy haklarının %25, %50 veya %67'sine ulaşması veya bu oranların altına düşmesi halinde kamuya açıklama yapılır.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 95,
+        "section": "1.2.1.17.3 Sermaye Yapısına ve Yönetim Kontrolüne İlişkin Değişiklikler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z9",
+      "q": "TTK'ya göre azınlık pay sahipliği oranı, halka açık anonim şirketlerde en az ne kadardır?",
+      "options": [
+        "%1",
+        "%3",
+        "%5",
+        "%10",
+        "%20"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": "TTK'ya göre azınlık pay sahipleri, anonim şirketin sermayesinin en az %10'una sahip olan pay sahipleridir. Halka açık anonim şirketlerde ise sermayenin en az %5'ine sahip olanlar azınlık pay sahipleri olarak kabul edilir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 105,
+        "section": "PAY SAHİPLERİ - Azınlık Pay Sahipleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1001-z10",
+      "q": "Fon Dağıtım Platformu'nda katılma paylarının satışını gerçekleştiren dağıtım kuruluşuna ödenecek genel komisyon oranı, ilgili fonun yönetim ücretinin yüzde kaçıdır?",
+      "options": [
+        "%20",
+        "%25",
+        "%35",
+        "%50",
+        "%65"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": "Fon Dağıtım Platformu'nda katılma paylarının satışını gerçekleştiren dağıtım kuruluşuna (yatırım kuruluşları ve portföy yönetim şirketleri) ödenecek genel komisyon oranı sabit olarak ilgili fonun yönetim ücretinin %35'idir. Özel komisyon oranı ise azami %65'tir.",
+      "source": {
+        "pdf": "1001-notes.pdf",
+        "page": 175,
+        "section": "1.2.3 Yatırım Fonları - Komisyon Paylaşımı"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }
