@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#58a700"/>
+  <g transform="translate(160,95)">
+    <circle cx="0" cy="0" r="38" fill="#ffc800"/>
+    <g stroke="#ffc800" stroke-width="6" stroke-linecap="round">
+      <line x1="0" y1="-54" x2="0" y2="-68"/>
+      <line x1="0" y1="54" x2="0" y2="68"/>
+      <line x1="-54" y1="0" x2="-68" y2="0"/>
+      <line x1="54" y1="0" x2="68" y2="0"/>
+      <line x1="-38" y1="-38" x2="-48" y2="-48"/>
+      <line x1="38" y1="-38" x2="48" y2="-48"/>
+      <line x1="-38" y1="38" x2="-48" y2="48"/>
+      <line x1="38" y1="38" x2="48" y2="48"/>
+    </g>
+  </g>
+  <text x="256" y="410" text-anchor="middle" font-family="'Arial Rounded MT Bold','Nunito','Quicksand',sans-serif" font-size="340" font-weight="800" fill="#fff" letter-spacing="-8">S</text>
+</svg>

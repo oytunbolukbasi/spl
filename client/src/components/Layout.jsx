@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink } from 'lucide-react';
+import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink, CircleCheck, CircleX } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 
 const STATIC_TIPS = [
@@ -136,20 +136,32 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
           <Squirrel size={150} mood="neutral" />
           <div className="speech">{tip}</div>
         </div>
-        <div className="rr-card">
-          <div className="rr-stat-row">
-            <div className="rr-stat">
-              <div className="big" style={{ color: 'var(--orange)' }}>
-                <Flame size={20} /> {progress.streak}
-              </div>
-              <div className="lbl">Gün Serisi</div>
+        <div className="rr-stat-row">
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: 'var(--orange)' }}>
+              <Flame size={26} /> {progress.streak}
             </div>
-            <div className="rr-stat">
-              <div className="big" style={{ color: 'var(--gold)' }}>
-                <Star size={20} /> {progress.xp}
-              </div>
-              <div className="lbl">XP</div>
+            <div className="lbl">Günlük seri</div>
+          </div>
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: 'var(--gold)' }}>
+              <Star size={26} /> {progress.xp}
             </div>
+            <div className="lbl">Toplam Puan</div>
+          </div>
+        </div>
+        <div className="rr-stat-row">
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: 'var(--green)' }}>
+              <CircleCheck size={26} /> {Object.values(progress.seen).filter(v => v === 'correct').length}
+            </div>
+            <div className="lbl">Doğru</div>
+          </div>
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: 'var(--red)' }}>
+              <CircleX size={26} /> {Object.values(progress.seen).filter(v => v === 'wrong').length}
+            </div>
+            <div className="lbl">Yanlış</div>
           </div>
         </div>
       </aside>

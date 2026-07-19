@@ -333,22 +333,27 @@ a {
 }
 .rr-stat-row {
   display: flex;
-  justify-content: space-around;
-  text-align: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.rr-stat-row:last-of-type {
+  margin-bottom: 0;
+}
+.rr-stat {
+  flex: 1;
 }
 .rr-stat .big {
-  font-size: 22px;
+  font-size: 28px;
   font-weight: 900;
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 6px;
 }
 .rr-stat .lbl {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
-  text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 400;
+  margin-top: 2px;
 }
 
 .stats {

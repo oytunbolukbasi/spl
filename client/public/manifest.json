@@ -1,0 +1,27 @@
+{
+  "name": "Fındık • SPL Düzey 1 Hazırlık",
+  "short_name": "Fındık",
+  "description": "SPL Düzey 1 Lisanslama Sınavına hazırlık uygulaması",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#58a700",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
