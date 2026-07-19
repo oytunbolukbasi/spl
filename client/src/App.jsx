@@ -23,6 +23,7 @@ export default function App() {
   const [authReady, setAuthReady] = useState(false);
   const [user, setUser] = useState(null); // username | null
   const [progress, setProgress] = useState(null);
+  const [avatarUrl, setAvatarUrl] = useState(null);
 
   const [nav, setNav] = useState('home');
   const [session, setSession] = useState(null);
@@ -45,9 +46,10 @@ export default function App() {
     (async () => {
       if (getToken() && getUsername()) {
         try {
-          const { progress: p } = await fetchProgress();
+          const data = await fetchProgress();
           setUser(getUsername());
-          setProgress(ensureToday(normalize(p)));
+          setProgress(ensureToday(normalize(data.progress)));
+          setAvatarUrl(data.avatarUrl || null);
         } catch {
           clearSession();
         }
@@ -56,9 +58,10 @@ export default function App() {
     })();
   }, []);
 
-  function onAuthed(username, serverProgress) {
+  function onAuthed(username, serverProgress, serverAvatarUrl) {
     setUser(username);
     setProgress(ensureToday(normalize(serverProgress)));
+    setAvatarUrl(serverAvatarUrl || null);
     setNav('home');
     setSession(null);
   }
@@ -140,6 +143,7 @@ export default function App() {
       onReset={handleReset}
       onLogout={handleLogout}
       questionPool={pool}
+      avatarUrl={avatarUrl}
     >
       {nav === 'home' ? (
         <Home

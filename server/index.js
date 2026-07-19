@@ -67,7 +67,7 @@ app.post('/api/auth/register', async (req, res) => {
       [username, hash]
     );
     const user = rows[0];
-    res.json({ token: signToken(user), username: user.username, progress: user.progress });
+    res.json({ token: signToken(user), username: user.username, progress: user.progress, avatarUrl: user.avatar_url || null });
   } catch (e) {
     if (e.code === '23505') return res.status(409).json({ error: 'Bu kullanıcı adı zaten alınmış' });
     console.error('register error', e.message);
@@ -80,14 +80,14 @@ app.post('/api/auth/login', async (req, res) => {
   const password = String(req.body.password || '');
   try {
     const { rows } = await pool.query(
-      'SELECT id, username, password_hash, progress FROM users WHERE username = $1',
+      'SELECT id, username, password_hash, progress, avatar_url FROM users WHERE username = $1',
       [username]
     );
     const user = rows[0];
     if (!user || !(await bcrypt.compare(password, user.password_hash))) {
       return res.status(401).json({ error: 'Kullanıcı adı veya şifre hatalı' });
     }
-    res.json({ token: signToken(user), username: user.username, progress: user.progress });
+    res.json({ token: signToken(user), username: user.username, progress: user.progress, avatarUrl: user.avatar_url });
   } catch (e) {
     console.error('login error', e.message);
     res.status(500).json({ error: 'Giriş sırasında hata oluştu' });
@@ -97,8 +97,8 @@ app.post('/api/auth/login', async (req, res) => {
 // ---------- İlerleme rotaları ----------
 app.get('/api/progress', authRequired, async (req, res) => {
   try {
-    const { rows } = await pool.query('SELECT progress FROM users WHERE id = $1', [req.userId]);
-    res.json({ progress: rows[0] ? rows[0].progress : {} });
+    const { rows } = await pool.query('SELECT progress, avatar_url FROM users WHERE id = $1', [req.userId]);
+    res.json({ progress: rows[0] ? rows[0].progress : {}, avatarUrl: rows[0]?.avatar_url || null });
   } catch (e) {
     res.status(500).json({ error: 'İlerleme okunamadı' });
   }

@@ -15,23 +15,25 @@ function pickRandomTip(pool) {
   return STATIC_TIPS[Math.floor(Math.random() * STATIC_TIPS.length)];
 }
 
-function UserAvatar({ username, size = 34, onClick, as: Tag = 'button' }) {
+function UserAvatar({ username, size = 34, onClick, as: Tag = 'button', avatarUrl }) {
   const letter = (username || '?')[0].toUpperCase();
   return (
     <Tag className="user-avatar" onClick={onClick} aria-label="Profil" style={{ width: size, height: size, fontSize: size * 0.44 }}>
-      {letter}
+      {avatarUrl
+        ? <img src={avatarUrl} alt={username} style={{ width: '100%', height: '100%', borderRadius: '50%', objectFit: 'cover' }} />
+        : letter}
     </Tag>
   );
 }
 
-function ProfileModal({ username, progress, onReset, onLogout, onClose }) {
+function ProfileModal({ username, progress, onReset, onLogout, onClose, avatarUrl }) {
   const correct = Object.values(progress.seen).filter(v => v === 'correct').length;
   const wrong = Object.values(progress.seen).filter(v => v === 'wrong').length;
   return (
     <div className="modal-backdrop" onClick={(e) => e.target === e.currentTarget && onClose()}>
       <div className="modal profile-modal">
         <div className="profile-header">
-          <UserAvatar username={username} size={56} as="span" />
+          <UserAvatar username={username} size={56} as="span" avatarUrl={avatarUrl} />
           <div className="profile-name">@{username}</div>
         </div>
         <div className="profile-stats">
@@ -82,7 +84,7 @@ function NotesModal({ onClose }) {
   );
 }
 
-export default function Layout({ active, onNav, progress, mistakeCount, username, onReset, onLogout, questionPool, children }) {
+export default function Layout({ active, onNav, progress, mistakeCount, username, onReset, onLogout, questionPool, avatarUrl, children }) {
   const [showProfile, setShowProfile] = useState(false);
   const [showNotes, setShowNotes] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
@@ -96,12 +98,12 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
           <button className="hamburger-btn" onClick={() => setMenuOpen(true)} aria-label="Menü">
             <Menu size={22} />
           </button>
-          <div className="brand">fındık</div>
+          <div className="brand" onClick={() => onNav('home')} style={{ cursor: 'pointer' }}>fındık</div>
         </div>
         <div className="stats">
           <span className="stat streak"><Flame size={16} /> {progress.streak}</span>
           <span className="stat xp"><Star size={16} /> {progress.xp}</span>
-          <UserAvatar username={username} size={30} onClick={() => setShowProfile(true)} />
+          <UserAvatar username={username} size={30} onClick={() => setShowProfile(true)} avatarUrl={avatarUrl} />
         </div>
       </header>
 
@@ -167,7 +169,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
             <span className="stat xp"><Star size={16} /> {progress.xp}</span>
           </div>
           <button className="sidebar-profile" onClick={() => setShowProfile(true)}>
-            <UserAvatar username={username} size={32} as="span" />
+            <UserAvatar username={username} size={32} as="span" avatarUrl={avatarUrl} />
             <span>@{username}</span>
           </button>
         </div>
@@ -219,6 +221,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
           onReset={onReset}
           onLogout={onLogout}
           onClose={() => setShowProfile(false)}
+          avatarUrl={avatarUrl}
         />
       )}
       {showNotes && <NotesModal onClose={() => setShowNotes(false)} />}

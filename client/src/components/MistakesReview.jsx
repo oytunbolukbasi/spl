@@ -35,16 +35,17 @@ export default function MistakesReview({ progress, units, onReview }) {
                     <X size={15} /> Senin cevabın: {LETTERS[m.chosen]}) {m.options[m.chosen]}
                   </div>
                 )}
-                <button
-                  className="btn ghost small"
-                  style={{ marginTop: 8 }}
-                  onClick={() => setSrcQ(m)}
-                >
-                  <BookOpen size={15} /> Kaynağı Gör
-                </button>
-                <span style={{ marginLeft: 8, fontSize: 12, color: '#999' }}>
-                  {m.unit}{unit ? ' • ' + unit.shortTitle : ''}
-                </span>
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 8, gap: 4 }}>
+                  <button
+                    className="btn ghost small"
+                    onClick={() => setSrcQ(m)}
+                  >
+                    <BookOpen size={15} /> Kaynağı Gör
+                  </button>
+                  <span style={{ fontSize: 12, color: '#999' }}>
+                    {m.unit}{unit ? ' • ' + unit.shortTitle : ''}
+                  </span>
+                </div>
               </div>
             );
           })}

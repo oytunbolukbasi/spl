@@ -17,7 +17,7 @@ export default function Auth({ onAuthed }) {
       const fn = mode === 'register' ? register : login;
       const res = await fn(username, password);
       setSession(res.token, res.username);
-      onAuthed(res.username, res.progress);
+      onAuthed(res.username, res.progress, res.avatarUrl);
     } catch (err) {
       setError(err.message);
     } finally {

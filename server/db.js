@@ -16,10 +16,12 @@ async function initSchema() {
       username      TEXT UNIQUE NOT NULL,
       password_hash TEXT NOT NULL,
       progress      JSONB NOT NULL DEFAULT '{}'::jsonb,
+      avatar_url    TEXT,
       created_at    TIMESTAMPTZ DEFAULT now(),
       updated_at    TIMESTAMPTZ DEFAULT now()
     );
   `);
+  await pool.query(`ALTER TABLE users ADD COLUMN IF NOT EXISTS avatar_url TEXT`);
 }
 
 module.exports = { pool, initSchema };
