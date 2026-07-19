@@ -1831,6 +1831,918 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-yt19",
+      "q": "Aşağıdakilerden hangisi ya da hangileri MKK'nın kuruluş amaçlarındandır?",
+      "options": [
+        "Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek",
+        "Kaydileştirilen sermaye piyasası araçları ve bunlara bağlı hakları elektronik ortamda üyeler ve hak sahipleri itibariyle kayden izlemek",
+        "Kaydileştirilen sermaye piyasası araçlarının merkezi saklamasını yapmak",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt20",
+      "q": "Aşağıdaki kurumlardan hangisi ya da hangileri portföy saklayıcısı olarak yetkilendirilebilir?",
+      "options": [
+        "İstanbul Takas ve Saklama Bankası AŞ",
+        "Bankalar",
+        "Aracı kurumlar",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt21",
+      "q": "MKK üyelerine ilişkin aşağıdakilerden hangisi ya da hangileri doğrudur?",
+      "options": [
+        "Türkiye Cumhuriyet Merkez Bankası ve Sermaye Piyasası Kanunu uyarınca faaliyet gösteren yatırım kuruluşları MKK'ya üye olabilir",
+        "MKK, üyelerinden mesleki sorumluluk sigortası yaptırmalarını isteyebilir",
+        "MKK, üyelerinden üyelik teminatı talep edebilir",
+        "1 ve 3"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt22",
+      "q": "Sermaye Piyasası Kurulu'nun kaydileştirilen sermaye piyasası araçlarına ilişkin kayıtların tutulması ile ilgili düzenlemelerine göre takas günü takas yükümlülüğünün yerine getirilmesi amacı ile satışı yapılan kaydi sermaye piyasa araçları aracı kuruluşlar tarafından yatırımcı hesaplarından ilk aşamada aşağıdaki hesaplardan hangisine aktarılır?",
+      "options": [
+        "TCMB havuz hesabı",
+        "Takas havuz hesabı",
+        "İhraççı havuz hesabı",
+        "Üye hesabı"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt23",
+      "q": "MKK'nın alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri merkezi karşı taraf uygulamasını aşağıdaki kurumlardan hangisi piyasalar veya sermaye piyasası araçları itibariyle zorunlu tutabilir?",
+      "options": [
+        "TCMB",
+        "SPK",
+        "Borsa İstanbul",
+        "Takasbank"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt24",
+      "q": "Kaydileştirilmiş olan sermaye piyasası araçları için merkezi saklama fonksiyonu üstlenen MKK'nın görev ve yetkilerine ilişkin aşağıda yer alanlardan hangisi ya da hangileri doğrudur?",
+      "options": [
+        "Kaydileştirilen sermaye piyasası araçlarının teslim alınması ve imhasını SPK'ca belirlenen esaslar çerçevesinde yerine getirmek",
+        "Sermaye piyasalarına ilişkin verilen verilerin tek bir noktada toplanmasını sağlamaya yönelik elektronik bir veri bankası oluşturmak",
+        "Payları kayden izlenen anonim ortaklık genel kurullarına elektronik ortamda katılım için gerekli teknolojik altyapıyı sağlamak",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt25",
+      "q": "Aşağıda yer alanlardan hangisi kaydileştirilmesine SPK tarafından karar verilmiş bir sermaye piyasası aracı değildir?",
+      "options": [
+        "Pay senetleri",
+        "Rüçhan hakkı senetleri",
+        "Yatırım fonları katılma belgeleri",
+        "Katılım hesapları"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt26",
+      "q": "İstanbul Takas ve Saklama Bankası AŞ merkezi takas yönetmeliği uyarınca Borsa İstanbul'da gerçekleştirilen işlemlerde üyenin belirli bir kıymette hem alış hem de satış yapması durumunda satış toplamı alış toplamına mahsup edilerek çıkan net bakiyeye göre kıymet yükümlülüğünün belirlenmesi yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "Brüt takas",
+        "Takas alacaklarının dağıtılması",
+        "Blokelendirilme",
+        "Çok taraflı netleştirme"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt27",
+      "q": "Bir kolektif yatırım kuruluşu (KYK) portföyüne saklama hizmeti vermek üzere belirlenmiş olan portföy saklayıcısı, aynı zamanda aşağıda yer alan faaliyetlerden hangisi ya da hangilerini aynı KYK'ya sunabilir?",
+      "options": [
+        "Portföy değerleme, operasyon ve muhasebe hizmetleri",
+        "Katılma payı alım satımına aracılık hizmeti",
+        "Pay alım satımına aracılık hizmeti",
+        "1 ve 2"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt28",
+      "q": "Aşağıdakilerden hangisi vadeli işlem ve opsiyon piyasasında garanti fonu kompozisyonu kapsamında bulundurulması gereken minimum nakit oranıdır?",
+      "options": [
+        "%10",
+        "%20",
+        "%30",
+        "%50"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt29",
+      "q": "MKK'nın iş kurallarına ilişkin olarak aşağıdakilerden hangisi ya da hangileri doğrudur?",
+      "options": [
+        "MKK üyelerinin üyelik statüsü ile ilgili her türlü değişiklik MKK tarafından derhal takas kuruluşuna bildirilir",
+        "Kaydileşmiş paylara ilişkin ihraççı kurumun sorumluluklarını yatırım fonları için fon kurucusu üstlenir",
+        "Kaydileşmiş paylara ilişkin ihraççı kurumun sorumluluklarını yabancı yatırım fonları için fon temsilcisi üstlenir",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt30",
+      "q": "MKK üyelerinin temerrüdü halinde başvurulacak teminatların, garanti fonu katkı paylarının ve Takasbank kaynaklarının kullanımında uyulması gereken öncelik sırası uyarınca, Takasbank tarafından karşılanmış riskler için tahsis edilen sermaye aşağıdakilerden hangisinden önce gelir?",
+      "options": [
+        "Temerrüde düşen MKK üyesinin yatırılmış garanti fonu katkı payı",
+        "Diğer MKK üyelerinin yatırılmış garanti fonu katkı payları",
+        "Takasbank'ın kalan sermayesinden yapılan taahhüt",
+        "Sigorta poliçelerinden yapılacak tazminler"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt31",
+      "q": "Aracı kuruluşlar pay piyasasına olan nakit takas borçlarını aşağıdaki yöntemlerden hangisiyle kapatamazlar?",
+      "options": [
+        "Başka bir bankadan EFT",
+        "Takasbank nezdinde başka bir hesaptan virman",
+        "Diğer piyasalardan olan alacakların mahsubu",
+        "Bir sonraki takas günü (T+3) alacaklardan mahsup"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt32",
+      "q": "6362 sayılı Sermaye Piyasası Kanunu kapsamında kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşu aşağıdakilerden hangisidir?",
+      "options": [
+        "Takasbank",
+        "SPK",
+        "MKK",
+        "TSB"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt33",
+      "q": "Aşağıdakilerden hangisi ya da hangileri portföy saklama hizmeti almakla yükümlüdür?",
+      "options": [
+        "Girişim sermayesi yatırım fonları",
+        "Gayrimenkul yatırım fonları",
+        "Menkul kıymet yatırım fonları",
+        "Hepsi (Bireysel emeklilik fonları hariç)"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt34",
+      "q": "Aşağıdakilerden hangisi merkezi karşı taraf üyelerinden Takasbank'a olan aidat, ücret, komisyon ve diğer yükümlülüklerin kendilerine verilen süre içerisinde yerine getirilmemesi durumunda ortaya çıkabilecek zararların telafisi amacıyla alınacak teminat türüdür?",
+      "options": [
+        "Üyelik teminatı",
+        "Garanti fonu",
+        "İşlem teminatı",
+        "Başlangıç teminatı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt35",
+      "q": "Aşağıdakilerden hangisi ya da hangileri MKK üyelik türleri arasında yer alır?",
+      "options": [
+        "Genel MKK üyeliği",
+        "Doğrudan MKK üyeliği",
+        "Global MKK üyeliği",
+        "1 ve 2"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt36",
+      "q": "MKK'ya ilişkin olarak aşağıdakilerden hangisi ya da hangileri doğrudur?",
+      "options": [
+        "SPK, MKK'nın gözetim ve denetim merceğidir",
+        "MKK, üyelerinin kayıtlarının tutulmasındaki hata ve yanlışlar nedeniyle hak sahiplerinin uğrayacağı zararlardan tamamen ve sadece MKK sorumludur",
+        "MKK kayıtlarının yanlış tutulmasından dolayı doğacak zararın tazmini için üyelerin sorumluluk sigortası yaptırmalarına karar verilebilir",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt37",
+      "q": "Sermaye piyasası araçlarının takas, talimat ve işlemleri ile ödeme işlemlerinin geri alınamaması ve iptal edilememesi 6362 sayılı Sermaye Piyasası Kanunu çerçevesinde aşağıdakilerden hangisiyle ifade edilir?",
+      "options": [
+        "Takas kesinliği",
+        "Merkezi karşı taraf",
+        "Merkezi takas",
+        "Kaydi takas"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt38",
+      "q": "Bir kolektif yatırım kuruluşunun portföy saklayıcısının değiştirilmesi ve ilgili süreçler hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Mevcut portföy saklama sözleşmesinin sona ermesi halinde değiştirilebilir",
+        "Portföy saklayıcısının ilgili tebliğinde aranan şartları kaybetmesi halinde kurulun uygun göreceği başka bir portföy saklayıcısı ile sözleşme imzalanması zorunludur",
+        "Yeni sözleşme yürürlüğe girene kadar eski sözleşmeye taraf olan portföy saklayıcısının sorumluluğu devam eder",
+        "SPK portföy saklayıcısının değiştirilmesi yönünde bir talep iletemez"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt39",
+      "q": "Bedelli ve bedelsiz sermaye artırım sürecinde aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "Kaydi sermaye piyasası araçlarına ilişkin MKK tarafından belirlenen bilgiler ihraççı üye tarafından MKK'ya bildirilir",
+        "Bedelli sermaye artırımı işlemlerinde yeni pay alma hakları yatırımcının bildirileceği hesaplara kaydedilir",
+        "Yeni pay alma bedelinin yatırılması üzerine ilgili üyelerin MKS'den bildirimleri ile ilgili yeni pay alma hakları hesaplarından silinir",
+        "Bu işlemlerden biri yanlıştır (Seçenekler içinde belirtilmemiştir)"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt40",
+      "q": "MKK olarak hizmet verilen piyasalarda teminata kabul edilen bir varlık için belirlenen değerleme katsayısının varlığın karşı karşıya olduğu risklerden asgari olarak hangileri için risk primi içermesi beklenir?",
+      "options": [
+        "Piyasa riski, kredi riski ve likidite riski",
+        "Piyasa riski ve operasyonel risk",
+        "Kredi riski",
+        "Hiçbiri"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt41",
+      "q": "Aşağıdakilerden hangisi MKK yönetmeliğinde olağanüstü durumlarda alınabilecek tedbirler başlığı altında belirtilen Takasbank'ın alabileceği tedbirler arasında yer almaz?",
+      "options": [
+        "Teminat çekilmesini süresel olarak sınırlamak",
+        "Teminat oranlarını artırmak",
+        "İşlem limitlerini kısıtlamak",
+        "Üyelik askıya almak"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt42",
+      "q": "Aşağıdakilerden hangisi MKK'ya üye olabilecek kuruluşlardan değildir?",
+      "options": [
+        "İhraççı kuruluşlar",
+        "TCMB",
+        "Yatırım kuruluşları",
+        "MKK'nın kendisi (Bu kuruluşlar üye olamazlar)"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt43",
+      "q": "Aşağıdakilerden hangisi Pay Piyasası takas işlemlerinde T günü sonunda yapılan işlemlerden birisi değildir?",
+      "options": [
+        "Sözleşme düzeltme işlemleri",
+        "Üye bazında ve müşteri bazında netleştirme",
+        "MKK sisteminde takas amaçlı virman blokaj işlemleri",
+        "Müşteri detayında oluşturulan net borç alacak bilgilerin MKK sistemine gönderilmesi"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt44",
+      "q": "Borsa İstanbul Borçlanma Araçları Piyasasında gerçekleştirilen sözleşmeler netleştirilirken aşağıdaki işlemlerden hangisi ya da hangileri netleştirmeye dahil edilmeyerek ilgili depo hesabında bloke olarak tutulur?",
+      "options": [
+        "Repo / Ters Repo Pazarında ters repo ile alınan kıymetler",
+        "Normal alım satım işlemleri",
+        "Ödünç işlemleri",
+        "Hepsi"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt45",
+      "q": "Aşağıdakilerden hangisi MKK nezdinde yer alan ana hesap gruplarından değildir?",
+      "options": [
+        "İhraççı hesabı",
+        "TCMB hesabı",
+        "Merkezi takas kuruluşu hesabı",
+        "Finansal kiralama kuruluşları hesabı"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt46",
+      "q": "Başlangıç teminatı, değişim teminatı, fiziki teslimat teminatı; yukarıdakilerden hangisi ya da hangileri işlem teminatı türleri arasında yer almaktadır?",
+      "options": [
+        "Başlangıç teminatı",
+        "Değişim teminatı",
+        "Fiziki teslimat teminatı",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt47",
+      "q": "Borsa İstanbul Swap piyasasında TL cinsinden yapılan işlemlere ait ana para takas yükümlülüğü en geç saat kaça kadar kapatılmalıdır?",
+      "options": [
+        "16:45",
+        "17:00",
+        "17:15",
+        "18:00"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt48",
+      "q": "Hakkında tedbirli tasfiye kararı verilen yatırım kuruluşlarının MKK nezdindeki kayıtları üzerinde işlem yapma yetkisi kime devredilir?",
+      "options": [
+        "SPK",
+        "Takasbank",
+        "Yatırımcı Tazmin Merkezi (YTM)",
+        "Borsa İstanbul"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt49",
+      "q": "Üyenin temerrüde düşmesi halinde, temerrüdün ortaya çıktığı andan çözümlenmesine kadar geçen sürede piyasada meydana gelebilecek fiyat değişimlerini karşılamak için başlangıçta talep edilen ve pozisyonların cari değerleri ile piyasa fiyatları arasındaki fark için talep edilen teminatlar sırasıyla hangileridir?",
+      "options": [
+        "Başlangıç teminatı - Değişim teminatı",
+        "Değişim teminatı - Garanti teminatı",
+        "Üyelik teminatı - İşlem teminatı",
+        "Sürdürme teminatı - Başlangıç teminatı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt50",
+      "q": "Aşağıdakilerden hangisi ya da hangileri tahvil nakit takas borç ödeme yöntemlerinden birisidir?",
+      "options": [
+        "EFT kanalıyla",
+        "Takasbank nezdindeki başka bir hesaptan virman",
+        "Diğer piyasalardan olan alacakların mahsubu",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt51",
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul Borçlanma Araçları Piyasasında kendi adlarına işlem yapılabilecek kuruluşlardandır?",
+      "options": [
+        "Piyasa üyesi bankalar",
+        "Borsa üyesi aracı kurumlar",
+        "Bireysel yatırımcılar",
+        "A ve B"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=B71DtaSy6yg",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt52",
+      "q": "Aşağıdakilerden hangisi ya da hangileri MKK üyesidir?",
+      "options": [
+        "Yatırım kuruluşları",
+        "İhraççı kuruluşlar",
+        "Takasbank ve TCMB",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt53",
+      "q": "MKK üyeliği aşağıdakilerden hangi şartlarda iptal edilmez?",
+      "options": [
+        "Genel kurul kararı ile sona ermesi",
+        "Yatırım kuruluşlarının saklama izninin iptali",
+        "Üyeliğin tüzel kişiliğinin sona ermesi",
+        "Hiçbiri (Seçeneklerdeki tüm durumlar üyeliği iptal edebilir)"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt54",
+      "q": "Kaydi sermaye piyasası araçları ihracına ilişkin geçici kayıtların izlenmesi amacıyla tutulan ihraççı alt hesabı hangisidir?",
+      "options": [
+        "İhraççı havuz hesabı",
+        "Ortak hesabı",
+        "Bilinmeyen ortak hesabı",
+        "DİBS depo hesabı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt55",
+      "q": "MKT üyeleri nelerdir?",
+      "options": [
+        "Genel takas üyesi ve doğrudan takas üyesi",
+        "İhraççı üye ve yatırımcı üye",
+        "Borsa üyesi ve banka üyesi",
+        "Merkezi üye ve yerel üye"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt56",
+      "q": "Doğrudan MKT üyeleri ve genel MKT üyelerinin yetki farkı nedir?",
+      "options": [
+        "Doğrudan MKT üyeleri portföy ve müşteri işlemleri yaparken, genel MKT üyeleri ayrıca işlemci kuruluş işlemleri de gerçekleştirmeye yetkilidir",
+        "Genel MKT üyeleri sadece portföy işlemleri yapar",
+        "Doğrudan MKT üyeleri sadece müşteri işlemleri yapar",
+        "Fark yoktur"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt57",
+      "q": "Takasbank, faaliyetleri durdurulan veya üyelikten çıkarılan kurumun takas işlemlerinin tamamlanması amacıyla aşağıdaki tedbirlerden hangisini uygulamaya yetkilidir?",
+      "options": [
+        "Üyenin MKK nezdindeki hesapları üzerinde işlem yapmasını engellemek",
+        "Takas borçlarının kapatılması amacıyla üyenin takas alacaklarını kullanmak",
+        "Üyenin teminatlarına başvurmak",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt58",
+      "q": "Takasbank tarafından karşılanmış riskler ve Takasbank'ın kalan sermayesine yapılan taahhüt kapsamında bir sonraki dönem için tahsis ve taahhüt edeceği sermaye miktarlarını yılda kaç kez günceller?",
+      "options": [
+        "Yılda bir kez",
+        "Yılda iki kez",
+        "Üç ayda bir",
+        "Altı ayda bir"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt59",
+      "q": "Aşağıdakilerden hangisi ya da hangileri portföy saklayıcısının görevleridir?",
+      "options": [
+        "KYK'ya ait varlıkların ayrı ve hasara uğramayacak şekilde saklanması",
+        "Varlıkları KYK bazında düzenli olarak takip etmek",
+        "Varlıkları kendi aktifleriyle ilişkilendirememek",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt60",
+      "q": "Portföy saklayıcılarının gözetim, denetim ile iç denetim sistemleri aşağıdakilerden hangisidir?",
+      "options": [
+        "Bağımsız denetim, teftiş sistemi, risk yönetim sistemi ve iç kontrol sistemi",
+        "Yönetim kurulu denetleme sistemi",
+        "Müşteri şikayet sistemi",
+        "B ve C"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt61",
+      "q": "Aracı kurumlar takas merkezine olan borçlarını kapatmadıkça takastan olan alacakları kendilerine ödenmez. Bu ifade hangi prensibi ifade eder?",
+      "options": [
+        "Teslim karşılığı ödeme",
+        "Netleştirme",
+        "Müşteri önceliği",
+        "Kaydi takas"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt62",
+      "q": "Pay Piyasası takas sürecinde işleme ait düzeltme hangi aşamada yapılabilir?",
+      "options": [
+        "T günü",
+        "T+1",
+        "T+2",
+        "T+3"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt63",
+      "q": "Pay Piyasası temerrüt işlemleri için yükümlülükler saat kaça kadar yerine getirilmez ise temerrüde düşülür?",
+      "options": [
+        "16:00",
+        "16:45",
+        "17:00",
+        "17:15"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt64",
+      "q": "Pay Piyasası gün içi ve gün sonu teminat tamamlama süreleri nedir?",
+      "options": [
+        "Gün içi 2 saat, gün sonu ertesi iş günü saat 15:00",
+        "Gün içi 1 saat, gün sonu aynı gün 17:00",
+        "Gün içi 4 saat, gün sonu ertesi gün 09:00",
+        "Gün içi 2 saat, gün sonu aynı gün 16:00"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt65",
+      "q": "Aşağıdakilerden hangisi kolektif yatırım kuruluşları arasında yer almaz?",
+      "options": [
+        "Yatırım fonları",
+        "Takasbank",
+        "Yatırım ortaklıkları",
+        "Hepsi birer kolektif yatırım kuruluşudur"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt66",
+      "q": "Aşağıdakilerden hangisi portföy saklama hizmeti verebilir?",
+      "options": [
+        "Takasbank",
+        "TCMB",
+        "Bankalar",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://www.youtube.com/watch?v=-Z530Zr9-f0",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }
