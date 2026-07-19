@@ -1471,6 +1471,366 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-yt1",
+      "q": "Aşağıdakilerden hangisi ya da hangileri MKK'nın kuruluş amaçlarındandır? (1. Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek 2. Kaydileştirilen sermaye piyasası araçları ve bunlara bağlı hakları elektronik ortamda üyeler ve hak sahipleri itibariyle kayden izlemek 3. Kaydileştirilen sermaye piyasası araçların merkezi saklamasını yapmak)",
+      "options": [
+        "Yalnız 1",
+        "1 ve 2",
+        "2 ve 3",
+        "1, 2 ve 3",
+        "Hiçbiri"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt2",
+      "q": "Aşağıdaki kurumlardan hangisi ya da hangileri portföy saklayıcısı olarak yetkilendirilebilir? (1. Takas İstanbul ve Saklama Bankası AŞ, 2. Bankalar, 3. Aracı kurumlar, 4. Yatırım ortakları)",
+      "options": [
+        "1 ve 2",
+        "1, 2 ve 3",
+        "2, 3 ve 4",
+        "1, 2, 3 ve 4",
+        "Yalnız 4"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt3",
+      "q": "Aşağıdakilerden hangisi vadeli işlem ve opsiyon piyasası garanti fonu teminatları arasında yer almaz?",
+      "options": [
+        "Türk Lirası",
+        "Döviz",
+        "Devlet İç Borçlanma Senetleri",
+        "Şemsiye Fonları",
+        "Gümüş"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt4",
+      "q": "İstanbul Takas ve Saklama Bankası AŞ Pay Piyasası takas işlemleri uygulama esaslarına göre aşağıdakilerden hangisi takas prensiplerinden birisi değildir?",
+      "options": [
+        "Müşteri Önceliği",
+        "Netleştirme",
+        "Merkezi Takas",
+        "Kaydi Takas",
+        "Aynı Gün Valörlü İşlemler"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt5",
+      "q": "MKT'ların alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri 'Merkezi Karşı Taraf' uygulamasını aşağıda yer alan kurumlardan hangisi piyasalar veya sermaye piyasası araçları itibariyle zorunlu tutabilir?",
+      "options": [
+        "TCMB",
+        "SPK",
+        "Borsa İstanbul",
+        "Takasbank",
+        "MKK"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt6",
+      "q": "Aşağıdakilerden hangisi vadeli işlem ve opsiyon piyasası işlem teminatları arasında yer almaz?",
+      "options": [
+        "Devlet İç Borçlanma Senetleri",
+        "TC Hazine ve Maliye Bakanlığı'nca ihraç edilen Eurobond",
+        "Pay / Hisse Senedi",
+        "G7 ülkeleri tarafından ihraç edilen iç borçlanma senetleri",
+        "Hisse Senedi Şemsiye Fonu Payları"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt7",
+      "q": "Aşağıdakilerden hangisi MKK nezdinde hesap açabilecek kuruluşlardan birisi değildir?",
+      "options": [
+        "Takasbank",
+        "Aracı Kurumlar",
+        "Bankalar",
+        "TCMB",
+        "TSB"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt8",
+      "q": "MKK nezdindeki yatırımcı hesaplarına ve ortak hesaplarına üyenin tasarruf yetkisini sınırlamaya yönelik blokaj kimler tarafından uygulanabilir?",
+      "options": [
+        "Hesap Sahipleri",
+        "İhraççı Kuruluş",
+        "Yatırım Kuruluşu",
+        "Portföy Yönetim Şirketi",
+        "Merkezi Takas Kuruluşu"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt9",
+      "q": "Aşağıdakilerden hangisi MKK'nın ortaklık yapısında yer almaz?",
+      "options": [
+        "Takasbank",
+        "Borsa İstanbul",
+        "TSBP",
+        "TCMB",
+        "Diğer ortaklar"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/B71DtaSy6yg?si=aY6-uabRW2ExKdbo",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt10",
+      "q": "SPK kapsamında Merkezi Karşı Taraf (MKT) ne demektir?",
+      "options": [
+        "Alıcı ile satıcının buluşturulduğu piyasa",
+        "Alıcı ile satıcının yer değiştirdiği piyasa",
+        "Alıcı ile satıcının birlikte olduğu piyasa",
+        "Alıcıya karşı satıcı, satıcıya karşı alıcı rolünün üstlenildiği piyasa",
+        "Alıcıya karşı alıcı, satıcıya karşı satıcı rolünün üstlenildiği piyasa"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt11",
+      "q": "MKT üyeleri ... ve ... olmak üzere ikiye ayrılır. Boşluklara ne gelmelidir?",
+      "options": [
+        "Özel takas üyesi / Genel takas üyesi",
+        "Genel takas üyesi / Doğrudan takas üyesi",
+        "Havuz takas üyesi / Doğrudan takas üyesi",
+        "İhraççı / Doğrudan takas üyesi",
+        "Genel takas üyesi / Havuz takas üyesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt12",
+      "q": "Aşağıdakilerden hangileri takas sistemi unsurlarıdır?",
+      "options": [
+        "Transfer, saklama, teminat yönetimi ve diğer sistemler",
+        "Sadece saklama ve teminat yönetimi",
+        "Merkezi takas ve virman işlemleri",
+        "Takas alacakları ve çok taraflı netleştirme",
+        "Gün içi teminat ve gün sonu teminat"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt13",
+      "q": "Takas Bank'ın üyelerinden Takas Bank'a olan aidat, ücret, komisyon ve diğer yükümlülüklerini kendilerine verilen süre içerisinde yerine getirmemesi halinde zararını karşılayabilmek amacıyla talep ettiği teminatın adı nedir?",
+      "options": [
+        "Üyelik Teminatı",
+        "Giriş Teminatı",
+        "Sürdürme Teminatı",
+        "Garanti Fonu",
+        "İşlem Teminatı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt14",
+      "q": "Portföy saklayıcısının saklama hizmet birimi yöneticisinin en az kaç yıl tecrübesi ve hangi düzey lisansa sahip olması gereklidir?",
+      "options": [
+        "3 Yıl Tecrübe / Düzey 1 Lisans",
+        "3 Yıl Tecrübe / Düzey 3 Lisans",
+        "5 Yıl Tecrübe / Düzey 1 Lisans",
+        "5 Yıl Tecrübe / Düzey 2 Lisans",
+        "5 Yıl Tecrübe / Düzey 3 Lisans"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt15",
+      "q": "Aracı kurumlar takas merkezine olan borçlarını kapatmadıkça takastan olan alacakları kendilerine ödenmez. Yukarıda yer alan ifade takas prensiplerinden hangisini ifade eder?",
+      "options": [
+        "Netleştirme",
+        "Merkezi Karşı Taraf",
+        "Teslim Karşılığı Ödeme",
+        "Merkezi Takas",
+        "Fiziki Takas"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt16",
+      "q": "Pay piyasası takas sürecinde aşağıdaki hangi adımda işleme ait düzeltme yapılabilir?",
+      "options": [
+        "T (Borsa günü)",
+        "T + 1",
+        "T + 2",
+        "T + 3",
+        "Düzeltme yapılamaz"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt17",
+      "q": "Pay piyasası temerrüt işlemleri saat kaça kadar yükümlülükler yerine getirilmez ise temerrüde düşürülür?",
+      "options": [
+        "15:30",
+        "16:00",
+        "16:30",
+        "16:45",
+        "17:00"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-yt18",
+      "q": "Ters repo ile alınan menkul kıymetin repo işlemi ile başka bir işlemde kullanılması sonucunda oluşan işleme ne denir?",
+      "options": [
+        "Repo",
+        "Ters Repo",
+        "Zincirleme Repo",
+        "Açık Repo",
+        "Sürekli Repo"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/-Z530Zr9-f0?si=eahJU1P5zNg0BxR4",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

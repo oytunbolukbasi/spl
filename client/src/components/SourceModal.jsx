@@ -1,6 +1,13 @@
 import { BookOpen, FileText, TriangleAlert } from 'lucide-react';
 
-// Bir sorunun kaynağını gösteren modal: ünite, konu/bölüm, sayfa + "Notu Aç"
+function YoutubeIcon({ size = 18 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" style={{ verticalAlign: '-3px' }}>
+      <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.5 31.5 0 0 0 0 12a31.5 31.5 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.5 15.5v-7l6.3 3.5-6.3 3.5z"/>
+    </svg>
+  );
+}
+
 export default function SourceModal({ question, units, onClose }) {
   const unit = units.find((u) => u.code === question.unit);
   const src = question.source || {};
@@ -46,6 +53,16 @@ export default function SourceModal({ question, units, onClose }) {
               rel="noopener noreferrer"
             >
               <FileText size={18} /> Notu İlgili Sayfada Aç
+            </a>
+          )}
+          {src.youtube && (
+            <a
+              className="btn yt-btn"
+              href={src.youtube}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <YoutubeIcon /> YouTube'da İzle
             </a>
           )}
           <button className="btn ghost" onClick={onClose}>

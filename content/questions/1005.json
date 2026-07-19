@@ -2080,6 +2080,816 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1005-yt1",
+      "q": "Aşağıdakilerden hangisi aracı kurumların kuruluşuna izin verilebilmesi için sağlaması gereken şart yanlış verilmiştir?",
+      "options": [
+        "Anonim ortaklık şeklinde kurulması",
+        "Payların tamamının hamiline yazılmış olması",
+        "Payların nakit karşılığı ödenmiş olması",
+        "Ortaklık yapısının şeffaf ve açık olması",
+        "Asgari öz sermayesinin yatırılmış olması"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt2",
+      "q": "Aşağıdakilerden hangisi kaldıraçlı işlem yapmaya yetkilidir?",
+      "options": [
+        "Aracı kurum",
+        "Mevduat ve katılım bankaları",
+        "Kalkınma ve yatırım bankaları",
+        "Yatırım fonları",
+        "Hiçbiri"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt3",
+      "q": "Kaldıraçlı işlemlerin başlangıç teminatı kaç TL'dir?",
+      "options": [
+        "10.000",
+        "50.000",
+        "30.000",
+        "2.000.000",
+        "Teminat aranmaz"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt4",
+      "q": "Bir müşteriye verilmiş olan müşteri ve hesap numarası, çerçeve sözleşmesinin sona erme tarihi üzerinden kaç yıl geçmedikçe başka bir müşteriye verilmemektedir?",
+      "options": [
+        "2 yıl",
+        "4 yıl",
+        "10 yıl",
+        "5 yıl",
+        "8 yıl"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt5",
+      "q": "Hangisi dar yetkili aracı kurumlar tarafından yerine getirilebilir?",
+      "options": [
+        "Sınırlı saklama",
+        "İşlem aracılığı",
+        "En iyi gayret aracılığı",
+        "Yatırım danışmanlığı",
+        "Hepsi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt6",
+      "q": "Hangisi yan hizmetler arasında yer almaz?",
+      "options": [
+        "Sermaye piyasası ile ilgili danışmanlık hizmeti",
+        "Borçlanma yoluyla finansman aracılık hizmeti",
+        "Portföy aracılığı",
+        "Servet yönetimi ve finansal planlama",
+        "Hiçbiri"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt7",
+      "q": "Aşağıdakilerden hangisini yerine getirebilmek için yetki belgesi gerekmez?",
+      "options": [
+        "Servet yönetimi ve finansal planlama",
+        "Emir iletimine aracılık",
+        "Portföy yöneticiliği",
+        "Sınırlı saklama"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt8",
+      "q": "Aşağıdakilerden hangisi paya dayalı kitle fonlaması yoluyla fon toplayamazlar?",
+      "options": [
+        "Anonim şirketler",
+        "Limited şirketler",
+        "Halka açık ortaklıklar",
+        "Dernekler"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt9",
+      "q": "Hangisi kısmi yetkili aracı kurumlar tarafından sunulabilen bir faaliyettir?",
+      "options": [
+        "İşlem aracılığı",
+        "Portföy aracılığı",
+        "Genel saklama",
+        "Aracılık yüklenimi",
+        "Hepsi"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt10",
+      "q": "Aşağıdakilerden hangisi uzaktan kimlik tespitinde kullanılabilecek yöntemlerden biridir?",
+      "options": [
+        "Müşterinin şubeye çağrılması",
+        "Müşterinin sadece yazılı imzası alınması",
+        "Kullanılan kimlik belgesinin belgeyi çıkaran yetkili makam tarafından verildiği ve üzerindeki bilgilerin değiştirilmediğinin kanıtlandığı",
+        "Ehliyet ile işlem yapılması",
+        "Hepsi"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt11",
+      "q": "Kaldıraçlı işlemlerde müşterinin deneme hesabı asgari kaç iş günü çalıştırması gerekir?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt12",
+      "q": "Aracı kurumlar ödenmiş sermayelerin yüzde kaçından fazlasına sahip olan ortaklıklara iştirak edemezler?",
+      "options": [
+        "%10",
+        "%20",
+        "%33",
+        "%50",
+        "%75"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt13",
+      "q": "Aşağıdakilerden hangisi sermaye piyasası kanununda tanımlanan yatırım hizmet ve faaliyetlerinden birisi değildir?",
+      "options": [
+        "Sermaye piyasası araçları ile ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi",
+        "Sermaye piyasası araçlarının kendi hesabından alım ve satımı",
+        "Sermaye piyasası araçlarının halka arzında yüklenimde bulunarak satışa aracılık edilmesi",
+        "Finansal kiralama hizmeti",
+        "Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar yerlerinin işletilmesi"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt14",
+      "q": "Bireysel portföy yöneticiliği veya yatırım danışmanlığı kapsamında müşteriye sunulacak hizmet ile müşterinin yatırım amaçları, mali durumu ile bilgi ve tecrübesinin uyumlu olup olmadığının yetkili kuruluşlar tarafından değerlendirilmesine ne ad verilir?",
+      "options": [
+        "Stres testi",
+        "Uygunluk testi",
+        "SWAT analizi",
+        "Yerindelik testi",
+        "Yatırım tavsiyesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt15",
+      "q": "Aşağıdakilerden hangisi yerindelik testinin sonucuna uygun olarak sunulacak faaliyetlerden birisidir?",
+      "options": [
+        "Servet yönetimi",
+        "Genel yatırım tavsiyesi",
+        "Bireysel portföy yöneticiliği",
+        "Alım satıma aracılık faaliyeti",
+        "Finansal planlama hizmeti"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt16",
+      "q": "Aşağıdakilerden hangisi aracı kurumların merkez dışı örgütlerindendir?",
+      "options": [
+        "Acente",
+        "Şube",
+        "Bayi",
+        "İştirak",
+        "Temsilcilik"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt17",
+      "q": "Sermaye piyasası araçlarının halka arzında yüklenimde bulunarak satışa aracılık edilmesi kapsamında ihraç edilecek sermaye piyasası araçlarının halka arz yoluyla satışa sunulmasının ve satılmayan kısmının bedeli satış süresi sonunda tam ve nakten ödenerek satın alınmasının satışı yapana karşı taahhüt edilmesini hangi kavram ifade eder?",
+      "options": [
+        "Bakiye yüklenim",
+        "Kısmen tümünü yüklenim",
+        "Kısmen bakiye yüklenim",
+        "Tümünü yüklenim",
+        "En iyi gayret aracılığı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt18",
+      "q": "Sermaye piyasası mevzuatına göre işlem aracılığı faaliyeti, en iyi gayret aracılığı faaliyeti, sınırlı saklama hizmeti ve portföy yöneticiliği faaliyetlerinden herhangi birini veya tamamını yürütecek olan aracı kurumlar yetki açısından ne tür kurumlardır?",
+      "options": [
+        "Dar yetkili aracı kurum",
+        "Kısmi yetkili",
+        "Tam yetkili",
+        "Sınırsız yetkili",
+        "Geniş yetkili"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt19",
+      "q": "Kitle fonlamasının üç ana bileşeni kimlerdir?",
+      "options": [
+        "Girişimciler, firmalar, hükümet",
+        "Halk, hükümet, yatırımcılar",
+        "Kobiler, bankalar, yatırımcılar",
+        "Girişimciler, kitle fonlama platformları, yatırımcılar",
+        "Kitle fonlama platformları, yatırımcılar, bankalar"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt20",
+      "q": "Kaldıraçlı işlemlerde işlem yapmak için yatırılan teminat tutarına karşı alınabilecek üst pozisyon tutarı ne kadardır?",
+      "options": [
+        "25 katı",
+        "10 katı",
+        "50 katı",
+        "100 katı",
+        "200 katı"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt21",
+      "q": "Aşağıdakilerden hangisi alım satıma aracılık faaliyetlerindendir?",
+      "options": [
+        "Emir iletimine aracılık",
+        "İşlem aracılığı",
+        "Portföy aracılığı",
+        "En iyi gayret aracılığı"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt22",
+      "q": "Aşağıdaki işlemlerden hangisi veya hangileri kaldıraçlı işlemler kapsamı dışında yer almaktadır? (1: Kaldıraçlı işlemlere konu varlıkların fiziki alım satımı, 2: Bankalar arasında yapılan işlemler, 3: Kaldıraç sınırının belirlenmesi, 4: Bankalar tarafından aracı kurumlara likidite sağlanması amacıyla yapılan işlemler)",
+      "options": [
+        "1, 2 ve 4",
+        "Yalnız 3",
+        "1 ve 2"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt23",
+      "q": "Kaldıraçlı işlemlerde işlem yapmak için hesabınızda ne kadar teminat olmalıdır?",
+      "options": [
+        "250 gram saf altın",
+        "1 milyon TL nakit",
+        "100.000",
+        "50.000 veya muadil döviz"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt24",
+      "q": "Aşağıdakilerden hangisi bireysel portföy yöneticiliği faaliyetinde bulunabilirler?",
+      "options": [
+        "Aracı kurumlar, mevduat bankaları",
+        "Kalkınma ve yatırım bankaları, portföy yönetim şirketleri",
+        "Kolektif yatırım şirketleri, portföy yönetim şirketleri",
+        "Emeklilik yatırım şirketleri, kalkınma ve yatırım bankaları"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt25",
+      "q": "Yerindelik testi kapsamında aşağıdakilerden hangisinin müşteriye sorulmasına gerek yoktur?",
+      "options": [
+        "Müşterinin yatırım amaçları",
+        "Müşterinin üniversite diploması",
+        "Müşterinin mali durumu",
+        "Müşterinin bilgi ve tecrübesi"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt26",
+      "q": "Aşağıdakilerden hangisi yatırım danışmanlığı faaliyetinde bulunamazlar?",
+      "options": [
+        "Aracı kurumlar",
+        "Mevduat bankaları",
+        "Kalkınma ve yatırım bankaları",
+        "Portföy yönetim şirketleri",
+        "Ticari bankalar"
+      ],
+      "answer": 4,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt27",
+      "q": "Sermaye piyasası araçlarının halka arz edilmesi ile ilgili olarak aşağıdakilerden hangisi veya hangileri doğrudur? (Konsorsiyum oluşturması, talep toplaması, halka arz sürecinin belirlenmesine yönelik çalışmalar, izahname onayı için kurula başvuruda bulunması)",
+      "options": [
+        "Hepsi",
+        "Yalnız Konsorsiyum oluşturması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt28",
+      "q": "Aşağıdakilerden hangisi yan hizmet değildir?",
+      "options": [
+        "Sermaye piyasası ile ilgili danışmanlık hizmeti sunulması",
+        "Servet yönetimi ve finansal planlama yapılması",
+        "Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması",
+        "Bireysel portföy yöneticiliği",
+        "Aracılık yüklenimi yürütülmesi ile ilgili hizmetlerin sunulması"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt29",
+      "q": "Genel yatırım tavsiyesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Sermaye piyasası araçlarının mevcut veya gelecekteki fiyatları üzerine tavsiye verilebilir",
+        "Tavsiyeleri yönlendirici nitelikte olabilir",
+        "Müşterinin getiri ve risk tercihleri dikkate alınır",
+        "Belli bir gruba değil genel olarak tavsiye verilir"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt30",
+      "q": "Aşağıdakilerden hangisi aracı kurum kurucu şartları arasındadır? (Müflis olmaması, kanunda yazılı suçlardan mahkumiyeti olmaması, gerekli mali gücün olması, işin gerektirdiği dürüstlük ve itibara sahip olması)",
+      "options": [
+        "Hepsi",
+        "Yalnız gerekli mali gücün olması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt31",
+      "q": "Aracı kurumların faaliyet iznini aldıktan ne kadar süre içerisinde faaliyetlerine başlamaları gerekir?",
+      "options": [
+        "3 iş günü",
+        "1 ay",
+        "10 iş günü",
+        "6 ay"
+      ],
+      "answer": 3,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt32",
+      "q": "Aşağıdakilerden hangisi %100 öz kaynak olarak kabul edilebilir?",
+      "options": [
+        "Borsa yatırım fonu",
+        "Nakit, devlet tahvili, hazine bonosu",
+        "Hisse senedi",
+        "Şemsiye hisse senetleri yatırım fonları",
+        "Borsa İstanbul fonları"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt33",
+      "q": "Aracı kurumların merkez dışı örgüt açma izinleri ve işletme adı kullanımı izinleri kaç iş günü içerisinde ticaret siciline tescil ettirmesi gerekir?",
+      "options": [
+        "3 iş günü",
+        "7 iş günü",
+        "10 iş günü",
+        "15 iş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt34",
+      "q": "Öz kaynak oranı .... altına düşerse öz kaynak tamamlama bildirimi yapılarak .... iş günü içerisinde başlangıç olan .... seviyesine çıkarılması talep edilir. Boşluklara ne gelmelidir?",
+      "options": [
+        "%35 - 2 iş günü - %50",
+        "%20 - 3 iş günü - %35",
+        "%10 - 5 iş günü - %25"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt35",
+      "q": "Aşağıdakilerden hangisi müşteri emir formlarında bulunması gereken hususlardır? (1: Müşteri numarası ve hesap numarası, 2: Sıra numarası, 3: Emir tipi, 4: Emri yapacak kişinin öğrenim durumu)",
+      "options": [
+        "1, 2 ve 3",
+        "Hepsi",
+        "Yalnız 4"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt36",
+      "q": "Aracı kurum yönetim kurulu kaç kişiden oluşmalı ve kaç yıllık lisans diplomasına sahip olmalıdır?",
+      "options": [
+        "3 kişi ve 4 yıllık lisans",
+        "5 kişi ve 2 yıllık ön lisans",
+        "2 kişi ve 4 yıllık lisans"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt37",
+      "q": "Kitle fonlama tebliğine göre platformlara ilişkin aşağıdaki kuruluş esaslarından hangisi yanlıştır?",
+      "options": [
+        "Limited olarak kurulması",
+        "Sermayesinin 15 milyon TL ve nakden ödenmiş olması",
+        "Payların tamamının nama yazılmış olması",
+        "Yönetim kurulunun asgari 3 kişiden oluşmuş olması",
+        "Kurucu tebliğde belirtilen şartların sağlanmış olması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt38",
+      "q": "Aşağıdakilerin hangisi yatırım kuruluşu personeli ile ilgili ilkeler arasında değildir?",
+      "options": [
+        "Mesleki yeterlilik ilkesi",
+        "Mesleki özen ve titizlik ilkesi",
+        "Müşteri teyit ilkesi",
+        "Dürüstlük ilkesi",
+        "Sır saklama ilkesi"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt39",
+      "q": "Aşağıdaki hangi şartların sağlanması halinde profesyonel müşteri olarak kabul edilebilir? (Son bir yıl içinde her 3 aylık dönemde en az 500.000 Türk lirası hacminde nakit mevduatların veya sahip olduğu varlığın 1 milyon TL tutarını aşması, finansal piyasalarda en az 5 yıl ihtisas personeli olarak çalışılması, finansal piyasalarda en az 2 yıl yönetici pozisyonunda görev yapmış olması)",
+      "options": [
+        "Hepsi",
+        "Hiçbiri"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt40",
+      "q": "Aracı kurumlarının faaliyete geçmesi için aşağıdaki şartlardan hangileri aranır? (Kuruluş şartlarının kaybedilmemiş olması, asgari kuruluş sermayesinin nakden ödenmiş olması, organizasyon yapısını oluşturmuş olması, mevzuatta öngörülen teminatların tesis edilmiş olması)",
+      "options": [
+        "Hepsi",
+        "Yalnız organizasyon yapısını oluşturmuş olması"
+      ],
+      "answer": 0,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt41",
+      "q": "Müşteri şikayetlerine ilişkin kayıtlarda aşağıdaki bilgilerin hangisinin yer almasına gerek yoktur?",
+      "options": [
+        "Şikayet sahibinin adı soyadı",
+        "Şikayetin saati",
+        "Şikayet tarihi",
+        "Şikayete konu personelinin ismi",
+        "Mevzuatın hangi hükümlerine aykırılık iddiasında olduğu"
+      ],
+      "answer": 1,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-yt42",
+      "q": "Aracı kurum genel müdür ve genel müdür yardımcılarının en az kaç yıllık tecrübeye sahip olmaları gerekir?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "keyAnswer": null,
+      "explanation": null,
+      "source": {
+        "youtube": "https://youtu.be/zehU3_VIqMw?si=Of4PZ9yXlXDd_xXn",
+        "section": "YouTube Soru Çözümü"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }
