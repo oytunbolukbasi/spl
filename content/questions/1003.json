@@ -3046,6 +3046,306 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1003-n1",
+      "q": "Aşağıdakilerden hangisi pay sahiplerinin yükümlülüklerinden biri değildir?",
+      "options": [
+        "Sermaye koyma borcu",
+        "Sadakat borcu",
+        "Sır saklama borcu",
+        "Kâr payı dağıtım borcu"
+      ],
+      "answer": 3,
+      "explanation": "Pay sahiplerinin yükümlülükleri sermaye koyma borcu, sadakat borcu, sır saklama borcu ve ikincil borçlardır. Kâr payı dağıtımı ortaklığın yükümlülüğüdür, pay sahibinin değil.",
+      "source": "1003 s.6",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n2",
+      "q": "Pay sahiplerinin 'sadakat borcu' ne anlama gelir?",
+      "options": [
+        "Şirketin sırlarını üçüncü kişilerle paylaşmama yükümlülüğü",
+        "Taahhüt ettikleri sermaye payını şirkete ödeme yükümlülüğü",
+        "Şirketin çıkarlarını gözetme ve şirkete zarar verecek davranışlardan kaçınma yükümlülüğü",
+        "Esas sözleşme ile ortaklara getirilen ek mali yükümlülükler"
+      ],
+      "answer": 2,
+      "explanation": "Sadakat borcu, pay sahiplerinin şirketin çıkarlarını gözetme ve şirkete zarar verecek davranışlardan kaçınma yükümlülüğüdür. Sır saklama borcu ise şirket sırlarını koruma yükümlülüğüdür.",
+      "source": "1003 s.6",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n3",
+      "q": "'Pay benzeri menkul kıymetler' kavramı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Sermayede temsil edilmesi zorunlu olmayan menkul kıymetlerdir",
+        "Sabit bir getiri taahhüdü barındırmazlar",
+        "Pay sahipliği haklarından birini ya da bir kısmını verirler",
+        "İhraççı ortaklığın bünyesiyle doğrudan ilişkisi bulunmaz"
+      ],
+      "answer": 3,
+      "explanation": "Pay benzeri menkul kıymetler, ihraççı ortaklığın bünyesinden çıkan ve ona doğrudan etki eden bir nitelik gösterirler. Sermayede temsil edilmesi şart değildir ancak menfaatleri ihraççıya bağlıdır.",
+      "source": "1003 s.56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n4",
+      "q": "SPKn'nun 3-1/o maddesine göre menkul kıymetler hangi iki ana sınıfa ayrılır?",
+      "options": [
+        "Borçlanma araçları ve türev araçlar",
+        "Paylar ve pay benzeri diğer kıymetler ile borçlanma araçları ve depo sertifikaları",
+        "Hisse senetleri ve tahviller",
+        "Sermaye piyasası araçları ve para piyasası araçları"
+      ],
+      "answer": 1,
+      "explanation": "SPKn 3-1/o'ya göre menkul kıymetler: 1) Paylar, pay benzeri diğer kıymetler ile paylara ilişkin depo sertifikaları, 2) Borçlanma araçları, menkul kıymetleştirilmiş varlık ve gelirlere dayalı borçlanma araçları ile bu araçlara ilişkin depo sertifikaları olarak ikiye ayrılır.",
+      "source": "1003 s.56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n5",
+      "q": "Fon çıkışı gerektirmeyen sermaye azaltımlarında aşağıdakilerden hangisi uygulanmaz?",
+      "options": [
+        "Sadece pay sayısının azaltılması",
+        "TTK'nın 473. maddesinin ikinci fıkrası",
+        "TTK'nın 474. ve 475. maddeleri",
+        "Kurula başvuru zorunluluğu"
+      ],
+      "answer": 0,
+      "explanation": "Fon çıkışı gerektirmeyen sermaye azaltımları sadece pay sayısının azaltılması suretiyle yapılabilir. Bu durumda TTK 473/2, 474 ve 475. maddeleri uygulanmaz.",
+      "source": "1003 s.36",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n6",
+      "q": "Sermaye azaltım tutarının bilanço açığından fazla olması durumunda aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Sermaye azaltımından vazgeçilmesi",
+        "Sermaye artırımına, sermaye azaltımı ile eş anlı olarak karar verilmesi",
+        "SPK'dan ek onay alınması",
+        "Alacaklılara çağrı yapılması"
+      ],
+      "answer": 1,
+      "explanation": "Bilanço açığının bulunmaması veya sermaye azaltım tutarının bilanço açığından fazla olması durumunda, ortaya çıkacak fazlalık için sermaye artırımına, sermaye azaltımı ile eş anlı olarak karar verilmesi gerekir.",
+      "source": "1003 s.36",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n7",
+      "q": "Paya dönüştürülebilir tahvillerin (PDT) itfa planına bağlı dönüştürmesinde, dönüştürme süresinde ortaklığa başvurmayan PDT sahiplerinin iradeleri nasıl değerlendirilir?",
+      "options": [
+        "Dönüştürme hakkı düşer",
+        "Otomatik olarak paya dönüştürülür",
+        "Nakden ödenmesi şeklinde değerlendirilir",
+        "Bir sonraki dönüştürme dönemine aktarılır"
+      ],
+      "answer": 2,
+      "explanation": "İtfa planına bağlı dönüştürmede, on iş günü içinde ortaklığa dönüştürme talebiyle başvuruda bulunmayan PDT sahiplerinin iradeleri PDT bedellerinin nakden ödenmesi şeklinde değerlendirilir.",
+      "source": "1003 s.76",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n8",
+      "q": "PDT'lerin ortaklık talebine bağlı dönüştürmesinde, dönüştürmeye ilişkin talep toplama süresinin başlangıç tarihinden en az kaç gün önce KAP'ta özel durum açıklaması yapılmalıdır?",
+      "options": [
+        "5 (beş) gün",
+        "10 (on) gün",
+        "15 (on beş) gün",
+        "30 (otuz) gün"
+      ],
+      "answer": 2,
+      "explanation": "Ortaklık talebine bağlı dönüştürmede, ortaklık tarafından dönüştürmeye ilişkin talep toplama süresinin başlangıç tarihinden en az 15 (on beş) gün önce KAP'ta özel durum açıklaması yapılır.",
+      "source": "1003 s.76",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n9",
+      "q": "Yatırım fonlarına hâkim olan temel ilkelerden 'inançlı mülkiyet' esası ne anlama gelir?",
+      "options": [
+        "Fon varlığının portföy yönetim şirketinin mal varlığından ayrı tutulması",
+        "Tasarruf sahiplerinin fonla ilgili muameleleri yapma yetkisini kurucuya vermeleri",
+        "Fonun yatırım stratejisinin izahnamede açıkça belirtilmesi",
+        "Fonun binlerce kişiden para toplayarak riski dağıtması"
+      ],
+      "answer": 1,
+      "explanation": "İnançlı mülkiyet esasına göre tasarruf sahipleri fonla ilgili muameleleri yapma yetkisini kurucuya verirler. Bu yetki devri fon içtüzüğü ile olur. Kurucu, fonu sözleşme ve izahname çerçevesinde yönetmek/yönettirmek zorundadır.",
+      "source": "1003 s.96",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n10",
+      "q": "Yatırım fonu mal varlığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Fon mal varlığı portföy yönetim şirketi ve portföy saklama kuruluşunun mal varlığından ayrıdır",
+        "Fon mal varlığı haczedilemez ve rehnedilemez",
+        "Fon mal varlığı üzerine ihtiyati tedbir konulamaz",
+        "Fon mal varlığı portföy yönetim şirketinin kamu borçları için kullanılabilir"
+      ],
+      "answer": 3,
+      "explanation": "Fon mal varlığı portföy yönetim şirketinin ve portföy saklama hizmetini yürüten kuruluşun yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi başka bir amaçla tasarruf edilemez, kamu alacaklarının tahsili amacı da dâhil olmak üzere haczedilemez.",
+      "source": "1003 s.96",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n11",
+      "q": "Borçlanma araçları fonlarının unvanında vade yapısına yer verilmek istenmesi durumunda, portföyün aylık ağırlıklı ortalama vadesinin 25-90 gün olması halinde fon unvanında hangi ifade kullanılır?",
+      "options": [
+        "Orta vadeli",
+        "Kısa vadeli",
+        "Uzun vadeli",
+        "Değişken vadeli"
+      ],
+      "answer": 1,
+      "explanation": "Borçlanma araçları fonlarında ağırlıklı ortalama vade 25-90 gün ise 'kısa vadeli', 91-730 gün ise 'orta vadeli', 730 günden fazla ise 'uzun vadeli' ifadesi kullanılır.",
+      "source": "1003 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n12",
+      "q": "Para piyasası fonları ile kısa vadeli borçlanma araçları fonlarında fon portföyüne dâhil edilemeyecek varlıklar aşağıdakilerden hangisidir?",
+      "options": [
+        "Devlet iç borçlanma senetleri",
+        "Vadeye kalan gün sayısı hesaplanamayan varlıklar",
+        "Repo işlemine konu olabilecek varlıklar",
+        "Ters repo sözleşmeleri"
+      ],
+      "answer": 1,
+      "explanation": "Para piyasası fonları ile kısa vadeli borçlanma araçları fonlarında vadeye kalan gün sayısı hesaplanamayan varlıklar fon portföyüne dâhil edilemez.",
+      "source": "1003 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n13",
+      "q": "Fon portföylerinde yer alan repo işlemine konu olabilecek varlıkların rayiç değerinin en fazla yüzde kaçı oranında repo yapılabilir?",
+      "options": [
+        "%5",
+        "%10",
+        "%15",
+        "%25"
+      ],
+      "answer": 1,
+      "explanation": "Fon portföylerinde yer alan repo işlemine konu olabilecek varlıkların rayiç değerinin %10'una kadar borsada veya borsa dışında repo yapılabilir. Aynı şekilde fon toplam değerinin %10'unu geçmemek üzere fon hesabına kredi alınabilir.",
+      "source": "1003 s.116",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n14",
+      "q": "Vadeli işlem sözleşmeleri ile forward sözleşmeleri arasındaki farklardan hangisi doğrudur?",
+      "options": [
+        "Vadeli işlem sözleşmelerinde teminat zorunlu değildir",
+        "Forward sözleşmelerinde kâr/zarar günlük olarak hesaplanır (marking to market)",
+        "Forward sözleşmelerinde kredi riski yoktur",
+        "Vadeli işlem sözleşmelerinde takas kuruluşu olduğundan kredi riski çok düşüktür"
+      ],
+      "answer": 3,
+      "explanation": "Vadeli işlem sözleşmeleri borsada işlem görür ve takas kuruluşu tarafından korunurlar, bu nedenle kredi riski yoktur veya çok düşüktür. Forward sözleşmelerinde ise takas kuruluşu olmadığından tarafların sözleşmeden doğan yükümlülüklerini yerine getirememe (kredi) riski vardır.",
+      "source": "1003 s.136",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n15",
+      "q": "Vadeli işlem sözleşmelerinde başlangıç teminatı (initial margin) sözleşme tutarının genel olarak yüzde kaçı oranında yatırılır?",
+      "options": [
+        "%5",
+        "%10",
+        "%15",
+        "%25"
+      ],
+      "answer": 1,
+      "explanation": "Vadeli işlem sözleşmesinin kurulması ile birlikte sözleşme tutarının belirli bir oranının (genel olarak %10'u) başlangıç teminatı (initial margin) olarak yatırılması gerekir.",
+      "source": "1003 s.136",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n16",
+      "q": "VİOP'ta opsiyon sözleşmesi kodunda yer alan opsiyon tipi 'E' harfi ne anlama gelir?",
+      "options": [
+        "Endeks opsiyonu olduğunu",
+        "Avrupa tipi opsiyon olduğunu (hak vade sonunda kullanılabilir)",
+        "Amerikan tipi opsiyon olduğunu (hak herhangi bir tarihte kullanılabilir)",
+        "Emtia opsiyonu olduğunu"
+      ],
+      "answer": 1,
+      "explanation": "Opsiyon sözleşmesi kodunda E harfi Avrupa tipi opsiyonu ifade eder; sözleşme ile tanınan hak vade sonunda kullanılabilir. A harfi ise Amerikan tipi opsiyonu ifade eder; hak vade sonuna kadar herhangi bir tarihte kullanılabilir.",
+      "source": "1003 s.156",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n17",
+      "q": "VİOP'ta vadeli işlem sözleşmesi kodunda 'F_' harfi neyi ifade eder?",
+      "options": [
+        "Finansal vadeli işlem sözleşmesi olduğunu",
+        "Sözleşme grubunun vadeli işlem sözleşmeleri olduğunu",
+        "Fiziki teslimat ile uzlaşma yapılacağını",
+        "Forward sözleşmesi olduğunu"
+      ],
+      "answer": 1,
+      "explanation": "VİOP sözleşme kodunda F_ harfi sözleşme grubunun Vadeli İşlem Sözleşmeleri olduğunu, O_ harfi ise Opsiyon Sözleşmeleri olduğunu gösterir. Uzlaşma şekli kodu ise P_ (fiziki teslimat) ile gösterilir.",
+      "source": "1003 s.156",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n18",
+      "q": "Yurt içi piyasalarda tahvil ihracı Hazinenin iznine tabi olan kurumlar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Genel yönetim kapsamındaki mahalli idareler",
+        "Mahalli idarelere bağlı kuruluşlar",
+        "Mahalli idarelerin iktisadi teşebbüsleri",
+        "Anonim şirketler"
+      ],
+      "answer": 3,
+      "explanation": "4749 sayılı Kanun Madde 4/5 uyarınca genel yönetim kapsamındaki mahalli idareler, bunlara bağlı kuruluşları ve iktisadi teşebbüslerinin yurt içi piyasalarda tahvil ihracı Hazinenin iznine tabidir. Anonim şirketler bu kapsamda değildir.",
+      "source": "1003 s.176",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n19",
+      "q": "Yatırım fonlarında tek bir ihraççının sermayesinin ya da tüm oy haklarının en fazla yüzde kaçına sahip olunabilir?",
+      "options": [
+        "%5",
+        "%10",
+        "%15",
+        "%20"
+      ],
+      "answer": 1,
+      "explanation": "Fon tek başına hiçbir ihraççının sermayesinin ya da tüm oy haklarının %10'undan fazlasına sahip olamaz. Aynı yöneticinin yönetimindeki tek bir kurucuya ait fonlar ise toplu olarak hiçbir ihraççının sermayesinin ya da tüm oy haklarının %20'sinden fazlasına sahip olamaz.",
+      "source": "1003 s.113",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n20",
+      "q": "Para piyasası fonlarının fon toplam değerinin azami yüzde kaçı mevduat/katılma hesaplarında değerlendirilebilir?",
+      "options": [
+        "%10",
+        "%25",
+        "%35",
+        "%50"
+      ],
+      "answer": 3,
+      "explanation": "Para piyasası fonlarının fon toplam değerinin azami %50'si mevduat/katılma hesaplarında değerlendirilebilir. Ancak tek bir bankada değerlendirilebilecek tutar fon toplam değerinin %6'sını aşamaz.",
+      "source": "1003 s.113",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

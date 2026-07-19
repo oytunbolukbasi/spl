@@ -2953,6 +2953,426 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-n1",
+      "q": "MKT üyelerinin temerrüdü halinde başvurulacak kaynakların kullanım sıralamasında aşağıdakilerden hangisi en son sırada yer alır?",
+      "options": [
+        "Temerrüde düşen MKT üyesinin teminatları",
+        "Temerrüde düşen MKT üyesinin garanti fonu katkı payı",
+        "Sigorta poliçelerinden yapılacak tazminler",
+        "Takasbank'ın kalan sermayesinden yapılan taahhüt",
+        "Diğer MKT üyelerinin garanti fonu katkı payları"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Temerrüt kaynak sıralamasında Takasbank'ın kalan sermayesinden yapılan taahhüt en son sırada yer alır. Sıralama: temerrüde düşenin teminatları → kendi garanti fonu katkı payı → sigorta → Takasbank tahsis sermayesi → diğer üyelerin garanti fonu → ilave garanti fonu → Takasbank kalan sermaye taahhüdü.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 49,
+        "section": "2.3 MKT Temerrüt Kaynakları Sıralaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n2",
+      "q": "Takasbank'ın MKT karşılanmış risklerine tahsis ettiği sermaye (C) nasıl hesaplanır?",
+      "options": [
+        "C = (A + B) × %50",
+        "C = (A + B) × %25",
+        "C = A × %25 + B × %50",
+        "C = (A - B) × %25",
+        "C = A × %75"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Takasbank'ın MKT karşılanmış risklerine tahsis ettiği sermaye C = (A + B) × %25 formülüyle hesaplanır. A: BDDK mevzuatına göre belirlenen asgari sermaye, B: MKT hizmetlerine ilişkin içsel sermaye (geçmiş 1 yıllık operasyonel giderlerin %75'i).",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 49,
+        "section": "2.3 MKT Sermaye Tahsisi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n3",
+      "q": "Kesin Alım Satım Pazarı'nda diğer sermaye piyasası araçlarında (DİBS hariç) en fazla kaç güne kadar ileri valörlü işlem yapılması mümkündür?",
+      "options": [
+        "7 gün",
+        "15 gün",
+        "30 gün",
+        "60 gün",
+        "90 gün"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Kesin Alım Satım Pazarı'nda DİBS'lerde 90 güne kadar, diğer sermaye piyasası araçlarında ise 30 güne kadar ileri valörlü işlem yapılabilir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 88,
+        "section": "4.4.1 Kesin Alım Satım Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n4",
+      "q": "Nitelikli Yatırımcıya İhraç Pazarı'nda ihracı tamamlanan veya satış süresinin sona ermesini izleyen iş günü herhangi bir şart aranmaksızın hangi pazarda işlem görmeye başlar?",
+      "options": [
+        "Repo-Ters Repo Pazarı",
+        "Menkul Kıymet Tercihli Repo Pazarı",
+        "Borçlanma Araçları Piyasası Kesin Alım Satım Pazarı",
+        "Pay Senedi Repo Pazarı",
+        "Taahhütlü İşlemler Pazarı"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Nitelikli Yatırımcıya İhraç Pazarı'nda ihracı tamamlanan veya satış süresinin sona ermesini izleyen iş günü herhangi bir şart aranmaksızın Borçlanma Araçları Piyasası Kesin Alım Satım Pazarı'nda nitelikli yatırımcılar arasında kot dışı olarak işlem görmeye başlar.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 88,
+        "section": "4.4.2 Nitelikli Yatırımcıya İhraç Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n5",
+      "q": "Menkul Kıymet Tercihli Repo Pazarı'nda işlemler en fazla kaç gün ileri başlangıç valörlü olarak yapılabilir?",
+      "options": [
+        "2 gün",
+        "5 gün",
+        "7 gün",
+        "14 gün",
+        "30 gün"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Menkul Kıymet Tercihli Repo Pazarı'nda işlemler aynı gün başlangıç valörlü veya en fazla 7 gün olmak kaydıyla ileri başlangıç valörlü olarak yapılabilir. Repo bitiş valörü en fazla 1 yıl olabilir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 89,
+        "section": "4.4.4 Menkul Kıymet Tercihli Repo Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n6",
+      "q": "Taahhütlü İşlemler Pazarı'nda aşağıdakilerden hangisi işlem görebilen araçlar arasında yer almaz?",
+      "options": [
+        "Hazine varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları",
+        "Kamu sermayeli kurumlarca kurulan varlık kiralama şirketlerinin kira sertifikaları",
+        "Borsa Yönetim Kurulu tarafından belirlenen diğer sermaye piyasası araçları",
+        "Özel sektör borçlanma araçları (ÖSBA)",
+        "T.C. Hazine ve Maliye Bakanlığı tarafından ihraç edilen devlet iç borçlanma senetleri"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Taahhütlü İşlemler Pazarı'nda Hazine tarafından kurulan ve kamu sermayeli kurumlarca kurulan varlık kiralama şirketlerinin kira sertifikaları ile Borsa Yönetim Kurulu tarafından belirlenen diğer SPA işlem görebilir. ÖSBA bu pazarda işlem görmez.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 89,
+        "section": "4.4.5 Taahhütlü İşlemler Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n7",
+      "q": "Pay Senedi Repo Pazarı'nda ileri başlangıç valörlü emir en fazla kaç iş günü iletilebilir?",
+      "options": [
+        "1 iş günü",
+        "2 iş günü",
+        "5 iş günü",
+        "7 iş günü",
+        "10 iş günü"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Pay Senedi Repo Pazarı'nda 2 iş günü kadar ileri başlangıç valörlü emir iletilebilir. İşlemin bitiş valörü en fazla 1 yıl olabilir. Bu pazarda BIST 50 endeksine dahil paylardan Genel Müdürlük tarafından uygun görülenler repo işlemlerine konu olabilir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 89,
+        "section": "4.4.6 Pay Senedi Repo Pazarı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n8",
+      "q": "Borsa İstanbul Borçlanma Araçları Piyasası'nda yapılan işlemlerin takası hangi gün gerçekleştirilir?",
+      "options": [
+        "İşlemden 1 iş günü sonra (T+1)",
+        "İşlemden 2 iş günü sonra (T+2)",
+        "Aynı gün (T+0)",
+        "İşlemden 3 iş günü sonra (T+3)",
+        "Valör tarihine göre değişir, en erken T+1"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Borsa İstanbul Borçlanma Araçları Piyasası'nda yapılan işlemlerin takası aynı gün (T+0) gerçekleştirilir. Yabancı para ödemeli kıymetlerin takası ise 1 iş günü (T+1) sonra gerçekleştirilir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 93,
+        "section": "4.6 Takas İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n9",
+      "q": "Borçlanma Araçları Piyasası'nda nakit/kıymet yükümlülükleri için temerrütsüz olarak borç kapatma son saati kaçtır?",
+      "options": [
+        "15:00",
+        "15:30",
+        "16:00",
+        "16:45",
+        "17:15"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Borçlanma Araçları Piyasası'nda gerçekleştirilen işlemler sonucu takasa olan nakit/kıymet yükümlülükleri için temerrütsüz olarak son borç kapatma saati 16:45 olarak belirlenmiştir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 93,
+        "section": "4.6 Takas İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n10",
+      "q": "Takasbank sisteminden saat kaçtan sonra menkul kıymet devir mesajı gönderilmesi mümkün değildir?",
+      "options": [
+        "15:00",
+        "16:00",
+        "16:45",
+        "17:15",
+        "21:30"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Takasbank sisteminden saat 17:15'ten sonra menkul kıymet devir mesajı gönderilmesi (takas işlemlerinin geç tamamlanması durumu hariç) mümkün değildir. Aracı kurumların TCMB'ye talimat gönderme son saati de 17:15'tir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 98,
+        "section": "4.6.2 Kıymet Borçlarının Ödenmesi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n11",
+      "q": "Üyeler Takasbank nezdindeki depo hesaplarına depolararası virman ile menkul kıymet aktarımını en geç saat kaça kadar yapabilirler?",
+      "options": [
+        "16:45",
+        "17:15",
+        "18:00",
+        "21:00",
+        "21:30"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Üyeler Takasbank nezdindeki giriş yetkisi bulunan depo hesaplarına saat 21:30'a kadar menkul kıymet aktarımı yapabilirler. Bu işlem tek aşamada gerçekleşir ve erişim numarası kullanılmasına gerek yoktur.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 98,
+        "section": "4.6.2 Depolararası Virman"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n12",
+      "q": "Borsa İstanbul Para Piyasası'nda teminat eksiği takas günü saat kaça kadar tamamlanır?",
+      "options": [
+        "11:00",
+        "13:00",
+        "15:00",
+        "16:45",
+        "17:15"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Borsa İstanbul Para Piyasası'nda teminat eksiği takas günü saat 15:00'a kadar tamamlanır. Tüm işlemlerin takası T+0 valörü ile gerçekleştirilir. Teminat olarak DİBS ve döviz kabul edilmektedir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 98,
+        "section": "4.6.3 Borsa İstanbul Para Piyasası Genel Esasları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n13",
+      "q": "Borçlanma Araçları Piyasası temerrüt katsayı tablosuna göre, nakit takas yükümlülüğünü saat 16:45'ten sonra aynı gün valörüyle yerine getiren üyeye uygulanan katsayı kaçtır?",
+      "options": [
+        "0,25",
+        "0,50",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "BAP temerrüt katsayı tablosuna göre: Nakit takas 16:45'ten sonra aynı gün valörüyle → 0,50; Nakit takas valör tarihinden sonra → 2; Teminat ve garanti fonu temerrüdü 15:00'den sonra aynı gün → 0,50; Teminat ve garanti fonu temerrüdü valör tarihinden sonra → 2.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 103,
+        "section": "4.8.3 BAP Temerrüt Katsayıları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n14",
+      "q": "Borçlanma Araçları Piyasası'nda temerrüt faizi formülü aşağıdakilerden hangisidir?",
+      "options": [
+        "matrah × (baz faiz / 100 × katsayı) × (gün / 360)",
+        "matrah × (baz faiz / 100 × katsayı) × (gün / 365)",
+        "matrah × baz faiz × katsayı × gün",
+        "matrah × (baz faiz / 365) × katsayı",
+        "matrah × (baz faiz / 100) × (gün / 365)"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "BAP temerrüt faizi formülü: matrah × (Baz faiz/100 × katsayı) × (gün/365) şeklinde hesaplanır. Baz faiz olarak BİAŞ Repo Ters Repo Pazarı, TCMB Bankalararası Para Piyasası veya Takasbank Para Piyasası'nda oluşan bir gecelik ağırlıklı ortalama faiz oranlarından en yüksek olanı esas alınır.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 103,
+        "section": "4.8.3 BAP Temerrüt Faizi Formülü"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n15",
+      "q": "VİOP'ta piyasada hesaplanan toplam teminat gereksiniminin en az yüzde kaçının Türk Lirası teminattan oluşması gerekir?",
+      "options": [
+        "%25",
+        "%30",
+        "%40",
+        "%50",
+        "%75"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "VİOP'ta hesaplanan toplam teminat gereksiniminin en az %50'sinin Türk Lirası teminattan oluşması gerekir. Takasbank Yönetim Kurulu Piyasa'daki gelişmelere göre bu oranı değiştirmeye yetkilidir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 143,
+        "section": "5.4.1.1 VİOP İşlem Teminatı Kompozisyonu"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n16",
+      "q": "VİOP işlem teminatı değerleme katsayılarına göre Konvertibl Döviz (USD) için uygulanan katsayı yüzde kaçtır?",
+      "options": [
+        "%100",
+        "%95",
+        "%90",
+        "%89",
+        "%85"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "VİOP teminat değerleme katsayıları: Nakit TL %100, Konvertibl Döviz USD %90, Konvertibl Döviz EUR %89, Konvertibl Döviz GBP %89. DİBS'ler vadeye göre: 0-1 yıl %94, 1-5 yıl %81, 5+ yıl %78.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 143,
+        "section": "5.4.1.1 VİOP İşlem Teminatı Değerleme Katsayıları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n17",
+      "q": "Pay vadeli işlem ve opsiyon sözleşmelerinde piyasa bazında pozisyon limiti, her dayanak varlık için MKK tarafından açıklanan fiili dolaşımdaki pay miktarının yüzde kaçına denk gelir?",
+      "options": [
+        "%10",
+        "%15",
+        "%20",
+        "%25",
+        "%35"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Pay vadeli işlem ve opsiyon sözleşmelerinde piyasa bazında pozisyon limiti, her dayanak varlık için MKK tarafından açıklanan fiili dolaşımdaki pay miktarının %25'ine denk gelecek dayanak varlık sayısıdır. Bu limitler aylık güncellenir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 138,
+        "section": "5.2.2.2 Piyasa Bazında Pozisyon Limiti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n18",
+      "q": "Piyasa bazında pozisyon limitleri sözleşmelerin vade sonu işlemlerinin olumsuz etkilenmemesi amacıyla fiili dolaşımdaki pay miktarının en fazla yüzde kaçına kadar arttırılabilir?",
+      "options": [
+        "%10",
+        "%15",
+        "%25",
+        "%35",
+        "%50"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Piyasa bazında pozisyon limitleri, sözleşmelerin vade sonu işlemlerinin olumsuz etkilenmemesi amacıyla fiili dolaşımdaki pay miktarının %35'ine kadar arttırılabilir. Bu karar Takasbank tarafından Borsa İstanbul'un görüşü dikkate alınarak verilir.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 138,
+        "section": "5.2.2.2 Piyasa Bazında Pozisyon Limiti"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n19",
+      "q": "Üyelik teminatından yapılan tahsilat sonrasında üye, üyelik teminatını kaç iş günü içerisinde tamamlamak zorundadır?",
+      "options": [
+        "1 iş günü",
+        "2 iş günü",
+        "3 iş günü",
+        "5 iş günü",
+        "7 iş günü"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Üyelerin Takasbank'a olan yükümlülüklerini yerine getirmemeleri durumunda Takasbank ilgili tutarı üyelik teminatından tahsil eder. Söz konusu tahsilat sonrasında üye, üyelik teminatını 3 iş günü içerisinde olması gereken tutara tamamlar. Eksik tutarın tamamlanmaması durumunda Takasbank re'sen tahsil eder.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 148,
+        "section": "5.4.2 Üyelik Teminatı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n20",
+      "q": "Tezgah Üstü Türev Araçlar Piyasası'nda işlem teminatı olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Toplam teminatın en az %50'si Türk Lirası olmalıdır",
+        "Yalnızca Türk Lirası kabul edilir",
+        "Minimum Türk Lirası gereksinimi yoktur",
+        "Toplam teminatın en az %25'i Türk Lirası olmalıdır",
+        "Yalnızca DİBS ve döviz kabul edilir"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Tezgah Üstü Türev Araçlar Piyasası'nda minimum Türk Lirası gereksinimi yoktur. Kompozisyon limitleri, yatırılmış TL ve diğer teminat bakiyelerinin toplamı üzerinden uygulanır. Bu VİOP'tan farklıdır; VİOP'ta en az %50 TL gereksinimi vardır.",
+      "source": {
+        "pdf": "1012 - Takas, Saklama ve Operasyon İşlemleri.pdf",
+        "page": 173,
+        "section": "6.3.7 Tezgah Üstü Türev Araçlar Piyasası Teminata Kabul Edilen Varlıklar"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }
