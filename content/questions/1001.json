@@ -3430,6 +3430,346 @@
       "source": "1001 s.160",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1001-b1",
+      "q": "Türk Ticaret Kanunu'na göre bir paya en çok kaç oy hakkı verilebilir?",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "TTK md. 479'a göre bir paya en çok on beş oy hakkı tanınabilir. Bu sınır emredici niteliktedir.",
+      "source": "1001 Banka Soru Seti Q45",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b2",
+      "q": "Aşağıdakilerden hangisi sermaye piyasası mevzuatı kapsamında sermaye yapısı ve yönetim kontrolüne ilişkin olarak açıklama yükümlülüğü gerektiren bir durum değildir?",
+      "options": [
+        "Bir kurucuya ait yatırım fonlarının doğrudan ihraççının sermayesindeki payının %20'den %28'e yükselmesi",
+        "Bir tüzel kişinin dolaylı olarak payları borsada işlem gören bir ihraççının sermayesindeki toplam oy haklarının %5'den %11'e yükselmesi",
+        "Bir gerçek kişinin doğrudan payları borsada işlem gören ihraççının sermayesindeki payının %35'den %55'e yükselmesi",
+        "Bir kurucuya ait yatırım fonlarının dolaylı olarak ihraççının sermayesindeki toplam oy haklarının %17'den %19'a yükselmesi",
+        "Bir gerçek kişinin dolaylı olarak payları borsada işlem gören bir ihraççının sermayesindeki payının %69'dan %96'a yükselmesi"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Sermaye yapısına ilişkin açıklama yükümlülüğü %5, %10, %15, %20, %25, %33, %50, %67 ve %95 eşiklerinin geçilmesinde doğar. %17'den %19'a yükselme herhangi bir eşiği geçmediğinden açıklama gerekmez.",
+      "source": "1001 Banka Soru Seti Q47",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b3",
+      "q": "Denetimden sorumlu komitenin yılda en az kaç kez toplanma zorunluluğu vardır?",
+      "options": [
+        "Bir",
+        "İki",
+        "Üç",
+        "Dört",
+        "Beş"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre denetimden sorumlu komite yılda en az dört kez toplanır (çeyrek dönemlik).",
+      "source": "1001 Banka Soru Seti Q227",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b4",
+      "q": "Denetimden sorumlu komite üyelerinden en az biri denetim/muhasebe ve finans konusunda asgari kaç yıllık tecrübeye sahip olmalıdır?",
+      "options": [
+        "1 yıl",
+        "2 yıl",
+        "5 yıl",
+        "10 yıl",
+        "Tecrübe şartı yoktur"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre denetimden sorumlu komite üyelerinden en az birinin denetim/muhasebe ve finans alanında asgari 5 yıl tecrübeye sahip olması gerekir.",
+      "source": "1001 Banka Soru Seti Q261",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b5",
+      "q": "Pay sahibi sayısı sebebiyle halka açık sayılan ortaklıklardan paylarının borsada işlem görmesini istemeyenler, genel kurulda hangi çoğunlukla karar alarak Sermaye Piyasası Kanunu kapsamından çıkabilir?",
+      "options": [
+        "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü",
+        "Oy çokluğu ile",
+        "Pay sahibi tam sayısının en az dörtte üçünün olumlu oyu",
+        "Toplam oyların üçte ikisi ile",
+        "Oy birliği ile"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "SPKn md. 16/2'ye göre kanun kapsamından çıkma kararı, pay sahibi tam sayısının en az 2/3'ünün olumlu oyu ile ya da toplam oyların en az 3/4'ü ile alınabilir.",
+      "source": "1001 Banka Soru Seti Q280",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b6",
+      "q": "Kayıtlı sermaye sisteminde, genel kurul tarafından yönetim kuruluna verilen şirketin sermayesini kayıtlı sermaye tavanına kadar artırma yetkisi en fazla ne kadar süre ile verilebilir?",
+      "options": [
+        "Bir yıl",
+        "İki yıl",
+        "Üç yıl",
+        "Dört yıl",
+        "Beş yıl"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "SPKn md. 18'e göre kayıtlı sermaye sisteminde yönetim kuruluna verilen sermaye artırım yetkisi en fazla beş yıl sürelidir.",
+      "source": "1001 Banka Soru Seti Q282",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b7",
+      "q": "Yönetim kurulu üyeleri en çok kaç yıl süreyle görev yapmak üzere seçilirler?",
+      "options": [
+        "Bir yıl",
+        "İki yıl",
+        "Üç yıl",
+        "Dört yıl",
+        "Beş yıl"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "TTK md. 362'ye göre yönetim kurulu üyeleri en çok üç yıl süreyle görev yapmak üzere seçilir. Esas sözleşmede aksine hüküm yoksa tekrar seçilebilirler.",
+      "source": "1001 Banka Soru Seti Q295",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b8",
+      "q": "Payları borsanın Ulusal Pazarı, İkinci Ulusal Pazarı ve Kurumsal Ürünler Pazarında işlem gören ortaklıklar sistemik önemlerine göre gruplandırılır. Bu gruplandırma eşikleri için aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Birinci grup: Piyasa değerinin ortalaması 3 milyar TL'nin ve fiili dolaşımdaki payların piyasa değerinin ortalaması 750 milyon TL'nin üzerinde olan ortaklıklar",
+        "İkinci grup: Birinci grup dışında kalan ortaklıklardan, piyasa değerinin ortalaması 1 milyar TL'nin ve fiili dolaşımdaki payların piyasa değerinin ortalaması 250 milyon TL'nin üzerinde olan ortaklıklar",
+        "Üçüncü grup: Birinci ve ikinci gruba dahil olan ortaklıklar dışında kalan diğer ortaklıklar",
+        "Eşikler yeniden değerlemeye tabi tutulmaz",
+        "İlgili hesaplamalar her yıl Aralık ayında Kurul tarafından yapılır ve ortaklıkların dahil oldukları gruplar yeniden belirlenir"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre gruplandırma eşikleri her yıl yeniden değerleme oranında güncellenir. 'Yeniden değerlemeye tabi tutulmaz' ifadesi yanlıştır.",
+      "source": "1001 Banka Soru Seti Q296",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b9",
+      "q": "Halka açık ortaklıklarda önemli nitelikteki işlemlere ilişkin genel kurul toplantısına katılıp da olumsuz oy kullanan pay sahipleri ayrılma hakkını kullanabilir. Halka açık ortaklık bu payları, söz konusu önemli nitelikteki işlemin kamuya açıklandığı tarihten önceki kaç gün içinde borsada oluşan ağırlıklı ortalama fiyatların ortalamasından satın almakla yükümlüdür?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "30",
+        "60"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "SPKn md. 24'e göre ayrılma hakkı kullanıldığında pay bedeli, işlemin kamuya açıklandığı tarihten önceki 30 gün içinde borsada oluşan ağırlıklı ortalama fiyatların ortalaması üzerinden hesaplanır.",
+      "source": "1001 Banka Soru Seti Q344",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b10",
+      "q": "Ortaklıktan Çıkarma ve Satma Hakları Tebliği'ne göre, ortaklıktan çıkarma hakkının kullanımı için sahip olunan payların oy haklarının ortaklığın oy haklarının yüzde kaçına ulaşması gerekmektedir?",
+      "options": [
+        "51",
+        "75",
+        "80",
+        "95",
+        "98"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Ortaklıktan Çıkarma ve Satma Hakları Tebliği'ne göre, bir ortağın ortaklıktan çıkarma hakkını kullanabilmesi için oy haklarının %98'ine sahip olması gerekir.",
+      "source": "1001 Banka Soru Seti Q345",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b11",
+      "q": "Halka açık ortaklıklar genel kurul toplantısından en az kaç hafta önce çağrı yapması gerekir?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre genel kurul toplantısı için en az üç hafta önceden çağrı yapılması gerekir.",
+      "source": "1001 Banka Soru Seti Q346",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b12",
+      "q": "Yatırım Fonu'nun sona ermesinde; fon süresiz ise kurucunun Kurul'un uygun görüşünü aldıktan sonra kaç ay sonrası için feshi ihbar etmesi gerekir?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "9"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Yatırım Fonlarına İlişkin Esaslar Tebliği'ne göre süresiz kurulan bir fonun sona erdirilebilmesi için kurucunun, Kurul'un uygun görüşünü aldıktan sonra en az 6 ay sonrası için feshi ihbar etmesi gerekir.",
+      "source": "1001 Banka Soru Seti Q399",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b13",
+      "q": "Sermayesini temsil eden paylar arasında imtiyazlı paylar bulunan bir ortaklıkta aşağıdaki durumlardan hangisinin gerçekleşmesi halinde ortaklığın yapılacak ilk genel kurul toplantısında oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazlar Sermaye Piyasası Kurulu kararıyla kaldırılır?",
+      "options": [
+        "Ortaklık sermayesinin üçte biri oranında kaybı",
+        "Sermaye azaltılması",
+        "Ortaklığın üst üste beş yıl zarar etmesi",
+        "Önemli nitelikteki işlemlerin gerçekleştirilmesi",
+        "Sermayenin üç katından fazla artırılması"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "SPKn md. 28'e göre ortaklığın üst üste beş yıl zarar etmesi halinde, oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazlar SPK kararıyla kaldırılır.",
+      "source": "1001 Banka Soru Seti Q454",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b14",
+      "q": "Birlik tarafından tutulacak sicil bilgileri, oluşturulacak Sicil Kayıt Sisteminde üyeler ve disiplin cezası türlerine göre yıllar itibariyle saklanır. Kesinleşen karar ve karara esas tüm belgeler ise ne kadar süreyle saklanır?",
+      "options": [
+        "3 yıl",
+        "5 yıl",
+        "7 yıl",
+        "8 yıl",
+        "10 yıl"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "TSPB disiplin yönetmeliğine göre kesinleşen disiplin kararları ve ilgili belgeler 10 yıl süreyle saklanır.",
+      "source": "1001 Banka Soru Seti Q494",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b15",
+      "q": "Disiplin cezalarında kararın kesinleşmesinden başlayarak kaçıncı yılın sonunda sicil kayıt defterindeki sicil kayıtları silinir?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "8",
+        "10"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "TSPB disiplin yönetmeliğine göre disiplin cezası sicil kayıtları, kararın kesinleşmesinden itibaren 5. yılın sonunda silinir.",
+      "source": "1001 Banka Soru Seti Q495",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b16",
+      "q": "Riskin erken saptanması komitesi; şirketin varlığını, gelişmesini ve devamını tehlikeye düşürebilecek risklerin erken teşhisi amacıyla çalışmalar yapar. Risk yönetim sistemlerini yılda en az kaç kez gözden geçirir?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre riskin erken saptanması komitesi, risk yönetim sistemlerini yılda en az bir kez gözden geçirir.",
+      "source": "1001 Banka Soru Seti Q507",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b17",
+      "q": "6362 sayılı SPKn md. 82 uyarınca tedrici tasfiye ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Tedrici tasfiye işlemleri YTM tarafından yürütülür.",
+        "Hakkında tedrici tasfiye kararı verilenlerin ödemeleri durur ve tüm mal varlığı üzerine sadece YTM tarafından tasarruf edilebilir.",
+        "Yatırım kuruluşlarının kanuni organlarının görev ve yetkileri, tedrici tasfiye kararından tasfiye sonuçlanıncaya kadar YTM tarafından yerine getirilir.",
+        "Aktiflerden öncelikle kamu alacakları ödenir.",
+        "Tedrici tasfiye kararı verilmesi halinde, bu tasfiyenin kapatılmasına kadar iflas kararı verilemez."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Tedrici tasfiyede aktiflerden öncelikle kamu alacakları değil, yatırımcı alacakları ödenir. Yatırımcı tazmin alacakları kamu alacaklarından önce gelir.",
+      "source": "1001 Banka Soru Seti Q510",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b18",
+      "q": "İlişkili taraf işlemlerinin nitelik ve nicelik açısından özellik taşıyanlarının yapılabilmesi için gerekli olan şart aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Bağımsız yönetim kurulu üyelerinin onayının alınması",
+        "Yönetim kurulunda oybirliği ile karar alınması",
+        "Genel Müdürün onayının alınması",
+        "Kurumsal yönetim komitesinin onayının alınması",
+        "Yatırımcı ilişkileri bölümünün onayının alınması"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Kurumsal Yönetim Tebliği'ne göre nitelik ve nicelik bakımından özellik taşıyan ilişkili taraf işlemlerinin yapılabilmesi için bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı gerekir.",
+      "source": "1001 Banka Soru Seti Q511",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b19",
+      "q": "Soruşturma başlamadan önce piyasa dolandırıcılığı tanımına giren fiillerden dolayı elde ettiği menfaatin kaç katını Hazine'ye yatıranlara ceza hükmolunmaz?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "SPKn md. 107/5'e göre piyasa dolandırıcılığı suçunda, soruşturma başlamadan önce elde edilen menfaatin iki katının Hazine'ye yatırılması halinde ceza hükmolunmaz (etkin pişmanlık).",
+      "source": "1001 Banka Soru Seti Q513",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-b20",
+      "q": "Bankalar için bağımsız yönetim kurulu üye sayısı en az kaç olmalıdır?",
+      "options": [
+        "Bir",
+        "İki",
+        "Üç",
+        "Dört",
+        "Beş"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Bankacılık mevzuatına göre bankalarda bağımsız yönetim kurulu üye sayısı en az üç olmalıdır. Bu, genel kurumsal yönetim tebliğindeki asgari iki üye kuralından farklıdır.",
+      "source": "1001 Banka Soru Seti Q297",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
