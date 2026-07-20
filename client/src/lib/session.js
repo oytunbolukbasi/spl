@@ -19,10 +19,14 @@ export function buildDailySession(pool, seen, count = DAILY_GOAL) {
   return ordered.slice(0, Math.min(count, pool.length));
 }
 
-// Ünite bazlı pratik
-export function buildUnitSession(pool, unitCode, count = DAILY_GOAL) {
+// Ünite bazlı pratik: görülmemiş sorulara öncelik, sonra yanlışlar, sonra doğrular
+export function buildUnitSession(pool, unitCode, count = DAILY_GOAL, seen = {}) {
   const unitQs = pool.filter((q) => q.unit === unitCode);
-  return shuffle(unitQs).slice(0, Math.min(count, unitQs.length));
+  const unseen = unitQs.filter((q) => !seen[q.id]);
+  const wrong = unitQs.filter((q) => seen[q.id] === 'wrong');
+  const correct = unitQs.filter((q) => seen[q.id] === 'correct');
+  const ordered = [...shuffle(unseen), ...shuffle(wrong), ...shuffle(correct)];
+  return ordered.slice(0, Math.min(count, unitQs.length));
 }
 
 // Hatalardan tekrar oturumu

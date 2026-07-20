@@ -94,7 +94,7 @@ export default function App() {
     if (qs.length) setSession({ questions: qs, title: 'Günlük 25' });
   }
   function startUnit(code) {
-    const qs = buildUnitSession(pool, code);
+    const qs = buildUnitSession(pool, code, 25, progress.seen);
     if (qs.length) setSession({ questions: qs, title: code });
   }
   function startMistakes() {

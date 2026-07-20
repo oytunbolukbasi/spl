@@ -3280,6 +3280,156 @@
       "source": "1001 s.75",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1001-n11",
+      "q": "Geleceğe yönelik değerlendirmelere ilişkin özel durum açıklaması yapılmak istenmesi halinde aşağıdakilerden hangisi aranan koşullardan biri değildir?",
+      "options": [
+        "Yönetim kurulu kararı veya yönetim kurulu tarafından yetki verilmiş ise yetki verilen kişinin yazılı onayı",
+        "Daha önce kamuya açıklanan hususlar ile gerçekleşmeler arasında önemli ölçüde bir farklılık bulunması halinde bu farklılıkların nedenleri",
+        "Yılda en fazla dört defa açıklama yapılabilmesi",
+        "Bağımsız denetim kuruluşunun uygunluk görüşünün alınmış olması"
+      ],
+      "answer": 3,
+      "explanation": "Geleceğe yönelik değerlendirmelere ilişkin özel durum açıklamasında aranan koşullar: yönetim kurulu kararı/yazılı onay, yılda en fazla 4 defa açıklama ve farklılıkların nedenleri. Bağımsız denetim kuruluşunun uygunluk görüşü aranan koşullar arasında değildir.",
+      "source": "1001 s.85",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n12",
+      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları, ilişkili taraf işlemlerinin emsallerine uygun şartlarda gerçekleştirildiğini tevsik eden bilgi ve belgeleri en az kaç yıl süre ile saklamak zorundadır?",
+      "options": [
+        "5 yıl",
+        "8 yıl",
+        "10 yıl",
+        "3 yıl"
+      ],
+      "answer": 1,
+      "explanation": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları, ilişkili taraf işlemlerinin emsallerine, piyasa teamüllerine, ticari hayatın basiret ve dürüstlük ilkelerine uygun şartlarda gerçekleştirildiğini tevsik eden bilgi ve belgeleri en az 8 yıl süre ile saklamak zorundadır.",
+      "source": "1001 s.35",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n13",
+      "q": "Portföy yönetim şirketlerinin kuruluş başvurularında, gerekli belgelerin Kurula eksiksiz olarak sunulmasından itibaren Kurul en geç kaç ay içinde karara bağlar?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "1 ay",
+        "12 ay"
+      ],
+      "answer": 1,
+      "explanation": "Portföy yönetim şirketlerinin kuruluş başvuruları, gerekli belgelerin Kurula eksiksiz olarak sunulmasından itibaren altı ay içinde Kurul tarafından karara bağlanır.",
+      "source": "1001 s.55",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n14",
+      "q": "Önemli nitelikteki işlemlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Birleşme ve bölünme işlemlerine taraf olma önemli nitelikteki işlemlerdendir",
+        "Tür değiştirme önemli nitelikteki işlemlerdendir",
+        "İmtiyaz öngörme veya mevcut imtiyazların kapsam/konusunu değiştirme önemli nitelikteki işlemlerdendir",
+        "Önemli nitelikteki işlemler kanunda sınırlı sayıda belirtilmiştir"
+      ],
+      "answer": 3,
+      "explanation": "Önemli nitelikteki işlemlerin anılan hükümde sınırlı sayıda belirtilmemiş olması dikkat edilmesi gereken bir husustur. Kurul, önemlilik ölçüsü de dahil olmak üzere bu nitelikteki işlemlerde bulunabilmesi için uyulması zorunlu usul ve esasları belirlemeye yetkilidir.",
+      "source": "1001 s.40",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n15",
+      "q": "Örtülü kazanç aktarımı tespit edilmesinde, aktarılan tutarın kanuni faizi ile birlikte iadesinin yanı sıra aşağıdakilerden hangisi de uygulanır?",
+      "options": [
+        "Yalnızca idari yaptırımlar uygulanır",
+        "Yalnızca cezai yaptırımlar uygulanır",
+        "Hukuki, cezai ve idari yaptırımlar ayrıca uygulanır",
+        "Yalnızca kanuni faiz ile iade yeterlidir, başka yaptırım uygulanmaz"
+      ],
+      "answer": 2,
+      "explanation": "İade prosedürü yanında, şartların oluşması halinde ilgili mevzuat uyarınca alınabilecek diğer hukuki, cezai ve idari yaptırımlar ile birlikte ayrıca uygulanır.",
+      "source": "1001 s.35",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n16",
+      "q": "Anonim şirketlerin yönetim kurulunun yıllık faaliyet raporunu, bilanço gününü izleyen hesap döneminin ilk kaç ayı içinde hazırlaması ve genel kurula sunması gerekir?",
+      "options": [
+        "İlk 1 ay",
+        "İlk 2 ay",
+        "İlk 3 ay",
+        "İlk 6 ay"
+      ],
+      "answer": 2,
+      "explanation": "TTK Madde 514, 515, 516 uyarınca yönetim kurulu, geçmiş hesap dönemine ait finansal tabloları ve yönetim kurulunun yıllık faaliyet raporunu, bilanço gününü izleyen hesap döneminin ilk üç ayı içinde hazırlar ve genel kurula sunar.",
+      "source": "1001 s.110",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n17",
+      "q": "Yasal defterlerde, muhasebe kayıtlarında ve finansal tablo ve raporlarda usulsüzlük suçu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Defterlerin tutulmaması yeterlidir, usulüne uygun tutulmaması cezalandırılmaz",
+        "Kanunla yükümlü olunan defter ve belgeleri kanuni süresince saklamayanlar da altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır",
+        "Suçun oluşması için kasıt aranmaz, taksirle de işlenebilir",
+        "Bu suç yalnızca ihraççıların yönetim kurulu üyelerini kapsar"
+      ],
+      "answer": 1,
+      "explanation": "6362 sayılı SPKn md. 112/1 hükmüne göre, kanunen tutmakla yükümlü oldukları defter ve kayıtları usulüne uygun tutmayanlar ile saklamakla yükümlü oldukları defter ve belgeleri kanuni süresince saklamayanlar, altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılırlar.",
+      "source": "1001 s.80",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n18",
+      "q": "Halka açık anonim şirketlerde azınlık pay sahipleri sermayenin en az yüzde kaçına sahip olan pay sahipleridir?",
+      "options": [
+        "%5",
+        "%10",
+        "%20",
+        "%1"
+      ],
+      "answer": 0,
+      "explanation": "Halka açık anonim şirketlerde sermayenin en az %5'ine sahip olanlar azınlık pay sahipleri olarak kabul edilir. Halka açık olmayan anonim şirketlerde ise bu oran %10'dur.",
+      "source": "1001 s.105",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n19",
+      "q": "KAP'taki şirket genel bilgileri ekranında, payları borsada işlem gören ihraççıların sermayesinde doğrudan yüzde kaç veya daha fazla oranda paya veya oy hakkına sahip gerçek ve tüzel kişileri gösteren tablo MKK tarafından güncellenir?",
+      "options": [
+        "%3",
+        "%5",
+        "%10",
+        "%25"
+      ],
+      "answer": 1,
+      "explanation": "Kamuyu Aydınlatma Platformundaki şirket genel bilgileri ekranında yer alan, payları borsada işlem gören ihraççıların sermayesinde doğrudan %5 veya daha fazla oranda paya veya oy hakkına sahip gerçek ve tüzel kişileri gösteren tablonun, değişiklik olması durumunda MKK tarafından güncelleneceği belirtilmiştir.",
+      "source": "1001 s.85",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n20",
+      "q": "Borçlanma araçları fonlarının unvanında vade yapısına yer verilmek istenmesi durumunda, fon portföyünün ağırlıklı ortalama vadesinin 25-90 gün olması halinde fon unvanında hangi ifade kullanılır?",
+      "options": [
+        "Uzun vadeli",
+        "Orta vadeli",
+        "Kısa vadeli",
+        "Çok kısa vadeli"
+      ],
+      "answer": 2,
+      "explanation": "Borçlanma araçları fonlarının unvanında vade yapısına yer verilmek istenmesi durumunda, fon portföyünün ağırlıklı ortalama vadesinin 25-90 gün olması halinde \"kısa vadeli\", 91-730 gün olması halinde \"orta vadeli\", 730 günden fazla olması halinde \"uzun vadeli\" ifadelerine fon unvanında yer verilir.",
+      "source": "1001 s.160",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
