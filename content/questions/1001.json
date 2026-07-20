@@ -3130,6 +3130,156 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1001-n1",
+      "q": "6362 sayılı SPKn md. 106 uyarınca bilgi suistimali suçunun cezai yaptırımı aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "2 yıldan 5 yıla kadar hapis ve adli para cezası",
+        "3 yıldan 5 yıla kadar hapis veya adli para cezası",
+        "3 yıldan 5 yıla kadar hapis ve 5 bin güne kadar adli para cezası",
+        "1 yıldan 3 yıla kadar hapis veya adli para cezası"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 106'ya göre bilgi suistimali suçunun cezası 3 yıldan 5 yıla kadar hapis veya adli para cezasıdır. Burada 've' değil 'veya' bağlacı kullanılmıştır; yani alternatif olarak düzenlenmiştir.",
+      "source": "1001 s.73",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n2",
+      "q": "Bilgi suistimali suçu nedeniyle verilecek adli para cezasının alt sınırı aşağıdakilerden hangisidir?",
+      "options": [
+        "Suçun işlenmesiyle elde edilen menfaatten az olamaz",
+        "Elde edilen menfaatin iki katından az olamaz",
+        "Elde edilen menfaatin üç katından az olamaz",
+        "En az 5.000 gün adli para cezası"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 106'ya göre bilgi suistimali suçu dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza, elde edilen menfaatin iki katından az olamaz.",
+      "source": "1001 s.73",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n3",
+      "q": "İşleme dayalı piyasa dolandırıcılığı suçunun cezası ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "3 yıldan 5 yıla kadar hapis cezası öngörülmüştür",
+        "5 bin günden 10 bin güne kadar adli para cezası öngörülmüştür",
+        "Hapis ve adli para cezası birlikte uygulanır",
+        "Adli para cezası elde edilen menfaatin iki katından az olamaz"
+      ],
+      "answer": 3,
+      "explanation": "İşleme dayalı piyasa dolandırıcılığında adli para cezasının miktarı 'suçun işlenmesi ile elde edilen menfaatten' az olamaz (iki katından değil). İki kat kuralı bilgi suistimali suçuna aittir.",
+      "source": "1001 s.73",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n4",
+      "q": "6362 sayılı SPKn'ye göre aşağıdakilerden hangisi sermaye piyasasına özgü suç tiplerinden biri değildir?",
+      "options": [
+        "Kripto varlık hizmet sağlayıcıda zimmet",
+        "Bilgi ve belge vermeme, denetimin engellenmesi",
+        "Vergi kaçakçılığı",
+        "Sır saklama yükümlülüğünü ihlal"
+      ],
+      "answer": 2,
+      "explanation": "SPKn'de 9 adet sermaye piyasasına özgü suç tipi sayılmıştır: Bilgi suistimali, Piyasa dolandırıcılığı, Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti, İzinsiz kripto varlık hizmet sağlayıcılığı, Güveni kötüye kullanma ve sahtecilik, Kripto varlık hizmet sağlayıcıda zimmet, Bilgi ve belge vermeme/denetimin engellenmesi, Yasal defterlerde usulsüzlük, Sır saklama yükümlülüğünü ihlal. Vergi kaçakçılığı bunlar arasında yer almaz.",
+      "source": "1001 s.72",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n5",
+      "q": "6362 sayılı SPKn'ye göre sermaye piyasası suçlarının soruşturma ve kovuşturulması için aşağıdakilerden hangisi şarttır?",
+      "options": [
+        "Mağdurun şikâyette bulunması",
+        "Maliye Bakanlığı'nın yazılı görüşü",
+        "Kurulun Cumhuriyet Başsavcılıkları nezdinde yazılı başvuruda bulunması",
+        "Yatırımcı Tazmin Merkezi'nin rapor sunması"
+      ],
+      "answer": 2,
+      "explanation": "6362 sayılı SPKn'de tanımlanan veya atıfta bulunulan suçlardan dolayı soruşturma yapılması, Kurulun Cumhuriyet Başsavcılıkları nezdinde yazılı başvurusuna bağlıdır. Bu başvuru muhakeme şartıdır.",
+      "source": "1001 s.72",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n6",
+      "q": "Örtülü kazanç aktarımı tespit edilmesi halinde Kurulun açabileceği iptal davası için öngörülen süre aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Tespit tarihinden itibaren 6 ay ve her hâlde işlemin vukuundan itibaren 5 yıl",
+        "Tespit tarihinden itibaren 1 yıl ve her hâlde işlemin vukuundan itibaren 5 yıl",
+        "Tespit tarihinden itibaren 3 ay ve her hâlde işlemin vukuundan itibaren 3 yıl",
+        "Tespit tarihinden itibaren 6 ay ve her hâlde işlemin vukuundan itibaren 3 yıl"
+      ],
+      "answer": 2,
+      "explanation": "SPKn uyarınca örtülü kazanç aktarımında Kurul, hukuka aykırılığın tespit tarihinden itibaren 3 ay ve her hâlde durum ve işlemin vukuu tarihinden itibaren 3 yıl içinde iptal davası açabilir. Butlan veya yokluğun tespiti davası ise 5 yıl içinde açılabilir.",
+      "source": "1001 s.67",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n7",
+      "q": "Tedrici tasfiye ve iflas durumlarında Kurulun şahsen iflasını isteyebileceği ortaklar için asgari pay sahipliği oranı aşağıdakilerden hangisidir?",
+      "options": [
+        "Doğrudan veya dolaylı %5'ten fazla paya sahip ortaklar",
+        "Doğrudan veya dolaylı %10'dan fazla paya sahip ortaklar",
+        "Doğrudan veya dolaylı %20'den fazla paya sahip ortaklar",
+        "Doğrudan veya dolaylı %25'ten fazla paya sahip ortaklar"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 86 ve md. 97 uyarınca tedrici tasfiye ve iflas durumlarında Kurul, doğrudan veya dolaylı yüzde ondan fazla paya sahip ortaklarının şahsen iflasını istemeye yetkilidir.",
+      "source": "1001 s.70",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n8",
+      "q": "Denetimden sorumlu komite üyeleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Üyelerin çoğunluğunun bağımsız yönetim kurulu üyesi olması yeterlidir",
+        "Tüm üyelerinin bağımsız yönetim kurulu üyesi niteliğinde olması gerekir",
+        "İcra başkanı/genel müdür de üye olabilir",
+        "Komite başkanının bağımsız üye olması zorunlu değildir"
+      ],
+      "answer": 1,
+      "explanation": "Denetimden sorumlu komitelerin tüm üyelerinin bağımsız yönetim kurulu üyesi niteliğinde olması gerekir. Diğer komitelerde ise çoğunluk yeterlidir. Ayrıca icra başkanı/genel müdür hiçbir komitede görev alamaz.",
+      "source": "1001 s.137",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n9",
+      "q": "İzinsiz sermaye piyasası faaliyetinde bulunanların aynı zamanda izinsiz kripto varlık hizmet sağlayıcılığı faaliyetinde de bulunmaları halinde ceza uygulaması nasıl yapılır?",
+      "options": [
+        "Her iki suçtan ayrı ayrı cezalandırılırlar",
+        "En ağır cezayı gerektiren suçtan cezalandırılırlar",
+        "Sadece izinsiz sermaye piyasası faaliyeti suçundan cezalandırılır ve ceza yarı oranında artırılır",
+        "Sadece izinsiz kripto varlık hizmet sağlayıcılığı suçundan cezalandırılırlar"
+      ],
+      "answer": 2,
+      "explanation": "SPKn md. 109 hükmüne göre, izinsiz sermaye piyasası faaliyetinde bulunanlar aynı zamanda birinci fıkrada tanımlanan suçu da işledikleri takdirde, sadece bu fıkrada tanımlanan suçtan dolayı cezaya hükmedilir ve ceza yarı oranında artırılır.",
+      "source": "1001 s.75",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-n10",
+      "q": "Güveni kötüye kullanma suçunun sermaye piyasasındaki nitelikli hali için öngörülen hapis cezasının alt sınırı aşağıdakilerden hangisidir?",
+      "options": [
+        "1 yıl",
+        "2 yıl",
+        "3 yıl",
+        "5 yıl"
+      ],
+      "answer": 2,
+      "explanation": "6362 sayılı SPKn md. 110/1 hükmünde güveni kötüye kullanma suçunun nitelikli halinin TCK md. 155'e atıf yaptığı, ancak verilecek cezanın alt sınırının TCK'daki alt sınırdan farklı olarak üç yıldan az olamayacağı belirtilmiştir.",
+      "source": "1001 s.75",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

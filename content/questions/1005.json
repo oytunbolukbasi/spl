@@ -3250,6 +3250,196 @@
       "source": "1005 s.26",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1005-n11",
+      "q": "Tezgahüstü türev araç işlemlerinde kullanılan risk modellerinin geçerliliği ve güvenilirliği en az ne kadar sürede bir stres testleriyle sınanmak zorundadır?",
+      "options": [
+        "En az üç ayda bir",
+        "En az altı ayda bir",
+        "En az yılda bir",
+        "En az ayda bir"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım Hizmetleri Tebliği md.25/B-3 uyarınca, teminatlandırma politikasında kullanılan risk modellerinin geçerliliği ve güvenilirliği en az altı ayda bir olmak üzere geriye dönük stres testleriyle sınanmak zorundadır. Yapılacak testlerin sonuçları yönetim kuruluna raporlanır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 20,
+        "section": "5.4.2 Tezgahüstü Türev Araç İşlemlerinde Teminatlandırma Politikası ve Pozisyon Limitleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n12",
+      "q": "Kaldıraçlı işlemlerde deneme hesabına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Müşterinin deneme hesabını asgari altı iş günü süreyle çalıştırması gereklidir",
+        "Deneme hesabında toplamda asgari elli adet işlem yapması gereklidir",
+        "Deneme hesabının gerçek zamanlı fiyatlar üzerinden çalıştırılması gerekmektedir",
+        "Deneme hesabında asgari on iş günü süreyle çalıştırma ve yirmi işlem yapma şartı aranır"
+      ],
+      "answer": 3,
+      "explanation": "Yatırım Hizmetleri Tebliği md.27/C uyarınca müşterinin deneme hesabını asgari altı iş günü süreyle çalıştırması ve toplamda asgari elli adet işlem yapması gereklidir. On iş günü ve yirmi işlem şartı mevzuatta yer almamaktadır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 25,
+        "section": "5.5.4 Kaldıraçlı İşlemlerde Deneme Hesabı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n13",
+      "q": "Açığa satış işlemlerinde özkaynak oranı hesaplamasına göre, hesabın açıldığı gün 10.000.000 TL değerinde işlem yapıldığında ve 5.000.000 TL özkaynak yatırıldığında, başlangıç özkaynak oranı yüzde kaçtır?",
+      "options": [
+        "%35",
+        "%40",
+        "%50",
+        "%60"
+      ],
+      "answer": 2,
+      "explanation": "Açığa satış özkaynak oranı formülü V = (I - IV) / I şeklindedir. Hesabın açıldığı gün: I (İşleme Konu Kıymetlerin Cari Piyasa Değeri) = 10.000.000 TL, IV (Açığa Satışa Konu SPA Cari Piyasa Değeri) = 5.000.000 TL, dolayısıyla V = (10.000.000 - 5.000.000) / 10.000.000 = %50.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 130,
+        "section": "19.3 Açığa Satış İşlemlerinde Özkaynak Oranı Hesaplaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n14",
+      "q": "Müşteri varlıklarının korunmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Bloke edilen varlıklar kamu alacakları için olsa dahi haczedilemez",
+        "Bloke edilen varlıklar iflas masasına dahil edilemez",
+        "Bloke edilen varlıklar üçüncü kişilere devredilebilir, ancak müşteri onayı gereklidir",
+        "Bloke edilen varlıklar rehnedilemez ve üzerlerine ihtiyati tedbir konulamaz"
+      ],
+      "answer": 2,
+      "explanation": "Mevzuata göre bloke edilen müşteri varlıkları yalnızca ilgili müşterilere veya aracı kuruma iade edilmek üzere kullanılabilir. Bu varlıklar üçüncü kişilere devredilemez (müşteri onayı olsa dahi). Kamu alacakları için olsa dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 95,
+        "section": "Bloke Edilen Varlıkların Korunması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n15",
+      "q": "Kredili alım ve açığa satış işlemlerinde özkaynak oranı hesaplanırken, hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının özkaynak olarak kabul edilebilecek oranı yüzde kaçtır?",
+      "options": [
+        "%90",
+        "%100",
+        "%75",
+        "%50"
+      ],
+      "answer": 2,
+      "explanation": "Kredili alım ve açığa satış işlemlerinde özkaynak oranı hesaplanırken, hisse senedi şemsiye fonlara bağlı yatırım fonu katılma payları ile serbest şemsiye fonlara bağlı yatırım fonu katılma paylarının %75'i özkaynak olarak kabul edilebilmektedir. Borsa yatırım fonu katılma paylarının ise %90'ı kabul edilir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 120,
+        "section": "8. Özkaynak Olarak Kabul Edilebilecek Kıymetler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n16",
+      "q": "Yatırım kuruluşlarının risk bildirim formunda değişiklik olması halinde, değişikliğin öğrenilmesini takip eden kaç iş günü içerisinde müşterilere bildirimde bulunulması zorunludur?",
+      "options": [
+        "1 iş günü",
+        "2 iş günü",
+        "3 iş günü",
+        "5 iş günü"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım Kuruluşları Tebliği md.25/5 uyarınca, risk bildirimine konu açıklanan durumlarda değişiklik olması halinde, değişikliğin yatırım kuruluşu tarafından öğrenilmesini takip eden 3 iş günü içerisinde ilgili müşterilere değişiklik hakkında bildirimde bulunulması ve müşterinin yazılı beyanının alınması zorunludur.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 70,
+        "section": "Risk Bildirimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n17",
+      "q": "Dışarıdan hizmet alımında, bilgi sistemlerine ilişkin olarak yılda en az kaç kez Sızma Testi yaptırılması zorunludur?",
+      "options": [
+        "En az iki kez",
+        "En az bir kez",
+        "En az üç kez",
+        "En az dört kez"
+      ],
+      "answer": 1,
+      "explanation": "VII-128.10 sayılı Bilgi Sistemleri Yönetimine İlişkin Usul ve Esaslar Tebliği hükümlerine göre, bilgi sistemleri yılda en az bir kez Sızma Testi yaptırılmasına tabidir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 90,
+        "section": "14.2 Dışarıdan Hizmet Alımında Sorumluluklar"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n18",
+      "q": "Kaldıraçlı işlemlerde genel müşteriler için hesap açılması sırasında alınacak yazılı beyanda aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Kaldıraçlı işlemlerin niteliği itibarıyla riskli olduğu ve zarar edilebileceği",
+        "Yatırılan teminatın tamamının kaybedilebileceği",
+        "Müşterinin son bir yıllık gelir ve gider tablosu",
+        "İnternet sitesinde duyurulan kar/zarar dağılımı"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım Hizmetleri Tebliği md.27/Ç uyarınca, kaldıraçlı işlemlerde genel müşterilerden alınacak yazılı beyanda: (1) işlemlerin riskli olduğu, (2) teminatın tamamının kaybedilebileceği, (3) deneme hesabı üzerinden işlem gerçekleştirildiği, (4) uygulanacak kaldıraç oranı, (5) internet sitesinde duyurulan kar/zarar dağılımı hususları yer alır. Müşterinin gelir ve gider tablosu bu beyanın kapsamında değildir.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 25,
+        "section": "5.5.5 Kaldıraçlı İşlemlerde Alınacak Beyan (Genel Müşteriler İçin)"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n19",
+      "q": "Kaldıraçlı işlemlere ilişkin yayın, ilan, duyuru ve reklamlarda aracı kurumların karda ve zararda olan müşteri hesaplarının oransal dağılımını hangi dönemlere ilişkin olarak vermesi zorunludur?",
+      "options": [
+        "Yalnızca yıllık bazda",
+        "Ocak-Haziran ve Temmuz-Aralık olmak üzere iki dönem",
+        "Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık olmak üzere dört dönem",
+        "Aylık bazda on iki dönem"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım Kuruluşları Tebliği md.41 uyarınca, kaldıraçlı işlemlere ilişkin yapılacak her türlü yayın, ilan, reklam ve duyuruda Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık dönemlerine ilişkin aracı kurumların karda ve zararda olan müşteri hesaplarının oransal dağılımına yer verilmesi zorunludur.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 85,
+        "section": "12.6 İlanlar, Duyurular, Reklamlar ve Promosyon Kampanyaları"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1005-n20",
+      "q": "Aracı kurumun müşteri hesabı olarak tayin edilmiş bir banka hesabı açtırılırken, banka tarafından konuya ilişkin onay verilmemesi durumunda yatırım kuruluşu ilgili tutarı kaç iş günü içerisinde başka bir bankaya aktarmak zorundadır?",
+      "options": [
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü",
+        "20 iş günü"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım Hizmetleri Tebliği md.66 uyarınca, açılan hesabın ismi yatırım kuruluşunun banka nezdindeki diğer hesaplarından yeterince ayırt edilebilecek şekilde olmalıdır. Banka tarafından 15 iş günü içerisinde konuya ilişkin onay verilmemesi durumunda yatırım kuruluşu ilgili tutarı başka bir bankaya aktarmak zorundadır.",
+      "source": {
+        "pdf": "1005-notes.pdf",
+        "page": 50,
+        "section": "9.5 Müşteri Nakit Varlıklarının Korunması"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

@@ -3373,6 +3373,196 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-n21",
+      "q": "MKK nezdinde açılan 'Bilinmeyen Ortak Hesabı' ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Kaydi dönüştürme aşamasında hak sahiplerinin ihraççı tarafından bilinmemesi durumunda kullanılır",
+        "Payların toplu olarak ödenmiş olması amacıyla oluşturulur",
+        "Fiilen kaydileştirilen sermaye piyasası araçlarının ihraççı tarafından hak sahiplerine ilişkin kayıtların tutulması amacıyla MKK'na bildirilmesinde, MKK döneminin uzaması halinde hak sahipleri bazında bağlı olarak ilgili hesaba kaydi gerçekleştirilir",
+        "Bu hesapta tutulan paylar borsada işlem görebilir ve aracı kurumlarca alım satımına aracılık edilebilir"
+      ],
+      "answer": 3,
+      "explanation": "Bilinmeyen ortak hesabındaki paylar borsada işlem göremez ve aracı kurumlarca alım satımına aracılık edilemez. Teslim edilmeyen sermaye piyasası araçları kaydileştirme kararından sonra borsada işlem göremez.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 20,
+        "section": "2.2.1 Kayıtların Tutulması, MKK Nezdinde Tutulacak Hesaplar ve Kaydileştirme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n22",
+      "q": "Takasbank nezdinde müşteri bazında nakit hesaplar tutulmadığından ve kıymet takas yükümlülükleri MKK nezdindeki müşteri hesaplarındaki bakiyeler üzerinden gerçekleştirildiğinden, önceden depo şartı kontrolünün yapılması kimin sorumluluğundadır?",
+      "options": [
+        "Takasbank",
+        "MKK",
+        "Emir veren yatırım kuruluşu (üye)",
+        "SPK"
+      ],
+      "answer": 2,
+      "explanation": "Önceden depo şartı uygulanmasının, emir veren yatırım kuruluşu tarafından yapılması zorunludur. Üye tarafından depo şartı kontrolü yapılmaması kaynaklı yükümlülüklerden Takasbank sorumlu tutulamaz.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 40,
+        "section": "2.3.6.7 İşlem öncesi depo şartı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n23",
+      "q": "Garanti fonu katkı payları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Talep edilebilecek ilave katkı payı, normal katkı payının iki katını aşamaz",
+        "MKT üyelerince garanti fonuna yatırılacak katkı payları, üyelerin borçlanarak temin ettiği varlıklardan karşılanabilir",
+        "Talep edilebilecek ilave katkı payı, normal katkı payını aşamaz",
+        "Garanti fonu katkı payı olarak yatırılabilecek varlıklar SPK tarafından belirlenir"
+      ],
+      "answer": 2,
+      "explanation": "Talep edilebilecek ilave katkı payı, normal katkı payını aşamaz. Ayrıca MKT üyelerince garanti fonuna yatırılacak katkı payları, üyelerin kendi mülkiyetindeki varlıklardan karşılanmalıdır (borçlanarak değil). Garanti fonu katkı payı olarak yatırılabilecek varlıklar Takasbank tarafından belirlenir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 45,
+        "section": "2.3.8.2 Garanti fonu katkı payları ve tamamlama çağrısı"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n24",
+      "q": "Pay Piyasası temerrüt faizi hesaplamasında kullanılan kıymet matrahı aşağıdakilerden hangisidir?",
+      "options": [
+        "Gecikmeli kapatılan tutar",
+        "Adet x Fiyat (İşlem günü ağırlıklı ortalama fiyat)",
+        "Adet x Fiyat (Takas günü kapanış fiyatı)",
+        "Nominal değer x Adet"
+      ],
+      "answer": 1,
+      "explanation": "Pay Piyasası temerrüt hesaplama formülünde kıymet için matrah 'Adet x Fiyat (İşlem günü ağırlıklı ortalama fiyat)' olarak belirlenmiştir. Nakit için matrah ise 'Gecikmeli Kapatılan Tutar'dır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 75,
+        "section": "3.1.5 Pay Piyasası Temerrüt İşlemleri"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n25",
+      "q": "Pay Piyasası temerrüt katsayısı uygulamasına göre, yükümlülüğün takas gününde takas son saatinden sonra 17:30'a kadar (17:30 dahil) yerine getirilmesi halinde katsayı kaçtır?",
+      "options": [
+        "0,5",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "Yükümlülüğün takas gününde takas son saatinden sonra 17:30'a kadar (17:30 dahil) yerine getirilmesi halinde katsayı 1 (bir) olarak uygulanır. 17:31 ve daha sonra ya da izleyen günlerde yerine getirilmesi halinde katsayı 3 (üç) olarak uygulanır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 75,
+        "section": "3.1.5 Pay Piyasası Temerrüt İşlemleri - Katsayı Uygulaması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n26",
+      "q": "Teslim karşılığı ödeme prensibinde, yükümlülüğün kısmi olarak yerine getirilmesi halinde alacaklar nasıl ödenir?",
+      "options": [
+        "Alacakların tamamı bloke edilir ve hiçbir ödeme yapılmaz",
+        "Kapatılan borçla orantılı olarak ödenir",
+        "Alacaklar yalnızca yükümlülüğün tamamı yerine getirildiğinde ödenir",
+        "Alacaklar bir sonraki takas gününe ertelenir"
+      ],
+      "answer": 1,
+      "explanation": "Teslim karşılığı ödeme prensibinde yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez. Ancak yükümlülüğün kısmi olarak yerine getirilmesi halinde alacaklar kapatılan borçla orantılı olarak ödenir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 40,
+        "section": "2.3.6.5 Teslim karşılığı ödeme"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n27",
+      "q": "Değerleme katsayılarının hesaplanmasında kullanılan istatistiksel parametrelerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Güven düzeyi %99,90 olarak alınır",
+        "Likidite etme süresi 2 iş günü olarak dikkate alınır",
+        "Hesaplamalarda kullanılacak tarihsel verinin 1 yıldan az olmaması esastır",
+        "Güven düzeyi %99,00 olarak alınır"
+      ],
+      "answer": 3,
+      "explanation": "Değerleme katsayıları hesaplamasında güven düzeyi %99,90 olarak alınır, %99,00 değildir. Likidite etme süresi 2 iş günü olarak dikkate alınır ve tarihsel verinin 1 yıldan az olmaması esastır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 80,
+        "section": "3.2.9 Değerleme katsayıları - İstatistiksel Parametreler"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n28",
+      "q": "Borsa İstanbul Para Piyasası'nda teminat olarak aşağıdakilerden hangisi kabul edilmektedir?",
+      "options": [
+        "Yalnızca TL nakit",
+        "DİBS ve döviz",
+        "Borsada işlem gören paylar ve DİBS",
+        "Yalnızca döviz"
+      ],
+      "answer": 1,
+      "explanation": "Borsa İstanbul Para Piyasası'nda teminat olarak DİBS ve döviz kabul edilmekte, işlem öncesi ve işlem sonrası risk yönetimi yapılmaktadır.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 100,
+        "section": "4.6.3.1 Genel Esaslar - Risk ve Teminat Yönetimi"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n29",
+      "q": "Takasbank'ın MKT uygulamasında, mütemerrit MKT üyesine ait pozisyonların kapatılması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Takasbank, mütemerrit MKT üyesine pozisyonların kapatılması yönünde talimat verir",
+        "MKT üyesinin kendi pozisyonlarını kapatmaması halinde Takasbank bu pozisyonları re'sen kapatmaya yetkilidir",
+        "Takasbank, mütemerrit MKT üyesine ait pozisyonların devri amacıyla ihale düzenleyebilir",
+        "Takasbank, mütemerrit MKT üyesinin pozisyonlarını yalnızca SPK onayı ile kapatabilir"
+      ],
+      "answer": 3,
+      "explanation": "Takasbank, mütemerrit MKT üyesinin pozisyonlarını re'sen kapatmaya yetkilidir ve bu yetki için SPK onayı gerekmez. Ayrıca faaliyetlerinin kısıtlanmış veya üyeliğinin sona erdirilmesine karar verilmiş olması hallerinde de Takasbank pozisyonları re'sen kapatmaya yetkilidir.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 52,
+        "section": "2.3.8.11 MKT uygulamasında pozisyonların kapatılması, devri ve sonlandırılması"
+      },
+      "verified": true,
+      "flag": null
+    },
+    {
+      "id": "1012-n30",
+      "q": "İhraççılar mali hakların kullanılmasıyla ilgili olarak, içeriği MKK tarafından belirlenecek bilgileri en geç ne zaman MKK'ya bildirmekle yükümlüdür?",
+      "options": [
+        "İşleme başlamadan üç gün önce",
+        "İşleme başlamadan bir gün önce",
+        "İşlem günü saat 12:00'ye kadar",
+        "İşleme başlamadan bir hafta önce"
+      ],
+      "answer": 1,
+      "explanation": "İhraççılar mali hakların kullanılmasıyla ilgili olarak, içeriği MKK tarafından belirlenecek bilgileri en geç işleme başlamadan bir gün önce en seri şekilde MKK'ya bildirmekle yükümlüdür.",
+      "source": {
+        "pdf": "1012-notes.pdf",
+        "page": 25,
+        "section": "2.2.2.3 Mali hakların kullanılması ve kaydı"
+      },
+      "verified": true,
+      "flag": null
     }
   ]
 }

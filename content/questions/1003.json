@@ -3346,6 +3346,166 @@
       "source": "1003 s.113",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1003-n21",
+      "q": "Sermaye artırımına ilişkin yetkili organ kararının tarihinden itibaren en geç kaç gün içerisinde Kurula başvuruda bulunulması gerekmektedir?",
+      "options": [
+        "On beş gün",
+        "Yirmi gün",
+        "Otuz gün",
+        "Kırk beş gün"
+      ],
+      "answer": 2,
+      "keyAnswer": "Otuz gün",
+      "explanation": "Sermaye artırımına ilişkin yetkili organ kararının tarihinden itibaren otuz gün içerisinde ortaklık ya da yetkili kuruluş tarafından izahnamenin onaylanması talebiyle Kurula başvuruda bulunulması gerekir.",
+      "source": "1003-notes.pdf s.25",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n22",
+      "q": "Halka açık ortaklıklarda sermaye koyma borcunun yerine getirilmesinde 'tam ve nakden ödeme ilkesi' kapsamında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Sermaye koyma borcunun nakit olarak yerine getirilmesi zorunludur",
+        "Nakden konulan ve mali müşavir raporu ile tespit edilen muaccel borçlar mahsup edilebilir",
+        "Nakit dışındaki varlık devrinden kaynaklanan borçlar da sermaye koyma borcuna mahsup edilebilir",
+        "Nakden konulduğu mali müşavir raporu ile tespit edilen fonlar sebebiyle oluşan borçların muaccel olması kaydıyla mahsup yapılabilir"
+      ],
+      "answer": 2,
+      "keyAnswer": "Nakit dışındaki varlık devrinden kaynaklanan borçlar da sermaye koyma borcuna mahsup edilebilir",
+      "explanation": "Halka açık ortaklıkların sermaye artırımlarında ortaya çıkan nakit sermaye koyma borcu, ortaklığa nakit dışındaki varlık devrinden kaynaklanan borçlara mahsup suretiyle yerine getirilemez. Yalnızca nakden konulan ve mali müşavir raporu ile tespit edilen fonlar sebebiyle oluşan muaccel borçlar mahsup edilebilir.",
+      "source": "1003-notes.pdf s.25",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n23",
+      "q": "Borçlanma araçlarının yurt içinde halka arz edilmeksizin satışında birim nominal değeri asgari ne kadardır?",
+      "options": [
+        "10.000 TL",
+        "50.000 TL",
+        "100.000 TL",
+        "250.000 TL"
+      ],
+      "answer": 2,
+      "keyAnswer": "100.000 TL",
+      "explanation": "Yurt içinde halka arz edilmeksizin yapılacak satışlar, nitelikli yatırımcıya satış ve birim nominal değeri asgari 100.000 TL olmak kaydıyla tahsisli satış olmak üzere iki şekilde yapılabilir.",
+      "source": "1003-notes.pdf s.70",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n24",
+      "q": "Genel BASK toplantılarında kararlar, toplantıya katılma hakkı veren borçlanma araçlarının toplam nominal bedelinin en az ne kadarını temsil eden sahiplerinin oyuyla alınır?",
+      "options": [
+        "Salt çoğunluk (yarıdan fazlası)",
+        "Üçte iki çoğunluk",
+        "Dörtte üç çoğunluk",
+        "Beşte dört çoğunluk"
+      ],
+      "answer": 1,
+      "keyAnswer": "Üçte iki çoğunluk",
+      "explanation": "Genel BASK toplantılarında kararlar, toplantıya katılma hakkı veren borçlanma araçlarının toplam nominal bedelinin en az üçte iki çoğunluğunu temsil eden borçlanma aracı sahiplerinin oyu ile alınır.",
+      "source": "1003-notes.pdf s.81",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n25",
+      "q": "Tertip BASK kararının ihraççının yönetim kurulunca onaylanmasından sonra, karardan olumsuz etkilenen borçlanma aracı sahipleri, nominal değerin yüzde kaçına sahip olanlar yönetim kurulu onay kararından itibaren en geç beş iş günü içinde Genel BASK toplanmasını talep edebilir?",
+      "options": [
+        "%10",
+        "%15",
+        "%20",
+        "%25"
+      ],
+      "answer": 2,
+      "keyAnswer": "%20",
+      "explanation": "Tertip BASK'ta alınmış ve ihraççının yönetim kurulunca onaylanmış bir kararın kendi haklarını olumsuz etkilediği gerekçesiyle ihraççının aynı veya farklı ihraç tavanlarına dahil tedavülde bulunan tüm diğer tertip borçlanma araçlarının nominal değerinin yüzde yirmisine sahip olanlar yönetim kurulu onay kararından itibaren en geç beş iş günü içinde Genel BASK'ın toplanmasını talep edebilir.",
+      "source": "1003-notes.pdf s.81",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n26",
+      "q": "Serbest fonlar dışındaki yatırım fonları tarafından borsada ve borsa dışında hangi opsiyon pozisyonu alınamaz?",
+      "options": [
+        "Opsiyon alıcısı (uzun pozisyon)",
+        "Opsiyon satıcısı (kısa pozisyon)",
+        "Hem opsiyon alıcısı hem satıcısı",
+        "Koruma amaçlı opsiyon alıcısı"
+      ],
+      "answer": 1,
+      "keyAnswer": "Opsiyon satıcısı (kısa pozisyon)",
+      "explanation": "Serbest fonlar dışındaki yatırım fonları tarafından borsada ve borsa dışında opsiyon satıcısı olarak opsiyon sözleşmesine taraf olunamaz.",
+      "source": "1003-notes.pdf s.115",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n27",
+      "q": "Fon portföylerine riskten korunma amacıyla sınırlı olarak borsa dışından türev araç ve swap sözleşmeleri dahil edilebilir. Bu sınırlama aşağıdaki fon türlerinden hangisi için uygulanmaz?",
+      "options": [
+        "Para piyasası fonları",
+        "Borçlanma araçları fonları",
+        "Garantili ve koruma amaçlı fonlar",
+        "Hisse senedi yoğun fonlar"
+      ],
+      "answer": 2,
+      "keyAnswer": "Garantili ve koruma amaçlı fonlar",
+      "explanation": "Fon portföylerine riskten korunma amacıyla sınırlı olarak borsa dışından türev araç ve swap sözleşmeleri dahil edilebilir. Söz konusu sınırlama, garantili ve koruma amaçlı fonlarda opsiyon dışındaki türev araçlar için uygulanmakta olup serbest fonlar için uygulanmaz.",
+      "source": "1003-notes.pdf s.115",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n28",
+      "q": "VİOP'ta Merkezi Karşı Taraf olan Takasbank, portföy bazlı teminatlandırma yöntemini kullanmaktadır. Portföy bazlı risk yönetimi algoritması olarak hangi yöntem baz alınır?",
+      "options": [
+        "SPAN (Standard Portfolio Analysis of Risk)",
+        "BISTECH Marjin Yöntemi",
+        "Value at Risk (VaR) yöntemi",
+        "Monte Carlo Simülasyonu"
+      ],
+      "answer": 1,
+      "keyAnswer": "BISTECH Marjin Yöntemi",
+      "explanation": "Takasbank, portföy bazında teminatlandırma işlemlerinde portföy bazlı risk yönetimi algoritmasını baz alan BISTECH Marjin Yöntemini kullanır.",
+      "source": "1003-notes.pdf s.161",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n29",
+      "q": "VİOP işlemlerinde nakdi uzlaşılı vadeli işlem sözleşmeleri için vade sonunda oluşan kar/zarar nasıl değiştirilir?",
+      "options": [
+        "Dayanak varlığın fiziki teslimatıyla",
+        "Nakdi olarak taraflar arası el değiştirir",
+        "Takas merkezinin garantisiyle bir sonraki vadeye taşınır",
+        "Opsiyonun kullanım fiyatıyla netleştirilir"
+      ],
+      "answer": 1,
+      "keyAnswer": "Nakdi olarak taraflar arası el değiştirir",
+      "explanation": "Nakdi uzlaşılı vadeli işlem sözleşmeleri için vade sonunda oluşan kar/zarar nakdi olarak taraflar arası el değiştirir. Fiziki teslimat yalnızca pay vadeli işlem, pay opsiyon ve bazı diğer sözleşmelerde uygulanır.",
+      "source": "1003-notes.pdf s.161",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-n30",
+      "q": "Esas sermayeli ortaklıklarda sermaye artırımının ticaret siciline tescilinden itibaren hamiline yazılı pay senetleri en geç kaç gün içinde teslim edilir?",
+      "options": [
+        "On beş gün",
+        "Otuz gün",
+        "Kırk beş gün",
+        "Doksan gün"
+      ],
+      "answer": 1,
+      "keyAnswer": "Otuz gün",
+      "explanation": "Esas sermayeli ortaklıklarda sermaye artırımının ticaret siciline tescilinden itibaren hamiline yazılı pay senetleri otuz gün, nama yazılı pay senetleri ise doksan gün içinde teslim edilir.",
+      "source": "1003-notes.pdf s.44",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
