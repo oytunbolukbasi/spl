@@ -3563,6 +3563,669 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1012-m1",
+      "q": "VİOP'ta hesaplanan toplam teminat gereksiniminin en az yüzde kaçının TL teminattan oluşması gerekir?",
+      "options": [
+        "%100",
+        "%90",
+        "%50",
+        "%30",
+        "%15"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "VİOP'ta toplam teminat gereksiniminin en az %50'si TL nakit teminattan oluşmalıdır.",
+      "source": "1012 NotebookLM Q19",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m2",
+      "q": "VİOP'ta teminat çekme en son saati aşağıdakilerden hangisidir?",
+      "options": [
+        "15:00",
+        "15:40",
+        "16:45",
+        "18:10",
+        "19:00"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "VİOP'ta teminat çekme işlemleri en geç saat 15:40'a kadar yapılabilir.",
+      "source": "1012 NotebookLM Q29",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m3",
+      "q": "Aşağıdakilerden hangisi MKK'da kaydı tutulmayan menkul kıymetler arasında yer alır?\nI. VDMK\nII. GOS (Gayrimenkul ve Onay Sertifikaları)\nIII. Geçici Makbuzlar\nIV. Rüçhan Hakkı Kuponları",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "Yalnız IV",
+        "I, II, III ve IV"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "GOS (Gayrimenkul Sertifikaları) MKK'da kaydı tutulmayan menkul kıymetler arasındadır. VDMK, geçici makbuzlar ve rüçhan hakkı kuponları MKK'da kayden izlenir.",
+      "source": "1012 NotebookLM Q48",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m4",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın Merkezi Karşı Taraf (MKT) olduğu piyasalar arasındadır?",
+      "options": [
+        "Borsa Swap Piyasası",
+        "Kıymetli Madenler ve Kıymetli Taşlar Piyasası",
+        "Elektrik Piyasası",
+        "Takasbank Para Piyasası",
+        "TEFAS"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Borsa Swap Piyasası, Takasbank'ın MKT hizmeti verdiği piyasalar arasındadır. Takasbank Para Piyasası'nda ise Takasbank MKT değil, doğrudan taraf olarak işlem yapar.",
+      "source": "1012 NotebookLM Q50",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m5",
+      "q": "MKT üyesinin temerrüdü halinde uygulanacak takas borcu kapama sırası aşağıdakilerden hangisidir?\nI. Blokeli alacağı\nII. Garanti Fonu\nIII. İşlem Teminatı",
+      "options": [
+        "I — II — III",
+        "II — III — I",
+        "III — I — II",
+        "III — II — I",
+        "I — III — II"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "MKT temerrüt sürecinde önce blokeli alacaklar (I), sonra işlem teminatları (III), en son garanti fonu katkı payı (II) kullanılır.",
+      "source": "1012 NotebookLM Q51",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m6",
+      "q": "MKT hizmeti verilen piyasalarda aşağıdakilerden hangisi işlem teminatı olarak kabul edilen varlıklar arasında yer almaz?",
+      "options": [
+        "DİBS",
+        "Eurotahvil",
+        "Amerikan Doları",
+        "Özel Sektör Tahvili",
+        "BİST 30 Payları"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "MKT hizmeti verilen piyasalarda özel sektör tahvilleri işlem teminatı olarak kabul edilmez. DİBS, eurotahvil, döviz ve belirli BİST payları teminat olarak kabul edilir.",
+      "source": "1012 NotebookLM Q52",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m7",
+      "q": "Borsa Pay Piyasasında teminat ve garanti fonu katkı payı yükümlülüklerinin yerine getirilmesi amacıyla aşağıdaki varlıklardan hangisi kullanılmaz?",
+      "options": [
+        "Nakit TL",
+        "Vadeli İşlem Sözleşmesi",
+        "Konvertibl Döviz",
+        "Hisse senedi şemsiye fon",
+        "Borsada işlem gören altın"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Vadeli işlem sözleşmeleri teminat olarak kabul edilmez. Nakit TL, döviz, hisse senedi şemsiye fon ve borsada işlem gören altın teminat olarak kullanılabilir.",
+      "source": "1012 NotebookLM Q54",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m8",
+      "q": "Saklayıcının sorumlulukları ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Saklayıcı yükümlülüklerini yerine getirmemesi nedeniyle portföy yönetim şirketi ve fon sahiplerine karşı zararları karşılamakla sorumludur.\nII. Alt saklayıcı kullanılması durumunda alt saklayıcı ile birlikte müteselsilen sorumludur.\nIII. Saklayıcı fonun fiyat hareketi ve yönetiminden sorumludur.",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III",
+        "Hiçbiri"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "I doğru (saklayıcı zararlardan sorumlu) ve II doğru (alt saklayıcıyla müteselsil sorumluluk). III yanlıştır çünkü saklayıcı fonun fiyat hareketi ve portföy yönetiminden sorumlu değildir; bu PYŞ'nin görevidir.",
+      "source": "1012 NotebookLM Q55",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m9",
+      "q": "Borçlanma araçlarının nakit takasında borç aşağıdaki şekillerden hangisi ile kapatılamaz?",
+      "options": [
+        "Elektronik Menkul Kıymet Transfer Sistemi",
+        "Nakit yöntemi",
+        "EFT",
+        "Virman",
+        "Mahsup"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Borçlanma araçlarının nakit takasında borç nakit, EFT, virman veya mahsup yoluyla kapatılabilir. Elektronik Menkul Kıymet Transfer Sistemi (EMKT) kıymet transferi içindir, nakit borç kapatmada kullanılmaz.",
+      "source": "1012 NotebookLM Q56",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m10",
+      "q": "Aşağıdakilerden hangisi Takasbank tarafından olağanüstü durumlarda alınacak tedbirler arasında yer almaz?",
+      "options": [
+        "İşlem ve pozisyon limitlerini değiştirmek",
+        "Piyasa bazında emir kabulünü doğrudan yasaklamak",
+        "İlave teminat talep etmek",
+        "Pozisyonların kapatılmasını istemek",
+        "Teslim, takas ve opsiyon kullanım süresi ile şartlarını değiştirmek"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Takasbank olağanüstü durumlarda işlem/pozisyon limitlerini değiştirebilir, ilave teminat talep edebilir, pozisyon kapatılmasını isteyebilir ve takas şartlarını değiştirebilir. Ancak piyasa bazında emir kabulünü doğrudan yasaklama yetkisi Borsa'ya aittir, Takasbank'a değil.",
+      "source": "1012 NotebookLM Q57",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m11",
+      "q": "VİOP'ta garanti fonu katkı paylarının yüzde kaçı TL nakit olmak zorundadır?",
+      "options": [
+        "%100",
+        "%90",
+        "%50",
+        "%30",
+        "%10"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "VİOP'ta garanti fonu katkı paylarının en az %30'u TL nakit olmak zorundadır. Bu oran işlem teminatı için gereken %50'den farklıdır.",
+      "source": "1012 NotebookLM Q59",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m12",
+      "q": "Portföy saklama birim yöneticisinin sahip olması gereken belgeler aşağıdakilerden hangisidir?",
+      "options": [
+        "Düzey 1 ve Kredi derecelendirme",
+        "Düzey 2",
+        "Düzey 3",
+        "Düzey 3 ve Türev Lisans",
+        "Düzey 3 ve Kredi derecelendirme"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Portföy saklama birim yöneticisinin Düzey 3 Lisans Belgesi ve Türev Araçlar Lisans Belgesine sahip olması gerekir.",
+      "source": "1012 NotebookLM Q60",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m13",
+      "q": "Doğrudan MKT üyeleri aşağıdakilerden hangilerinin takas işlemlerini gerçekleştirmeye yetkilidir?\nI. Kendi adına\nII. Müşterileri adına\nIII. Diğer İşlemci Kuruluşlar adına",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I, II ve III",
+        "I ve II"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Doğrudan MKT üyeleri kendi adlarına (I) ve müşterileri adına (II) takas işlemi yapabilir. Diğer işlemci kuruluşlar adına takas yapma yetkisi ise yalnızca Genel MKT üyelerine aittir.",
+      "source": "1012 NotebookLM Q61",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m14",
+      "q": "Aşağıdakilerden hangisi MKK nezdinde kaydileştirilmesine karar verilen menkul kıymetler arasında yer almaz?",
+      "options": [
+        "DİBS",
+        "Borsa yatırım fonu",
+        "Yapılandırılmış borçlanma araçları",
+        "Aracı kuruluş varantları",
+        "Altın Katılma Hesabı"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Altın Katılma Hesabı kaydileştirilmesine karar verilen menkul kıymetler arasında yer almaz. DİBS, BYF, yapılandırılmış borçlanma araçları ve varantlar MKK'da kayden izlenir.",
+      "source": "1012 NotebookLM Q63",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m15",
+      "q": "Pay piyasasında üyenin MKK borçları için temerrüte düşüp düşmediğinin tespitinde aşağıdaki hesaplardan hangisine aktarım saati dikkate alınır?",
+      "options": [
+        "MKK Yatırımcı DİBS Depo Hesabı",
+        "MKK Yatırımcı Havuz Hesabı",
+        "MKK Yatırımcı Global Hesabı",
+        "MKK Takasbank Havuz Hesabı",
+        "MKK İhraççı Havuz Hesabı"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Pay piyasasında temerrüt tespitinde MKK Takasbank Havuz Hesabı'na aktarım saati dikkate alınır.",
+      "source": "1012 NotebookLM Q64",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m16",
+      "q": "Aşağıdakilerden hangisi MKK'ya üye olabilecek kuruluşlar arasında yer almaz?",
+      "options": [
+        "Tasarruf Mevduatı Sigorta Fonu",
+        "TCMB",
+        "İhraççılar",
+        "Yatırım kuruluşları",
+        "Yabancı saklama kuruluşları"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "TMSF, MKK'ya üye olabilecek kuruluşlar arasında yer almaz. TCMB, ihraççılar, yatırım kuruluşları ve yabancı saklama kuruluşları MKK'ya üye olabilir.",
+      "source": "1012 NotebookLM Q68",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m17",
+      "q": "Aşağıdakilerden hangisi MKK nezdinde ihraççılar adına açılacak hesaplar arasındadır?",
+      "options": [
+        "MKK Yatırımcı DİBS Depo Hesabı",
+        "MKK İhraççı Bilinmeyen Ortak Hesabı",
+        "MKK Yatırımcı Global Hesabı",
+        "MKK Takasbank Havuz Hesabı",
+        "MKK İhraççı Global Hesabı"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "İhraççılar adına açılan hesaplar arasında 'Bilinmeyen Ortak Hesabı' yer alır. Bu hesap, ortaklık bilgileri henüz tamamlanmamış pay sahiplerinin kayıtlarının tutulması için kullanılır.",
+      "source": "1012 NotebookLM Q69",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m18",
+      "q": "Pay piyasasında 03.12.2020 Perşembe tarihinde gerçekleştirilen işlemin takası aşağıdakilerden hangisinde gerçekleşir?",
+      "options": [
+        "03.12.2020",
+        "04.12.2020",
+        "05.12.2020",
+        "06.12.2020",
+        "07.12.2020"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Pay piyasasında takas T+2 iş günü kuralına göre gerçekleşir. 3 Aralık 2020 Perşembe + 2 iş günü = 7 Aralık 2020 Pazartesi (5-6 Aralık hafta sonu).",
+      "source": "1012 NotebookLM Q71",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m19",
+      "q": "Elde tutulan bir portföy ya da varlık değerinin, faiz oranlarında, döviz kurlarında, emtia ve pay fiyatlarındaki dalgalanmalar nedeniyle meydana gelebilecek değişiklikler sonucunda maruz kalabileceği en yüksek zararı, belli bir dönem dahilinde ve belli bir olasılık seviyesinde ifade eden değere ne ad verilir?",
+      "options": [
+        "Kur riski",
+        "Piyasa riski",
+        "Riske Maruz Değer",
+        "Portföy bazlı teminatlandırma",
+        "SPAN algoritması"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Riske Maruz Değer (VaR — Value at Risk), belirli bir dönemde ve olasılık seviyesinde portföyün maruz kalabileceği en yüksek zararı ifade eden istatistiksel bir risk ölçüsüdür.",
+      "source": "1012 NotebookLM Q72",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m20",
+      "q": "Aşağıdakilerden hangisi MKK üyeliğinin iptali için yazılı başvuru gerektiren bir durumdur?",
+      "options": [
+        "Borçlanma araçlarının vadesinin dolması",
+        "İflas",
+        "Tasfiye",
+        "Borsa kotundan çıkarılma",
+        "Yetki belgesinin iptali"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Borçlanma araçlarının vadesinin dolması, MKK üyeliğinin iptali için ihraççının yazılı başvuru yapması gereken bir durumdur. İflas, tasfiye ve yetki belgesi iptali gibi durumlar ise re'sen (kendiliğinden) üyelik iptaline yol açar.",
+      "source": "1012 NotebookLM Q73",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m21",
+      "q": "Aşağıdakilerden hangisi EKK'ya (Elektronik Kayıt Kuruluşu) üye olabilecek kuruluşlardandır?\nI. Lisanslı Depo İşletmeleri\nII. YTM\nIII. Yetkili Sınıflandırıcılar\nIV. TCMB",
+      "options": [
+        "I ve II",
+        "I ve III",
+        "II ve III",
+        "III ve IV",
+        "I, III ve IV"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "EKK'ya lisanslı depo işletmeleri (I) ve yetkili sınıflandırıcılar (III) üye olabilir. YTM ve TCMB EKK üyeleri arasında yer almaz.",
+      "source": "1012 NotebookLM Q75",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m22",
+      "q": "MKK'da Takasbank'ın sahip olabileceği en fazla pay oranı yüzde kaç olarak belirlenmiştir?",
+      "options": [
+        "%5",
+        "%30",
+        "%50",
+        "%75",
+        "%100"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "SPKn düzenlemelerine göre MKK'da Takasbank'ın sahip olabileceği en fazla pay oranı %75 olarak belirlenmiştir.",
+      "source": "1012 NotebookLM Q76",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m23",
+      "q": "SPK düzenlemelerine göre Merkezi Takas Kuruluşlarının kuruluş iznini aşağıdakilerden hangisi verir?",
+      "options": [
+        "SPK'nın teklifi üzerine ilgili Bakan tarafından",
+        "SPK'nın teklifi üzerine Borsa tarafından",
+        "SPK'nın teklifi üzerine MKK tarafından",
+        "Borsanın teklifi üzerine ilgili Bakan tarafından",
+        "Borsanın teklifi üzerine SPK tarafından"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "SPKn'ye göre Merkezi Takas Kuruluşlarının kuruluş izni, SPK'nın teklifi üzerine ilgili Bakan tarafından verilir. Faaliyet izni ise SPK tarafından verilir.",
+      "source": "1012 NotebookLM Q77",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m24",
+      "q": "Pay piyasasında risk limiti yüzde kaç aşılırsa emir iletimi engellenir?",
+      "options": [
+        "%100",
+        "%200",
+        "%300",
+        "%400",
+        "%500"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Pay piyasasında risk kullanım oranı %200'ü aştığında emir iletimi engellenir. %100 aşıldığında ise uyarı verilir.",
+      "source": "1012 NotebookLM Q78",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m25",
+      "q": "Portföy saklayıcısının görevleriyle ilgili aşağıdakilerden hangisi/hangileri yanlıştır?\nI. KYK'ya ait varlıkları KYK'ya aidiyeti açıkça belli olacak şekilde kayıp ve hasara uğratmayacak şekilde saklar.\nII. KYK'ya ait varlıkları diğer kurumlarda bulunan kendi hesaplarında tutabilir.\nIII. Saklamaya konu varlıkların mutabakatı saklama hizmeti kurumları ve PYŞ veya yatırım ortaklığı arasında günlük yapılmalıdır.",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "I yanlıştır çünkü saklayıcı varlıkları KYK adına ayrı hesaplarda tutar, kayıp ve hasara uğratmama saklama hizmeti verenin genel yükümlülüğüdür ama varlıklar aidiyeti açıkça belli olan ayrı hesaplarda tutulur. II yanlıştır çünkü KYK varlıkları saklayıcının kendi hesaplarında tutulamaz; KYK adına ayrı hesaplarda tutulmalıdır. III doğrudur.",
+      "source": "1012 NotebookLM Q79",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m26",
+      "q": "Teminatlar ve Garanti Fonundaki varlıklar için aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "Kamu alacakları dahilinde haczedilebilir.",
+        "Amacı dışında kullanılamazlar.",
+        "Üyelerin kendi varlıklarından oluşur.",
+        "Üyeler kendi aktifleriyle birleştiremezler.",
+        "İlgili giderler düşüldükten sonra nemalandırılırlar."
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "SPKn'ye göre teminat ve garanti fonu varlıkları kamu alacakları dahil olmak üzere haczedilemez, rehnedilemez, iflas masasına dahil edilemez. 'Kamu alacakları dahilinde haczedilebilir' ifadesi yanlıştır.",
+      "source": "1012 NotebookLM Q81",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m27",
+      "q": "Aşağıdaki piyasalardan hangisinde Takasbank'ın Merkezi Karşı Taraf (MKT) rolü yoktur?",
+      "options": [
+        "Borsa Pay Piyasası",
+        "Borsa Borçlanma Araçları Piyasası",
+        "Takasbank Para Piyasası",
+        "Ödünç Pay Piyasası",
+        "VİOP"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Takasbank Para Piyasası'nda Takasbank MKT rolü üstlenmez; bu piyasada doğrudan taraf olarak işlem yapar. Diğer seçeneklerdeki piyasalarda ise Takasbank MKT hizmeti vermektedir.",
+      "source": "1012 NotebookLM Q83",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m28",
+      "q": "Aşağıdakilerden hangisi piyasa riskini oluşturan unsurlar arasında yer almaz?",
+      "options": [
+        "Hisse Senedi Fiyat Riski",
+        "Kur Riski",
+        "Karşı Taraf Riski",
+        "Faiz Oranı Riski",
+        "Emtia Riski"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Piyasa riskinin unsurları: hisse fiyat riski, kur riski, faiz oranı riski ve emtia riskidir. Karşı taraf riski ise kredi riski kategorisinde yer alır, piyasa riski unsuru değildir.",
+      "source": "1012 NotebookLM Q84",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m29",
+      "q": "Takasbank tarafından MKT üyelerinden alınacak teminat tutarlarının aynı hesaptaki varlıklar arasındaki korelasyonların risk azaltıcı etkileri dikkate alınmak suretiyle hesaplanmasına ne ad verilir?",
+      "options": [
+        "Riske Maruz Değer",
+        "SPAN Algoritması",
+        "Fiyat Riski",
+        "Portföy Bazlı Teminatlandırma",
+        "Tekil Pozisyon"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Portföy Bazlı Teminatlandırma, aynı hesaptaki farklı varlıklar arasındaki korelasyonların risk azaltıcı etkilerini dikkate alarak teminat tutarını hesaplayan yöntemdir.",
+      "source": "1012 NotebookLM Q86",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m30",
+      "q": "12.08.2020 tarihinde ihraç edilen 17.04.2024 itfa tarihli devlet tahvilinin ISIN kodu aşağıdakilerden hangisidir?",
+      "options": [
+        "TRB170424T14",
+        "TRT120820T14",
+        "TRT170424T14",
+        "TRB120820T14",
+        "TRT172024T14"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Devlet tahvilinin ISIN kodu TRT + itfa tarihi (GGAAYY) + T + seri no formatındadır. İtfa tarihi 17.04.2024 → TRT170424T14. İhraç tarihi ISIN kodunda yer almaz.",
+      "source": "1012 NotebookLM Q58",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m31",
+      "q": "Pay Piyasasında BISTECH Marjin Yöntemi uygulamasında değişim teminatı hesaplanırken pozisyon sayısı formülünde yer alan (X) aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Açılış Fiyatı",
+        "Kapanış Fiyatı",
+        "Ağırlıklı Ortalama Fiyat",
+        "Piyasa Fiyatı",
+        "Teorik Fiyat"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "BISTECH Marjin Yöntemi'nde değişim teminatı hesaplanırken formüldeki (X) değeri Piyasa Fiyatını ifade eder.",
+      "source": "1012 NotebookLM Q89",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m32",
+      "q": "Portföy Saklama kuruluşu yönetici ve temsilcilerinin KYK nezdinde ortak ve yönetici olamama ilkesi aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "Bağımsızlık",
+        "Sır saklama",
+        "İdari hak",
+        "Mali hak",
+        "Şeffaflık"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Portföy saklama kuruluşu yönetici ve temsilcilerinin KYK (Kolektif Yatırım Kuruluşu) nezdinde ortak ve yönetici olamama ilkesi 'Bağımsızlık' ilkesidir.",
+      "source": "1012 NotebookLM Q91",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m33",
+      "q": "Borçlanma Araçları Piyasasında Risk Yönetim sistemi hakkında aşağıdaki bilgilerden hangisi yanlıştır?",
+      "options": [
+        "Piyasada risk yönetimi Takasbank tarafından yapılır.",
+        "Piyasada işlem öncesi, işlem anı ve işlem sonrası risk yönetimi süreçleri uygulanır.",
+        "Teminat eksiği olan hesaplar üzerinden pozisyon artırıcı işlem yapılabilir.",
+        "Piyasada üyenin kendi adına yaptığı işlemler 'Üye' hesabı altında izlenir.",
+        "Her bir hesaba ilişkin teminat gereksinimi ayrı ayrı hesaplanır."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Teminat eksiği olan hesaplar üzerinden pozisyon artırıcı işlem yapılamaz. Teminat eksiğinin giderilmesi gerekir. Diğer ifadeler doğrudur.",
+      "source": "1012 NotebookLM Q92",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m34",
+      "q": "MKK üyeliği geçici olarak durdurulan bir yatırım kuruluşunun kayıtlar üzerinde işlem yapma yetkisi geçici olarak aşağıdaki kurumlardan hangisi tarafından kullanılabilir?",
+      "options": [
+        "Takasbank",
+        "MKK",
+        "SPK",
+        "SPK'nın uygun gördüğü yatırım kuruluşunca",
+        "YTM"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "MKK üyeliği geçici olarak durdurulan yatırım kuruluşunun kayıt işlem yetkisi, SPK'nın uygun gördüğü başka bir yatırım kuruluşu tarafından geçici olarak kullanılır.",
+      "source": "1012 NotebookLM Q93",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m35",
+      "q": "MKK nezdinde kayıtların yanlış tutulmasından dolayı hak sahiplerinin uğrayacağı zararlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "MKK'ya üye olacak kuruluşların kayıtların yanlış tutulmasından doğacak zararların tazmini için sorumluluk sigortası yaptırmaları gerekir.",
+        "MKK ve üyeleri kayıtların yanlış tutulmasından dolayı sorumlu tutulamaz.",
+        "Yanlış kayıtlar en geç ertesi iş günü seans sonuna kadar düzeltilir.",
+        "Kayıt düzeltme işlemi üyeler tarafından gerçekleştirilir.",
+        "Kayıtların yanlış tutulmasına ilişkin tahkim sistemini MKK yerine getirir."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "MKK ve üyeleri kayıtların yanlış tutulmasından dolayı sorumludur. 'Sorumlu tutulamaz' ifadesi yanlıştır. Bu nedenle üyelerin sorumluluk sigortası yaptırması da zorunludur.",
+      "source": "1012 NotebookLM Q95",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m36",
+      "q": "İşlemin vadesi geldiğinde başlayan takas süreci içerisinde, fiziki teslimat yükümlülüğünün yerine getirilmemesi olasılığına karşın, fiziki teslimata konu dayanak varlığın olası fiyat değişimleri dikkate alınarak hesaplanan teminata ne ad verilir?",
+      "options": [
+        "İşlem teminatı",
+        "Üyelik teminatı",
+        "Asgari Katkı Payı",
+        "Değişken Katkı Payı",
+        "Fiziki Teslimat Teminatı"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Fiziki Teslimat Teminatı, vade geldiğinde fiziki teslimat yükümlülüğünün yerine getirilmemesi riskine karşı, dayanak varlığın fiyat değişimleri dikkate alınarak hesaplanan teminattır.",
+      "source": "1012 NotebookLM Q96",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m37",
+      "q": "Pay piyasasında başlangıç ve değişim teminat yükümlülüğünün yerine getirilmesinde aşağıdaki varlıklardan hangisi kullanılamaz?",
+      "options": [
+        "Nakit (TL)",
+        "DİBS",
+        "Eurobond",
+        "Borsada işlem gören payların tamamı",
+        "Hisse Senedi Şemsiye Fonu"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Borsada işlem gören payların tamamı değil, yalnızca belirli kriterleri karşılayan paylar (BİST 30 vb.) teminat olarak kabul edilir. 'Payların tamamı' ifadesi yanlıştır.",
+      "source": "1012 NotebookLM Q98",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m38",
+      "q": "İhraççıların bedelli sermaye artırım süreciyle ilgili olarak MKK nezdinde aşağıdaki bilgilerden hangisi/hangileri yanlıştır?\nI. İhraççılar kaydi sermaye piyasası araçlarına ilişkin bilgileri MKK'ya izahnamenin onaylanmasını izleyen iş günü bildirir.\nII. İlk aşamada yeni pay alma haklarının bulunduğu hesaplara kayıt yapılır.\nIII. Yeni pay alma hakları yatırıldıktan sonra yeni pay alma hakları hesaplardan silinerek yeni paylar yatırımcı hesaplarından ihraççı havuz hesaplarına aktarılır.",
+      "options": [
+        "Yalnız I",
+        "Yalnız II",
+        "Yalnız III",
+        "I ve II",
+        "II ve III"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "III yanlıştır çünkü yeni pay alma hakları kullanıldıktan sonra yeni paylar ihraççı havuz hesaplarından yatırımcı hesaplarına aktarılır (tersi değil). I ve II doğrudur.",
+      "source": "1012 NotebookLM Q99",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-m39",
+      "q": "Aşağıdakilerden hangisi MKT üyelerinin üyelik türleri belirlenirken dikkate alınan kıstaslardan biri değildir?",
+      "options": [
+        "Özsermaye",
+        "Teknik donanım",
+        "Teknik altyapı",
+        "İçsel derecelendirme çalışmaları",
+        "Faaliyette bulunulan yıl sayısı"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "MKT üyelik türü belirlenirken özsermaye, teknik donanım, teknik altyapı ve içsel derecelendirme çalışmaları dikkate alınır. Faaliyette bulunulan yıl sayısı bu kıstaslar arasında değildir.",
+      "source": "1012 NotebookLM Q100",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

@@ -3506,6 +3506,788 @@
       "source": "1003-notes.pdf s.44",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1003-m1",
+      "q": "\"İç kaynaklardan sermaye artırımı\" için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "İlgili iç kaynak tutarlarının ortaklığın kanuni defter ve kayıtlarında karşılığının bulunması şarttır.",
+        "Borsada işlem gören ortaklıkların iç kaynaklarının sermayeye eklenmesi talebi ile yapacağı sermaye artırımı başvurularından sonra payın düzeltilmiş borsa fiyatının iki TL'nin altına düşmesine sebep olacak başvurular Kurulca işleme alınmaz.",
+        "Ara dönemde oluşan dönem kârları iç kaynak olarak sermayeye eklenebilir",
+        "İç kaynaklardan sermaye artırımı yapılabilmesi için ortaklıkların kanuni defter ve kayıtlarında yer alan geçmiş yıl zararları ile kamuya açıklanan son finansal tablolarında yer alan geçmiş yıllar zararlarından düşük olanının iç kaynaklardan mahsup edilerek kapatılması gerekir.",
+        "Öz kaynaklar altında raporlanan değer artış fonları iç kaynak olarak sermayeye eklenemez."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Ara dönemde oluşan dönem kârları iç kaynak olarak sermayeye eklenemez. Yalnızca genel kurul tarafından onaylanan yıl sonu kârları iç kaynak olarak sermayeye eklenebilir.",
+      "source": "1003 NotebookLM Q18",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m2",
+      "q": "Şarta bağlı sermaye artırımı için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Bu süreçte ortakların yeni pay alma haklarının tamamen kısıtlanması gerekir.",
+        "Şarta bağlı sermaye artırımı ile kayıtlı sermaye tavanı aşılamaz.",
+        "Ortaklığın Kayıtlı Sermaye sisteminde olması gerekir.",
+        "Halka açık olmayan ortaklıkların çalışanlarına pay edindirme programları çerçevesinde gerçekleştirecekleri şarta bağlı sermaye artırımı için Kurul onayı gerekmez.",
+        "Halka açık olmayan ortaklıkların ilgili borçlanma araçlarını \"halka arz\" yoluyla ihraç etmeleri zorunludur."
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Halka açık olmayan ortaklıklar, şarta bağlı sermaye artırımı kapsamındaki borçlanma araçlarını halka arz yoluyla ihraç etmek zorunda değildir. Tahsisli satış veya nitelikli yatırımcıya satış da yapılabilir.",
+      "source": "1003 NotebookLM Q19",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m3",
+      "q": "\"Nominal değerin altında pay ihracı\" için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Halka açık olan ortaklıklar son otuz gün içinde paylarının borsada oluşan ağırlıklı ortalama fiyatlarının nominal değerinin altında olması durumunda nominal değerin altında pay ihracı yapabilirler.",
+        "İhraç edilecek payların fiyatı, önceki otuz gün içinde borsada oluşan ağırlıklı ortalama fiyatların ortalamasından aşağı olamaz.",
+        "Payları borsada işlem görmeyen halka açık ortaklıklar nominal değerin altında pay ihraç edemezler.",
+        "Tüm ihraçlar sadece halka arz yöntemi ile gerçekleştirilebilir.",
+        "Nominal değerin altında pay ihracı yoluyla yapılacak sermaye artırımında ihraç edilecek paylar borsada diğer paylarla aynı şekilde işlem görür."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Nominal değerin altında pay ihracı sadece halka arz yoluyla değil, halka arz edilmeksizin de gerçekleştirilebilir. 'Tüm ihraçlar sadece halka arz yöntemiyle' ifadesi yanlıştır.",
+      "source": "1003 NotebookLM Q20",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m4",
+      "q": "Paya dönüştürülebilir tahvil ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Vadesi 365 günden az olamaz",
+        "Halka arz edilerek satılacak PDT'lerde ihraççı paylarının borsada işlem görmesi gerekir.",
+        "Dönüştürme giderlerinin tamamını PDT'yi satın alan yatırımcı öder.",
+        "Dönüştürme işlemlerinin itfa planına uygun olarak yerine getirilmesinden ortaklık sorumludur.",
+        "Dönüştürme gününe kadar işlemiş faizler sahiplerine nakden ödenir."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Paya dönüştürülebilir tahvillerde dönüştürme giderleri ihraççı ortaklık tarafından karşılanır, yatırımcı tarafından değil.",
+      "source": "1003 NotebookLM Q23",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m5",
+      "q": "Borçlanma aracı sahipleri temsilcilerinin belirlenmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Temsilci, gerçek veya tüzel kişiler olabilir.",
+        "Borçlanma aracı sahipleri temsilcisi seçilebilir.",
+        "Temsilci sadece gerçek kişi olmalıdır.",
+        "Tedavülde bulunan nominal bedelinin yarısından fazlasını temsil eden borçlanma aracı sahiplerinin olumlu oyu ile temsilci seçilir.",
+        "BASK toplantılarının fiziken yapılması esas olsa da kararların elektronik ortamda borçlanma aracı sahiplerince imzalanması suretiyle de karar alınabilir."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Borçlanma aracı sahipleri temsilcisi hem gerçek hem de tüzel kişilerden seçilebilir. 'Sadece gerçek kişi olmalıdır' ifadesi yanlıştır.",
+      "source": "1003 NotebookLM Q24",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m6",
+      "q": "Hangileri vadesi 30 gün ile 364 gün arasında olan borçlanma araçlarıdır?\nI. Finansman Bonosu\nII. Kıymetli Maden Bonosu\nIII. Paya Dönüştürülebilir Tahvil\nIV. Tahvil",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "III ve IV",
+        "I ve III",
+        "II ve IV"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Finansman bonosu ve kıymetli maden bonosu kısa vadeli borçlanma araçlarıdır (30-364 gün). PDT ve tahvilin vadesi ise en az 365 gündür.",
+      "source": "1003 NotebookLM Q25",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m7",
+      "q": "Aşağıdakilerden hangisi özel sektör borçlanma araçlarının ihraç yöntemlerinden biri değildir?",
+      "options": [
+        "Halka Arz Yöntemi",
+        "Tahsisli Satış",
+        "Doğrudan Satış yöntemi",
+        "Nitelikli Yatırımcıya Satış",
+        "Hepsi ihraç yöntemidir"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Özel sektör borçlanma araçları halka arz, tahsisli satış ve nitelikli yatırımcıya satış yoluyla ihraç edilebilir. 'Doğrudan satış' bir DİBS ihraç yöntemidir, özel sektör ihraç yöntemi değildir.",
+      "source": "1003 NotebookLM Q26",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m8",
+      "q": "Ortaklıkların ihraç etmiş oldukları tahvillere kârdan pay verebilmeleri için aşağıdakilerden hangisinin olması gerekir?",
+      "options": [
+        "Esas sözleşmede ya da özel mevzuatında tahvillere kârdan pay verilebilmesine ilişkin hüküm olması gerekir.",
+        "Ortaklığın halka açık olması gerekir",
+        "Ortaklık yönetim kurulu tarafından karar alınması gerekir.",
+        "Ortaklığın son 2 yıldır kâr elde ediyor olması gerekir",
+        "Tahvillere kâr payı verilemez"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Tahvillere kârdan pay verilebilmesi için esas sözleşmede veya özel mevzuatta buna ilişkin bir hükmün bulunması zorunludur.",
+      "source": "1003 NotebookLM Q27",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m9",
+      "q": "Genel kurul tahvil çıkarma yetkisini genel kurul kararıyla en çok ne kadar süre ile yönetim kuruluna devredebilir?",
+      "options": [
+        "3 ay",
+        "5 ay",
+        "6 ay",
+        "12 ay",
+        "15 ay"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "TTK'ya göre genel kurul, tahvil çıkarma yetkisini genel kurul kararıyla en fazla 15 ay süreyle yönetim kuruluna devredebilir.",
+      "source": "1003 NotebookLM Q28",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m10",
+      "q": "Borsada işlem gören halka açık bir ortaklığın konsolide finansal tablolarındaki ana ortaklığa ait öz kaynaklar 100 milyon TL ise bu ortaklık en fazla ne kadar tahvil ihraç limiti alabilir?",
+      "options": [
+        "100 milyon",
+        "300 milyon",
+        "500 milyon",
+        "600 milyon",
+        "1 milyar"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Borsada işlem gören halka açık ortaklıklar için tahvil ihraç limiti, konsolide finansal tablolardaki ana ortaklığa ait öz kaynakların 5 katıdır. 100 milyon × 5 = 500 milyon TL.",
+      "source": "1003 NotebookLM Q32",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m11",
+      "q": "Genel kurul borçlanma aracı ihraç yetkisini esas sözleşme ile yönetim kuruluna devretmesi durumunda en çok ne kadar süre ile bunu devredebilir?",
+      "options": [
+        "3 ay",
+        "6 ay",
+        "12 ay",
+        "15 ay",
+        "Süresiz"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Borçlanma aracı ihraç yetkisi esas sözleşme ile yönetim kuruluna devredildiğinde süre sınırı yoktur (süresiz). Genel kurul kararıyla devir yapıldığında ise 15 aylık süre sınırı geçerlidir.",
+      "source": "1003 NotebookLM Q33",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m12",
+      "q": "Borçlanma aracına ait asli hüküm ve şartlarda yatırımcıların yatırım kararlarını etkileyecek nitelikteki değişikliklerin yapılabilmesi için her bir tertibin tedavüldeki toplam nominal bedelinin üçte iki çoğunluğunu temsil eden borçlanma aracı sahiplerinin olumlu oyu ile alınan karar aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel Kurul Kararı",
+        "Borçlanma Aracı Temsilciler Kararı",
+        "Genel BASK kararı",
+        "Tertip BASK kararı",
+        "Kesinleşmiş BASK Kararı"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Asli hüküm ve şartlardaki önemli değişiklikler için her bir tertibin tedavüldeki toplam nominal bedelinin 2/3'ünü temsil eden borçlanma aracı sahiplerinin olumlu oyuyla 'Tertip BASK kararı' alınır.",
+      "source": "1003 NotebookLM Q34",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m13",
+      "q": "Hangi ortaklıklar paya dönüştürülebilir tahvil (PDT) ihracı yapabilir?\nI. Borsada İşlem Gören Ortaklıklar\nII. Kayıtlı Sermaye Sistemindeki Ortaklıklar\nIII. Esas Sermaye Sistemindeki Ortaklıklar\nIV. Kredi Notu ilk 3 seviyede olan Ortaklıklar",
+      "options": [
+        "I ve II",
+        "II ve III",
+        "II ve IV",
+        "I ve IV",
+        "III ve IV"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "PDT ihracı yapabilmek için ortaklığın (I) paylarının borsada işlem görmesi ve (II) kayıtlı sermaye sisteminde olması gerekir. Esas sermaye sistemindeki ortaklıklar PDT ihracı yapamaz.",
+      "source": "1003 NotebookLM Q35",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m14",
+      "q": "Tahvillerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "İhraç edilmiş tahviller, ihraççı tarafından geri alınamaz.",
+        "Tahvillere kâr payı verilebilir",
+        "Tahvil sahipleri şirketin alacaklısı konumundadır",
+        "Tahvil ihracı halka arz yoluyla ya da halka arz edilmeksizin yapılabilir",
+        "Hazine garantisi ihtiva eden tahvil ihraçlarında ihraç limitleri uygulanmaz."
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "İhraç edilmiş tahviller ihraççı tarafından geri alınabilir (erken itfa). 'Geri alınamaz' ifadesi yanlıştır. TTK'da tahvil sahiplerinin korunması düzenlenmiştir ancak erken itfa mümkündür.",
+      "source": "1003 NotebookLM Q38",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m15",
+      "q": "Aşağıdaki ifadelerden hangileri doğrudur?\nI. Borçlanma senetlerinin bedellerinin nakit olması ve teslimi anında tamamen ödenmesi şarttır.\nII. Tahvil sahiplerinin ortaklıktaki sorumlular hakkında dava ve tazminat hakları yoktur.\nIII. İtibari değeri belirleme hakkı Genel Kurul ya da yetkilendirilmiş olması durumunda Yönetim Kurulundadır.\nIV. Borçlanma aracı ihracında derecelendirme notuna esas teşkil eden bilgilerin vade boyunca yılda en az bir kez güncellenmesi zorunludur.",
+      "options": [
+        "I, II ve IV",
+        "I, III ve IV",
+        "I, II ve III",
+        "I ve IV",
+        "Yalnız III"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "I doğru (TTK md. 484), III doğru (GK veya yetkilendirilmiş YK belirler), IV doğru (yıllık güncelleme zorunluluğu). II yanlıştır çünkü tahvil sahiplerinin ortaklıktaki sorumlulara karşı dava ve tazminat hakları vardır.",
+      "source": "1003 NotebookLM Q40",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m16",
+      "q": "Yatırım fonu katılım paylarının değeri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "Birim pay değeri fon toplam değerinin katılma paylarının sayısına bölünmesiyle elde edilir",
+        "Pay alım satım emirleri tüm fonlar için emrin verilmesini takip eden ilk hesaplamada bulunacak pay fiyatı üzerinden yerine getirilir.",
+        "Fonların birim pay değerinin günlük olarak hesaplanması esastır.",
+        "Günde birden fazla kez açıklanabilir",
+        "İtibari değeri yoktur."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Tüm fonlar için aynı kural geçerli değildir. Serbest fonlar ve bazı özel fon türleri farklı fiyatlama dönemlerine sahip olabilir. 'Tüm fonlar için' genellemesi yanlıştır.",
+      "source": "1003 NotebookLM Q41",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m17",
+      "q": "Yatırım fonları düzenlemelerine göre aşağıdakilerden hangisi şemsiye fon türleri arasında yer almaz?",
+      "options": [
+        "Karma şemsiye fon",
+        "Kıymetli madenler şemsiye fonu",
+        "Dövize dayalı araçlar şemsiye fonu",
+        "Borçlanma araçları şemsiye fonu",
+        "Koruma amaçlı şemsiye fon"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Yatırım Fonlarına İlişkin Esaslar Tebliği'nde 'dövize dayalı araçlar şemsiye fonu' adında bir şemsiye fon türü tanımlanmamıştır. Döviz cinsinden araçlar diğer şemsiye fon türleri altında yer alabilir.",
+      "source": "1003 NotebookLM Q42",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m18",
+      "q": "Fon toplam değerinin en fazla yüzde kaçı Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemlerinden oluşabilir?",
+      "options": [
+        "%5",
+        "%10",
+        "%20",
+        "%50",
+        "%80"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Yatırım Fonlarına İlişkin Esaslar Tebliği'ne göre fon toplam değerinin en fazla %20'si Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemlerinden oluşabilir.",
+      "source": "1003 NotebookLM Q43",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m19",
+      "q": "Fon toplam değerinin %5'inden fazla yatırım yapılan ihraççıların para ve sermaye piyasası araçlarının toplam değeri, fon toplam değerinin en fazla yüzde kaçını aşamaz?",
+      "options": [
+        "%5",
+        "%10",
+        "%20",
+        "%40",
+        "%80"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Tebliğe göre fon toplam değerinin %5'inden fazla yatırım yapılan ihraççılara ait sermaye piyasası araçlarının toplam değeri fon toplam değerinin %40'ını aşamaz. Bu '5/10/40 kuralı' olarak bilinir.",
+      "source": "1003 NotebookLM Q46",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m20",
+      "q": "Serbest fonlarla ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "Unvanında \"hisse senedi\" ibaresi yer alan serbest fonlar \"serbest şemsiye fona bağlı hisse senedi fonu\" olarak ihraç edilebilir.",
+        "\"Serbest özel fon\" niteliğindeki yatırım fonları tutarının en az 100.000.000 TL olması gerekir.",
+        "Fon sepeti fonu şeklinde kurulabilirler",
+        "Katılma payları borsada işlem göremez.",
+        "TEFAS'ta işlem görmeyen serbest fonların içtüzük ve izahname değişikliklerine ilişkin duyuruların KAP'ta ilan edilmesi zorunlu değildir."
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Serbest özel fonlar için gerekli asgari fon tutarı 100 milyon TL değil, çok daha düşüktür. 100 milyon TL ifadesi yanlıştır.",
+      "source": "1003 NotebookLM Q48",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m21",
+      "q": "Aşağıdakilerden hangisi \"Fon Sepeti Fonları\" için doğru değildir?",
+      "options": [
+        "Tek bir fona ait katılma paylarının değeri fon sepeti fonunun toplam değerinin %20'sini aşamaz.",
+        "Fon sepeti fonu portföyüne alınan fon katılma paylarının sayısı, yatırım yapılan fonun katılma payı sayısının %25'ini aşamaz.",
+        "Fon sepeti fonu portföyüne alınan yabancı borsalarda işlem gören borsa yatırım fonlarının katılma payları için Kurul onayı şartı aranmaz.",
+        "Fon sepeti fonunda yer alan serbest fonlara ait katılma paylarının değeri, fon toplam değerinin %40'ını geçemez.",
+        "Bir fon sepeti fonu bir başka fon sepeti fonuna yatırım yapamaz."
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Fon sepeti fonlarında serbest fonlara yapılabilecek yatırım için %40 sınırı yanlıştır. Tebliğde belirlenen sınır farklıdır.",
+      "source": "1003 NotebookLM Q49",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m22",
+      "q": "Unvanında \"Katılım\" ifadesi geçen fonlarla ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "Bu fonlara kira sertifikası, katılım hesapları, kıymetli madenler dahil edilebilir.",
+        "Bu fonların portföylerine faizsiz/katılım finans ilkelerine uygunluğu onaylanmış olan endekslerde yer alan ortaklık payları dahil edilebilir.",
+        "Katılım fonu portföyüne altına endeksli tahviller, kıymetli maden bonusu dahil edilebilir.",
+        "Bu fonlarda kullanılacak enstrümanların faizsiz/katılım finans ilkelerine uygunluğunun bir danışman/danışma kurulu tarafından onaylanmış olması zorunludur.",
+        "Fon izahnamesinin ekinde danışmanın kim olduğuna ve danışma kurulu üyelerinin faizsiz/katılım finans alanındaki bilgi ve tecrübesine ilişkin bilgiler belirtilir."
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Katılım fonları faizsiz finans ilkelerine uygun enstrümanlara yatırım yapar. Altına endeksli tahviller faiz bileşeni içerdiğinden katılım fonu portföyüne dahil edilemez.",
+      "source": "1003 NotebookLM Q50",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m23",
+      "q": "Fon toplam değerinin en fazla ne kadarı aynı grubun para ve sermaye piyasası araçlarına yatırılabilir?",
+      "options": [
+        "%5",
+        "%10",
+        "%20",
+        "%40",
+        "%51"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Tebliğe göre fon toplam değerinin en fazla %20'si aynı grubun (holding, şirketler topluluğu) para ve sermaye piyasası araçlarına yatırılabilir.",
+      "source": "1003 NotebookLM Q51",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m24",
+      "q": "Fonun unvanında \"Endeks\" ibaresi yer alması için baz alınan endeksin değeri ile fonun birim pay değeri arasındaki korelasyon katsayısı en az kaç olmalıdır?",
+      "options": [
+        "%80",
+        "%90",
+        "%60",
+        "%50",
+        "%20"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Bir fonun unvanında 'Endeks' ibaresinin yer alabilmesi için baz alınan endeksin değeri ile fonun birim pay değeri arasındaki korelasyon katsayısının en az %90 olması gerekir.",
+      "source": "1003 NotebookLM Q53",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m25",
+      "q": "Aracı kuruluş ve ortaklık varantları ile sertifikalara yapılan yatırımların toplamı fon toplam değerinin en fazla yüzde kaçını, tek bir ihraççı tarafından çıkarılan varantlar ile sertifikaların toplamı ise fon toplam değerinin en fazla yüzde kaçını aşamaz?",
+      "options": [
+        "%5 — %10",
+        "%10 — %5",
+        "%10 — %20",
+        "%20 — %80",
+        "%20 — %40"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Varant ve sertifikalara yapılan toplam yatırım fon toplam değerinin %10'unu, tek bir ihraççının varant ve sertifikaları ise %5'ini aşamaz.",
+      "source": "1003 NotebookLM Q54",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m26",
+      "q": "Fonlarda türev araçlar nedeniyle maruz kalınan açık pozisyon tutarı aşağıdakilerden hangisini aşamaz?",
+      "options": [
+        "Fonun sermayesini",
+        "Fonun toplam masrafını",
+        "Fonun yükümlülüklerini",
+        "Fon toplam değerini",
+        "Fon toplam değerinin %20'sini"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Serbest fonlar hariç, yatırım fonlarında türev araçlar nedeniyle maruz kalınan açık pozisyon tutarı fon toplam değerini aşamaz.",
+      "source": "1003 NotebookLM Q57",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m27",
+      "q": "Bilgilendirme dokümanları ile Tebliğde belirtilen yatırım sınırlarının ihlal edilmesi halinde kaç gün içinde söz konusu sınırlara uyumun sağlanması zorunludur?",
+      "options": [
+        "3 gün",
+        "10 gün",
+        "15 gün",
+        "30 gün",
+        "90 gün"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Yatırım Fonlarına İlişkin Esaslar Tebliği'ne göre portföy sınırlarının ihlal edilmesi halinde 30 gün içinde sınırlara uyum sağlanması zorunludur.",
+      "source": "1003 NotebookLM Q58",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m28",
+      "q": "Aşağıdaki seçeneklerden hangisi şemsiye fon türlerinden biri değildir?",
+      "options": [
+        "Fon Sepeti Şemsiye Fonu",
+        "Kıymetli Maden Şemsiye Fonu",
+        "Emtia Şemsiye Fonu",
+        "Serbest Şemsiye Fonu",
+        "Karma Şemsiye Fon"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Tebliğde tanımlanan şemsiye fon türleri arasında 'Emtia Şemsiye Fonu' yer almaz. Emtia fonları kıymetli madenler şemsiye fonu veya diğer şemsiye fon türleri altında kurulabilir.",
+      "source": "1003 NotebookLM Q59",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m29",
+      "q": "Bir şemsiye fon için yapılması gereken giderler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bu giderler şemsiye fon altındaki fonların toplam değerleri dikkate alınarak oransal olarak bu fonların portföylerinden karşılanır.",
+        "İlgili giderler kurucu tarafından karşılanır",
+        "Şemsiye fonun devri kapsamında yapılacak masraflar fona yansıtılabilir",
+        "Aynı şemsiye fon altındaki fonlar arasında masraf yansıtmaları olabilir.",
+        "Hepsi doğrudur"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Şemsiye fon giderleri, şemsiye fon altındaki fonların toplam değerleri dikkate alınarak oransal olarak bu fonların portföylerinden karşılanır.",
+      "source": "1003 NotebookLM Q60",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m30",
+      "q": "Türev araçların işlem gördüğü piyasalar için aşağıdakilerden hangileri doğrudur?\nI. Swap sözleşmeleri — Tezgâh üstü piyasa\nII. Opsiyon sözleşmeleri — Teşkilatlanmış piyasa\nIII. Futures — Tezgâh üstü piyasa",
+      "options": [
+        "Yalnız I",
+        "I ve II",
+        "I ve III",
+        "Yalnız III",
+        "I, II ve III"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Swap sözleşmeleri tezgâh üstü piyasada (I doğru), opsiyon sözleşmeleri hem organize hem tezgâh üstü piyasada işlem görebilir ancak teşkilatlanmış piyasada işlem görmesi doğrudur (II doğru). Futures ise organize/teşkilatlanmış piyasada işlem görür, tezgâh üstü değil (III yanlış).",
+      "source": "1003 NotebookLM Q61",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m31",
+      "q": "Aşağıdakilerden hangisi forward ve futures (vadeli işlem sözleşmesi) arasındaki farklardan biri değildir?",
+      "options": [
+        "Forward tezgâh üstü bir üründür, futures organize piyasa ürünüdür",
+        "Forward'da teminat zorunlu değildir, futures'da zorunludur",
+        "Forward'da taraflar birbirinin riskini taşır, futures'da taşımaz",
+        "Forward'da kaldıraç yoktur, futures'da vardır",
+        "Forward sözleşmeler risk yönetimi için kullanılır, futures kullanılamaz"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Hem forward hem de futures sözleşmeleri risk yönetimi (hedging) amacıyla kullanılabilir. 'Futures risk yönetimi için kullanılamaz' ifadesi yanlıştır.",
+      "source": "1003 NotebookLM Q64",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m32",
+      "q": "Aşağıdakilerden hangisi türev ürünlerin faydalarından değildir?",
+      "options": [
+        "Fiyat oluşumunun sağlanması",
+        "Yatırımcıların spekülatif maksatlı pozisyon alması",
+        "Kaldıraç imkânı ile daha düşük maliyetlerden borçlanma",
+        "Riskten korunma",
+        "Fon fazlası ve eksiği olan tarafların birbiri arasında doğrudan fon transferi sağlaması"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Doğrudan fon transferi sağlamak bankacılık/para piyasasının işlevidir, türev piyasaların değil. Türev araçlar fiyat keşfi, hedging, spekülasyon ve kaldıraç imkânı sunar.",
+      "source": "1003 NotebookLM Q68",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m33",
+      "q": "Bir ithalatçı taşıyor olduğu kur riskinden korunmak için aşağıdaki pozisyonlardan hangisini alabilir?",
+      "options": [
+        "USD/TL Forward Uzun Pozisyon",
+        "USD/TL Futures (Vadeli İşlem Sözleşmesi) Kısa Pozisyon",
+        "USD/TL Alım Opsiyonu Kısa Pozisyon",
+        "USD/TL Satım Opsiyonu Uzun Pozisyon",
+        "USD/TL Satım Opsiyonu Kısa Pozisyon"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "İthalatçı döviz borcu olduğundan TL'nin değer kaybetmesi (USD/TL'nin yükselmesi) riskine karşı korunur. Bunun için USD/TL forward veya futures'da uzun pozisyon alarak gelecekteki döviz alım fiyatını sabitler.",
+      "source": "1003 NotebookLM Q69",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m34",
+      "q": "Aşağıdakilerden hangisi opsiyonun primini doğrudan etkilemez?",
+      "options": [
+        "Piyasada oluşan faizler",
+        "Dayanak varlığın spot fiyatı",
+        "Dış ticaret açığı",
+        "Volatilite (oynaklık)",
+        "Vadeye kalan zaman"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Opsiyon fiyatını (primini) etkileyen temel faktörler: dayanak varlık fiyatı, kullanım fiyatı, vadeye kalan süre, volatilite, faiz oranları ve temettü oranıdır. Dış ticaret açığı doğrudan opsiyon primini etkilemez.",
+      "source": "1003 NotebookLM Q74",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m35",
+      "q": "Aşağıdakilerden hangisinin artması alım opsiyon fiyatını düşürür? (Diğer parametrelerin sabit olması durumunda)",
+      "options": [
+        "Volatilite",
+        "Vadeye kalan zaman",
+        "Dayanak varlık fiyatı",
+        "Kullanım fiyatı",
+        "Faiz oranı"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "Kullanım fiyatının artması alım opsiyonunun değerini düşürür çünkü dayanak varlığı daha yüksek bir fiyattan satın alma hakkı daha az değerlidir. Diğer faktörlerin (volatilite, süre, spot fiyat, faiz) artması alım opsiyon fiyatını artırır.",
+      "source": "1003 NotebookLM Q76",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m36",
+      "q": "Aşağıdakilerden hangisinin artması hem alım hem de satım opsiyonlarının fiyatlarını artırır?",
+      "options": [
+        "Dayanak varlık fiyatı",
+        "Kullanım fiyatı",
+        "Vadeye kalan zaman",
+        "Faiz oranı",
+        "Temettü oranı"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Vadeye kalan zamanın artması hem alım hem satım opsiyonlarının fiyatını artırır çünkü daha uzun vade, dayanak varlığın daha fazla hareket etme olasılığı demektir. Dayanak varlık fiyatı ve faiz oranı ise alım ve satım opsiyonlarını zıt yönde etkiler.",
+      "source": "1003 NotebookLM Q80",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m37",
+      "q": "HMVKŞ tarafından kira sertifikası ihracından elde edilen hasılat, devralınan varlıklara karşılık kime aktarılmaktadır?",
+      "options": [
+        "Hazineye",
+        "Yatırımcılara",
+        "VKŞ'ye",
+        "TCMB'ye",
+        "Bakanlığa"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Hazine Müsteşarlığı Varlık Kiralama Şirketi (HMVKŞ) tarafından kira sertifikası ihracından elde edilen hasılat, devralınan varlıklara karşılık olarak Hazineye aktarılır.",
+      "source": "1003 NotebookLM Q82",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m38",
+      "q": "Aşağıdakilerden hangisi DİBS ihraç yöntemlerinden değildir?",
+      "options": [
+        "TAP Yöntemi",
+        "Doğrudan Satış Yöntemi",
+        "Genel Satış Yöntemi",
+        "Halka Arz Yöntemi",
+        "İhale Yöntemi"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "DİBS ihraç yöntemleri: İhale yöntemi, TAP yöntemi, doğrudan satış yöntemi ve halka arz yöntemidir. 'Genel Satış Yöntemi' DİBS ihraç yöntemleri arasında yer almaz.",
+      "source": "1003 NotebookLM Q83",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m39",
+      "q": "Aşağıdakilerden hangisi kamu finansmanı amacıyla yapılan borçlanmanın sebeplerinden biri değildir?",
+      "options": [
+        "Piyasada para arzıyla oluşan enflasyonist etkiyi yok etmek",
+        "Vadesi gelmiş borçların ödenmesi",
+        "Savunma giderlerinin finansmanı",
+        "Bütçenin cari giderleri ile cari gelirleri arasındaki uyumun sağlanması",
+        "Olağanüstü giderlerin finansmanı"
+      ],
+      "answer": 0,
+      "keyAnswer": "A",
+      "explanation": "Enflasyonist etkiyi yok etmek para politikası aracıdır (açık piyasa işlemleri), kamu finansmanı amacıyla yapılan borçlanmanın doğrudan sebebi değildir. Kamu borçlanma sebepleri: bütçe açığı, borç ödemesi, savunma ve olağanüstü gider finansmanıdır.",
+      "source": "1003 NotebookLM Q84",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m40",
+      "q": "Hazine Varlık Kiralama Şirketlerini kurmak üzere kamu sermayeli kurumları görevlendirme yetkisi kimdedir?",
+      "options": [
+        "Cumhurbaşkanı",
+        "Bakan",
+        "TCMB",
+        "SPK",
+        "Bakanlar Kurulu"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun'a göre HVKŞ'leri kurmak üzere kamu sermayeli kurumları görevlendirme yetkisi Hazine ve Maliye Bakanına aittir.",
+      "source": "1003 NotebookLM Q85",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m41",
+      "q": "Kamunun ihraççı olduğu kira sertifikalarında ilgili kamu taşınmazlarının devri, vade boyunca geçerli kira sözleşmesinin yapılması, kira gelirlerinin ödenmesi gibi süreçler hangi taraflar arasında gerçekleştirilir?",
+      "options": [
+        "BİST — SPK",
+        "Hazine — HMVKŞ",
+        "Hazine — TCMB",
+        "Bakanlık — VKŞ",
+        "HMVKŞ — TCMB"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Kamu kira sertifikası ihracında taşınmaz devri, kira sözleşmesi ve kira geliri ödeme süreçleri Hazine ile HMVKŞ (Hazine Müsteşarlığı Varlık Kiralama Şirketi) arasında gerçekleştirilir.",
+      "source": "1003 NotebookLM Q86",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m42",
+      "q": "Doğrudan Satış Yöntemi ile ihraç edilecek olan DİBS'leri kimler talep edemez?",
+      "options": [
+        "Kamu kurumları",
+        "Bankalar",
+        "Gerçek kişiler",
+        "Finansal kuruluşlar",
+        "Ticari bankalar"
+      ],
+      "answer": 2,
+      "keyAnswer": "C",
+      "explanation": "Doğrudan Satış Yöntemiyle ihraç edilen DİBS'ler yalnızca kamu kurumları, bankalar ve diğer finansal kuruluşlar tarafından talep edilebilir. Gerçek kişiler bu yönteme katılamaz.",
+      "source": "1003 NotebookLM Q87",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m43",
+      "q": "TAP Yöntemiyle ihraç edilen DİBS'lere kimler katılabilir?",
+      "options": [
+        "Gerçek kişiler",
+        "Tüzel kişiler",
+        "Bankalar",
+        "Piyasa Yapıcı Bankalar",
+        "Kamu Kurumları"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "TAP yöntemiyle ihraç edilen DİBS'lere yalnızca piyasa yapıcısı bankalar katılabilir. Bu yöntem, piyasa yapıcısı bankaların ihalede aldıkları tutarın belirli bir yüzdesine kadar ek alım yapabilmeleri için kullanılır.",
+      "source": "1003 NotebookLM Q88",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m44",
+      "q": "Aşağıdakilerden hangisi devlet tarafından ihraç edilen kira sertifikalarının özelliklerinden biri değildir?",
+      "options": [
+        "Kira sertifikaları borçlanma araçları piyasasında işlem görür",
+        "Yatırımcısına kira getirisi üzerinden kazanç sağlamayı hedefler",
+        "Sabit kira getirili kira sertifikaları olabilir.",
+        "Kira sertifikaları HMVKŞ tarafından çıkarılır",
+        "Kira sertifikaları aylık kira ödemeli olarak çıkartılır"
+      ],
+      "answer": 4,
+      "keyAnswer": "E",
+      "explanation": "Kira sertifikalarının aylık kira ödemeli olması zorunlu değildir. Kira ödemeleri 3 ayda bir, 6 ayda bir veya vade sonunda yapılabilir. 'Aylık kira ödemeli olarak çıkartılır' ifadesi yanlıştır.",
+      "source": "1003 NotebookLM Q95",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m45",
+      "q": "Kamu finansmanı için ihraç edilen borçlanma araçları hakkında aşağıdakilerden hangileri doğrudur?\nI. Hazine ve Maliye Bakanlığı tarafından yapılacak iç ve dış borçlanma ihtiyacı için ihraç edilecek sermaye piyasası araçları sermaye piyasası mevzuatına tabi değildir.\nII. Mahalli idareler tarafından yapılacak olan borçlanma araçları hem Hazine ve Maliye Bakanlığının iznine hem de sermaye piyasası mevzuatına tabidir.\nIII. Tahvil ihraç limitlerinin kuralları ihraççıya göre değişiklik gösteremez.",
+      "options": [
+        "Yalnız I",
+        "II ve III",
+        "Yalnız III",
+        "I ve II",
+        "I, II ve III"
+      ],
+      "answer": 3,
+      "keyAnswer": "D",
+      "explanation": "I doğru: Hazinenin borçlanma araçları SPK mevzuatına tabi değildir. II doğru: Mahalli idarelerin borçlanmaları hem Bakanlık iznine hem SPK mevzuatına tabidir. III yanlış: Tahvil ihraç limitleri ihraççıya göre farklılık gösterir (halka açık, borsada işlem gören vs.).",
+      "source": "1003 NotebookLM Q96",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-m46",
+      "q": "Altına dayalı kira sertifikaları için aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "Altın fiyatına endeksli Türk Lirası cinsi kira getirisi sağlar",
+        "Sadece bireysel yatırımcılar yararlanabilir",
+        "Gayrimenkul alım satımına ve söz konusu gayrimenkulün kiralanmasına dayalı bir yatırım aracıdır",
+        "Kira geliri tüm yatırımcılara eşit oranda dağıtılmaktadır",
+        "Teminat olarak kabul edilebilir"
+      ],
+      "answer": 1,
+      "keyAnswer": "B",
+      "explanation": "Altına dayalı kira sertifikalarından sadece bireysel yatırımcılar değil, kurumsal yatırımcılar da yararlanabilir. 'Sadece bireysel yatırımcılar' sınırlaması yanlıştır.",
+      "source": "1003 NotebookLM Q98",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
