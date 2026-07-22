@@ -4288,6 +4288,456 @@
       "source": "1003 NotebookLM Q98",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1003-s1",
+      "q": "Varlığa dayalı menkul kıymet (VDMK) ile varlık teminatlı menkul kıymet (VTMK) arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "VDMK'de varlıklar bilançodan çıkarılır (true sale), VTMK'de varlıklar bilançoda kalır",
+        "VDMK sabit faizli, VTMK değişken faizlidir",
+        "VDMK yalnızca konut kredilerinden oluşur, VTMK tüm alacaklardan oluşabilir",
+        "VDMK'nin vadesi en fazla 1 yıl, VTMK'nin vadesi sınırsızdır"
+      ],
+      "answer": 0,
+      "explanation": "Temel fark mülkiyet transferindedir: VDMK'de alacaklar fon portföyüne devredilerek kaynak kuruluşun bilançosundan çıkarılır (gerçek satış). VTMK'de ise alacaklar ihraççının bilançosunda kalır ve teminat olarak gösterilir.",
+      "source": "SPKn md. 58-59, VDMK/VTMK Tebliği III-58.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s2",
+      "q": "Gayrimenkul sertifikası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Gayrimenkul sertifikaları yalnızca nitelikli yatırımcılara ihraç edilebilir",
+        "Gayrimenkul sertifikaları asli edim hakkı ve tali edim hakkı olmak üzere iki tür hak sağlar",
+        "Gayrimenkul sertifikalarının vadesi en fazla 3 yıldır",
+        "Gayrimenkul sertifikaları ikincil piyasada işlem göremez"
+      ],
+      "answer": 1,
+      "explanation": "Gayrimenkul sertifikası sahipleri asli edim hakkı (gayrimenkulden bağımsız bölüm edinme) veya tali edim hakkı (nakit olarak ödeme alma) seçimini kullanabilir.",
+      "source": "Gayrimenkul Sertifikaları Tebliği, VII-128.2",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s3",
+      "q": "Yatırım fonlarında 'nitelikli yatırımcıya satış' koşulu bulunan fon türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Serbest fon (hedge fon)",
+        "Borçlanma araçları fonu",
+        "Hisse senedi fonu",
+        "Para piyasası fonu"
+      ],
+      "answer": 0,
+      "explanation": "Serbest fonlar (hedge fonlar) yalnızca nitelikli yatırımcılara satılabilir. Bu fonlar portföy sınırlamalarından muaf olup daha esnek yatırım stratejileri uygulayabilir.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği, III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s4",
+      "q": "Borsa yatırım fonu (BYF) ile normal yatırım fonu arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "BYF portföyünde yalnızca hisse senedi bulunabilir",
+        "BYF katılma payları borsada işlem görür ve gün içi alınıp satılabilir",
+        "BYF'ler yalnızca kurumsal yatırımcılara açıktır",
+        "BYF'lerin yönetim ücreti oranı sabittir"
+      ],
+      "answer": 1,
+      "explanation": "BYF'lerin temel ayırt edici özelliği katılma paylarının tıpkı hisse senetleri gibi borsada işlem görmesi ve gün içi fiyatlardan alınıp satılabilmesidir. Normal fonlarda ise gün sonu fiyatından alım-satım yapılır.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği, III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s5",
+      "q": "Varant ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Varantlar aracı kuruluş varantları ve ortaklık varantları olmak üzere ikiye ayrılır",
+        "Aracı kuruluş varantlarında ihraççı, dayanak varlığı teslim etmek zorundadır",
+        "Varantlarda kaydi teslimat (nakit uzlaşı) mümkündür",
+        "Varantların vadesi en fazla 5 yıldır"
+      ],
+      "answer": 1,
+      "explanation": "Aracı kuruluş varantlarında ihraççının dayanak varlığı teslim etme zorunluluğu yoktur; genellikle nakit uzlaşı (kaydi teslimat) yöntemi kullanılır. Fiziki teslimat zorunluluğu yoktur.",
+      "source": "Varant ve Yatırım Kuruluşu Sertifikaları Tebliği, VII-128.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s6",
+      "q": "Değişken faizli tahvillerde kupon faiz oranı belirlenirken referans faiz oranı olarak aşağıdakilerden hangisi kullanılmaz?",
+      "options": [
+        "TCMB politika faiz oranı",
+        "DİBS gösterge faiz oranı",
+        "TLREF (Türk Lirası Gecelik Referans Faiz Oranı)",
+        "Borsa İstanbul pay endeks değeri"
+      ],
+      "answer": 3,
+      "explanation": "Değişken faizli tahvillerde referans faiz oranı olarak TCMB politika faizi, DİBS gösterge faizi veya TLREF gibi faiz oranları kullanılır. Pay endeks değeri bir faiz oranı olmadığından referans olarak kullanılamaz.",
+      "source": "Borçlanma Araçları Tebliği, II-31.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s7",
+      "q": "Yatırım fonlarında fon toplam değerinin (FTD) hesaplanmasında aşağıdakilerden hangisi dikkate alınmaz?",
+      "options": [
+        "Portföydeki varlıkların piyasa değeri",
+        "Fonun borçları",
+        "Tahakkuk etmiş faiz gelirleri",
+        "Fon kurucusunun özkaynak tutarı"
+      ],
+      "answer": 3,
+      "explanation": "FTD = Portföydeki varlıkların piyasa değeri + tahakkuk etmiş gelirler – fon borçları şeklinde hesaplanır. Fon kurucusunun özkaynak tutarı FTD hesaplamasında yer almaz; bu kurucunun kendi bilançosuna ait bir kalemdir.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği, III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s8",
+      "q": "Sermaye piyasasında 'yapılandırılmış borçlanma aracı' aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Sabit kuponlu devlet tahvili",
+        "Anapara ve/veya getirisi başka bir varlığın veya göstergenin performansına bağlı olan borçlanma aracı",
+        "Sadece bankalar tarafından ihraç edilen subordine borçlanma aracı",
+        "Özel sektör tahvillerinin tamamı"
+      ],
+      "answer": 1,
+      "explanation": "Yapılandırılmış borçlanma araçları, anapara ve/veya getirisinin bir endeks, döviz kuru, emtia fiyatı gibi başka bir varlık veya göstergenin performansına bağlandığı türev unsur içeren borçlanma araçlarıdır.",
+      "source": "Borçlanma Araçları Tebliği, II-31.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s9",
+      "q": "Kira sertifikası (sukuk) ihracında aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "İhraçcının bir ticari banka olması",
+        "Dayanak varlık veya hakların varlık kiralama şirketine devredilmesi",
+        "Getirinin sabit faiz olarak belirlenmesi",
+        "Yalnızca TL cinsinden ihraç edilmesi"
+      ],
+      "answer": 1,
+      "explanation": "Kira sertifikası ihracında dayanak varlık veya haklar varlık kiralama şirketine (VKŞ) devredilir. VKŞ bu varlıklara dayalı olarak kira sertifikası ihraç eder. Faizsiz finans prensiplerine uygun olarak getiri 'faiz' değil 'kira geliri' veya 'kâr payı' olarak adlandırılır.",
+      "source": "Kira Sertifikaları Tebliği, III-61.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s10",
+      "q": "Şemsiye fon yapısı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Şemsiye fonun tüzel kişiliği vardır",
+        "Alt fonlar şemsiye fon içtüzüğüne bağlı olarak oluşturulur",
+        "Her alt fonun ayrı portföyü ve birim pay değeri vardır",
+        "Şemsiye fon yapısı kurulması SPK onayına tabidir"
+      ],
+      "answer": 0,
+      "explanation": "Yatırım fonlarının tüzel kişiliği yoktur; bu şemsiye fonlar için de geçerlidir. Fonlar inançlı mülkiyet esasına göre kurulur ve kurucu tarafından yatırımcılar hesabına yönetilir.",
+      "source": "SPKn md. 52, Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s11",
+      "q": "Pay ihracında 'fiyat istikrarı işlemleri' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Fiyat istikrarını sağlayıcı işlemler halka arz fiyatının üzerinde gerçekleştirilebilir",
+        "Fiyat istikrarını sağlayıcı işlemler en fazla 30 gün süreyle uygulanabilir",
+        "Fiyat istikrarını sağlayıcı işlemleri yalnızca ihraççı yapabilir",
+        "Fiyat istikrarını sağlayıcı işlemler halka arz fiyatının altında gerçekleştirilebilir"
+      ],
+      "answer": 1,
+      "explanation": "Fiyat istikrarını sağlayıcı işlemler, halka arz fiyatı veya altında gerçekleştirilebilir (üzerinde değil) ve borsada işlem görmeye başladığı tarihten itibaren en fazla 30 gün süreyle uygulanabilir.",
+      "source": "Pay Tebliği, VII-128.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s12",
+      "q": "Katılım endeksi fonları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Katılım endeksi fonları portföyünde faizli borçlanma araçları bulunabilir",
+        "Katılım endeksi fonları faizsiz finans ilkelerine uygun paylardan oluşan endeksi takip eder",
+        "Katılım endeksi fonları yalnızca katılım bankalarından alınabilir",
+        "Katılım endeksi fonları serbest fon kategorisinde değerlendirilir"
+      ],
+      "answer": 1,
+      "explanation": "Katılım endeksi fonları, Borsa İstanbul Katılım Endeksi gibi faizsiz finans ilkelerine uygun paylardan oluşan bir endeksi takip eder. Portföyünde faiz getirili enstrümanlar bulunamaz.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği, III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s13",
+      "q": "Opsiyon sözleşmelerinde 'zaman değeri' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Vade sonuna yaklaştıkça zaman değeri artar",
+        "Zaman değeri her zaman sıfırdır",
+        "Vade sonuna yaklaştıkça zaman değeri azalır (zaman aşınması)",
+        "Zaman değeri yalnızca karda (in-the-money) opsiyonlarda bulunur"
+      ],
+      "answer": 2,
+      "explanation": "Opsiyon primi = İçsel Değer + Zaman Değeri'dir. Vade sonuna yaklaştıkça opsiyonun zaman değeri azalır, buna 'time decay' (zaman aşınması/theta etkisi) denir. Vade sonunda zaman değeri sıfıra iner.",
+      "source": "Türev araçlar genel bilgi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s14",
+      "q": "Halka arz edilen payların borsada işlem görme başvurusu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Halka arz edilen payların borsada işlem görmesi isteğe bağlıdır",
+        "Payları halka arz edilen ortaklıklar, paylarının borsada işlem görmesi için Borsa İstanbul'a başvurmak zorundadır",
+        "Borsada işlem görme başvurusu SPK'ya yapılır",
+        "Halka arz sonrası borsada işlem görme için ayrıca Hazine onayı gerekir"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 16'ya göre payları halka arz edilen ortaklıkların paylarının borsada işlem görmesi zorunludur; bu nedenle Borsa İstanbul'a başvurulması gerekir.",
+      "source": "SPKn md. 16",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s15",
+      "q": "Aşağıdakilerden hangisi 'çağrılı sermaye' kavramını doğru açıklar?",
+      "options": [
+        "Şirketin kayıtlı sermaye tavanı içindeki toplam sermayesi",
+        "Kayıtlı sermaye tavanı içinde yönetim kurulu kararıyla artırılan ve ortaklardan ödenmesi istenen sermaye kısmı",
+        "Şirketin ödenmiş sermayesi",
+        "Hisse senetlerinin nominal değerlerinin toplamı"
+      ],
+      "answer": 1,
+      "explanation": "Çağrılı sermaye, kayıtlı sermaye sisteminde yönetim kurulunun tavan dahilinde artırdığı ve ortaklardan ödenmesini talep ettiği sermaye kısmıdır. Ödenen kısım 'ödenmiş sermaye', henüz ödenmemiş kısım 'ödenmemiş sermaye' olarak izlenir.",
+      "source": "SPKn md. 18, TTK md. 332",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s16",
+      "q": "İmtiyazlı paylar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "İmtiyaz; oy hakkı, kâr payı veya tasfiye payında tanınabilir",
+        "Her paya en fazla 15 oy hakkı tanınabilir",
+        "Halka açık ortaklıklarda oy hakkında imtiyaz tanınamaz",
+        "İmtiyazlı payların halka arz edilmesi mümkündür"
+      ],
+      "answer": 2,
+      "explanation": "Halka açık ortaklıklarda oy hakkında imtiyaz tanınabilir, ancak SPKn md. 19'a göre bir paya en fazla 15 oy hakkı tanınabilir. Halka arz sonrasında oy imtiyazı kaldırılmış değildir; ancak Kurumsal Yönetim İlkeleri çerçevesinde sınırlamalar mevcuttur.",
+      "source": "SPKn md. 19, TTK md. 479",
+      "verified": false,
+      "flag": "halka açıklarda oy imtiyazı sınırlaması tebliğden doğrulanmalı"
+    },
+    {
+      "id": "1003-s17",
+      "q": "Ortaklıktan çıkarma (squeeze-out) hakkı hangi durumda kullanılabilir?",
+      "options": [
+        "Hakim ortağın oy haklarının %90'ına sahip olması halinde",
+        "Hakim ortağın oy haklarının %95'ine sahip olması halinde",
+        "Hakim ortağın oy haklarının %98'ine sahip olması halinde",
+        "Hakim ortağın oy haklarının %75'ine sahip olması halinde"
+      ],
+      "answer": 2,
+      "explanation": "SPKn md. 27'ye göre oy haklarının %98'ine sahip olan hakim ortak, kalan payları satın alma hakkına (ortaklıktan çıkarma/squeeze-out) sahiptir. Azınlık pay sahipleri de hakim ortağa satma hakkına (sell-out) sahiptir.",
+      "source": "SPKn md. 27",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s18",
+      "q": "Borçlanma araçlarında 'temerrüt faizi' (accrued default interest) ne zaman işlemeye başlar?",
+      "options": [
+        "Borçlanma aracının ihraç tarihinden itibaren",
+        "Kupon ödeme tarihinden itibaren",
+        "İhraççının anapara veya faiz ödeme yükümlülüğünü vadesinde yerine getirmemesi halinde",
+        "Yatırımcının talep etmesi halinde"
+      ],
+      "answer": 2,
+      "explanation": "Temerrüt faizi, ihraççının borçlanma aracına ilişkin anapara veya faiz ödeme yükümlülüğünü vadesinde yerine getirmemesi durumunda, ödemenin geciktiği günden itibaren işlemeye başlar.",
+      "source": "Borçlanma Araçları Tebliği II-31.1, TBK md. 120",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s19",
+      "q": "Yatırım fonlarında 'fon sepeti fonu' aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Portföyünün en az %80'i diğer yatırım fonlarının katılma paylarından oluşan fon",
+        "Yalnızca BYF katılma paylarına yatırım yapan fon",
+        "Portföyünde en az 10 farklı hisse senedi bulunan fon",
+        "Yalnızca para piyasası fonlarına yatırım yapan fon"
+      ],
+      "answer": 0,
+      "explanation": "Fon sepeti fonu (fund of funds), portföyünün en az %80'ini diğer yatırım fonlarının ve/veya BYF'lerin katılma paylarına yatıran fondur.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s20",
+      "q": "İpotek teminatlı menkul kıymet (İTMK) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İTMK yalnızca bankalar tarafından ihraç edilebilir",
+        "İTMK teminat havuzundaki varlıklar ihraççının iflasından etkilenmez (iflas masası dışındadır)",
+        "İTMK'nın vadesi en fazla 1 yıldır",
+        "İTMK getirisi sabit olup değişken faiz uygulanamaz"
+      ],
+      "answer": 1,
+      "explanation": "İTMK'ların en önemli özelliği teminat havuzundaki varlıkların ihraççının iflasından etkilenmemesidir (bankruptcy remoteness). Bu varlıklar iflas masasına dahil edilmez ve İTMK sahiplerinin rüçhan hakkı vardır.",
+      "source": "İTMK ve İFK Tebliği III-59.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s21",
+      "q": "Halka arzda 'talep toplama' yöntemleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Sabit fiyatla talep toplama",
+        "Fiyat aralığı ile talep toplama (book building)",
+        "Borsada satış yöntemi",
+        "Açık artırma ile talep toplama"
+      ],
+      "answer": 3,
+      "explanation": "Halka arzda kullanılan talep toplama yöntemleri: sabit fiyatla talep toplama, fiyat aralığı ile talep toplama (book building) ve borsada satış yöntemidir. Açık artırma yöntemi halka arzda kullanılan standart bir yöntem değildir.",
+      "source": "Pay Tebliği VII-128.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s22",
+      "q": "Hisse senedi ile tahvil arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Hisse senedi ortaklık hakkı, tahvil alacak hakkı sağlar",
+        "Hisse senedi yalnızca borsada, tahvil yalnızca tezgâhüstü piyasada işlem görür",
+        "Hisse senedinin vadesi vardır, tahvilin yoktur",
+        "Tahvil kâr payı öder, hisse senedi faiz öder"
+      ],
+      "answer": 0,
+      "explanation": "Hisse senedi ortaklık (mülkiyet) hakkı sağlarken, tahvil alacak (borç) hakkı sağlar. Hisse senedinin vadesi yoktur (süresiz), tahvilin vadesi vardır. Hisse senedi kâr payı (temettü), tahvil ise faiz (kupon) geliri sağlar.",
+      "source": "SPKn md. 3, Genel Bilgi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s23",
+      "q": "Yatırım fonlarında 'performans ücreti' alınabilmesi için aşağıdaki koşullardan hangisi gereklidir?",
+      "options": [
+        "Fon toplam değerinin en az 100 milyon TL olması",
+        "Fonun eşik değeri (benchmark) aşan bir getiri sağlamış olması",
+        "Fonun en az 3 yıldır faaliyet göstermesi",
+        "Fon kurucusunun banka olması"
+      ],
+      "answer": 1,
+      "explanation": "Performans ücreti, ancak fonun belirlenen eşik değeri (benchmark/referans ölçüt) aşan bir getiri sağlaması halinde alınabilir. Bu, yöneticilerin gerçek performans üretmesini teşvik eden bir ücret mekanizmasıdır.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s24",
+      "q": "Rüçhan hakkı (yeni pay alma hakkı) kullandırılmasında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Rüçhan hakkı kullanım süresi en az 15 gündür",
+        "Rüçhan hakkı devredilemez",
+        "Rüçhan hakkının sınırlandırılması veya kaldırılması mümkün değildir",
+        "Rüçhan hakkı yalnızca imtiyazlı pay sahiplerine tanınır"
+      ],
+      "answer": 0,
+      "explanation": "SPKn'na göre rüçhan hakkı kullanım süresi en az 15 gün olarak belirlenir. Rüçhan hakkı devredilebilir ve borsada işlem görebilir. Genel kurul kararıyla sınırlandırılması veya kaldırılması da mümkündür.",
+      "source": "SPKn md. 18, Pay Tebliği VII-128.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s25",
+      "q": "Türev piyasalarda 'açık pozisyon' (open interest) kavramı neyi ifade eder?",
+      "options": [
+        "Gün içinde gerçekleşen toplam işlem hacmi",
+        "Henüz kapatılmamış veya vadesi gelmemiş toplam sözleşme sayısı",
+        "Bir yatırımcının portföyündeki toplam türev pozisyon tutarı",
+        "Opsiyonun kullanılma olasılığı"
+      ],
+      "answer": 1,
+      "explanation": "Açık pozisyon (open interest), belirli bir vadeli işlem veya opsiyon sözleşmesinde henüz kapatılmamış (ters işlemle veya teslimle sonlandırılmamış) toplam sözleşme sayısıdır. İşlem hacminden farklıdır.",
+      "source": "VİOP, Türev Araçlar Genel Bilgi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s26",
+      "q": "Aşağıdakilerden hangisi 'hazine bonosu' ile 'devlet tahvili' arasındaki farktır?",
+      "options": [
+        "Hazine bonosu TL, devlet tahvili döviz cinsinden ihraç edilir",
+        "Hazine bonosunun vadesi 1 yıldan kısa, devlet tahvilinin vadesi 1 yıl ve üzeridir",
+        "Hazine bonosu kuponlu, devlet tahvili iskontolu ihraç edilir",
+        "Hazine bonosunu Hazine, devlet tahvilini TCMB ihraç eder"
+      ],
+      "answer": 1,
+      "explanation": "Hazine bonosu vadesi 1 yıldan kısa olan, devlet tahvili ise vadesi 1 yıl ve üzerinde olan devlet iç borçlanma senetleridir (DİBS). Her ikisi de Hazine tarafından ihraç edilir.",
+      "source": "4749 sayılı Kanun, DİBS Genel Bilgi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s27",
+      "q": "Yatırım fonlarında 'ters repo' işleminin amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Fonun borçlanarak kaldıraç kullanması",
+        "Fonun kısa vadeli nakit değerlendirmesi yapması",
+        "Fonun portföyündeki varlıkları hedge etmesi",
+        "Fonun katılma payı ihraç etmesi"
+      ],
+      "answer": 1,
+      "explanation": "Ters repo, fonun nakit fazlasını kısa vadeli olarak değerlendirmek için kullandığı bir para piyasası aracıdır. Fon, karşı tarafa nakit verip menkul kıymet alır ve belirli bir vadede menkul kıymeti geri verip anaparasını faiziyle birlikte tahsil eder.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s28",
+      "q": "Sertifika ürünlerinde 'bariyer' (barrier) kavramı ne anlama gelir?",
+      "options": [
+        "Sertifikanın minimum alım miktarı",
+        "Dayanak varlığın belirli bir fiyat seviyesine ulaşması halinde sertifikanın yapısını değiştiren eşik değer",
+        "Sertifikanın komisyon oranı",
+        "Sertifikanın vadeye kalan gün sayısı"
+      ],
+      "answer": 1,
+      "explanation": "Bariyer, dayanak varlığın fiyatının belirli bir seviyeye (yukarı veya aşağı) ulaşması durumunda sertifikanın getiri yapısını, geçerlilik durumunu veya ödeme koşullarını değiştiren önceden belirlenmiş eşik değerdir.",
+      "source": "Varant ve Yatırım Kuruluşu Sertifikaları Tebliği VII-128.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s29",
+      "q": "Eurobond ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Eurobond yalnızca Euro cinsinden ihraç edilen tahvildir",
+        "Eurobond, ihraççının kendi ülkesi dışındaki piyasalarda ve ihraç edildiği ülkenin para birimi dışında bir döviz cinsinden ihraç edilen tahvildir",
+        "Eurobond yalnızca devletler tarafından ihraç edilebilir",
+        "Eurobond'ların vadesi en fazla 5 yıldır"
+      ],
+      "answer": 1,
+      "explanation": "Eurobond, ihraççının kendi ülkesi dışındaki uluslararası piyasalarda ve genellikle ihraç edildiği ülkenin para birimi dışında bir döviz cinsinden (USD, EUR vb.) ihraç edilen tahvildir. Euro adı para birimi değil, uluslararası piyasa anlamındadır.",
+      "source": "Uluslararası Sermaye Piyasaları, Genel Bilgi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s30",
+      "q": "Girişim sermayesi yatırım fonu (GSYF) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "GSYF katılma payları halka arz edilebilir",
+        "GSYF yalnızca nitelikli yatırımcılara satılabilir",
+        "GSYF portföyünde yalnızca borsada işlem gören paylar bulunur",
+        "GSYF'nin yönetim ücreti alması yasaktır"
+      ],
+      "answer": 1,
+      "explanation": "Girişim sermayesi yatırım fonları (GSYF) nitelikli yatırımcılara yönelik fonlardır ve katılma payları halka arz edilemez. Portföylerinde ağırlıklı olarak girişim şirketlerine yapılan yatırımlar yer alır.",
+      "source": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.4",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

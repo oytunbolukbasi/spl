@@ -4226,6 +4226,456 @@
       "source": "1012 NotebookLM Q100",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1012-s1",
+      "q": "Takasbank'ın merkezi karşı taraf (MKT) hizmeti verirken üstlendiği risk aşağıdakilerden hangisidir?",
+      "options": [
+        "Piyasa riski",
+        "Karşı taraf (kredi) riski",
+        "Kur riski",
+        "Faiz oranı riski"
+      ],
+      "answer": 1,
+      "explanation": "MKT olarak Takasbank, alıcıya karşı satıcı, satıcıya karşı alıcı olarak konumlanarak karşı taraf (kredi) riskini üstlenir. Taraflardan birinin yükümlülüğünü yerine getirememesi durumunda diğer tarafın zararını karşılar.",
+      "source": "MKT Yönetmeliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s2",
+      "q": "MKK'nın (Merkezi Kayıt Kuruluşu) temel fonksiyonu aşağıdakilerden hangisidir?",
+      "options": [
+        "Sermaye piyasası araçlarının takas işlemlerini gerçekleştirmek",
+        "Sermaye piyasası araçlarının kaydileştirilmesi ve merkezi saklamasını yapmak",
+        "Borsada fiyat oluşumunu sağlamak",
+        "Yatırımcılara yatırım danışmanlığı vermek"
+      ],
+      "answer": 1,
+      "explanation": "MKK, sermaye piyasası araçlarının kaydileştirilmesi (dematerializasyon) ve kaydi olarak izlenmesi (merkezi saklama) fonksiyonunu yerine getirir. Takas işlemleri Takasbank tarafından yapılır.",
+      "source": "SPKn md. 81",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s3",
+      "q": "Pay piyasasında T+2 takas süresi ne anlama gelir?",
+      "options": [
+        "İşlem gününden itibaren 2 saat içinde takas tamamlanır",
+        "İşlem gününden itibaren 2 iş günü sonunda takas tamamlanır",
+        "İşlem gününden itibaren 2 takvim günü sonunda takas tamamlanır",
+        "İşlemin gerçekleşmesinden itibaren 2 dakika sonra takas tamamlanır"
+      ],
+      "answer": 1,
+      "explanation": "T+2, işlem gününden (T) itibaren 2 iş günü sonunda teslim karşılığı ödeme (DVP) prensibine göre takasın tamamlanacağını ifade eder.",
+      "source": "Borsa İstanbul Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s4",
+      "q": "Portföy saklama hizmetinde 'bağımsızlık ilkesi' aşağıdakilerden hangisini gerektirir?",
+      "options": [
+        "Portföy saklama kuruluşunun, portföy yönetim şirketinden bağımsız olması",
+        "Portföy saklama kuruluşunun yurtdışında kurulmuş olması",
+        "Portföy saklama kuruluşunun en az 10 yıl deneyimli olması",
+        "Portföy saklama kuruluşunun devlet bankası olması"
+      ],
+      "answer": 0,
+      "explanation": "Bağımsızlık ilkesi gereği portföy saklama kuruluşu, portföy yönetim şirketinden ve fonun kurucusundan organizasyonel ve hukuki olarak bağımsız olmalıdır. Bu, yatırımcı varlıklarının korunması için temel güvencedir.",
+      "source": "Portföy Saklama Hizmeti Tebliği, III-56.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s5",
+      "q": "ISIN (International Securities Identification Number) kodu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "ISIN kodu 10 karakterden oluşur ve yalnızca rakam içerir",
+        "ISIN kodu 12 karakterden oluşur; 2 harf ülke kodu + 9 karakter tanımlama numarası + 1 kontrol rakamı",
+        "ISIN kodu Borsa İstanbul tarafından tahsis edilir",
+        "Her menkul kıymet türü için aynı ISIN kodu kullanılır"
+      ],
+      "answer": 1,
+      "explanation": "ISIN kodu 12 karakterden oluşur: ilk 2 karakter ülke kodu (Türkiye: TR), sonraki 9 karakter ulusal tanımlama numarası (NSIN), son karakter ise kontrol rakamıdır. ISIN kodu MKK tarafından tahsis edilir.",
+      "source": "ISO 6166, MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s6",
+      "q": "Takasbank'ın garanti fonu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Garanti fonu üyelerin temerrüdü durumunda kullanılır",
+        "Garanti fonu katkı payları üyelerin işlem hacimleriyle orantılıdır",
+        "Garanti fonu varlıkları üyelerin alacaklıları tarafından haczedilebilir",
+        "Garanti fonunun amacı piyasa bütünlüğünü korumaktır"
+      ],
+      "answer": 2,
+      "explanation": "Garanti fonu varlıkları amaca özgülenmiş olup üyelerin alacaklıları tarafından haczedilemez, rehin edilemez ve iflas masasına dahil edilemez. Bu varlıklar yalnızca temerrüt yönetimi için kullanılabilir.",
+      "source": "SPKn md. 78",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s7",
+      "q": "Borçlanma araçları piyasasında takas süresi aşağıdakilerden hangisidir?",
+      "options": [
+        "T+0 (aynı gün)",
+        "T+1 (ertesi iş günü)",
+        "T+2 (iki iş günü sonra)",
+        "T+3 (üç iş günü sonra)"
+      ],
+      "answer": 0,
+      "explanation": "Borçlanma araçları piyasasında (kesin alım-satım) takas genellikle T+0 (aynı gün valörlü) olarak gerçekleşir. Repo işlemlerinde de başlangıç bacağı T+0'dır.",
+      "source": "Borsa İstanbul Borçlanma Araçları Piyasası Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s8",
+      "q": "Kaydileştirme (dematerializasyon) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kaydileştirme isteğe bağlıdır, fiziki senet basımı da mümkündür",
+        "Kaydileştirme yalnızca hisse senetleri için geçerlidir",
+        "Kaydileştirilen sermaye piyasası araçları MKK nezdinde kaydi olarak izlenir ve fiziki senet basılamaz",
+        "Kaydileştirme işlemleri Takasbank tarafından yapılır"
+      ],
+      "answer": 2,
+      "explanation": "SPKn md. 13 uyarınca sermaye piyasası araçları kaydileştirilir ve MKK nezdinde kaydi olarak izlenir. Kaydileştirilen araçlar için ayrıca fiziki senet çıkarılamaz; hak sahipliğinin ispatı MKK kayıtlarına dayanır.",
+      "source": "SPKn md. 13",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s9",
+      "q": "VİOP'ta (Vadeli İşlem ve Opsiyon Piyasası) teminat tamamlama çağrısı (margin call) ne zaman yapılır?",
+      "options": [
+        "Hesaptaki teminat tutarı başlangıç teminatının altına düştüğünde",
+        "Hesaptaki teminat tutarı sürdürme teminatının altına düştüğünde",
+        "Her işlem gününün sonunda otomatik olarak",
+        "Yalnızca pozisyon kapanışında"
+      ],
+      "answer": 1,
+      "explanation": "VİOP'ta hesaptaki teminat tutarının sürdürme teminatı seviyesinin altına düşmesi halinde teminat tamamlama çağrısı yapılır. Yatırımcının teminatını başlangıç teminatı seviyesine yükseltmesi gerekir.",
+      "source": "VİOP Takas ve Teminat Yönetimi Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s10",
+      "q": "DVP (Delivery Versus Payment) prensibinin temel amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Takas maliyetlerini azaltmak",
+        "Menkul kıymet teslimi ile ödemenin eş zamanlı yapılarak ana para riskini ortadan kaldırmak",
+        "İşlem hızını artırmak",
+        "Yatırımcıların kârlılığını garanti etmek"
+      ],
+      "answer": 1,
+      "explanation": "DVP prensibi, menkul kıymet teslimatı ile nakit ödemenin eş zamanlı ve koşullu olarak gerçekleşmesini sağlayarak ana para riskini (principal risk) ortadan kaldırır. Bir tarafın teslim edip diğerinin ödeme yapmama riskini önler.",
+      "source": "BIS-CPSS, Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s11",
+      "q": "Aşağıdakilerden hangisi Takasbank'ın görevleri arasında yer almaz?",
+      "options": [
+        "Merkezi karşı taraf hizmeti vermek",
+        "Nakit kredi ve menkul kıymet ödünç işlemleri yapmak",
+        "Sermaye piyasası araçlarının halka arzına aracılık etmek",
+        "Takas işlemlerini gerçekleştirmek"
+      ],
+      "answer": 2,
+      "explanation": "Halka arza aracılık, aracı kuruluşların faaliyetidir. Takasbank'ın görevleri takas, merkezi karşı taraf hizmeti, nakit kredi, menkul kıymet ödünç ve teminat yönetimi gibi alanlardır.",
+      "source": "SPKn md. 77-78",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s12",
+      "q": "Temerrüt yönetiminde 'waterfall' (şelale) sırası aşağıdakilerden hangisidir?",
+      "options": [
+        "Garanti fonu → Temerrüde düşen üyenin teminatları → Takasbank özkaynağı",
+        "Temerrüde düşen üyenin teminatları → Garanti fonu → Takasbank'ın tahsis ettiği kaynaklar",
+        "Takasbank özkaynağı → Garanti fonu → Temerrüde düşen üyenin teminatları",
+        "Temerrüde düşen üyenin teminatları → Takasbank özkaynağı → Garanti fonu"
+      ],
+      "answer": 1,
+      "explanation": "Temerrüt yönetiminde önce temerrüde düşen üyenin kendi teminatları kullanılır, ardından garanti fonuna başvurulur, en son Takasbank'ın tahsis ettiği kaynaklar devreye girer.",
+      "source": "MKT Temerrüt Yönetimi Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s13",
+      "q": "MKK nezdinde tutulan yatırımcı hesaplarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yatırımcılar MKK'da doğrudan hesap açabilir",
+        "MKK hesapları üye kuruluşlar (aracı kurumlar, bankalar) aracılığıyla açılır",
+        "MKK'daki hesaplara yalnızca kurumsal yatırımcılar erişebilir",
+        "MKK hesap bilgileri gizli değildir ve kamuya açıktır"
+      ],
+      "answer": 1,
+      "explanation": "Yatırımcılar MKK'da doğrudan hesap açamaz; hesaplar üye kuruluşlar (yetkilendirilmiş aracı kurumlar, bankalar) aracılığıyla açılır. MKK üye kuruluş bazında alt hesap yapısını yönetir.",
+      "source": "MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s14",
+      "q": "Kurumsal işlem (corporate action) süreçlerinde temettü dağıtımının takas boyutu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Temettü hak sahipliği işlem günü itibarıyla belirlenir",
+        "Temettü hak sahipliği, hisse senedinin son cum-dividend günü sonunda MKK kayıtlarındaki sahipliğe göre belirlenir",
+        "Temettü dağıtımında Takasbank'ın herhangi bir rolü yoktur",
+        "Temettü yalnızca hisse senedi olarak dağıtılabilir"
+      ],
+      "answer": 1,
+      "explanation": "Temettü hak sahipliği, son cum-dividend (temettüye hak kazandıran son işlem) günü sonunda MKK kayıtlarındaki hak sahipliğine göre belirlenir. Ertesi gün (ex-dividend) hisse alan kişi temettü almaz.",
+      "source": "Borsa İstanbul, MKK kurumsal işlem prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s15",
+      "q": "Yabancı yatırımcıların Türkiye'de sermaye piyasası araçlarına yatırım yapması durumunda saklama hizmeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yabancı yatırımcılar doğrudan MKK'da hesap açabilir",
+        "Yabancı yatırımcıların varlıkları global saklama kuruluşları (global custodian) ve yerel saklama kuruluşları (sub-custodian) aracılığıyla saklanır",
+        "Yabancı yatırımcıların saklama işlemleri yalnızca TCMB tarafından yapılır",
+        "Yabancı yatırımcılar için saklama hizmeti sunulamaz"
+      ],
+      "answer": 1,
+      "explanation": "Yabancı yatırımcılar genellikle global saklama kuruluşları (global custodian) aracılığıyla yatırım yapar. Global custodian, Türkiye'de yerel saklama kuruluşu (sub-custodian) olarak yetkilendirilmiş bir banka veya aracı kurum aracılığıyla MKK nezdinde varlıkları saklatır.",
+      "source": "MKK, Portföy Saklama Hizmeti Tebliği III-56.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s16",
+      "q": "Takasbank'ın 'merkezi takas kuruluşu' (MTK) ve 'merkezi karşı taraf' (MKT) rolleri arasındaki fark aşağıdakilerden hangisidir?",
+      "options": [
+        "MTK rolünde Takasbank yalnızca takas işlemlerini yürütür; MKT rolünde ise alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçerek karşı taraf riskini üstlenir",
+        "İkisi arasında fark yoktur",
+        "MTK yalnızca borçlanma araçlarında, MKT yalnızca pay piyasasında hizmet verir",
+        "MTK daha riskli, MKT daha güvenlidir"
+      ],
+      "answer": 0,
+      "explanation": "MTK rolünde Takasbank takas işlemlerini yürütür ancak karşı taraf riskini üstlenmez. MKT rolünde ise her işlemde alıcıya karşı satıcı, satıcıya karşı alıcı olarak konumlanarak karşı taraf (kredi) riskini üstlenir.",
+      "source": "SPKn md. 77-78, MKT Yönetmeliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s17",
+      "q": "MKK'da tutulan kayıtların hukuki niteliği aşağıdakilerden hangisidir?",
+      "options": [
+        "MKK kayıtları bilgi amaçlıdır, hukuki bağlayıcılığı yoktur",
+        "MKK kayıtları kesin delil niteliğindedir ve hak sahipliğini ispat eder",
+        "MKK kayıtları yalnızca istatistik amacıyla tutulur",
+        "MKK kayıtları yalnızca vergi hesaplamasında kullanılır"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 13'e göre MKK nezdindeki kayıtlar, sermaye piyasası araçları üzerindeki hak sahipliğinin kesin delili niteliğindedir. Kaydileştirilmiş araçlarda hak sahipliği MKK kayıtlarıyla ispat edilir.",
+      "source": "SPKn md. 13",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s18",
+      "q": "Temerrüt yönetiminde 'pozisyon kapatma' (close-out) işlemi ne anlama gelir?",
+      "options": [
+        "Temerrüde düşen üyenin tüm müşteri hesaplarının kapatılması",
+        "Temerrüde düşen üyenin açık pozisyonlarının piyasada ters işlemle kapatılması",
+        "Temerrüde düşen üyenin faaliyet izninin iptali",
+        "Temerrüde düşen üyenin garanti fonu katkı payının geri ödenmesi"
+      ],
+      "answer": 1,
+      "explanation": "Pozisyon kapatma, temerrüde düşen üyenin takas yükümlülüğünü yerine getiremediği açık pozisyonlarının piyasada ters işlem yapılarak (alışsa satış, satışsa alış) kapatılmasıdır.",
+      "source": "MKT Temerrüt Yönetimi Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s19",
+      "q": "Netleştirme (netting) işleminin takas sürecindeki temel faydası aşağıdakilerden hangisidir?",
+      "options": [
+        "İşlem komisyonlarını artırmak",
+        "Takas edilecek menkul kıymet ve nakit tutarını azaltarak operasyonel riski ve likidite ihtiyacını düşürmek",
+        "Yatırımcıların portföy çeşitlendirmesini sağlamak",
+        "Borsada işlem hacmini artırmak"
+      ],
+      "answer": 1,
+      "explanation": "Netleştirme, bir üyenin aynı menkul kıymetteki alış ve satış yükümlülüklerini karşılıklı mahsup ederek net bazda takas edilecek tutarı azaltır. Bu sayede likidite ihtiyacı, operasyonel risk ve takas maliyeti düşer.",
+      "source": "Takas Prosedürü, BIS-CPSS",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s20",
+      "q": "Pay piyasasında temerrüt durumunda uygulanan 'borçlanma faizi' oranı nasıl belirlenir?",
+      "options": [
+        "TCMB gecelik borç verme faiz oranının 2 katı",
+        "Temerrüt gününde geçerli TCMB geç likidite penceresi faiz oranı uygulanır",
+        "Sabit %10 oranında uygulanır",
+        "Borsa İstanbul tarafından günlük belirlenir"
+      ],
+      "answer": 1,
+      "explanation": "Pay piyasasında temerrüt halinde uygulanan borçlanma faizi, temerrüt gününde geçerli olan TCMB geç likidite penceresi faiz oranı üzerinden hesaplanır.",
+      "source": "Borsa İstanbul Takas Prosedürü",
+      "verified": false,
+      "flag": "temerrüt faiz oranı kaynağı doğrulanmalı"
+    },
+    {
+      "id": "1012-s21",
+      "q": "Saklama hizmetinde 'omnibus hesap' ve 'segregated hesap' arasındaki fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Omnibus hesapta tüm müşteri varlıkları tek bir havuz hesapta tutulur; segregated hesapta her müşterinin varlığı ayrı hesapta izlenir",
+        "Omnibus hesap yalnızca kurumsal müşteriler için, segregated hesap yalnızca bireysel müşteriler için kullanılır",
+        "İkisi arasında fark yoktur",
+        "Omnibus hesap daha güvenlidir"
+      ],
+      "answer": 0,
+      "explanation": "Omnibus (toplu) hesapta bir aracı kurumun tüm müşterilerinin varlıkları tek bir havuz hesap altında tutulur. Segregated (ayrıştırılmış) hesapta ise her müşterinin varlığı ayrı bir alt hesapta izlenir ve tanımlanabilir.",
+      "source": "MKK düzenlemeleri, Portföy Saklama Tebliği III-56.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s22",
+      "q": "VİOP'ta 'günlük uzlaşma fiyatı' ne amaçla kullanılır?",
+      "options": [
+        "Opsiyonların kullanım fiyatını belirlemek",
+        "Açık pozisyonların günlük kâr/zarar hesaplaması ve teminat güncellemesi (mark-to-market) için",
+        "İşlem komisyonlarını hesaplamak",
+        "Yeni sözleşme ihracına karar vermek"
+      ],
+      "answer": 1,
+      "explanation": "Günlük uzlaşma fiyatı, her işlem gününün sonunda açık pozisyonların piyasa değerlemesini (mark-to-market) yapmak ve kâr/zarar hesaplayarak teminat güncellemesi yapmak amacıyla kullanılır.",
+      "source": "VİOP Takas ve Teminat Yönetimi Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s23",
+      "q": "MKK'nın e-Yatırımcı platformunun temel işlevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Yatırımcıların doğrudan alım-satım işlemi yapabilmesi",
+        "Yatırımcıların tüm aracı kurumlardaki portföylerini tek bir noktadan görüntüleyebilmesi",
+        "Yatırımcılara yatırım tavsiyesi verilmesi",
+        "Yatırımcıların kredi başvurusu yapabilmesi"
+      ],
+      "answer": 1,
+      "explanation": "e-Yatırımcı, MKK tarafından sunulan bir platformdur ve yatırımcıların farklı aracı kurumlarda bulunan sermaye piyasası araçlarını (pay, tahvil, fon vb.) tek bir noktadan görüntülemesini sağlar.",
+      "source": "MKK, e-Yatırımcı Platformu",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s24",
+      "q": "Takasbank Para Piyasası (TPP) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "TPP'de işlemler Takasbank garantisi altında gerçekleşir",
+        "TPP'de yalnızca bankalar işlem yapabilir",
+        "TPP'de vade en fazla 1 gündür",
+        "TPP işlemlerinde teminat alınmaz"
+      ],
+      "answer": 0,
+      "explanation": "Takasbank Para Piyasası'nda (TPP) borç alan ve borç veren arasındaki işlemler Takasbank'ın merkezi karşı taraf garantisi altında gerçekleşir. Bu sayede karşı taraf riski ortadan kaldırılır.",
+      "source": "Takasbank TPP Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s25",
+      "q": "Kurumsal işlemlerde (corporate actions) 'eski' (ex) tarihi ne anlama gelir?",
+      "options": [
+        "Şirketin kuruluş tarihi",
+        "İlgili hakkın (temettü, rüçhan vb.) yeni alıcıya geçmediği ilk işlem günü",
+        "Genel kurul toplantı tarihi",
+        "Ödeme tarihi"
+      ],
+      "answer": 1,
+      "explanation": "'Ex' (eski) tarihi, ilgili hakkın (temettü, bedelsiz pay, rüçhan hakkı vb.) artık yeni alıcıya geçmediği ilk işlem günüdür. Bu tarihte veya sonrasında pay alan yatırımcı ilgili haktan yararlanamaz.",
+      "source": "Borsa İstanbul, MKK Kurumsal İşlem Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s26",
+      "q": "Takasbank'ın 'ödünç pay piyasası' hizmetinde aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Ödünç veren taraf oy hakkını kaybetmez",
+        "Ödünç işlemlerinde Takasbank merkezi karşı taraf olarak konumlanır",
+        "Ödünç alınan paylar iade edilmek zorunda değildir",
+        "Ödünç işlemleri yalnızca BİST 30 paylarında yapılabilir"
+      ],
+      "answer": 1,
+      "explanation": "Takasbank Ödünç Pay Piyasasında Takasbank merkezi karşı taraf olarak konumlanır; ödünç verene karşı borçlu, ödünç alana karşı alacaklı rolündedir. Bu yapı karşı taraf riskini ortadan kaldırır.",
+      "source": "Takasbank Ödünç Pay Piyasası Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s27",
+      "q": "Borçlanma araçları piyasasında 'repo' ve 'ters repo' işlemlerinin takas boyutu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Repo işleminde başlangıçta menkul kıymet alıcıya teslim edilmez",
+        "Repo işlemi iki bacaklıdır: başlangıç bacağında menkul kıymet alıcıya, vade bacağında menkul kıymet satıcıya geri döner",
+        "Ters repo işleminde menkul kıymet hiçbir zaman el değiştirmez",
+        "Repo işlemlerinde takas yapılmaz"
+      ],
+      "answer": 1,
+      "explanation": "Repo işlemi iki bacaklı bir işlemdir: başlangıç bacağında repo yapan taraf menkul kıymeti karşı tarafa teslim eder (nakit alır); vade bacağında ise menkul kıymet geri alınır (nakit iade edilir).",
+      "source": "Borsa İstanbul BAP Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s28",
+      "q": "MKK'nın 'ihraççı bilgi merkezi' hizmeti aşağıdaki işlevlerden hangisini kapsar?",
+      "options": [
+        "İhraççıların pay sahipliği yapısını (ortaklık yapısı) görüntüleyebilmesi",
+        "İhraççıların borsada fiyat belirleme yetkisi",
+        "İhraççıların doğrudan takas işlemi yapabilmesi",
+        "İhraççıların yatırımcılara kredi verebilmesi"
+      ],
+      "answer": 0,
+      "explanation": "MKK İhraççı Bilgi Merkezi, ihraççı şirketlerin pay sahipliği yapısını (ortaklık yapısını), yatırımcı dağılımını ve genel kurul katılım bilgilerini görüntüleyebilmelerini sağlayan bir platformdur.",
+      "source": "MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s29",
+      "q": "VİOP'ta 'span teminat sistemi' neyi amaçlar?",
+      "options": [
+        "Tüm pozisyonlara sabit teminat uygulamak",
+        "Portföy bazlı risk hesaplaması yaparak farklı pozisyonlar arasındaki risk netleştirmesini dikkate almak",
+        "Yalnızca opsiyon pozisyonlarının teminatını hesaplamak",
+        "İşlem komisyonlarını minimize etmek"
+      ],
+      "answer": 1,
+      "explanation": "SPAN (Standard Portfolio Analysis of Risk) sistemi, bir yatırımcının portföyündeki tüm vadeli işlem ve opsiyon pozisyonlarını bir bütün olarak değerlendirerek portföy bazlı risk hesaplaması yapar. Hedge eden pozisyonlar arasında risk netleştirmesi (offset) yapılarak gereken teminat tutarı optimize edilir.",
+      "source": "VİOP Teminat Yönetimi, SPAN",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s30",
+      "q": "Saklama kuruluşlarının yatırımcı varlıklarına ilişkin 'fidye sorumluluğu' ne anlama gelir?",
+      "options": [
+        "Saklama kuruluşunun varlıkları sigorta ettirme zorunluluğu",
+        "Saklama kuruluşunun kusuru nedeniyle yatırımcı varlıklarında oluşan zararları tazmin etme yükümlülüğü",
+        "Saklama kuruluşunun varlıkları üçüncü kişilere devretme hakkı",
+        "Saklama kuruluşunun yatırımcıya kâr garantisi vermesi"
+      ],
+      "answer": 1,
+      "explanation": "Fidye sorumluluğu (restitution liability), saklama kuruluşunun kendi kusuru, ihmali veya hukuka aykırı eylemi nedeniyle yatırımcı varlıklarında meydana gelen kayıp veya zararları tazmin etme yükümlülüğüdür.",
+      "source": "SPKn md. 80-81, Saklama Hizmeti Tebliği",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

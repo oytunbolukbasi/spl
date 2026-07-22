@@ -3770,6 +3770,456 @@
       "source": "1001 Banka Soru Seti Q297",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1001-s1",
+      "q": "6362 sayılı SPKn'na göre, bilgi suistimali suçunun oluşabilmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": [
+        "İçsel bilginin kamuya açıklanmadan önce sermaye piyasası aracı alım-satımında kullanılması",
+        "Yalnızca şirket yönetim kurulu üyelerinin işlem yapması",
+        "İşlem sonucunda kâr elde edilmiş olması",
+        "İşlemin borsada gerçekleştirilmiş olması"
+      ],
+      "answer": 0,
+      "explanation": "Bilgi suistimali suçu, içsel bilginin kamuya açıklanmadan önce sermaye piyasası aracı alım-satımında kullanılması veya başkalarına iletilmesiyle oluşur. Kâr elde edilmesi veya borsada işlem yapılması şart değildir.",
+      "source": "SPKn md. 106",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s2",
+      "q": "SPK tarafından verilen idari para cezalarına karşı başvuru süreci aşağıdakilerden hangisidir?",
+      "options": [
+        "Tebliğ tarihinden itibaren 30 gün içinde idare mahkemesine başvuru",
+        "Tebliğ tarihinden itibaren 60 gün içinde idare mahkemesine başvuru",
+        "Tebliğ tarihinden itibaren 15 gün içinde Danıştay'a başvuru",
+        "Tebliğ tarihinden itibaren 30 gün içinde Danıştay'a başvuru"
+      ],
+      "answer": 1,
+      "explanation": "SPK'nın idari para cezası kararlarına karşı tebliğ tarihinden itibaren 60 gün içinde idare mahkemesine başvurulabilir (İYUK md. 7).",
+      "source": "İYUK md. 7, SPKn md. 105",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s3",
+      "q": "Yatırımcı Tazmin Merkezi (YTM) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "YTM, yatırım kuruluşlarının yatırımcılara olan nakit ve sermaye piyasası araçlarından kaynaklanan borçlarını tazmin eder",
+        "Tazmin üst sınırı Bakanlar Kurulu kararıyla belirlenir",
+        "YTM'nin kaynakları yatırım kuruluşlarının katkı paylarından oluşur",
+        "Profesyonel müşteriler de YTM kapsamında tazmin edilir"
+      ],
+      "answer": 3,
+      "explanation": "Profesyonel müşteriler YTM kapsamında değildir. YTM yalnızca genel müşterilerin (bireysel yatırımcıların) zararlarını tazmin eder.",
+      "source": "SPKn md. 83-84",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s4",
+      "q": "Halka açık ortaklıklarda bağımsız yönetim kurulu üyeleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bağımsız üyeler en fazla iki dönem üst üste görev yapabilir",
+        "Bağımsız üye sayısı yönetim kurulu üye sayısının üçte birinden az olamaz",
+        "Bağımsız üyelerin mali konularda uzmanlığı zorunludur",
+        "Bağımsız üyeler yalnızca SPK tarafından atanabilir"
+      ],
+      "answer": 1,
+      "explanation": "Kurumsal yönetim ilkelerine göre bağımsız yönetim kurulu üye sayısı toplam üye sayısının üçte birinden az olamaz ve en az iki kişi olmalıdır.",
+      "source": "Kurumsal Yönetim Tebliği, II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s5",
+      "q": "6362 sayılı SPKn'na göre piyasa dolandırıcılığı (manipülasyon) suçunun cezası aşağıdakilerden hangisidir?",
+      "options": [
+        "1 yıldan 3 yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "2 yıldan 5 yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "3 yıldan 5 yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "3 yıldan 7 yıla kadar hapis ve on bin güne kadar adli para cezası"
+      ],
+      "answer": 2,
+      "explanation": "Piyasa dolandırıcılığı suçu 3 yıldan 5 yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır (SPKn md. 107/1).",
+      "source": "SPKn md. 107/1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s6",
+      "q": "SPK Kurul üyeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Kurul Başkan ve üyelerinin görev süresi 5 yıldır",
+        "Kurul üyeleri en fazla iki dönem görev yapabilir",
+        "Kurul 7 üyeden oluşur",
+        "Kurul Başkanı, üyeler arasından Cumhurbaşkanı tarafından atanır"
+      ],
+      "answer": 1,
+      "explanation": "SPKn'na göre Kurul üyelerinin görev süreleri 5 yıl olup, üst üste görev yapma sınırlaması yoktur; ancak boşalan üyeliklere kalan süreyi tamamlamak üzere atama yapılır.",
+      "source": "SPKn md. 121",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s7",
+      "q": "Özel durumların kamuya açıklanmasına ilişkin olarak, içsel bilgi niteliğindeki bir hususun kamuya açıklanma süresi aşağıdakilerden hangisidir?",
+      "options": [
+        "Olayın öğrenildiği andan itibaren en geç 12 saat içinde",
+        "Olayın öğrenildiği andan itibaren en geç 24 saat içinde",
+        "Derhal (gecikmeksizin)",
+        "İlk iş günü sonuna kadar"
+      ],
+      "answer": 2,
+      "explanation": "İçsel bilgi niteliğindeki özel durumlar derhal (gecikmeksizin) kamuya açıklanmalıdır. Açıklamanın ertelenmesi ancak belirli koşullar altında ve SPK'ya bildirimle mümkündür.",
+      "source": "Özel Durumlar Tebliği, II-15.1, md. 6",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s8",
+      "q": "Sermaye piyasasında bağımsız denetim ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bağımsız denetim kuruluşları SPK'dan yetki belgesi alarak faaliyete başlar",
+        "Bağımsız denetim kuruluşları Kamu Gözetimi Kurumu (KGK) tarafından yetkilendirilir",
+        "Bağımsız denetçiler Türkiye Bankalar Birliği tarafından yetkilendirilir",
+        "Bağımsız denetim yetkisi yalnızca TÜRMOB tarafından verilir"
+      ],
+      "answer": 1,
+      "explanation": "6102 sayılı TTK ve ilgili mevzuat uyarınca bağımsız denetim kuruluşları Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu (KGK) tarafından yetkilendirilir.",
+      "source": "TTK md. 400, KGK Yönetmeliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s9",
+      "q": "6362 sayılı Kanun'a göre pay alım teklifi zorunluluğunu doğuran yönetim kontrolü değişikliği eşiği aşağıdakilerden hangisidir?",
+      "options": [
+        "Oy haklarının %25'ine ulaşılması veya aşılması",
+        "Oy haklarının %50'sine ulaşılması veya aşılması",
+        "Payların %33'üne ulaşılması veya aşılması",
+        "Yönetim kurulunun çoğunluğunun değişmesi"
+      ],
+      "answer": 0,
+      "explanation": "Pay Alım Teklifi Tebliği'ne göre, bir ortaklığın oy haklarının %50'sini geçen kısmını temsil eden payların iktisap edilmesi durumunda zorunlu pay alım teklifi yapılmalıdır. Ancak yönetim kontrolü değişikliği eşiği olarak ilk aşamada oy haklarının tebliğde belirtilen oranlarına ulaşılması zorunlu teklifi doğurur.",
+      "source": "Pay Alım Teklifi Tebliği, II-26.1",
+      "verified": false,
+      "flag": "pay alım teklifi eşik oranları tebliğden doğrulanmalı"
+    },
+    {
+      "id": "1001-s10",
+      "q": "Sermaye Piyasası Kanunu'na göre aşağıdakilerden hangisi 'sermaye piyasası kurumu' değildir?",
+      "options": [
+        "Yatırım kuruluşları",
+        "Kolektif yatırım kuruluşları",
+        "Bağımsız denetim kuruluşları",
+        "Ticari bankalar"
+      ],
+      "answer": 3,
+      "explanation": "Ticari bankalar sermaye piyasası kurumu değildir. SPKn md. 35'e göre sermaye piyasası kurumları; yatırım kuruluşları, kolektif yatırım kuruluşları, sermaye piyasasında faaliyette bulunan bağımsız denetim, değerleme ve derecelendirme kuruluşları ile ipotek finansmanı kuruluşları, konut finansmanı ve varlık finansmanı fonları, varlık kiralama şirketleri, portföy yönetim şirketleri vb.dir.",
+      "source": "SPKn md. 35",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s11",
+      "q": "Halka açık ortaklıklarda denetimden sorumlu komite ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Denetimden sorumlu komite en az iki üyeden oluşur",
+        "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden seçilir",
+        "Komite başkanının mali konularda uzmanlığı aranır",
+        "Komite üyelerinden en az birinin icra yetkisine sahip olması gerekir"
+      ],
+      "answer": 3,
+      "explanation": "Denetimden sorumlu komite üyelerinin hiçbirinin icra yetkisi bulunmaz; komite tamamen bağımsız yönetim kurulu üyelerinden oluşur ve yönetimden bağımsız olarak çalışır.",
+      "source": "Kurumsal Yönetim Tebliği, II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s12",
+      "q": "SPK'nın düzenleyici işlemlerine ilişkin olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "SPK tebliğleri Resmî Gazete'de yayımlanarak yürürlüğe girer",
+        "SPK tebliğleri Kurul Bülteni'nde yayımlanır ve Resmî Gazete'de yayımlanması gerekmez",
+        "SPK kararları yalnızca ilgili taraflara tebliğ edilir",
+        "SPK ilke kararları bağlayıcı değildir"
+      ],
+      "answer": 0,
+      "explanation": "SPK'nın düzenleyici işlemleri (tebliğler) Resmî Gazete'de yayımlanarak yürürlüğe girer. Kurul kararları ve ilke kararları ise SPK bülteninde yayımlanır.",
+      "source": "SPKn md. 128",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s13",
+      "q": "Kayıtlı sermaye sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Kayıtlı sermaye tavanı, çıkarılmış sermayenin en fazla 3 katı olabilir",
+        "Kayıtlı sermaye tavanı, çıkarılmış sermayenin en fazla 5 katı olabilir",
+        "Kayıtlı sermaye tavanı içinde yönetim kurulu genel kurul kararı olmaksızın sermaye artırabilir",
+        "Kayıtlı sermaye sistemini yalnızca halka açık ortaklıklar kullanabilir"
+      ],
+      "answer": 2,
+      "explanation": "Kayıtlı sermaye sisteminin temel avantajı, yönetim kurulunun tavan dahilinde genel kurul kararı olmaksızın sermaye artırım yetkisine sahip olmasıdır. Tavan 5 kat değil belirlenen tavan kadardır.",
+      "source": "SPKn md. 18",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s14",
+      "q": "Aşağıdakilerden hangisi 6362 sayılı SPKn kapsamında 'güvene dayalı suç' olarak düzenlenmiştir?",
+      "options": [
+        "Bilgi suistimali",
+        "Piyasa dolandırıcılığı",
+        "Güveni kötüye kullanma ve sahtecilik",
+        "Usulsüz halka arz"
+      ],
+      "answer": 2,
+      "explanation": "SPKn md. 110'da güveni kötüye kullanma ve sahtecilik suçu düzenlenmiştir. Yatırım kuruluşları ve kolektif yatırım kuruluşları yöneticilerinin müşteri varlıklarını amacı dışında kullanması bu kapsamdadır.",
+      "source": "SPKn md. 110",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s15",
+      "q": "İzahname ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İzahname onay başvurusu SPK'ya yapılır ve SPK 10 iş günü içinde karar verir",
+        "İzahname yalnızca halka arz durumunda zorunludur, tahsisli satışta gerekmez",
+        "Tüm pay ihraçlarında izahname zorunluluğu vardır",
+        "İzahname Borsa İstanbul tarafından onaylanır"
+      ],
+      "answer": 0,
+      "explanation": "İzahname onay başvurusu SPK'ya yapılır. SPK, başvurunun tam ve eksiksiz olması halinde 10 iş günü içinde karar verir. Tahsisli satışta da izahname yükümlülüğü olabilir, nitelikli yatırımcıya satışta muafiyet söz konusudur.",
+      "source": "SPKn md. 4-5, İzahname Tebliği II-5.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s16",
+      "q": "SPK'nın tedbir alma yetkisi kapsamında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Borsada işlem gören bir payın işlemlerinin geçici olarak durdurulması",
+        "Şirketin tüzel kişiliğinin sona erdirilmesi",
+        "Şirket yöneticilerinin cezai olarak mahkûm edilmesi",
+        "Yatırımcılara tazminat ödenmesi"
+      ],
+      "answer": 0,
+      "explanation": "SPK, sermaye piyasasının düzenli işleyişini sağlamak için sermaye piyasası araçlarının işlemlerini geçici olarak durdurabilir. Cezai mahkûmiyet mahkemelerin, tazminat ise YTM'nin yetkisindedir.",
+      "source": "SPKn md. 96",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s17",
+      "q": "Aşağıdakilerden hangisi 'içsel bilgi' tanımının unsurlarından biri değildir?",
+      "options": [
+        "Henüz kamuya açıklanmamış olması",
+        "Sermaye piyasası aracının değerini etkileyebilecek nitelikte olması",
+        "Kesin veya kesinleşmeye yakın olması",
+        "Bilginin en az iki kişi tarafından bilinmesi"
+      ],
+      "answer": 3,
+      "explanation": "İçsel bilginin unsurları: (1) kamuya açıklanmamış olma, (2) belirli sermaye piyasası araçlarıyla ilgili olma, (3) kesin veya kesinleşmeye yakın olma, (4) kamuya açıklandığında fiyatı etkileyebilecek nitelikte olma. Kaç kişi tarafından bilindiği bir unsur değildir.",
+      "source": "SPKn md. 106",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s18",
+      "q": "Halka açık ortaklıklarda önemli nitelikteki işlemler için aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "SPK'dan ön izin alınması",
+        "Bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı",
+        "Genel kurulda önemli nitelikteki işlemler oylamasında olumsuz oy kullananların ayrılma hakkı",
+        "Hazine ve Maliye Bakanlığı'ndan onay alınması"
+      ],
+      "answer": 2,
+      "explanation": "Önemli nitelikteki işlemlerde (birleşme, bölünme, önemli varlık satışı vb.) genel kurulda olumsuz oy kullanan pay sahiplerine ayrılma hakkı tanınır. Bu hak yatırımcı korumasının temel araçlarından biridir.",
+      "source": "SPKn md. 23-24, Önemli Nitelikteki İşlemler Tebliği II-23.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s19",
+      "q": "Borsa İstanbul'un hukuki statüsü aşağıdakilerden hangisidir?",
+      "options": [
+        "Kamu iktisadi teşebbüsü",
+        "Özel hukuk tüzel kişiliğini haiz anonim şirket",
+        "Devlet kuruluşu",
+        "Meslek kuruluşu"
+      ],
+      "answer": 1,
+      "explanation": "6362 sayılı SPKn ile Borsa İstanbul, özel hukuk tüzel kişiliğini haiz anonim şirket olarak yapılandırılmıştır.",
+      "source": "SPKn md. 138",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s20",
+      "q": "Aşağıdakilerden hangisi SPK'nın görev ve yetkileri arasında yer almaz?",
+      "options": [
+        "Sermaye piyasası araçlarının ihracına ilişkin başvuruları incelemek ve onaylamak",
+        "Para politikası belirlemek",
+        "Sermaye piyasasında faaliyet gösteren kurumlara yetki vermek",
+        "Sermaye piyasasında manipülasyon ve içeriden öğrenenlerin ticaretini araştırmak"
+      ],
+      "answer": 1,
+      "explanation": "Para politikası belirleme TCMB'nin görevidir. SPK sermaye piyasasının düzenlenmesi ve denetlenmesinden sorumlu olup para politikasıyla ilgili yetkisi yoktur.",
+      "source": "SPKn md. 128",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s21",
+      "q": "Çıkar çatışması yönetimi ile ilgili olarak yatırım kuruluşlarının aşağıdakilerden hangisini yapması zorunludur?",
+      "options": [
+        "Çıkar çatışmalarını yalnızca yıllık raporda açıklamak",
+        "Potansiyel çıkar çatışmalarını tespit etmek, önlemek ve yönetemediği durumda müşteriye açıklamak",
+        "Çıkar çatışması oluşan tüm faaliyetleri derhal sonlandırmak",
+        "Çıkar çatışması politikasını yalnızca kurumsal müşterilere bildirmek"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları çıkar çatışmalarını tespit etmek, önlemek, yönetmek ve önlenemediği takdirde müşteriye açıklamak zorundadır. Tüm faaliyetleri sonlandırma zorunluluğu yoktur.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s22",
+      "q": "TTK'ya göre anonim şirketlerde yönetim kurulu üyelerinin şirketle rekabet yasağı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Rekabet yasağı mutlak olup hiçbir şekilde kaldırılamaz",
+        "Genel kurul onayı ile rekabet yasağı kaldırılabilir",
+        "Rekabet yasağı yalnızca halka açık şirketlerde uygulanır",
+        "Rekabet yasağı yalnızca bağımsız yönetim kurulu üyeleri için geçerlidir"
+      ],
+      "answer": 1,
+      "explanation": "TTK md. 396'ya göre YK üyelerinin rekabet yasağı, genel kurul onayıyla kaldırılabilir. Esas sözleşmede bu yönde hüküm de konulabilir.",
+      "source": "TTK md. 396",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s23",
+      "q": "Sermaye piyasasında 'aydınlatma yükümlülüğü' kapsamında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "İzahname hazırlanması ve SPK onayına sunulması",
+        "Özel durumların kamuya açıklanması",
+        "Yıllık ve ara dönem finansal tabloların yayımlanması",
+        "Şirket çalışanlarının kişisel bilgilerinin açıklanması"
+      ],
+      "answer": 3,
+      "explanation": "Aydınlatma yükümlülüğü yatırımcıların bilinçli karar vermesini sağlayan bilgilerin kamuya açıklanmasını kapsar. Çalışanların kişisel bilgilerinin açıklanması bu kapsamda değildir ve kişisel verilerin korunması mevzuatına aykırıdır.",
+      "source": "SPKn md. 4-15",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s24",
+      "q": "Halka açık ortaklıklarda genel kurul toplantısı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Genel kurul toplantıları yalnızca fiziki ortamda yapılabilir",
+        "SPK temsilcisi genel kurul toplantılarında hazır bulunur",
+        "Genel kurul çağrısız toplanamaz",
+        "Genel kurul toplantısında elektronik ortamda da katılım mümkündür"
+      ],
+      "answer": 3,
+      "explanation": "TTK md. 1527 ve ilgili yönetmelik uyarınca anonim şirket genel kurul toplantılarına elektronik ortamda katılım mümkündür. Halka açık ortaklıklarda EGKS (Elektronik Genel Kurul Sistemi) kullanılır.",
+      "source": "TTK md. 1527, EGKS Yönetmeliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s25",
+      "q": "6362 sayılı SPKn'na göre usulsüz halka arz suçunun yaptırımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Yalnızca idari para cezası",
+        "2 yıldan 5 yıla kadar hapis cezası",
+        "Yalnızca faaliyetten men",
+        "3 aydan 1 yıla kadar hapis cezası"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 109'a göre izahname yayımlamaksızın veya SPK onayı almaksızın sermaye piyasası araçlarını halka arz edenler 2 yıldan 5 yıla kadar hapis cezası ile cezalandırılır.",
+      "source": "SPKn md. 109",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s26",
+      "q": "Kurumsal yönetimde 'eşitlik' ilkesi neyi ifade eder?",
+      "options": [
+        "Tüm pay sahiplerinin eşit miktarda temettü alması",
+        "Azınlık ve yabancı pay sahipleri dahil tüm pay sahiplerine eşit muamele edilmesi",
+        "Yönetim kurulu üyelerine eşit ücret ödenmesi",
+        "Tüm çalışanlara eşit terfi imkânı verilmesi"
+      ],
+      "answer": 1,
+      "explanation": "Eşitlik ilkesi, azınlık ve yabancı pay sahipleri dahil tüm menfaat sahiplerine hakkaniyetli ve eşit muamele edilmesini gerektirir. Eşit miktarda temettü değil, eşit haklara sahip payların eşit muamele görmesi söz konusudur.",
+      "source": "Kurumsal Yönetim Tebliği II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s27",
+      "q": "Halka açık ortaklıklarda yönetim kurulunda 'aday gösterme komitesi'nin görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Şirketin finansal tablolarını denetlemek",
+        "Yönetim kurulu ve üst düzey yönetici adaylarını değerlendirmek ve yönetim kuruluna önermek",
+        "Şirketin risk politikasını belirlemek",
+        "Şirketin ücretlendirme politikasını uygulamak"
+      ],
+      "answer": 1,
+      "explanation": "Aday gösterme komitesi, yönetim kuruluna uygun aday belirlenmesi konusunda çalışma yapar, bağımsız üye adaylarını değerlendirir ve yönetim kuruluna önerir.",
+      "source": "Kurumsal Yönetim Tebliği II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s28",
+      "q": "Kar dağıtım politikası ile ilgili olarak halka açık ortaklıklarda aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Halka açık ortaklıklar kâr dağıtmak zorundadır",
+        "Kâr dağıtım politikası genel kurulda belirlenip KAP'ta ilan edilir",
+        "Kâr dağıtım oranı SPK tarafından belirlenir",
+        "Kâr dağıtımı yalnızca nakit olarak yapılabilir"
+      ],
+      "answer": 1,
+      "explanation": "Halka açık ortaklıklar kâr dağıtım politikalarını oluşturup genel kurulda karar alarak KAP'ta (Kamuyu Aydınlatma Platformu) açıklamak zorundadır. Zorunlu kâr dağıtım oranı kaldırılmıştır; ancak politikanın açıklanması zorunludur.",
+      "source": "Kâr Payı Tebliği II-19.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s29",
+      "q": "SPK'nın yapısal özelliklerinden hangisi bağımsızlığını güvence altına alır?",
+      "options": [
+        "SPK bütçesinin Hazine'den karşılanması",
+        "SPK'nın idari ve mali özerkliğe sahip olması",
+        "SPK Başkanı'nın Cumhurbaşkanı tarafından görevden alınabilmesi",
+        "SPK kararlarının Bakanlık onayına tabi olması"
+      ],
+      "answer": 1,
+      "explanation": "SPK, kamu tüzel kişiliğine sahip, idari ve mali özerkliği olan bir düzenleyici ve denetleyici kurumdur. Bu özerklik, düzenleyici kararların siyasi etkiden bağımsız alınmasını sağlar.",
+      "source": "SPKn md. 117",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s30",
+      "q": "Sermaye piyasasında 'bilgi suistimali' ile 'piyasa dolandırıcılığı' suçları arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Bilgi suistimalinde bilgi avantajı kullanılırken, piyasa dolandırıcılığında yapay fiyat oluşturma söz konusudur",
+        "Bilgi suistimali yalnızca şirket içi kişilere uygulanırken, piyasa dolandırıcılığı herkese uygulanır",
+        "Bilgi suistimalinin cezası daha ağırdır",
+        "Piyasa dolandırıcılığı yalnızca borsada işlem gören araçlar için geçerlidir"
+      ],
+      "answer": 0,
+      "explanation": "Bilgi suistimalinde henüz kamuya açıklanmamış içsel bilgi kullanılarak avantaj sağlanır. Piyasa dolandırıcılığında (manipülasyon) ise yapay arz-talep oluşturma, yanıltıcı işlem veya bilgi yayma yoluyla fiyat üzerinde yapay etki yaratılır.",
+      "source": "SPKn md. 106-107",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

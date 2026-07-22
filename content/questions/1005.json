@@ -3440,6 +3440,456 @@
       },
       "verified": true,
       "flag": null
+    },
+    {
+      "id": "1005-s1",
+      "q": "Aracı kurumların sermaye yeterliliği hesaplamasında 'sermaye yeterliliği tabanı' aşağıdakilerden hangilerini kapsar?",
+      "options": [
+        "Özsermaye + sermaye benzeri borçlar – duran varlıklar",
+        "Özsermaye – toplam borçlar",
+        "Ödenmiş sermaye + yedek akçeler",
+        "Toplam aktifler – kısa vadeli borçlar"
+      ],
+      "answer": 0,
+      "explanation": "Sermaye yeterliliği tabanı = Özsermaye + sermaye benzeri borçlar – duran varlıklar (ilişkili taraf alacakları, avanslar vb. düşülerek) şeklinde hesaplanır.",
+      "source": "Yatırım Kuruluşlarının Sermaye Yeterliliğine İlişkin Tebliğ, III-55.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s2",
+      "q": "Portföy yönetim şirketi (PYŞ) kuruluş şartlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "PYŞ yalnızca anonim şirket olarak kurulabilir",
+        "PYŞ'nin başlangıç sermayesinin tamamı nakit olarak ödenmelidir",
+        "PYŞ yöneticilerinin SPL lisanslarına sahip olması gerekir",
+        "PYŞ aynı zamanda aracılık faaliyeti de yürütebilir"
+      ],
+      "answer": 3,
+      "explanation": "PYŞ münhasıran portföy yöneticiliği faaliyeti yürütmek üzere kurulur; aracılık faaliyeti yürütemez. Faaliyet konusu sınırlıdır.",
+      "source": "Portföy Yönetim Şirketlerine İlişkin Esaslar Tebliği, III-55.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s3",
+      "q": "Yatırım kuruluşlarında iç denetim birimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İç denetim birimi genel müdüre bağlı olarak çalışır",
+        "İç denetim birimi doğrudan yönetim kuruluna veya denetimden sorumlu komiteye bağlıdır",
+        "İç denetim birimi kurulması isteğe bağlıdır",
+        "İç denetim birimi yalnızca mali konuları denetler"
+      ],
+      "answer": 1,
+      "explanation": "İç denetim birimi bağımsızlığını korumak için genel müdürlüğe değil, doğrudan yönetim kuruluna veya denetimden sorumlu komiteye bağlı olarak çalışır.",
+      "source": "Yatırım Kuruluşları Tebliği, III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s4",
+      "q": "Müşteri varlıklarının korunmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Müşteri varlıkları, yatırım kuruluşunun kendi varlıklarından ayrı olarak izlenir",
+        "Müşteri nakitleri yatırım kuruluşunun kendi hesabında tutulabilir",
+        "Müşteriye ait sermaye piyasası araçları MKK nezdinde müşteri adına saklanır",
+        "Müşteri varlıkları yatırım kuruluşunun borçları nedeniyle haczedilemez"
+      ],
+      "answer": 1,
+      "explanation": "Müşteri nakitleri yatırım kuruluşunun kendi hesabında tutulamaz; müşteri adına açılmış ayrı hesaplarda izlenmek zorundadır. Bu varlık ayrılığı ilkesinin temel gerekliliklerinden biridir.",
+      "source": "SPKn md. 79, Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s5",
+      "q": "Kaldıraçlı işlemlerde (foreks) aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Profesyonel müşteriler için kaldıraç oranı sınırsızdır",
+        "Genel müşteriler için kaldıraç oranı en fazla 10:1'dir",
+        "Kaldıraçlı işlem yetkisi yalnızca bankalara verilebilir",
+        "Kaldıraçlı işlemler yalnızca döviz çiftleri üzerinden yapılır"
+      ],
+      "answer": 1,
+      "explanation": "SPK düzenlemelerine göre genel müşteriler için foreks işlemlerinde kaldıraç oranı en fazla 10:1 olarak belirlenmiştir. Profesyonel müşteriler için daha yüksek oranlar uygulanabilir.",
+      "source": "Kaldıraçlı Alım Satım İşlemleri Tebliği, III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s6",
+      "q": "Yatırım danışmanlığı faaliyeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yatırım danışmanlığı herhangi bir yetki belgesi olmaksızın yapılabilir",
+        "Genel yatırım tavsiyeleri de yatırım danışmanlığı kapsamındadır",
+        "Yatırım danışmanlığı müşteriye özel, kişisel tavsiye içerir",
+        "Yatırım danışmanlığı yalnızca portföy yönetim şirketleri tarafından sunulabilir"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım danışmanlığı, müşterinin mali durumu, yatırım amaçları ve risk profili dikkate alınarak kişiye özel yatırım tavsiyesi sunulmasıdır. Genel tavsiyeler (gazete köşe yazıları, piyasa yorumları) yatırım danışmanlığı kapsamında değildir.",
+      "source": "Yatırım Hizmetleri Tebliği, III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s7",
+      "q": "Aracı kurumların faaliyet izni iptal nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Faaliyetine başladığı tarihten itibaren 6 ay içinde portföy aracılığı faaliyetinde bulunmamış olması",
+        "Sermaye yeterliliği yükümlülüğünü sürekli olarak karşılayamaması",
+        "Yönetim kurulu üyelerinin değişmesi",
+        "SPK tarafından yapılan uyarılara rağmen mevzuata aykırı faaliyetlere devam etmesi"
+      ],
+      "answer": 2,
+      "explanation": "Yönetim kurulu üyelerinin değişmesi tek başına faaliyet izni iptal nedeni değildir (ancak yeni üyelerin aranan nitelikleri taşıması gerekir). Diğerleri izin iptali nedenleri arasındadır.",
+      "source": "SPKn md. 39",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s8",
+      "q": "Bireysel portföy yönetimi hizmetinde aşağıdaki ifadelerden hangisi zorunludur?",
+      "options": [
+        "Müşteriyle yazılı portföy yönetim sözleşmesi imzalanması",
+        "Portföyün en az %50'sinin devlet tahviline yatırılması",
+        "Müşterinin profesyonel yatırımcı statüsünde olması",
+        "Portföy değerinin en az 1 milyon TL olması"
+      ],
+      "answer": 0,
+      "explanation": "Bireysel portföy yönetimi hizmetinde müşteriyle yazılı bir portföy yönetim sözleşmesi imzalanması zorunludur. Sözleşmede yatırım stratejisi, risk profili, ücretler ve raporlama esasları yer alır.",
+      "source": "Portföy Yönetim Şirketlerine İlişkin Esaslar Tebliği, III-55.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s9",
+      "q": "Aracı kurumların asgari özsermaye yükümlülüğü hangi faaliyete göre farklılaşır?",
+      "options": [
+        "Yürüttükleri yatırım hizmet ve faaliyetlerinin kapsamına göre",
+        "Şube sayısına göre",
+        "Çalışan sayısına göre",
+        "Kuruluş tarihine göre"
+      ],
+      "answer": 0,
+      "explanation": "Aracı kurumların asgari özsermaye yükümlülüğü, yürüttükleri yatırım hizmet ve faaliyetlerinin kapsamına (dar veya geniş yetkili) göre farklılaşır. Geniş yetkili aracı kurumların özsermaye yükümlülüğü daha yüksektir.",
+      "source": "SPKn md. 36, Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s10",
+      "q": "Müşteri sınıflandırmasında 'profesyonel müşteri' statüsü için aşağıdakilerden hangisi talep üzerine gereklidir?",
+      "options": [
+        "Son 1 yılda en az 10 adet işlem yapmış olmak",
+        "Nakit mevduatı ve yatırımlarının toplamının en az 1 milyon TL olması, son 1 yılda 500.000 TL işlem hacmi, finans sektöründe en az 1 yıl deneyim — bu üç koşuldan en az ikisini sağlamak",
+        "Üniversite mezunu olmak ve finans sektöründe çalışmak",
+        "Yalnızca kurumsal yatırımcı olmak"
+      ],
+      "answer": 1,
+      "explanation": "Talep üzerine profesyonel müşteri sayılma koşulları: (1) son 1 yılda çeyrek dönemde en az 500.000 TL hacimle 10+ işlem, (2) nakit varlık toplamı 1 milyon TL+, (3) finans sektöründe üst düzey pozisyonda en az 1 yıl deneyim — en az ikisini sağlamalıdır.",
+      "source": "Yatırım Hizmetleri Tebliği, III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s11",
+      "q": "Yatırım kuruluşlarında uyum birimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Uyum birimi mevzuata uygunluğu izler ve raporlar",
+        "Uyum görevlisi gelir getirici faaliyetlerde de görev alabilir",
+        "Uyum birimi suç gelirlerinin aklanmasının önlenmesi konusunda da sorumluluk taşır",
+        "Uyum birimi yönetim kuruluna doğrudan raporlama yapar"
+      ],
+      "answer": 1,
+      "explanation": "Uyum görevlisi bağımsızlığını korumak için gelir getirici faaliyetlerde (alım-satım, portföy yönetimi vb.) görev alamaz. Uyum fonksiyonu ile ticari fonksiyonlar ayrı tutulmalıdır.",
+      "source": "Yatırım Kuruluşları Tebliği, III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s12",
+      "q": "Aracı kurumların yapamayacağı işlemler arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Müşteri emrini en iyi fiyattan gerçekleştirmek",
+        "Müşterinin talimatı olmaksızın müşteri hesabında işlem yapmak",
+        "Yatırım danışmanlığı hizmeti sunmak",
+        "Halka arza aracılık yapmak"
+      ],
+      "answer": 1,
+      "explanation": "Aracı kurumlar, müşterinin açık talimatı olmaksızın müşteri hesabında işlem yapamaz. Müşteri varlıkları üzerinde yetkisiz tasarruf suç teşkil eder.",
+      "source": "SPKn md. 79, Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s13",
+      "q": "Yatırım kuruluşlarının risk yönetim sistemi ile ilgili aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Risk yönetim biriminin ticari birimlerden bağımsız olması",
+        "Risk yönetim birimi müdürünün genel müdür olması",
+        "Risk limitlerinin yılda bir kez güncellenmesi",
+        "Risk raporlarının yalnızca SPK'ya sunulması"
+      ],
+      "answer": 0,
+      "explanation": "Risk yönetim biriminin ticari birimlerden (front office) bağımsız olması temel kurumsal yönetim ilkesidir. Risk yönetimi, pozisyon alımından bağımsız bir kontrol fonksiyonudur.",
+      "source": "Yatırım Kuruluşları Tebliği, III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s14",
+      "q": "Açığa satış işlemlerinde 'uptick kuralı' ne anlama gelir?",
+      "options": [
+        "Açığa satış emrinin bir önceki işlem fiyatının altında verilemeyeceği",
+        "Açığa satış emrinin bir önceki işlem fiyatından veya bu fiyatın üzerinden verilebileceği",
+        "Açığa satışın yalnızca yükselen piyasada yapılabileceği",
+        "Açığa satışın en fazla portföy değerinin %10'u kadar yapılabileceği"
+      ],
+      "answer": 1,
+      "explanation": "Uptick kuralı, açığa satış emirlerinin en son gerçekleşen işlem fiyatından veya bu fiyatın üzerinden (uptick veya zero-plus tick) verilebileceğini ifade eder. Bu kural aşağı yönlü spekülatif baskıyı önlemeyi amaçlar.",
+      "source": "Açığa Satış ve Ödünç Pay İşlemleri Tebliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s15",
+      "q": "Yatırım kuruluşlarının müşteri şikâyet yönetimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Şikâyetler yalnızca sözlü olarak kabul edilir",
+        "Şikâyetlerin en geç 30 gün içinde sonuçlandırılması ve müşteriye bildirilmesi gerekir",
+        "Şikâyet yönetimi birimi gelir getirici birimlerin altında çalışabilir",
+        "Müşteri şikâyetlerinin kaydedilmesi isteğe bağlıdır"
+      ],
+      "answer": 1,
+      "explanation": "Müşteri şikâyetleri yazılı olarak alınmalı, kaydedilmeli ve en geç 30 gün içinde sonuçlandırılarak müşteriye bildirilmelidir.",
+      "source": "Yatırım Kuruluşları Tebliği, III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s16",
+      "q": "Yatırım kuruluşlarında 'en iyi uygulama' (best execution) yükümlülüğü ne anlama gelir?",
+      "options": [
+        "Müşteri emirlerinin her zaman en düşük komisyonla gerçekleştirilmesi",
+        "Müşteri emirlerinin fiyat, maliyet, hız, gerçekleşme olasılığı gibi faktörler dikkate alınarak en iyi koşullarda gerçekleştirilmesi",
+        "Müşteri emirlerinin her zaman borsada gerçekleştirilmesi",
+        "Müşteri emirlerinin aynı gün içinde gerçekleştirilmesi"
+      ],
+      "answer": 1,
+      "explanation": "En iyi uygulama yükümlülüğü, müşteri emirlerinin fiyat, toplam maliyet, hız, gerçekleşme olasılığı ve büyüklük gibi faktörler bir bütün olarak değerlendirilerek en iyi koşullarda gerçekleştirilmesini ifade eder.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s17",
+      "q": "Aracı kurumların likidite yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Likidite yükümlülüğü yalnızca geniş yetkili aracı kurumlara uygulanır",
+        "Aracı kurumlar, likit varlıklarının kısa vadeli yükümlülüklerini karşılayacak düzeyde tutmak zorundadır",
+        "Likidite oranı yalnızca yılda bir kez hesaplanır",
+        "Likidite yükümlülüğü SPK tarafından denetlenmez"
+      ],
+      "answer": 1,
+      "explanation": "Aracı kurumlar, likit varlıklarının (nakit, kısa vadeli menkul kıymetler vb.) kısa vadeli yükümlülüklerini her zaman karşılayacak düzeyde tutmakla yükümlüdür. Bu sürekli izlenen bir orandır.",
+      "source": "Sermaye Yeterliliği Tebliği III-55.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s18",
+      "q": "Yatırım kuruluşlarında 'Çin seddi' (Chinese wall) uygulaması neyi ifade eder?",
+      "options": [
+        "Yatırım kuruluşunun yurt dışı işlem yapmasının engellenmesi",
+        "Bilgi akışının kontrol altına alınması amacıyla farklı departmanlar arasında bilgi bariyeri oluşturulması",
+        "Müşteri hesaplarının farklı bankalarda tutulması",
+        "Yatırım kuruluşunun tek bir faaliyet alanında uzmanlaşması"
+      ],
+      "answer": 1,
+      "explanation": "Çin seddi, yatırım kuruluşunda içsel bilgiye erişimi olan birimler (kurumsal finansman, araştırma) ile bu bilgiden etkilenebilecek birimler (alım-satım masası) arasında bilgi akışını engelleyen organizasyonel ve fiziksel bariyerlerdir.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s19",
+      "q": "Müşteri uygunluk testi (suitability) ile yerindelik testi (appropriateness) arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Uygunluk testi daha kapsamlıdır; müşterinin mali durumu, yatırım amaçları ve risk toleransını değerlendirir",
+        "Yerindelik testi yalnızca profesyonel müşterilere uygulanır",
+        "Uygunluk testi yalnızca türev ürünlerde gereklidir",
+        "İkisi arasında fark yoktur"
+      ],
+      "answer": 0,
+      "explanation": "Uygunluk testi (yatırım danışmanlığı ve portföy yönetiminde zorunlu) müşterinin mali durumu, yatırım amaçları ve risk toleransını kapsamlı olarak değerlendirir. Yerindelik testi ise müşterinin ürün/hizmeti anlayıp anlamadığını (bilgi ve deneyim) test eder.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s20",
+      "q": "Aracı kurumların 'emir iletim faaliyeti' ile 'işlem aracılığı faaliyeti' arasındaki fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Emir iletim faaliyetinde aracı kurum yalnızca emri borsaya iletir, işlem aracılığında ise kendi adına müşteri hesabına işlem yapabilir",
+        "İkisi arasında fark yoktur",
+        "Emir iletimi yalnızca pay piyasasında, işlem aracılığı yalnızca borçlanma araçları piyasasında yapılır",
+        "Emir iletiminde komisyon alınamaz"
+      ],
+      "answer": 0,
+      "explanation": "Emir iletim faaliyetinde aracı kurum müşteri emirlerini borsaya veya başka aracı kurumlara iletir. İşlem aracılığında ise aracı kurum borsa üyesi olarak kendi adına müşteri hesabına alım-satım işlemi gerçekleştirir.",
+      "source": "SPKn md. 37, Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s21",
+      "q": "Yatırım kuruluşlarının müşteriden tahsil edeceği komisyon ve ücretlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Komisyon oranları SPK tarafından sabit olarak belirlenir",
+        "Komisyon ve ücretler müşteriye önceden açıklanmalı ve sözleşmede yer almalıdır",
+        "Komisyon oranları tüm müşteriler için aynı olmak zorundadır",
+        "Yatırım kuruluşları komisyon dışında herhangi bir ücret alamaz"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları müşteriden tahsil edecekleri komisyon, ücret ve masrafları müşteriye önceden açıklamak ve çerçeve sözleşmede belirtmek zorundadır. Oranlar serbestçe belirlenebilir ancak şeffaflık esastır.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s22",
+      "q": "Aracı kurumların 'sınırlı yetkili' ve 'geniş yetkili' olarak sınıflandırılmasında belirleyici olan aşağıdakilerden hangisidir?",
+      "options": [
+        "Şube sayısı",
+        "Yürütmeye yetkili oldukları yatırım hizmet ve faaliyetlerinin kapsamı",
+        "Müşteri sayısı",
+        "Kuruluş tarihi"
+      ],
+      "answer": 1,
+      "explanation": "Sınırlı yetkili aracı kurumlar emir iletimine aracılık, yatırım danışmanlığı gibi sınırlı faaliyetler yürütürken; geniş yetkili aracı kurumlar portföy aracılığı, saklama, halka arza aracılık gibi geniş kapsamlı faaliyetler yürütebilir.",
+      "source": "SPKn md. 36, Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s23",
+      "q": "Yatırım kuruluşlarının iş sürekliliği planı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İş sürekliliği planı yalnızca büyük ölçekli aracı kurumlar için zorunludur",
+        "İş sürekliliği planı felaket ve olağanüstü durumlarda faaliyetlerin devamını sağlamak amacıyla hazırlanır",
+        "İş sürekliliği planı yalnızca bilgi teknolojileri altyapısını kapsar",
+        "İş sürekliliği planının yılda bir kez test edilmesi yeterlidir"
+      ],
+      "answer": 1,
+      "explanation": "İş sürekliliği planı, doğal afet, sistem arızası, siber saldırı gibi olağanüstü durumlarda yatırım kuruluşunun kritik faaliyetlerini sürdürebilmesini sağlamak için hazırlanan kapsamlı bir plandır.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s24",
+      "q": "Kitle fonlama platformu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "Kitle fonlama platformları SPK'dan faaliyet izni almalıdır",
+        "Platform aracılığıyla fon toplayan girişimlerin belirli bir üst limit dahilinde fon toplaması gerekir",
+        "Kitle fonlama platformları mevduat toplama yetkisine sahiptir",
+        "Platform yatırımcılarına bilgilendirme yapılması zorunludur"
+      ],
+      "answer": 2,
+      "explanation": "Kitle fonlama platformları mevduat toplama yetkisine sahip değildir. Mevduat toplama bankacılık faaliyetidir ve BDDK iznine tabidir. Kitle fonlama, paya veya borca dayalı fon toplama modelidir.",
+      "source": "SPKn md. 35/A, Kitle Fonlaması Tebliği III-35/A.2",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s25",
+      "q": "Yatırım kuruluşlarında 'müşterini tanı' (KYC - Know Your Customer) ilkesi kapsamında aşağıdakilerden hangisi zorunlu değildir?",
+      "options": [
+        "Müşterinin kimlik tespitinin yapılması",
+        "Müşterinin gelir kaynağının sorgulanması",
+        "Müşterinin sosyal medya hesaplarının incelenmesi",
+        "Müşterinin risk profilinin belirlenmesi"
+      ],
+      "answer": 2,
+      "explanation": "KYC kapsamında kimlik tespiti, adres doğrulama, gelir kaynağı sorgulama ve risk profili belirleme zorunludur. Sosyal medya hesaplarının incelenmesi KYC kapsamında zorunlu bir prosedür değildir.",
+      "source": "MASAK Mevzuatı, Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s26",
+      "q": "Aracı kurumlarda 'çerçeve sözleşme' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Çerçeve sözleşme isteğe bağlıdır",
+        "Çerçeve sözleşme müşteri ile kuruluş arasındaki hizmet ilişkisinin genel koşullarını düzenler ve her müşteriyle imzalanması zorunludur",
+        "Çerçeve sözleşme yalnızca kurumsal müşterilerle imzalanır",
+        "Çerçeve sözleşmenin noterde düzenlenmesi zorunludur"
+      ],
+      "answer": 1,
+      "explanation": "Çerçeve sözleşme, yatırım kuruluşu ile müşteri arasındaki hizmet ilişkisinin genel koşullarını (ücretler, sorumluluklar, risk bildirimi vb.) düzenler ve her müşteriyle yazılı olarak imzalanması zorunludur.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s27",
+      "q": "Yatırım kuruluşlarında 'front running' (önden koşma) aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Müşteri emrinden önce aynı yönde kendi hesabına işlem yaparak müşteri emrinin piyasa etkisinden faydalanma",
+        "Müşteri emirlerinin hızlı bir şekilde gerçekleştirilmesi",
+        "Piyasa yapıcılığı faaliyeti",
+        "Müşteriye öncelikli hizmet sunulması"
+      ],
+      "answer": 0,
+      "explanation": "Front running, yatırım kuruluşu çalışanının büyük bir müşteri emrini bilmesine rağmen bu emrin piyasa etkisinden faydalanmak amacıyla önce kendi hesabına aynı yönde işlem yapmasıdır. Bu yasak ve yaptırıma tabi bir fiildir.",
+      "source": "SPKn md. 106-107, Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s28",
+      "q": "Aracı kurumların tasfiye sürecinde müşteri varlıklarının durumu aşağıdakilerden hangisidir?",
+      "options": [
+        "Müşteri varlıkları tasfiye masasına dahil edilir",
+        "Müşteri varlıkları tasfiye masasına dahil edilmez ve müşterilere iade edilir",
+        "Müşteri varlıkları SPK'ya devredilir",
+        "Müşteri varlıkları Hazine'ye aktarılır"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 84'e göre müşteri varlıkları yatırım kuruluşunun malvarlığından ayrıdır ve tasfiye masasına dahil edilmez. Müşteri varlıkları doğrudan müşterilere iade edilir veya başka bir yatırım kuruluşuna transfer edilir.",
+      "source": "SPKn md. 79, 84",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s29",
+      "q": "Yatırım kuruluşlarının SPK'ya düzenli olarak göndermesi gereken raporlar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Sermaye yeterliliği tablosu",
+        "Müşteri varlıkları raporu",
+        "Çalışanların kişisel yatırım portföyleri listesi",
+        "Bağımsız denetim raporu"
+      ],
+      "answer": 2,
+      "explanation": "Yatırım kuruluşları sermaye yeterliliği tablosu, müşteri varlıkları raporu ve bağımsız denetim raporunu SPK'ya düzenli olarak gönderir. Çalışanların kişisel portföy listesi düzenli raporlama kapsamında değildir; ancak iç kontrol mekanizmaları ile izlenebilir.",
+      "source": "Sermaye Yeterliliği Tebliği III-55.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s30",
+      "q": "Yatırım kuruluşlarında 'ödünç pay senedi işlemleri' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Ödünç pay işlemleri yalnızca açığa satış amacıyla yapılabilir",
+        "Ödünç alınan payların oy hakkı ödünç alanda kalır",
+        "Ödünç işlemlerinde teminat yatırılması zorunludur",
+        "Ödünç pay işlemleri SPK düzenlemeleri dışındadır"
+      ],
+      "answer": 2,
+      "explanation": "Ödünç pay senedi işlemlerinde ödünç alanın teminat yatırması zorunludur. Bu teminat nakit veya menkul kıymet olabilir ve ödünç alınan payların piyasa değerine göre güncellenir.",
+      "source": "Açığa Satış ve Ödünç Pay İşlemleri Tebliği",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
