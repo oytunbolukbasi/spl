@@ -90,6 +90,11 @@ export default function Session({ questions, title, units, progress, onAnswer, o
         <span style={{ fontWeight: 800, color: '#777', fontSize: 14 }}>
           {idx + 1}/{total}
         </span>
+        {progress.seen[q.id] && (
+          <span className={`seen-badge ${progress.seen[q.id]}`}>
+            {progress.seen[q.id] === 'correct' ? '✓ Çözdün' : '↻ Tekrar dene'}
+          </span>
+        )}
       </div>
 
       <div className="q-area">
