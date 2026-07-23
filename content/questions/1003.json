@@ -5038,6 +5038,21 @@
       "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1003-s51",
+      "q": "Yatırım fonlarında 'değer kaybı riski' en yüksek olan fon türü aşağıdakilerden hangisidir?",
+      "options": [
+        "Para piyasası fonu",
+        "Kısa vadeli borçlanma araçları fonu",
+        "Serbest fon (hedge fon)",
+        "Kamu borçlanma araçları fonu"
+      ],
+      "answer": 2,
+      "explanation": "Serbest fonlar portföy sınırlamalarından büyük ölçüde muaf olup kaldıraç kullanabilir, açığa satış yapabilir ve türev araçlarda yoğunlaşabilir. Bu esneklik yüksek getiri potansiyeli kadar yüksek değer kaybı riski de taşır.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

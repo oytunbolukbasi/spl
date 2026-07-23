@@ -4976,6 +4976,21 @@
       "source": "SPKn md. 13, MKK düzenlemeleri",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1012-s51",
+      "q": "Takasbank'ın 'varsayılan kayıp dağıtımı' (loss allocation) mekanizmasında, garanti fonu kaynaklarının da yetersiz kalması halinde aşağıdakilerden hangisi uygulanır?",
+      "options": [
+        "Zarar SPK tarafından karşılanır",
+        "Zarar temerrüde düşmeyen üyeler arasında belirli kurallara göre paylaştırılır (loss mutualization)",
+        "Zarar yatırımcılara yansıtılır",
+        "İşlemler geriye dönük iptal edilir"
+      ],
+      "answer": 1,
+      "explanation": "Temerrüde düşen üyenin teminatları ve garanti fonu kaynakları yetersiz kaldığında, kalan zarar temerrüde düşmeyen üyeler arasında belirlenen kurallara göre paylaştırılır (loss mutualization/allocation). Bu, MKT hizmetinin son çare mekanizmasıdır.",
+      "source": "MKT Temerrüt Yönetimi, CPMI-IOSCO Recovery Prensipleri",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

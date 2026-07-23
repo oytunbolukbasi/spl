@@ -4520,6 +4520,21 @@
       "source": "TTK md. 411-412",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1001-s51",
+      "q": "6362 sayılı SPKn'na göre, sermaye piyasasında bağımsız denetim kuruluşlarının aynı ihraççıya üst üste denetim hizmeti verebileceği azami süre aşağıdakilerden hangisidir?",
+      "options": [
+        "3 yıl",
+        "5 yıl",
+        "7 yıl",
+        "10 yıl"
+      ],
+      "answer": 2,
+      "explanation": "Bağımsız denetimde rotasyon zorunluluğu gereği aynı bağımsız denetim kuruluşu bir ihraççıya üst üste en fazla 7 yıl denetim hizmeti verebilir. Bu sürenin sonunda en az 2 yıl ara verilmesi gerekir.",
+      "source": "KGK düzenlemeleri, TTK md. 400",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

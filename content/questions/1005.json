@@ -4190,6 +4190,21 @@
       "source": "PYŞ Tebliği III-55.3, Kurumsal Yönetim İlkeleri",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1005-s51",
+      "q": "Yatırım kuruluşlarında 'bilgi güvenliği politikası' kapsamında aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Yalnızca fiziksel güvenlik önlemlerinin alınması",
+        "Müşteri bilgilerinin gizliliğini, bütünlüğünü ve erişilebilirliğini sağlayan kapsamlı bir bilgi güvenliği yönetim sistemi oluşturulması",
+        "Bilgi güvenliği yalnızca IT departmanının sorumluluğundadır",
+        "Bilgi güvenliği politikası isteğe bağlıdır"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları, müşteri bilgilerinin ve kurumsal verilerin gizliliğini (confidentiality), bütünlüğünü (integrity) ve erişilebilirliğini (availability) sağlayan kapsamlı bir bilgi güvenliği yönetim sistemi kurmak zorundadır.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
