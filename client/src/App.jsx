@@ -154,6 +154,7 @@ export default function App() {
           error={error}
           onStartDaily={startDaily}
           onStartUnit={startUnit}
+          questionPool={pool}
         />
       ) : (
         <MistakesReview progress={progress} units={units} onReview={startMistakes} />

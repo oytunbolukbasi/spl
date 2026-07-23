@@ -9,8 +9,8 @@
     },
     {
       "name": "full-server",
-      "runtimeExecutable": "node",
-      "runtimeArgs": ["server/index.js"],
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "set -a; source .env; set +a; exec node server/index.js"],
       "port": 3000
     }
   ]
