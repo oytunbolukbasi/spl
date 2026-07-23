@@ -3890,6 +3890,306 @@
       "source": "Açığa Satış ve Ödünç Pay İşlemleri Tebliği",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1005-s31",
+      "q": "Yatırım kuruluşlarının 'müşteri emirlerinin birleştirilmesi' (order aggregation) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Müşteri emirleri hiçbir koşulda birleştirilemez",
+        "Birleştirme, müşterilerin aleyhine sonuç doğurmaması koşuluyla mümkündür ve dağıtım politikası önceden belirlenmelidir",
+        "Birleştirme yalnızca kurumsal müşteri emirleri için mümkündür",
+        "Birleştirme sonrası dağıtım yatırım kuruluşunun inisiyatifindedir"
+      ],
+      "answer": 1,
+      "explanation": "Müşteri emirlerinin birleştirilmesi (aggregation/allocation), müşterilerin aleyhine sonuç doğurmaması şartıyla mümkündür. Yatırım kuruluşu, emir birleştirme ve dağıtım politikasını önceden yazılı olarak belirlemelidir.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s32",
+      "q": "Aracı kurumlarda 'operasyonel risk' aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Yalnızca bilgi teknolojileri arızalarından kaynaklanan kayıplar",
+        "Yetersiz veya başarısız iç süreçler, insan hataları, sistem arızaları veya dış olaylardan kaynaklanan kayıp riski",
+        "Yalnızca piyasa fiyat değişikliklerinden kaynaklanan risk",
+        "Yalnızca müşteri temerrüdünden kaynaklanan risk"
+      ],
+      "answer": 1,
+      "explanation": "Operasyonel risk, Basel tanımına uygun olarak yetersiz veya başarısız iç süreçler, personel hataları, sistem arızaları ve dış olaylardan (doğal afet, dolandırıcılık vb.) kaynaklanan kayıp riskini kapsar.",
+      "source": "Sermaye Yeterliliği Tebliği III-55.1, Basel II/III",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s33",
+      "q": "Yatırım kuruluşlarının suç gelirlerinin aklanmasının önlenmesi (AML) kapsamındaki yükümlülükleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Müşteri kimlik tespiti ve doğrulaması",
+        "Şüpheli işlem bildiriminin MASAK'a yapılması",
+        "Müşteri işlemlerinin basına açıklanması",
+        "İşlem kayıtlarının en az 8 yıl saklanması"
+      ],
+      "answer": 2,
+      "explanation": "AML kapsamında müşteri bilgileri ve şüpheli işlem bildirimleri gizlidir; basına veya üçüncü kişilere açıklanamaz. Yükümlülükler: kimlik tespiti, şüpheli işlem bildirimi (MASAK'a), kayıt saklama ve uyum programı oluşturmadır.",
+      "source": "5549 sayılı Kanun, MASAK Yönetmeliği",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s34",
+      "q": "Yatırım kuruluşlarında 'emanet yetkilisi' (compliance officer) ile 'uyum görevlisi' arasındaki ilişki aşağıdakilerden hangisidir?",
+      "options": [
+        "İkisi aynı kişidir, farklı adlarla anılır",
+        "Emanet yetkilisi müşteri varlıklarının korunmasından, uyum görevlisi mevzuata uygunluktan sorumludur",
+        "Her ikisi de dış denetim kuruluşunun çalışanlarıdır",
+        "Emanet yetkilisi yalnızca bankalarda bulunur"
+      ],
+      "answer": 1,
+      "explanation": "Emanet yetkilisi müşteri varlıklarının (nakit ve sermaye piyasası araçları) güvenli bir şekilde saklanması ve korunmasından sorumlu iken, uyum görevlisi yatırım kuruluşunun mevzuata uygunluğunu izleme ve raporlama sorumluluğunu taşır.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s35",
+      "q": "Aracı kurumların 'net sermaye' hesaplamasında aşağıdakilerden hangisi düşülen kalemler arasında yer alır?",
+      "options": [
+        "Nakit ve nakit benzerleri",
+        "Maddi olmayan duran varlıklar (şerefiye, lisans vb.)",
+        "Müşteri menkul kıymetleri",
+        "Kısa vadeli yatırımlar"
+      ],
+      "answer": 1,
+      "explanation": "Net sermaye hesaplamasında özsermayeden düşülen kalemler arasında maddi olmayan duran varlıklar (şerefiye, patent, lisans hakları vb.), ilişkili taraf alacakları ve likit olmayan varlıklar yer alır.",
+      "source": "Sermaye Yeterliliği Tebliği III-55.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s36",
+      "q": "Portföy yönetim şirketlerinin 'yatırım komitesi' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yatırım komitesi isteğe bağlıdır",
+        "Yatırım komitesi portföy yönetim kararlarının alındığı ve yatırım stratejilerinin belirlendiği komitedir",
+        "Yatırım komitesinde yalnızca bağımsız üyeler bulunur",
+        "Yatırım komitesi SPK tarafından atanır"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım komitesi, portföy yönetim şirketinde yatırım kararlarının kolektif olarak alındığı, piyasa görüşlerinin değerlendirildiği ve fon/portföy bazında yatırım stratejilerinin belirlendiği komitedir.",
+      "source": "PYŞ Tebliği III-55.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s37",
+      "q": "Yatırım kuruluşlarında 'kişisel işlem kuralları' (personal dealing rules) kapsamında aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Çalışanların tüm yatırım işlemleri yasaklanır",
+        "Belirli pozisyondaki çalışanların kişisel sermaye piyasası işlemlerini kuruluşa bildirmesi gerekir",
+        "Çalışanlar yalnızca devlet tahvili alabilir",
+        "Kişisel işlem kuralları isteğe bağlıdır"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşlarında içsel bilgiye erişim potansiyeli olan çalışanların kişisel sermaye piyasası işlemleri izlenir ve bildirim yükümlülüğü getirilir. Amaç, çıkar çatışması ve içeriden bilgi kullanımını önlemektir.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s38",
+      "q": "Aracı kurumlarda 'müşteri sınıflandırma' sürecinde bir genel müşterinin profesyonel müşteri statüsüne yükseltilmesi için aşağıdakilerden hangisi gereklidir?",
+      "options": [
+        "Müşterinin yazılı talebi ve koşulları sağladığının belgelenmesi",
+        "SPK'nın onayı",
+        "Müşterinin en az 5 yıllık yatırım deneyiminin olması",
+        "Müşterinin yalnızca kurumsal müşteri olması"
+      ],
+      "answer": 0,
+      "explanation": "Genel müşterinin talep üzerine profesyonel müşteri statüsüne yükseltilmesi için müşterinin yazılı talebi gerekir. Yatırım kuruluşu, müşterinin belirlenen koşulları (işlem hacmi, varlık büyüklüğü, deneyim) sağladığını değerlendirir ve belgeler.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s39",
+      "q": "Yatırım kuruluşlarının 'dış kaynak kullanımı' (outsourcing) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Tüm faaliyetler dış kaynak kullanımıyla yürütülebilir",
+        "Dış kaynak kullanımı mümkündür ancak sorumluluk yatırım kuruluşunda kalır ve kritik fonksiyonlar için SPK'nın onayı gerekebilir",
+        "Dış kaynak kullanımı yasaktır",
+        "Dış kaynak kullanımında sorumluluk hizmet sağlayıcıya geçer"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları belirli faaliyetlerini dış kaynak kullanımıyla yürütebilir ancak nihai sorumluluk her zaman yatırım kuruluşunda kalır. Kritik iş fonksiyonlarının dışarıya verilmesinde SPK'nın bilgilendirilmesi veya onayı gerekebilir.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s40",
+      "q": "Yatırım kuruluşlarında 'müşteri hesap ekstresi' gönderimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Hesap ekstresi yalnızca müşteri talep ettiğinde gönderilir",
+        "Müşterilere düzenli aralıklarla (en az üç ayda bir) hesap ekstresi gönderilmesi zorunludur",
+        "Hesap ekstresi yalnızca posta ile gönderilebilir",
+        "Hesap ekstresi yalnızca yıllık olarak gönderilir"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları müşterilerine düzenli aralıklarla (en az üç ayda bir) hesap ekstresi göndermek zorundadır. Bu ekstre portföy durumu, gerçekleşen işlemler ve hesap bakiyelerini içerir.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s41",
+      "q": "Bankaların sermaye piyasası faaliyetleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bankalar tüm sermaye piyasası faaliyetlerini serbestçe yürütebilir",
+        "Bankalar, SPK'dan yetki belgesi almaksızın emir iletimine aracılık, yatırım danışmanlığı ve saklama hizmeti verebilir",
+        "Bankalar sermaye piyasası faaliyeti yapamaz",
+        "Bankalar yalnızca BDDK iznine tabidir, SPK ile ilişkileri yoktur"
+      ],
+      "answer": 1,
+      "explanation": "Bankalar, SPK'dan ayrıca yetki belgesi almaksızın emir iletimine aracılık, yatırım danışmanlığı ve saklama hizmeti verebilir. Ancak portföy aracılığı gibi bazı faaliyetler için ayrı yetki gerekir.",
+      "source": "SPKn md. 39",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s42",
+      "q": "Yatırım kuruluşlarının 'emir kayıt sistemi' ile ilgili aşağıdaki ifadelerden hangisi zorunludur?",
+      "options": [
+        "Tüm müşteri emirlerinin alınış zamanı, türü, miktarı ve fiyatı ile birlikte kayıt altına alınması",
+        "Yalnızca gerçekleşen emirlerin kaydedilmesi",
+        "Emir kayıtlarının 1 yıl saklanması",
+        "Emir kayıtlarının yalnızca kâğıt ortamında tutulması"
+      ],
+      "answer": 0,
+      "explanation": "Yatırım kuruluşları tüm müşteri emirlerini (gerçekleşen ve gerçekleşmeyen) alınış zamanı, emir türü (al/sat/iptal), miktar, fiyat ve müşteri bilgileri ile birlikte elektronik ortamda kayıt altına almak zorundadır.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s43",
+      "q": "Portföy yönetim şirketlerinin fon yönetiminde 'basiretli yönetici' (prudent manager) ilkesi ne anlama gelir?",
+      "options": [
+        "Fon yöneticisinin kendi çıkarlarını ön planda tutması",
+        "Fon yöneticisinin en yüksek getiriyi hedeflemesi gerektiği",
+        "Fon yöneticisinin tedbirli, özenli ve ehil bir yönetici gibi davranarak yatırımcıların menfaatini koruması",
+        "Fon yöneticisinin yalnızca risksiz varlıklara yatırım yapması"
+      ],
+      "answer": 2,
+      "explanation": "Basiretli yönetici ilkesi, fon yöneticisinin fon varlıklarını yönetirken tedbirli, özenli ve ehil bir profesyonel gibi hareket etmesini ve her zaman yatırımcıların (pay sahiplerinin) menfaatini ön planda tutmasını gerektirir.",
+      "source": "SPKn md. 52, PYŞ Tebliği III-55.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s44",
+      "q": "Algoritmik alım-satım (algorithmic trading) faaliyeti yürüten yatırım kuruluşları için aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "Algoritmik işlem yapan kuruluşların ek risk kontrol mekanizmalarına ve 'kill switch' sistemine sahip olması",
+        "Algoritmik işlemlerin yalnızca borçlanma araçları piyasasında yapılabilmesi",
+        "Algoritmik işlemlerin SPK'nın günlük onayına tabi olması",
+        "Algoritmik işlem yapan kuruluşların piyasa yapıcılığı yetkisi alması"
+      ],
+      "answer": 0,
+      "explanation": "Algoritmik alım-satım faaliyeti yürüten kuruluşlar, hatalı emirlerin piyasaya etkisini önlemek için risk kontrol mekanizmaları, emir limitları ve acil durumlarda tüm algoritmik işlemleri durduracak bir 'kill switch' mekanizmasına sahip olmak zorundadır.",
+      "source": "Yatırım Hizmetleri Tebliği III-37.1, Borsa İstanbul düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s45",
+      "q": "Yatırım kuruluşlarının 'bölgesel müdürlük' ve 'şube' açması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Şube açmak için SPK'dan izin alınması gerekir",
+        "Şube açılması serbesttir, yalnızca SPK'ya bildirim yapılır",
+        "Yatırım kuruluşları şube açamaz",
+        "Şube açma yetkisi yalnızca bankalara aittir"
+      ],
+      "answer": 1,
+      "explanation": "Aracı kurumlar şube açmak için SPK'ya bildirimde bulunur; ayrıca izin alınması gerekmez. Ancak şube müdürünün aranan nitelikleri taşıması ve gerekli alt yapının sağlanması zorunludur.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s46",
+      "q": "Aracı kurumların tasfiyesi sürecinde tasfiye memuru aşağıdaki kurumlardan hangisi tarafından atanır?",
+      "options": [
+        "SPK tarafından",
+        "BDDK tarafından",
+        "Genel kurul kararıyla veya mahkeme tarafından",
+        "Hazine ve Maliye Bakanlığı tarafından"
+      ],
+      "answer": 2,
+      "explanation": "TTK hükümlerine göre tasfiye memurları genel kurul kararıyla veya mahkeme tarafından atanır. SPK, faaliyet iznini iptal edebilir ancak tasfiye memuru ataması TTK'ya göre yapılır.",
+      "source": "TTK md. 536, SPKn md. 39",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s47",
+      "q": "Yatırım kuruluşlarında 'ilişkili taraf işlemleri' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "İlişkili taraflarla işlem yapılması yasaktır",
+        "İlişkili taraf işlemleri piyasa koşullarında yapılmalı ve uygun şekilde izlenip raporlanmalıdır",
+        "İlişkili taraf işlemlerinde limit sınırlaması yoktur",
+        "İlişkili taraf işlemleri yalnızca yıllık denetimde incelenir"
+      ],
+      "answer": 1,
+      "explanation": "İlişkili taraflarla işlem yapılabilir ancak bu işlemler piyasa koşullarında (emsallere uygun) gerçekleştirilmeli, çıkar çatışması yönetimi kapsamında izlenmeli ve uygun şekilde raporlanmalıdır.",
+      "source": "Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s48",
+      "q": "Aracı kurumların 'yabancı yatırım kuruluşu' statüsüyle Türkiye'de faaliyet göstermesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Yabancı yatırım kuruluşları doğrudan faaliyet gösterebilir",
+        "Yabancı yatırım kuruluşları Türkiye'de şube açarak veya yerleşik yatırım kuruluşuyla iş birliği yaparak faaliyet gösterebilir; SPK izni gereklidir",
+        "Yabancı yatırım kuruluşları Türkiye'de faaliyet gösteremez",
+        "Yabancı yatırım kuruluşları yalnızca BDDK'dan izin alarak faaliyet gösterebilir"
+      ],
+      "answer": 1,
+      "explanation": "Yabancı yatırım kuruluşları Türkiye'de şube açarak veya Türkiye'de yerleşik yatırım kuruluşlarıyla sınır ötesi hizmet anlaşması yaparak faaliyet gösterebilir. Her iki durumda da SPK'dan izin/yetki alınması zorunludur.",
+      "source": "SPKn md. 39, Yatırım Kuruluşları Tebliği III-39.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s49",
+      "q": "Yatırım kuruluşlarının 'stres testi' yapma yükümlülüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Stres testi yalnızca bankalar için zorunludur",
+        "Yatırım kuruluşları, olağanüstü piyasa koşullarının sermaye yeterliliğine etkisini ölçmek için stres testi yapar",
+        "Stres testi yalnızca SPK talebinde yapılır",
+        "Stres testinde yalnızca kur riski değerlendirilir"
+      ],
+      "answer": 1,
+      "explanation": "Yatırım kuruluşları, olağanüstü piyasa koşullarının (ani kur değişimleri, faiz şokları, likidite krizleri) sermaye yeterliliği ve risk pozisyonlarına etkisini ölçmek için düzenli stres testleri yapmak zorundadır.",
+      "source": "Sermaye Yeterliliği Tebliği III-55.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1005-s50",
+      "q": "Portföy yönetim şirketlerinin 'oy kullanma politikası' (proxy voting policy) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "PYŞ'ler yönettikleri portföylerdeki payların genel kurul oylamasında oy kullanmak zorunda değildir",
+        "PYŞ'ler oy kullanma politikası oluşturarak yatırımcıların menfaatine uygun şekilde oy kullanmalıdır",
+        "PYŞ'ler oy kullanma yetkisini yalnızca fon kurucusuna devredebilir",
+        "PYŞ'lerin oy kullanma politikası gizlidir"
+      ],
+      "answer": 1,
+      "explanation": "Portföy yönetim şirketleri, yönettikleri portföylerde yer alan paylar için oy kullanma politikası oluşturmak ve yatırımcıların menfaatine en uygun şekilde oy kullanmak zorundadır. Oy kullanma politikası ve sonuçları kamuya açıklanır.",
+      "source": "PYŞ Tebliği III-55.3, Kurumsal Yönetim İlkeleri",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

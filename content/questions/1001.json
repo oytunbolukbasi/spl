@@ -4220,6 +4220,306 @@
       "source": "SPKn md. 106-107",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1001-s31",
+      "q": "6362 sayılı SPKn'na göre, Sermaye Piyasası Kurulu kaç üyeden oluşur ve bu üyelerin kaçını Cumhurbaşkanı atar?",
+      "options": [
+        "5 üye, tamamını Cumhurbaşkanı atar",
+        "7 üye, tamamını Cumhurbaşkanı atar",
+        "7 üye, 5'ini Cumhurbaşkanı atar",
+        "9 üye, 7'sini Cumhurbaşkanı atar"
+      ],
+      "answer": 1,
+      "explanation": "SPK 7 üyeden oluşur. Başkan dahil tüm üyeler Cumhurbaşkanı tarafından atanır (6362 sayılı Kanun md. 121).",
+      "source": "SPKn md. 121",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s32",
+      "q": "Halka açık ortaklıklarda, ortaklık paylarının %50'sini aşan pay iktisap edilmesi durumunda aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "SPK'ya bildirim yapılması yeterlidir",
+        "Diğer ortaklara zorunlu pay alım teklifi yapılması",
+        "Ortaklığın kapatılması",
+        "Payların borsada satışa sunulması"
+      ],
+      "answer": 1,
+      "explanation": "Bir ortaklığın yönetim kontrolünü sağlayan payların iktisabı halinde diğer ortaklara zorunlu pay alım teklifi yapılması gerekir. Yönetim kontrolü değişikliği eşikleri Pay Alım Teklifi Tebliği'nde düzenlenmiştir.",
+      "source": "SPKn md. 26, Pay Alım Teklifi Tebliği II-26.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s33",
+      "q": "SPK'nın idari yaptırım yetkisi kapsamında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "İdari para cezası verme",
+        "Faaliyet iznini geçici veya süresiz iptal etme",
+        "Hapis cezası verme",
+        "Tedbir kararı alma"
+      ],
+      "answer": 2,
+      "explanation": "Hapis cezası verme yetkisi yargı organlarına aittir. SPK idari bir kuruluş olup idari para cezası, faaliyet izni iptali, tedbir kararı gibi idari yaptırımlar uygulayabilir.",
+      "source": "SPKn md. 96-105",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s34",
+      "q": "Kamuyu Aydınlatma Platformu (KAP) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "KAP, MKK tarafından işletilir",
+        "Halka açık ortaklıkların özel durum açıklamaları KAP üzerinden yapılır",
+        "KAP'ta yayımlanan bilgilere yalnızca kurumsal yatırımcılar erişebilir",
+        "KAP'ta finansal tablolar da yayımlanır"
+      ],
+      "answer": 2,
+      "explanation": "KAP kamuya açık bir platformdur; tüm yatırımcılar (bireysel ve kurumsal) KAP'ta yayımlanan bilgilere ücretsiz erişebilir. Bu, kamuyu aydınlatma ilkesinin temel gereğidir.",
+      "source": "SPKn md. 14, KAP düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s35",
+      "q": "Sermaye piyasasında 'eşik değer' bildirimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bir kişinin halka açık ortaklıktaki oy hakları belirli eşikleri (%5, %10, %15 vb.) aştığında veya altına düştüğünde SPK'ya ve ortaklığa bildirim yapılması zorunludur",
+        "Eşik değer bildirimi yalnızca %51 pay oranında gereklidir",
+        "Eşik değer bildirimi yalnızca yabancı yatırımcılar için geçerlidir",
+        "Eşik değer bildirimi isteğe bağlıdır"
+      ],
+      "answer": 0,
+      "explanation": "Önemli nitelikteki işlemler ve pay sahipliğinde %5, %10, %15, %20, %25, %33, %50, %67 ve %95 eşiklerinin aşılması veya altına düşülmesi halinde bildirim yükümlülüğü doğar.",
+      "source": "SPKn md. 26, Önemli Nitelikteki İşlemler Tebliği II-23.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s36",
+      "q": "TTK'ya göre anonim şirketlerde yönetim kurulu toplantı ve karar yeter sayısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Toplantı yeter sayısı üye tam sayısının salt çoğunluğu, karar yeter sayısı toplantıda hazır bulunanların salt çoğunluğu",
+        "Toplantı yeter sayısı üye tam sayısının 2/3'ü, karar yeter sayısı toplantıda hazır bulunanların 2/3'ü",
+        "Toplantı yeter sayısı en az 3 üye, karar yeter sayısı oy birliği",
+        "Toplantı yeter sayısı aranmaz, karar yeter sayısı salt çoğunluktur"
+      ],
+      "answer": 0,
+      "explanation": "TTK md. 390'a göre yönetim kurulu üye tam sayısının çoğunluğu ile toplanır ve kararlarını toplantıda hazır bulunan üyelerin çoğunluğu ile alır. Esas sözleşme ile ağırlaştırılabilir.",
+      "source": "TTK md. 390",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s37",
+      "q": "Sermaye piyasası mevzuatında 'nitelikli yatırımcı' statüsü aşağıdakilerden hangisine otomatik olarak tanınır?",
+      "options": [
+        "Bankalar, sigorta şirketleri, portföy yönetim şirketleri gibi kurumsal yatırımcılar",
+        "Yalnızca 10 milyon TL üzeri varlığa sahip bireysel yatırımcılar",
+        "Yalnızca yurt dışında yerleşik yatırımcılar",
+        "Tüm profesyonel müşteriler"
+      ],
+      "answer": 0,
+      "explanation": "Bankalar, aracı kurumlar, sigorta şirketleri, portföy yönetim şirketleri, emeklilik fonları gibi kurumsal yatırımcılar doğrudan (otomatik) nitelikli yatırımcı sayılır. Bireysel yatırımcılar ise belirli koşulları sağlayarak talep üzerine nitelikli yatırımcı statüsü alabilir.",
+      "source": "SPKn md. 3, Yatırım Hizmetleri Tebliği III-37.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s38",
+      "q": "SPK Kurul kararlarına karşı aşağıdaki yargı yollarından hangisine başvurulabilir?",
+      "options": [
+        "İdare mahkemesine iptal davası açılabilir",
+        "Asliye ticaret mahkemesine başvurulabilir",
+        "Yalnızca Danıştay'a başvurulabilir",
+        "SPK kararlarına karşı yargı yoluna başvurulamaz"
+      ],
+      "answer": 0,
+      "explanation": "SPK bir idari kuruluş olduğundan, kararlarına karşı idari yargıda iptal davası açılabilir. İYUK'a göre tebliğ tarihinden itibaren 60 gün içinde yetkili idare mahkemesine başvurulur.",
+      "source": "İYUK md. 7, SPKn",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s39",
+      "q": "Halka açık ortaklıklarda 'riskin erken saptanması komitesi'nin görevi aşağıdakilerden hangisidir?",
+      "options": [
+        "Şirketin varlığını, gelişmesini ve devamını tehlikeye düşürecek riskleri erken teşhis etmek ve yönetim kuruluna raporlamak",
+        "Şirketin yıllık bütçesini hazırlamak",
+        "Şirketin halka arz sürecini yönetmek",
+        "Bağımsız denetim kuruluşunu seçmek"
+      ],
+      "answer": 0,
+      "explanation": "TTK md. 378'e göre pay senetleri borsada işlem gören şirketlerde riskin erken saptanması komitesi kurulması zorunludur. Bu komite, şirketin varlığını ve devamını tehlikeye düşürebilecek riskleri tespit eder, önlemler geliştirir ve yönetim kuruluna raporlar.",
+      "source": "TTK md. 378",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s40",
+      "q": "SPKn'na göre 'örtülü kazanç aktarımı' yasağı hangi durumu ifade eder?",
+      "options": [
+        "Halka açık ortaklıkların, ilişkili taraflarla piyasa koşullarına uygun olmayan işlemler yaparak ortaklık aleyhine kazanç aktarmasının yasaklanması",
+        "Ortaklığın kâr dağıtmamasının yasaklanması",
+        "Yönetim kurulu üyelerinin prim almasının yasaklanması",
+        "Ortaklığın yurt dışına sermaye transfer etmesinin yasaklanması"
+      ],
+      "answer": 0,
+      "explanation": "SPKn md. 21'e göre halka açık ortaklıklar ve bağlı ortaklıkları, ilişkili taraflarla emsallerine uygunluk, piyasa koşulları ve ticari teamüllere aykırı koşullarda işlem yaparak kazanç aktaramazlar.",
+      "source": "SPKn md. 21",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s41",
+      "q": "Halka açık ortaklıklarda bağımsız denetçi seçimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Bağımsız denetçi yönetim kurulu tarafından doğrudan atanır",
+        "Bağımsız denetçi, denetimden sorumlu komitenin görüşü alınarak yönetim kurulunca belirlenir ve genel kurul tarafından seçilir",
+        "Bağımsız denetçi SPK tarafından atanır",
+        "Bağımsız denetçi seçimi ortaklık yöneticilerinin inisiyatifindedir"
+      ],
+      "answer": 1,
+      "explanation": "Bağımsız denetçi seçimi sürecinde denetimden sorumlu komite değerlendirme yapar, yönetim kurulu bunu dikkate alarak bir öneri hazırlar ve nihai seçim genel kurul tarafından yapılır.",
+      "source": "TTK md. 399, Kurumsal Yönetim Tebliği II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s42",
+      "q": "6362 sayılı SPKn'na göre sermaye piyasası suçlarında zamanaşımı süresi ne kadardır?",
+      "options": [
+        "5 yıl",
+        "8 yıl",
+        "12 yıl",
+        "Zamanaşımı uygulanmaz"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 115'e göre bilgi suistimali ve piyasa dolandırıcılığı suçlarında dava zamanaşımı süresi 8 yıldır. Bu süre suçun işlendiği tarihten itibaren başlar.",
+      "source": "SPKn md. 115, TCK zamanaşımı hükümleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s43",
+      "q": "Halka açık ortaklıklarda 'ücretlendirme politikası' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Ücretlendirme politikası yalnızca CEO'nun maaşını kapsar",
+        "Yönetim kurulu üyeleri ve üst düzey yöneticilerin ücretlendirme esasları genel kurulun bilgisine sunulur",
+        "Ücretlendirme politikası gizlidir ve kamuya açıklanmaz",
+        "Ücretlendirme politikası SPK tarafından belirlenir"
+      ],
+      "answer": 1,
+      "explanation": "Kurumsal yönetim ilkeleri gereği yönetim kurulu üyeleri ve üst düzey yöneticilerin ücretlendirme esasları yazılı olarak belirlenir ve genel kurul toplantısında ayrı bir gündem maddesi olarak ortakların bilgisine sunulur.",
+      "source": "Kurumsal Yönetim Tebliği II-17.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s44",
+      "q": "Aşağıdakilerden hangisi TTK'ya göre 'hakimiyetin kötüye kullanılması' kapsamında değerlendirilebilir?",
+      "options": [
+        "Hakim ortağın bağlı şirketi zarara uğratan işlemler yaptırması ve bu zararı denkleştirmemesi",
+        "Hakim ortağın genel kurul kararlarını veto etmesi",
+        "Hakim ortağın temettü dağıtımını ertelemesi",
+        "Hakim ortağın yönetim kurulunda temsil edilmesi"
+      ],
+      "answer": 0,
+      "explanation": "TTK md. 202'ye göre hakim şirket, bağlı şirketi kayba uğratan işlemler yaptırabilir ancak bu kaybı o iş yılı içinde fiilen denkleştirmek veya kaybın nasıl ve ne zaman denkleştirileceğini belirtmek zorundadır. Aksi halde hakimiyetin kötüye kullanılması söz konusudur.",
+      "source": "TTK md. 202-206",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s45",
+      "q": "Sermaye Piyasası Kanunu'na göre 'işlem yasağı' (kara liste) uygulaması aşağıdaki hangi durumda gündeme gelir?",
+      "options": [
+        "Bilgi suistimali veya piyasa dolandırıcılığı nedeniyle mahkûm olan kişilere borsada işlem yasağı uygulanabilir",
+        "İşlem yasağı yalnızca yabancı yatırımcılara uygulanır",
+        "İşlem yasağı SPK üyeleri tarafından belirlenir",
+        "İşlem yasağı yalnızca tüzel kişilere uygulanır"
+      ],
+      "answer": 0,
+      "explanation": "SPKn md. 101'e göre sermaye piyasası suçlarından mahkûm olan kişilere belirli bir süre borsada işlem yapma yasağı uygulanabilir. Bu yasak, piyasa bütünlüğünü koruma amacı taşır.",
+      "source": "SPKn md. 101",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s46",
+      "q": "Halka açık ortaklıklarda genel kurul toplantı nisabı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Olağan genel kurul toplantıları için herhangi bir nisap aranmaz",
+        "SPKn kapsamındaki halka açık ortaklıklarda TTK'daki ağırlaştırılmış nisaplar uygulanmaz; SPK düzenlemeleri esas alınır",
+        "Genel kurul toplantısı için sermayenin %75'inin temsili zorunludur",
+        "Genel kurul toplantısı yalnızca yönetim kurulu üyelerinin katılımıyla yapılabilir"
+      ],
+      "answer": 1,
+      "explanation": "SPKn md. 29'a göre halka açık ortaklıkların genel kurul toplantılarında TTK'nın ağırlaştırılmış nisap aranmasına ilişkin hükümlerinin uygulanma esasları SPK tarafından belirlenir.",
+      "source": "SPKn md. 29",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s47",
+      "q": "Sermaye piyasasında 'derecelendirme kuruluşları' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Derecelendirme kuruluşları SPK'dan yetki belgesi alarak faaliyete başlar",
+        "Derecelendirme kuruluşları yalnızca devlet borçlanma araçlarını derecelendirir",
+        "Derecelendirme notları bağlayıcı niteliktedir ve yatırım kararlarını belirler",
+        "Derecelendirme kuruluşları aynı zamanda bağımsız denetim de yapabilir"
+      ],
+      "answer": 0,
+      "explanation": "Türkiye'de faaliyet gösteren derecelendirme kuruluşları SPK'dan yetki belgesi almak zorundadır. Derecelendirme notları bilgilendirme amaçlıdır, bağlayıcı nitelikte değildir.",
+      "source": "Derecelendirme Kuruluşları Tebliği III-62.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s48",
+      "q": "İhraççıların muafiyet ve hariç tutulma halleri ile ilgili olarak aşağıdakilerden hangisi izahname hazırlama yükümlülüğünden muaftır?",
+      "options": [
+        "Halka arz tutarı SPK'nın belirlediği alt sınırın altında kalan ihraçlar",
+        "Tüm tahvil ihraçları",
+        "Borsa İstanbul'da işlem gören tüm araçlar",
+        "Yurt dışında ihraç edilen tüm araçlar"
+      ],
+      "answer": 0,
+      "explanation": "SPK, belirli bir tutarın altındaki ihraçları, nitelikli yatırımcılara yapılan satışları ve bazı özel durumları izahname yükümlülüğünden muaf tutabilir.",
+      "source": "SPKn md. 6, İzahname Tebliği II-5.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s49",
+      "q": "Sermaye piyasasında 'sürekli bilgi verme yükümlülükleri' kapsamında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "Yıllık faaliyet raporunun yayımlanması",
+        "Ara dönem finansal tabloların yayımlanması",
+        "Yönetim kurulu üyelerinin ailevi ilişkilerinin açıklanması",
+        "Özel durum açıklamaları"
+      ],
+      "answer": 2,
+      "explanation": "Sürekli bilgi verme yükümlülükleri yıllık/ara dönem finansal tablolar, faaliyet raporları ve özel durum açıklamalarını kapsar. Yönetim kurulu üyelerinin ailevi ilişkilerinin detaylı açıklanması bu kapsamda değildir.",
+      "source": "SPKn md. 14-15",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1001-s50",
+      "q": "TTK'ya göre anonim şirketlerde 'azınlık hakları' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Sermayenin en az %10'unu temsil eden pay sahipleri genel kurul çağrısı yapılmasını isteyebilir",
+        "Azınlık hakları yalnızca halka açık ortaklıklarda geçerlidir",
+        "Azınlık pay sahipleri yönetim kurulu üyelerini doğrudan görevden alabilir",
+        "Azınlık hakları yalnızca imtiyazlı pay sahiplerine tanınır"
+      ],
+      "answer": 0,
+      "explanation": "TTK md. 411'e göre sermayenin en az %10'unu (halka açık ortaklıklarda %5'ini) temsil eden pay sahipleri yönetim kurulundan genel kurul çağrısı yapılmasını isteyebilir. Ayrıca gündeme madde ekleme, özel denetçi atanması talep etme gibi azınlık hakları da mevcuttur.",
+      "source": "TTK md. 411-412",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

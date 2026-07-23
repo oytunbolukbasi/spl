@@ -4676,6 +4676,306 @@
       "source": "SPKn md. 80-81, Saklama Hizmeti Tebliği",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1012-s31",
+      "q": "Takasbank'ın 'nakit kredi' hizmeti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Takasbank tüm yatırımcılara doğrudan nakit kredi verir",
+        "Takasbank, yalnızca takas üyelerine gün içi veya kısa vadeli nakit kredi imkânı sağlar",
+        "Takasbank'ın kredi verme yetkisi yoktur",
+        "Takasbank'ın nakit kredileri faizsizdir"
+      ],
+      "answer": 1,
+      "explanation": "Takasbank, takas sürecinde likidite ihtiyacı doğan üyelere gün içi (intraday) veya kısa vadeli nakit kredi imkânı sağlar. Bu hizmet bireysel yatırımcılara değil, takas üyelerine (aracı kurumlar, bankalar) yöneliktir.",
+      "source": "SPKn md. 78, Takasbank düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s32",
+      "q": "MKK'da 'hak kullanım' (corporate action) işlemleri sürecinde 'kayıt tarihi' (record date) ne anlama gelir?",
+      "options": [
+        "Genel kurul toplantı tarihi",
+        "Hak sahipliğinin belirlenmesi için MKK kayıtlarının esas alındığı tarih",
+        "Temettü ödemesinin yapıldığı tarih",
+        "Şirketin yönetim kurulu karar tarihi"
+      ],
+      "answer": 1,
+      "explanation": "Kayıt tarihi (record date), temettü, rüçhan hakkı, genel kurul katılımı gibi haklardan yararlanacak pay sahiplerinin belirlenmesi için MKK kayıtlarının esas alındığı tarihtir. Bu tarihte MKK'da kayıtlı olan pay sahipleri hak sahibi olarak kabul edilir.",
+      "source": "MKK düzenlemeleri, Kurumsal İşlem Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s33",
+      "q": "Pay piyasasında 'kısmi takas' (partial settlement) ne anlama gelir?",
+      "options": [
+        "Takas yükümlülüğünün bir kısmının yerine getirilip kalanının temerrüde düşmesi",
+        "Takas yükümlülüğünün tamamının yerine getirilmesi",
+        "Yalnızca nakit tarafın yerine getirilmesi",
+        "Yalnızca menkul kıymet tarafın yerine getirilmesi"
+      ],
+      "answer": 0,
+      "explanation": "Kısmi takas, takas üyesinin yükümlülüğünün bir kısmını (örneğin elindeki menkul kıymet miktarı kadar) yerine getirip kalan kısım için temerrüde düşmesidir. Tam teslim yapamayan üye, mevcut varlığı kadar kısmi teslim yapabilir.",
+      "source": "Borsa İstanbul Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s34",
+      "q": "MKK nezdinde tutulan 'genel müşteri hesabı' ile 'müşteri ismine saklama hesabı' arasındaki fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Genel müşteri hesabında varlıklar aracı kurum adına toplu izlenir; müşteri ismine saklamada her müşterinin varlığı kendi adına ayrı izlenir",
+        "İkisi arasında fark yoktur",
+        "Genel müşteri hesabı yalnızca kurumsal müşteriler içindir",
+        "Müşteri ismine saklama yalnızca yabancı yatırımcılar için geçerlidir"
+      ],
+      "answer": 0,
+      "explanation": "Genel müşteri hesabında aracı kurumun tüm müşterilerinin varlıkları toplu olarak izlenir ve müşteri bazlı ayrıştırma aracı kurumun iç kayıtlarında yapılır. Müşteri ismine saklama hesabında ise her müşterinin varlığı MKK'da kendi adına ayrı bir hesapta izlenir.",
+      "source": "MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s35",
+      "q": "VİOP'ta 'son işlem günü' ile 'vade sonu' tarihi arasındaki ilişki aşağıdakilerden hangisidir?",
+      "options": [
+        "Son işlem günü ve vade sonu aynı gündür",
+        "Son işlem günü vade sonundan önceki son iş günüdür; vade sonunda açık pozisyonlar uzlaşma ile kapatılır",
+        "Son işlem günü her zaman vade sonundan 5 iş günü öncedir",
+        "Son işlem günü yalnızca opsiyon sözleşmeleri için geçerlidir"
+      ],
+      "answer": 1,
+      "explanation": "Son işlem günü, bir vadeli işlem veya opsiyon sözleşmesinde alım-satım işlemi yapılabilecek son iş günüdür. Vade sonunda ise açık pozisyonlar son uzlaşma fiyatı üzerinden nakit uzlaşma veya fiziki teslim ile kapatılır.",
+      "source": "VİOP Sözleşme Spesifikasyonları",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s36",
+      "q": "Takasbank'ın 'teminat yönetimi hizmeti' kapsamında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Yalnızca nakit teminatların saklanması",
+        "Teminat olarak kabul edilen varlıkların (nakit, menkul kıymet, altın vb.) değerlemesi, takibi ve gerektiğinde teminat tamamlama çağrısı yapılması",
+        "Teminat yönetimi yalnızca VİOP için geçerlidir",
+        "Teminat yönetimi aracı kurumların kendi sorumluluğundadır"
+      ],
+      "answer": 1,
+      "explanation": "Takasbank'ın teminat yönetimi hizmeti, teminat olarak kabul edilen çeşitli varlıkların (nakit, DİBS, hisse senedi, altın vb.) değerlemesini, yeterlilik kontrolünü, teminat tamamlama çağrısını ve gerektiğinde teminatın nakde çevrilmesini kapsar.",
+      "source": "Takasbank Teminat Yönetimi Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s37",
+      "q": "Borçlanma araçları piyasasında 'ödeme karşılığı teslim' (DVP) modelleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "DVP Model 1'de menkul kıymet ve nakit aynı anda, brüt bazda transfer edilir",
+        "DVP yalnızca pay piyasasında uygulanır",
+        "DVP modellerinde nakit ve menkul kıymet farklı günlerde takas edilir",
+        "DVP modeli takas riskini artırır"
+      ],
+      "answer": 0,
+      "explanation": "DVP Model 1'de (brüt-brüt) hem menkul kıymet hem nakit transfer işlem bazında eş zamanlı ve brüt olarak gerçekleşir. Model 2'de menkul kıymet brüt, nakit net bazda; Model 3'te her ikisi de net bazda transfer edilir.",
+      "source": "BIS-CPSS, DVP Modelleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s38",
+      "q": "MKK'nın 'yatırımcı bilgilendirme hizmeti' kapsamında yatırımcılara aşağıdaki bilgilerden hangisi sağlanır?",
+      "options": [
+        "Yatırım tavsiyesi",
+        "Portföylerindeki varlıkların anlık durumu, kurumsal işlem duyuruları ve genel kurul çağrıları",
+        "Piyasa manipülasyonu uyarıları",
+        "Aracı kurum performans karşılaştırması"
+      ],
+      "answer": 1,
+      "explanation": "MKK yatırımcı bilgilendirme hizmeti ile yatırımcılara portföylerindeki varlıkların durumu, yaklaşan kurumsal işlemler (temettü, sermaye artırımı vb.) ve genel kurul çağrıları hakkında bilgi sağlar. Yatırım tavsiyesi vermez.",
+      "source": "MKK düzenlemeleri, e-Yatırımcı",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s39",
+      "q": "Takas işlemlerinde 'operasyonel risk' kapsamında aşağıdaki durumlardan hangisi değerlendirilir?",
+      "options": [
+        "Piyasa fiyatlarındaki dalgalanma",
+        "Takas sürecinde sistem arızası, insan hatası veya süreç aksaklıklarından kaynaklanan kayıp riski",
+        "Faiz oranlarındaki değişim",
+        "Döviz kurundaki değişim"
+      ],
+      "answer": 1,
+      "explanation": "Takas operasyonlarında operasyonel risk; sistem arızaları, yazılım hataları, veri giriş yanlışlıkları, iletişim kopuklukları ve süreç aksaklıklarından kaynaklanan kayıp riskini kapsar. Piyasa, faiz ve kur riskleri ayrı risk kategorileridir.",
+      "source": "BIS-CPSS, Takas Risk Yönetimi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s40",
+      "q": "Portföy saklama kuruluşlarının 'fon varlıklarını izleme' görevi aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Fonun yatırım kararlarını vermek",
+        "Fon portföyündeki işlemlerin mevzuata ve içtüzüğe uygunluğunu kontrol etmek",
+        "Fon katılma paylarını satmak",
+        "Fonun performans ücretini belirlemek"
+      ],
+      "answer": 1,
+      "explanation": "Portföy saklama kuruluşu, fon portföyündeki işlemlerin mevzuata, fon içtüzüğüne ve izahname sınırlamalarına uygunluğunu kontrol eder. Yatırım sınırlamalarının aşılıp aşılmadığını izler ve aykırılıkları PYŞ'ye ve gerektiğinde SPK'ya bildirir.",
+      "source": "Portföy Saklama Hizmeti Tebliği III-56.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s41",
+      "q": "Takasbank'ın 'merkezi karşı taraf' hizmetinde 'novation' (yenileme) kavramı ne anlama gelir?",
+      "options": [
+        "Mevcut sözleşmenin vadesinin uzatılması",
+        "Orijinal alıcı ve satıcı arasındaki sözleşmenin ortadan kalkarak Takasbank'ın her iki tarafa karşı ayrı sözleşmeler oluşturması",
+        "Sözleşmenin iptal edilmesi",
+        "Sözleşmenin başka bir araca dönüştürülmesi"
+      ],
+      "answer": 1,
+      "explanation": "Novation sürecinde alıcı ile satıcı arasındaki orijinal sözleşme sona erer ve yerine Takasbank ile alıcı arasında ve Takasbank ile satıcı arasında iki ayrı sözleşme oluşur. Böylece Takasbank her iki tarafın karşı tarafı (MKT) konumuna geçer.",
+      "source": "MKT Yönetmeliği, CPMI-IOSCO",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s42",
+      "q": "MKK'nın 'elektronik genel kurul sistemi' (EGKS) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "EGKS kullanımı tüm anonim şirketler için zorunludur",
+        "EGKS, halka açık ortaklıkların genel kurul toplantılarına elektronik ortamda katılım, tartışma ve oy kullanma imkânı sağlar",
+        "EGKS yalnızca oy kullanma için kullanılır, tartışma yapılamaz",
+        "EGKS MKK tarafından değil Borsa İstanbul tarafından işletilir"
+      ],
+      "answer": 1,
+      "explanation": "EGKS, MKK tarafından işletilen ve halka açık ortaklıkların genel kurul toplantılarına pay sahiplerinin elektronik ortamda katılmasını, söz almasını, öneride bulunmasını ve oy kullanmasını sağlayan sistemdir.",
+      "source": "TTK md. 1527, EGKS Yönetmeliği, MKK",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s43",
+      "q": "Takas sürecinde 'fail' (başarısız takas) durumunda aşağıdakilerden hangisi uygulanır?",
+      "options": [
+        "İşlem otomatik olarak iptal edilir",
+        "Temerrüde düşen tarafa cezai faiz/gecikme faizi uygulanır ve pozisyon kapatma süreci başlatılabilir",
+        "Karşı tarafa herhangi bir bildirim yapılmaz",
+        "Takas süresiz olarak ertelenir"
+      ],
+      "answer": 1,
+      "explanation": "Başarısız takas (fail) durumunda temerrüde düşen tarafa gecikme faizi uygulanır, teminatlarından tahsilat yapılabilir ve belirlenen sürelerde yükümlülük yerine getirilmezse pozisyon kapatma (buy-in/sell-out) süreci başlatılır.",
+      "source": "Borsa İstanbul Takas Prosedürü, Temerrüt Yönetimi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s44",
+      "q": "VİOP'ta 'vade sonu uzlaşma fiyatı' nasıl belirlenir?",
+      "options": [
+        "Son işlem gününün kapanış fiyatı olarak belirlenir",
+        "Pay endeks vadeli işlem sözleşmelerinde dayanak endeksin son 30 dakikalık ağırlıklı ortalama değeri esas alınır",
+        "SPK tarafından belirlenir",
+        "Takasbank'ın takdirine bağlıdır"
+      ],
+      "answer": 1,
+      "explanation": "Pay endeks vadeli işlem sözleşmelerinde vade sonu uzlaşma fiyatı, vade sonu gününde dayanak endeksin son 30 dakikalık ağırlıklı ortalama değeri esas alınarak hesaplanır. Bu yöntem manipülasyon riskini azaltmayı amaçlar.",
+      "source": "VİOP Sözleşme Spesifikasyonları",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s45",
+      "q": "Saklama kuruluşlarının 'mutabakat' (reconciliation) yükümlülüğü ne anlama gelir?",
+      "options": [
+        "Saklama kuruluşunun kendi kayıtları ile MKK/Takasbank kayıtlarını ve müşteri bakiyeleriyle düzenli olarak karşılaştırıp eşleştirmesi",
+        "Saklama kuruluşunun müşterilerine yatırım tavsiyesi vermesi",
+        "Saklama kuruluşunun vergi hesaplaması yapması",
+        "Saklama kuruluşunun yılda bir kez denetim raporu hazırlaması"
+      ],
+      "answer": 0,
+      "explanation": "Mutabakat, saklama kuruluşunun kendi iç kayıtlarını MKK/Takasbank gibi merkezi kuruluşların kayıtlarıyla ve müşteri bakiyeleriyle düzenli olarak (günlük veya haftalık) karşılaştırarak uyumsuzlukları tespit etmesi ve gidermesi sürecidir.",
+      "source": "Saklama Hizmeti Tebliği, MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s46",
+      "q": "Borsa İstanbul Pay Piyasası'nda 'açığa satış' işlemlerinin takası ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Açığa satışta takas yükümlülüğü yoktur",
+        "Açığa satış yapan taraf, T+2 valör gününde ödünç aldığı veya temin ettiği payları teslim etmek zorundadır",
+        "Açığa satışta takas T+0'dır",
+        "Açığa satışta yalnızca nakit takas yapılır"
+      ],
+      "answer": 1,
+      "explanation": "Açığa satış yapan taraf, normal takas süreci olan T+2 valör gününde satılan payları (ödünç alma veya başka yollarla temin ederek) teslim etmek zorundadır. Teslim yapılamaması halinde temerrüt süreci başlar.",
+      "source": "Açığa Satış Tebliği, Borsa İstanbul Takas Prosedürü",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s47",
+      "q": "Takasbank'ın 'likidite riski yönetimi' kapsamında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Yalnızca nakit pozisyonların izlenmesi",
+        "En büyük temerrüt senaryosunda bile (en az en büyük net borçlu üyenin temerrüdü) takas yükümlülüklerini karşılayabilecek likidite kaynağı bulundurma",
+        "Üyelerin bireysel likidite pozisyonlarının yönetilmesi",
+        "Borsa İstanbul'un işlem hacminin belirlenmesi"
+      ],
+      "answer": 1,
+      "explanation": "CPMI-IOSCO prensiplerine uygun olarak Takasbank, en az en büyük net borçlu üyenin temerrüdü senaryosunda ('Cover 1' prensibi) takas yükümlülüklerini karşılayabilecek yeterli likidite kaynağı (nakit, kredi hatları, likit varlıklar) bulundurmak zorundadır.",
+      "source": "MKT Yönetmeliği, CPMI-IOSCO Prensipleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s48",
+      "q": "MKK nezdinde 'kaydileştirme' işlemi sonucunda fiziki senet sahibi yatırımcının ne yapması gerekir?",
+      "options": [
+        "Fiziki senetlerini saklamaya devam edebilir",
+        "Fiziki senetlerini MKK üyesi bir kuruluş aracılığıyla kaydi sisteme geçirmek (teslim etmek) zorundadır",
+        "Fiziki senetler otomatik olarak kaydi sisteme geçer",
+        "Fiziki senetleri Borsa İstanbul'a teslim etmesi gerekir"
+      ],
+      "answer": 1,
+      "explanation": "Kaydileştirme kararı alınan sermaye piyasası araçlarının fiziki senetleri, MKK üyesi bir kuruluş (aracı kurum veya banka) aracılığıyla MKK'ya teslim edilerek kaydi sisteme geçirilir. Teslim edilmeyen fiziki senetler üzerindeki haklar kısıtlanabilir.",
+      "source": "SPKn md. 13, MKK Kaydileştirme Düzenlemeleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s49",
+      "q": "Takasbank'ın 'stres testi' uygulamasının amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Normal piyasa koşullarında kârlılığı ölçmek",
+        "Olağanüstü ancak gerçekleşmesi mümkün piyasa koşullarında teminat ve garanti fonu kaynaklarının yeterliliğini test etmek",
+        "Üyelerin müşteri sayısını değerlendirmek",
+        "Yeni ürün geliştirmek"
+      ],
+      "answer": 1,
+      "explanation": "Takasbank stres testleri, olağanüstü ancak gerçekleşmesi mümkün (extreme but plausible) piyasa senaryolarında mevcut teminat ve garanti fonu kaynaklarının takas yükümlülüklerini karşılamaya yeterli olup olmadığını test eder.",
+      "source": "MKT Yönetmeliği, CPMI-IOSCO",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1012-s50",
+      "q": "Saklama hizmetinde 'hesap bazlı saklama' (account-based system) ile 'senet bazlı saklama' (certificate-based system) arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "Hesap bazlı saklamada varlıklar elektronik kayıt olarak izlenir ve fiziki senet yoktur; senet bazlı saklamada fiziki senetler kasada muhafaza edilir",
+        "İkisi arasında fark yoktur",
+        "Hesap bazlı saklama daha risklidir",
+        "Senet bazlı saklama daha modern bir sistemdir"
+      ],
+      "answer": 0,
+      "explanation": "Hesap bazlı saklamada (kaydileştirme sonrası) varlıklar merkezi kayıt kuruluşunda (MKK) elektronik kayıt olarak izlenir, fiziki senet basılmaz. Senet bazlı saklamada ise fiziki olarak basılmış senetler saklama kuruluşunun kasasında muhafaza edilir. Türkiye'de sermaye piyasası araçları kaydileştirilerek hesap bazlı sisteme geçilmiştir.",
+      "source": "SPKn md. 13, MKK düzenlemeleri",
+      "verified": true,
+      "flag": ""
     }
   ]
 }

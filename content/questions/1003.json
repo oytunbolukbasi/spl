@@ -4738,6 +4738,306 @@
       "source": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.4",
       "verified": true,
       "flag": ""
+    },
+    {
+      "id": "1003-s31",
+      "q": "Yatırım fonlarında 'karşılaştırma ölçütü' (benchmark) seçiminde aşağıdaki kriterlerden hangisi aranır?",
+      "options": [
+        "Ölçüt, fonun yatırım stratejisi ve portföy yapısıyla uyumlu olmalıdır",
+        "Ölçüt her zaman BİST 100 endeksi olmalıdır",
+        "Ölçüt SPK tarafından belirlenir",
+        "Ölçüt yalnızca döviz bazlı olabilir"
+      ],
+      "answer": 0,
+      "explanation": "Karşılaştırma ölçütü fonun yatırım stratejisi, portföy yapısı ve risk profiliyle uyumlu olmalıdır. Borçlanma araçları fonu için tahvil endeksi, hisse fonu için pay endeksi gibi uygun ölçütler seçilir.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s32",
+      "q": "Türev araçlarda 'başlangıç teminatı' (initial margin) ile 'sürdürme teminatı' (maintenance margin) arasındaki ilişki aşağıdakilerden hangisidir?",
+      "options": [
+        "Sürdürme teminatı başlangıç teminatından yüksektir",
+        "Sürdürme teminatı başlangıç teminatından düşüktür; teminat bu seviyenin altına düştüğünde tamamlama çağrısı yapılır",
+        "İkisi her zaman eşittir",
+        "Sürdürme teminatı yalnızca opsiyon işlemlerinde uygulanır"
+      ],
+      "answer": 1,
+      "explanation": "Sürdürme teminatı, başlangıç teminatının altında belirlenen minimum seviyedir. Pozisyondaki zarar nedeniyle hesaptaki teminat bu seviyenin altına düştüğünde margin call yapılır ve yatırımcının teminatı başlangıç seviyesine tamamlaması gerekir.",
+      "source": "VİOP Teminat Yönetimi, Türev Araçlar",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s33",
+      "q": "Pay sahipliği senetleri (nama/hamiline) ile ilgili aşağıdaki ifadelerden hangisi güncel mevzuata göre doğrudur?",
+      "options": [
+        "Hamiline yazılı pay senetleri serbestçe devredilebilir ve herhangi bir kayıt yükümlülüğü yoktur",
+        "Hamiline yazılı pay senetlerinin devri MKK'ya bildirilmek zorundadır",
+        "Nama yazılı pay senetleri devredilemez",
+        "Halka açık ortaklıklarda yalnızca hamiline yazılı pay senedi çıkarılabilir"
+      ],
+      "answer": 1,
+      "explanation": "7262 sayılı Kanun ile TTK'da yapılan değişiklikle hamiline yazılı pay senetlerinin devri MKK'ya bildirilme zorunluluğu getirilmiştir. Bildirim yapılmadıkça devir şirkete ve üçüncü kişilere karşı hüküm ifade etmez.",
+      "source": "TTK md. 489, 7262 sayılı Kanun",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s34",
+      "q": "Yatırım fonlarında 'swing pricing' (dalgalanma fiyatlama) mekanizmasının amacı aşağıdakilerden hangisidir?",
+      "options": [
+        "Fon birim pay değerini sabit tutmak",
+        "Büyük hacimli alım/satımların mevcut yatırımcıları olumsuz etkilemesini önlemek",
+        "Fonun günlük getiri oranını belirlemek",
+        "Fon yöneticisinin performans ücretini hesaplamak"
+      ],
+      "answer": 1,
+      "explanation": "Swing pricing, büyük hacimli katılma payı alım veya satımlarında (seyreltme etkisi) mevcut yatırımcıların zarar görmesini önlemek için birim pay değerine işlem maliyetlerini yansıtan bir düzeltme mekanizmasıdır.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s35",
+      "q": "Borçlanma araçlarında 'çağrı hakkı' (call option) ihraççıya ne imkân tanır?",
+      "options": [
+        "İhraççının tahvili vadesinden önce geri çağırıp itfa etme hakkı",
+        "Yatırımcının tahvili vadesinden önce ihraççıya satma hakkı",
+        "İhraççının faiz oranını değiştirme hakkı",
+        "Yatırımcının tahvili başka bir yatırımcıya devretme hakkı"
+      ],
+      "answer": 0,
+      "explanation": "Çağrı hakkı (callable bond), ihraççıya tahvili vadesinden önce belirli bir fiyattan geri çağırıp itfa etme (erken ödeme) hakkı tanır. Bu genellikle faiz oranları düştüğünde ihraççının avantajınadır.",
+      "source": "Borçlanma Araçları Tebliği II-31.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s36",
+      "q": "Gayrimenkul yatırım ortaklığı (GYO) ile gayrimenkul yatırım fonu (GYF) arasındaki temel fark aşağıdakilerden hangisidir?",
+      "options": [
+        "GYO anonim şirket statüsündedir ve payları borsada işlem görür; GYF tüzel kişiliği olmayan bir fondur",
+        "GYO yalnızca konut yatırımı yapar; GYF her tür gayrimenkule yatırım yapabilir",
+        "GYO'nun portföyünde nakit bulunmaz",
+        "GYF'ler halka arz edilebilir, GYO'lar edilemez"
+      ],
+      "answer": 0,
+      "explanation": "GYO, anonim şirket olarak kurulur, tüzel kişiliği vardır ve payları borsada işlem görür. GYF ise tüzel kişiliği olmayan, inançlı mülkiyet esasına göre kurulan bir fondur. Her ikisi de gayrimenkul ve gayrimenkule dayalı haklara yatırım yapar.",
+      "source": "GYO Tebliği III-48.1, GYF Tebliği III-52.3",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s37",
+      "q": "Opsiyon sözleşmelerinde 'delta' değeri neyi ifade eder?",
+      "options": [
+        "Opsiyonun vadeye kalan süresini",
+        "Dayanak varlığın fiyatındaki 1 birimlik değişime karşılık opsiyon primindeki değişimi",
+        "Opsiyonun işlem hacmini",
+        "Opsiyon satıcısının kâr/zarar oranını"
+      ],
+      "answer": 1,
+      "explanation": "Delta, dayanak varlığın fiyatında 1 birimlik değişim olduğunda opsiyon priminin ne kadar değişeceğini gösteren hassasiyet ölçüsüdür. Alım opsiyonlarında delta 0 ile 1 arasında, satım opsiyonlarında -1 ile 0 arasında değer alır.",
+      "source": "Türev Araçlar, Opsiyon Grekleri",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s38",
+      "q": "Yatırım fonlarında 'toplam gider kesintisi oranı' (TER - Total Expense Ratio) aşağıdakilerden hangisini kapsar?",
+      "options": [
+        "Yalnızca yönetim ücretini",
+        "Yönetim ücreti, saklama ücreti, denetim ücreti ve diğer operasyonel giderlerin fon toplam değerine oranını",
+        "Yalnızca alım-satım komisyonlarını",
+        "Fonun vergi yükünü"
+      ],
+      "answer": 1,
+      "explanation": "TER, fon toplam değeri üzerinden hesaplanan yönetim ücreti, saklama ücreti, bağımsız denetim ücreti, noter/ilan giderleri ve diğer operasyonel giderlerin toplamının oranıdır. Alım-satım komisyonları genellikle TER dışında raporlanır.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s39",
+      "q": "Bedelsiz sermaye artırımında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Bedelsiz sermaye artırımında ortaklara yeni pay karşılığı ödeme yapmaları istenir",
+        "Bedelsiz sermaye artırımı iç kaynaklardan (yedek akçeler, dağıtılmamış kâr vb.) yapılır ve ortaklara ücretsiz pay verilir",
+        "Bedelsiz sermaye artırımı yalnızca halka açık ortaklıklarda uygulanır",
+        "Bedelsiz sermaye artırımında ortaklık paylarının nominal değeri değişmez"
+      ],
+      "answer": 1,
+      "explanation": "Bedelsiz sermaye artırımında şirketin iç kaynakları (yedek akçeler, geçmiş yıl kârları, emisyon primi) sermayeye eklenir ve mevcut ortaklara payları oranında ücretsiz yeni pay dağıtılır.",
+      "source": "SPKn md. 18, TTK md. 462",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s40",
+      "q": "Aşağıdakilerden hangisi 'piyasa yapıcılığı' faaliyetini doğru tanımlar?",
+      "options": [
+        "Piyasa yapıcısı, belirli sermaye piyasası araçlarında sürekli alım-satım kotasyonu vererek likidite sağlar",
+        "Piyasa yapıcısı yalnızca devlet tahvillerinde işlem yapar",
+        "Piyasa yapıcısı kendi adına işlem yapamaz",
+        "Piyasa yapıcılığı lisans gerektirmez"
+      ],
+      "answer": 0,
+      "explanation": "Piyasa yapıcısı, belirli sermaye piyasası araçlarında sürekli ve eş zamanlı alış-satış fiyatı (çift taraflı kotasyon) vererek piyasada likidite ve fiyat derinliği sağlayan kurumdur.",
+      "source": "SPKn md. 37, Borsa İstanbul Piyasa Yapıcılığı Kuralları",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s41",
+      "q": "Kâr ve zarar ortaklığı belgesi (KZOB) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "KZOB sahibine sabit faiz getirisi sağlar",
+        "KZOB sahibi ihraççının kâr ve zararına ortak olur ancak ortaklık hakkı elde etmez",
+        "KZOB yalnızca bankalar tarafından ihraç edilebilir",
+        "KZOB'un vadesi en fazla 1 yıldır"
+      ],
+      "answer": 1,
+      "explanation": "KZOB, sahibine ihraççının belirli bir faaliyetinin veya tüm faaliyetlerinin kâr ve zararına katılma hakkı veren bir borçlanma aracıdır. Pay senedinden farklı olarak ortaklık hakkı vermez.",
+      "source": "SPKn md. 61, Borçlanma Araçları Tebliği II-31.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s42",
+      "q": "Yatırım fonlarında 'fon kurulu' hangi fon türlerinde zorunludur?",
+      "options": [
+        "Tüm yatırım fonlarında",
+        "Yalnızca emeklilik yatırım fonlarında",
+        "Yalnızca serbest fonlarda",
+        "Yatırım fonlarında fon kurulu zorunluluğu yoktur; fonlar kurucu tarafından yönetilir"
+      ],
+      "answer": 3,
+      "explanation": "Yatırım fonlarının tüzel kişiliği ve dolayısıyla yönetim organı (kurul/müdür) yoktur. Fonlar kurucu (banka, aracı kurum vb.) tarafından kurulur ve portföy yönetim şirketi tarafından yönetilir. Fon kurulu zorunluluğu mevcut değildir.",
+      "source": "SPKn md. 52, Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s43",
+      "q": "Hisse senedinde 'nominal değer' ile 'piyasa değeri' arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Piyasa değeri her zaman nominal değerin üzerindedir",
+        "Piyasa değeri nominal değerin altına düşemez",
+        "Piyasa değeri arz-talep koşullarına göre belirlenir ve nominal değerin altına da düşebilir",
+        "Nominal değer her gün güncellenir"
+      ],
+      "answer": 2,
+      "explanation": "Piyasa değeri borsada arz ve talep dengesiyle oluşur ve nominal değerden bağımsızdır. Şirketin mali durumuna göre piyasa değeri nominal değerin altına da (ıskontolu işlem) üstüne de (primli işlem) çıkabilir.",
+      "source": "Genel bilgi, TTK md. 476",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s44",
+      "q": "Vadeli işlem sözleşmelerinde 'backwardation' durumu aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Vadeli fiyatın spot fiyattan yüksek olması",
+        "Vadeli fiyatın spot fiyattan düşük olması",
+        "Vadeli ve spot fiyatın eşit olması",
+        "Vadeli fiyatın negatif olması"
+      ],
+      "answer": 1,
+      "explanation": "Backwardation, vadeli işlem sözleşmesinin fiyatının dayanak varlığın spot (anlık) fiyatından düşük olduğu durumu ifade eder. Normal piyasa koşullarında (contango) vadeli fiyat spot fiyatın üzerindedir; backwardation genellikle kısa vadeli arz sıkışıklığı veya yüksek kolaylık getirisi (convenience yield) durumunda oluşur.",
+      "source": "Türev Araçlar, Vadeli İşlem Piyasaları",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s45",
+      "q": "Borçlanma araçlarında 'gömülü opsiyon' (embedded option) kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "Tahvilin ayrı bir opsiyon sözleşmesiyle birlikte satılması",
+        "Tahvilin bünyesinde bulunan ve ihraççıya veya yatırımcıya belirli haklar tanıyan opsiyon unsuru",
+        "Tahvilin yalnızca opsiyon piyasasında işlem görmesi",
+        "Tahvilin vadesi boyunca opsiyon primi ödenmesi"
+      ],
+      "answer": 1,
+      "explanation": "Gömülü opsiyon, tahvilin kendi bünyesinde (ayrılmaz bir parçası olarak) bulunan opsiyon özelliğidir. Örneğin: callable bond (ihraççının geri çağırma hakkı), putable bond (yatırımcının geri satma hakkı), convertible bond (paya dönüştürme hakkı).",
+      "source": "Borçlanma Araçları, Yapılandırılmış Ürünler",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s46",
+      "q": "Pay senetlerinde 'seyreltme etkisi' (dilution effect) hangi durumda ortaya çıkar?",
+      "options": [
+        "Şirketin kâr dağıtması durumunda",
+        "Yeni pay ihracı nedeniyle mevcut ortakların pay başına kâr veya oy oranının azalması durumunda",
+        "Pay senedinin nominal değerinin düşürülmesi durumunda",
+        "Şirketin borçlanma aracı ihraç etmesi durumunda"
+      ],
+      "answer": 1,
+      "explanation": "Seyreltme etkisi, yeni pay ihracı (bedelli sermaye artırımı, paya dönüştürülebilir tahvil kullanımı, çalışanlara pay opsiyonu vb.) nedeniyle mevcut ortakların pay başına kâr (EPS), oy hakkı veya ortaklık oranının azalmasıdır.",
+      "source": "Genel bilgi, SPKn md. 18",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s47",
+      "q": "Varlık finansmanı fonu (VFF) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "VFF bankalar tarafından kurulur ve tüzel kişiliği vardır",
+        "VFF, kaynak kuruluşun bilançosundan çıkarılan varlıklara dayalı menkul kıymet ihraç etmek amacıyla kurulan tüzel kişiliği olmayan maldır",
+        "VFF yalnızca konut kredilerine dayalı olarak kurulabilir",
+        "VFF katılma payları halka arz edilemez"
+      ],
+      "answer": 1,
+      "explanation": "VFF, kaynak kuruluştan devralınan varlıklara (alacak, kredi vb.) dayalı olarak VDMK ihraç etmek amacıyla kurulan, inançlı mülkiyet esasına dayalı, tüzel kişiliği olmayan mal varlığıdır. Konut kredisi dışında çeşitli alacak türlerine dayalı olabilir.",
+      "source": "SPKn md. 58, VDMK Tebliği III-58.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s48",
+      "q": "Aşağıdakilerden hangisi 'tahvil getiri eğrisi'nin (yield curve) tersine dönmesi (inverted yield curve) durumunu ifade eder?",
+      "options": [
+        "Kısa vadeli faiz oranlarının uzun vadeli faiz oranlarından yüksek olması",
+        "Uzun vadeli faiz oranlarının kısa vadeli faiz oranlarından yüksek olması",
+        "Tüm vadelerde faiz oranlarının eşit olması",
+        "Faiz oranlarının sıfırın altına düşmesi"
+      ],
+      "answer": 0,
+      "explanation": "Ters getiri eğrisi, kısa vadeli faiz oranlarının uzun vadeli faiz oranlarından yüksek olduğu anormal bir durumu ifade eder. Normal koşullarda uzun vade daha yüksek getiri sunar (pozitif eğim). Ters eğri genellikle ekonomik durgunluk beklentisinin sinyali olarak değerlendirilir.",
+      "source": "Sabit Getirili Menkul Kıymetler, Makroekonomi",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s49",
+      "q": "Paya dönüştürülebilir tahvil (PDT) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "PDT, sahibine tahvili ihraççının paylarına dönüştürme hakkı verir",
+        "PDT, vadesinde otomatik olarak paya dönüşür",
+        "PDT yalnızca bankalar tarafından ihraç edilebilir",
+        "PDT'nin faiz oranı normal tahvillerden yüksektir"
+      ],
+      "answer": 0,
+      "explanation": "PDT, sahibine belirli koşullarda tahvili ihraççının pay senetlerine dönüştürme hakkı tanıyan bir borçlanma aracıdır. Dönüştürme zorunlu değil, opsiyoneldir. PDT'nin faiz oranı genellikle düz tahvilden düşüktür çünkü dönüştürme hakkı ek bir değer taşır.",
+      "source": "Borçlanma Araçları Tebliği II-31.1",
+      "verified": true,
+      "flag": ""
+    },
+    {
+      "id": "1003-s50",
+      "q": "Yatırım fonlarında 'katılma payı alım-satım esasları' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "Tüm fonlarda katılma payı alım-satımı anlık olarak gerçekleşir",
+        "Açık uçlu fonlarda katılma payları fon tarafından geri alınır; kapalı uçlu fonlarda ise yatırımcılar paylarını ikincil piyasada satar",
+        "Katılma payı satışında vergi kesintisi yapılmaz",
+        "Katılma payları yalnızca fon kurucusu tarafından satın alınabilir"
+      ],
+      "answer": 1,
+      "explanation": "Açık uçlu fonlarda katılma payları her iş günü fon tarafından birim pay değeri üzerinden geri alınır (sınırsız geri alım). Kapalı uçlu fonlarda ise fon tarafından geri alım yoktur; yatırımcılar paylarını borsada veya ikincil piyasada satar.",
+      "source": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+      "verified": true,
+      "flag": ""
     }
   ]
 }
