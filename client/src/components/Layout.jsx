@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink, CircleCheck, CircleX, Menu } from 'lucide-react';
+import { Home, Bandage, Flame, Star, RotateCcw, LogOut, BookOpen, X, FileText, ExternalLink, CircleCheck, CircleX, Menu, ListChecks, Library } from 'lucide-react';
 import Squirrel from './Squirrel.jsx';
 
 const STATIC_TIPS = [
@@ -26,9 +26,25 @@ function UserAvatar({ username, size = 34, onClick, as: Tag = 'button', avatarUr
   );
 }
 
-function ProfileModal({ username, progress, onReset, onLogout, onClose, avatarUrl }) {
+function StatWithTooltip({ icon, value, label, color, size = 18 }) {
+  const [show, setShow] = useState(false);
+  return (
+    <span
+      className={'stat ' + (color || '')}
+      style={color && !['streak','xp','correct','wrong'].includes(color) ? { color } : undefined}
+      onClick={() => { setShow(true); setTimeout(() => setShow(false), 1800); }}
+    >
+      {icon} {value}
+      {show && <span className="stat-tooltip">{label}</span>}
+    </span>
+  );
+}
+
+function ProfileModal({ username, progress, onReset, onLogout, onClose, avatarUrl, totalQuestions }) {
   const correct = Object.values(progress.seen).filter(v => v === 'correct').length;
   const wrong = Object.values(progress.seen).filter(v => v === 'wrong').length;
+  const solved = Object.keys(progress.seen).length;
+  const pct = totalQuestions ? Math.round((solved / totalQuestions) * 100) : 0;
   return (
     <div className="modal-backdrop" onClick={(e) => e.target === e.currentTarget && onClose()}>
       <div className="modal profile-modal">
@@ -37,10 +53,12 @@ function ProfileModal({ username, progress, onReset, onLogout, onClose, avatarUr
           <div className="profile-name">@{username}</div>
         </div>
         <div className="profile-stats">
-          <span className="stat streak"><Flame size={16} /> {progress.streak}</span>
-          <span className="stat xp"><Star size={16} /> {progress.xp}</span>
-          <span className="stat correct"><CircleCheck size={16} /> {correct}</span>
-          <span className="stat wrong"><CircleX size={16} /> {wrong}</span>
+          <StatWithTooltip icon={<Flame size={18} />} value={progress.streak} label="Günlük seri" color="streak" />
+          <StatWithTooltip icon={<Star size={18} />} value={progress.xp} label="Toplam puan" color="xp" />
+          <StatWithTooltip icon={<CircleCheck size={18} />} value={correct} label="Doğru cevap" color="correct" />
+          <StatWithTooltip icon={<CircleX size={18} />} value={wrong} label="Yanlış cevap" color="wrong" />
+          <StatWithTooltip icon={<ListChecks size={18} />} value={`${solved}`} label={`Çözülen (${pct}%)`} color="var(--blue)" />
+          <StatWithTooltip icon={<Library size={18} />} value={totalQuestions || 0} label="Toplam soru" color="#8e8e93" />
         </div>
         <div className="modal-actions">
           <button className="btn ghost" onClick={() => { onReset(); onClose(); }}>
@@ -212,6 +230,20 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
             <div className="lbl">Yanlış</div>
           </div>
         </div>
+        <div className="rr-stat-row">
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: 'var(--blue)' }}>
+              <ListChecks size={26} /> {Object.keys(progress.seen).length}
+            </div>
+            <div className="lbl">Çözülen {questionPool?.length ? `(${Math.round((Object.keys(progress.seen).length / questionPool.length) * 100)}%)` : ''}</div>
+          </div>
+          <div className="rr-card rr-stat">
+            <div className="big" style={{ color: '#8e8e93' }}>
+              <Library size={26} /> {questionPool?.length || 0}
+            </div>
+            <div className="lbl">Toplam Soru</div>
+          </div>
+        </div>
       </aside>
 
       {showProfile && (
@@ -222,6 +254,7 @@ export default function Layout({ active, onNav, progress, mistakeCount, username
           onLogout={onLogout}
           onClose={() => setShowProfile(false)}
           avatarUrl={avatarUrl}
+          totalQuestions={questionPool?.length || 0}
         />
       )}
       {showNotes && <NotesModal onClose={() => setShowNotes(false)} />}
