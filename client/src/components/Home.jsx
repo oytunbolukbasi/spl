@@ -11,10 +11,10 @@ const STATIC_TIPS = [
 ];
 
 const BANNER_THEMES = [
-  { bg: 'linear-gradient(160deg, #f4fbe9 0%, #e8f5d6 100%)', ink: '#3a6b10', tipBg: 'rgba(88,167,0,0.08)' },
-  { bg: 'linear-gradient(160deg, #e6f4ff 0%, #d4ecff 100%)', ink: '#0c6bb5', tipBg: 'rgba(28,176,246,0.08)' },
-  { bg: 'linear-gradient(160deg, #f5eeff 0%, #ecdeff 100%)', ink: '#7b3db5', tipBg: 'rgba(206,130,255,0.08)' },
-  { bg: 'linear-gradient(160deg, #fff5e6 0%, #ffedcc 100%)', ink: '#a06800', tipBg: 'rgba(255,150,0,0.08)' },
+  { bg: 'linear-gradient(160deg, #EAF4EA 0%, #D8ECD8 100%)', ink: '#2E7A2E', tipBg: 'rgba(63,143,63,0.08)' },
+  { bg: 'linear-gradient(160deg, #E6EEF8 0%, #D4E4F2 100%)', ink: '#3A6BA8', tipBg: 'rgba(74,144,217,0.08)' },
+  { bg: 'linear-gradient(160deg, #F0E8F5 0%, #E4D8ED 100%)', ink: '#7B52A3', tipBg: 'rgba(155,109,198,0.08)' },
+  { bg: 'linear-gradient(160deg, #F5EFE4 0%, #EDE5D2 100%)', ink: '#A07830', tipBg: 'rgba(232,131,42,0.08)' },
 ];
 
 function pickRandomTip(pool) {
@@ -24,7 +24,7 @@ function pickRandomTip(pool) {
   return STATIC_TIPS[Math.floor(Math.random() * STATIC_TIPS.length)];
 }
 
-function UnitProgress({ solved, total }) {
+function UnitProgress({ solved, total, color }) {
   const pct = total ? Math.round((solved / total) * 100) : 0;
   const r = 18;
   const circ = 2 * Math.PI * r;
@@ -32,11 +32,11 @@ function UnitProgress({ solved, total }) {
   return (
     <div className="unit-progress">
       <svg width="44" height="44" viewBox="0 0 44 44">
-        <circle cx="22" cy="22" r={r} fill="none" stroke="var(--line)" strokeWidth="3" />
+        <circle cx="22" cy="22" r={r} fill="none" stroke="var(--track)" strokeWidth="3" />
         {pct > 0 && (
           <circle
             cx="22" cy="22" r={r}
-            fill="none" stroke="var(--green)" strokeWidth="3"
+            fill="none" stroke={color || 'var(--green)'} strokeWidth="3"
             strokeLinecap="round"
             strokeDasharray={circ}
             strokeDashoffset={offset}
@@ -148,7 +148,7 @@ export default function Home({
                   {!u.hasBank && active ? ' • notlardan' : ''}
                 </div>
               </div>
-              {active && <UnitProgress solved={solvedByUnit[u.code] || 0} total={count} />}
+              {active && <UnitProgress solved={solvedByUnit[u.code] || 0} total={count} color={u.color} />}
             </button>
           );
         })}

@@ -7,7 +7,7 @@
       "notesPdf": "1001-notes.pdf",
       "bankPdf": "1001-bank.pdf",
       "hasBank": true,
-      "color": "#58a700",
+      "color": "#3F8F3F",
       "icon": "⚖️"
     },
     {
@@ -17,7 +17,7 @@
       "notesPdf": "1003-notes.pdf",
       "bankPdf": "1003-bank.pdf",
       "hasBank": true,
-      "color": "#1cb0f6",
+      "color": "#4A90D9",
       "icon": "📈"
     },
     {
@@ -27,7 +27,7 @@
       "notesPdf": "1005-notes.pdf",
       "bankPdf": "1005-test-1.pdf",
       "hasBank": true,
-      "color": "#ce82ff",
+      "color": "#9B6DC6",
       "icon": "🏦"
     },
     {
@@ -37,7 +37,7 @@
       "notesPdf": "1012-notes.pdf",
       "bankPdf": "1012-bank.pdf",
       "hasBank": true,
-      "color": "#ff9600",
+      "color": "#E8832A",
       "icon": "🔄"
     }
   ]
