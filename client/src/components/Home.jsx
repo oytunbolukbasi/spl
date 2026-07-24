@@ -91,9 +91,8 @@ export default function Home({
           style={{ background: theme.tipBg }}
           onClick={() => setTipExpanded(v => !v)}
         >
-          <span className="hero-tip-icon">💡</span>
           <span className="hero-tip-text">{tip}</span>
-          <ChevronDown size={14} className={'hero-tip-chev' + (tipExpanded ? ' open' : '')} />
+          <ChevronDown size={18} className={'hero-tip-chev' + (tipExpanded ? ' open' : '')} />
         </div>
       </div>
 

@@ -468,8 +468,8 @@ a {
   position: relative;
   z-index: 2;
   display: flex;
-  align-items: flex-start;
-  gap: 6px;
+  align-items: center;
+  gap: 8px;
   margin-top: 10px;
   padding: 8px 10px;
   border-radius: 10px;
@@ -479,11 +479,6 @@ a {
 }
 .hero-tip:active {
   filter: brightness(0.96);
-}
-.hero-tip-icon {
-  flex-shrink: 0;
-  font-size: 13px;
-  line-height: 1.4;
 }
 .hero-tip-text {
   flex: 1;
@@ -503,9 +498,9 @@ a {
 }
 .hero-tip-chev {
   flex-shrink: 0;
-  margin-top: 2px;
   color: var(--muted);
   transition: transform 0.2s ease;
+  padding: 4px;
 }
 .hero-tip-chev.open {
   transform: rotate(180deg);
